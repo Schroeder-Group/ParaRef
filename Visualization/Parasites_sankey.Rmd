@@ -1,0 +1,145 @@
+---
+title: "Parasites_sankey"
+author: "Yuejiao"
+date: "2024-08-05"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(networkD3)
+library(htmlwidgets)
+library(webshot2)
+library(tidyverse)
+```
+
+## Animalia
+
+```{r}
+# Load the data
+sankey_in_animalia <- read_tsv("/Visualization/Input/Animalia_sankey_count/sankey_relationship.tsv") %>% 
+  mutate(target=str_replace(target,"_"," "))
+
+# Create the nodes dataframe
+nodes_animalia <- data.frame(
+  name = c(as.character(sankey_in_animalia$source), as.character(sankey_in_animalia$target)) %>% 
+    unique()
+)
+
+# Add taxonomy information and values
+animalia_count <- read_tsv("/Visualization/Input/Animalia_sankey_count/Animalia_sankey_count/sankey_count.tsv") %>% select(Node,Taxonomy,Count)
+nodes_animalia_all <- left_join(nodes_animalia,animalia_count, by= c("name" = "Node")) %>% 
+  mutate(nodeGroup = Taxonomy,
+         name=str_replace(name,"_"," "))
+
+# Match source and target IDs
+sankey_in_animalia$IDsource <- match(sankey_in_animalia$source, nodes_animalia_all$name) - 1
+sankey_in_animalia$IDtarget <- match(sankey_in_animalia$target, nodes_animalia_all$name) - 1
+
+# Create the Sankey plot
+sb_animalia <- sankeyNetwork(Links = sankey_in_animalia,
+                    Nodes = nodes_animalia_all,
+                    Source = "IDsource",
+                    Target = "IDtarget",
+                    Value = "nlink",
+                    NodeID = "name",  # Keep the original node name
+                    nodeWidth = 30,
+                    sinksRight = FALSE,
+                    iterations = 5,
+                    fontSize = 10,
+                    LinkGroup = "source",
+                    NodeGroup = "name")
+
+#Modify with onRender to add the value above the node and keep the original name next to it
+sd_animalia <- onRender(sb_animalia, '
+  function(el, x) {
+    // Add extra text above each node using the value column
+    d3.selectAll(".node")
+      .append("text")
+      .text(function(d) { return parseFloat(d.value).toFixed(2) + "M"; })  
+      .attr("x", 15)
+      .attr("y", -1)
+      .attr("text-anchor", "middle")
+      .style("font-size", "8.8px")
+      .style("fill", "black");
+
+    // The original node text (name) is already kept next to the node by default
+  }
+')
+
+# Display the plot
+sd_animalia
+
+# Save html output
+saveWidget(sd_animalia, file = "animalia_sankey.html")
+
+# Save screenshot to PDF
+webshot("animalia_sankey.html", file = "animalia_sankey_diagram.pdf")
+
+```
+
+## Bacteria
+
+
+```{r}
+# Load the data
+sankey_in_bacteria <- read_tsv("/Visualization/Input/Bacteria_sankey_count/sankey_relationship.tsv") %>% 
+  mutate(target=str_replace_all(target,"_"," "))
+
+# Create the nodes dataframe
+nodes_bacteria <- data.frame(
+  name = c(as.character(sankey_in_bacteria$source), as.character(sankey_in_bacteria$target)) %>% 
+    unique()
+)
+
+# Add taxonomy information and values
+bacteria_count <- read_tsv("/Visualization/Input/Bacteria_sankey_count/sankey_count.tsv") %>% select(Node,Taxonomy,Count)
+nodes_bacteria_all <- left_join(nodes_bacteria,bacteria_count, by= c("name" = "Node")) %>% 
+  mutate(nodeGroup = Taxonomy,
+         name=str_replace_all(name,"_"," "))
+
+# Match source and target IDs
+sankey_in_bacteria$IDsource <- match(sankey_in_bacteria$source, nodes_bacteria_all$name) - 1
+sankey_in_bacteria$IDtarget <- match(sankey_in_bacteria$target, nodes_bacteria_all$name) - 1
+
+# Create the Sankey plot
+sb_bacteria <- sankeyNetwork(Links = sankey_in_bacteria,
+                    Nodes = nodes_bacteria_all,
+                    Source = "IDsource",
+                    Target = "IDtarget",
+                    Value = "nlink",
+                    NodeID = "name",  # Keep the original node name
+                    nodeWidth = 30,
+                    sinksRight = FALSE,
+                    iterations = 5,
+                    fontSize = 10,
+                    LinkGroup = "source",
+                    NodeGroup = "name")
+
+#Modify with onRender to add the value above the node and keep the original name next to it
+sd_bacteria <- onRender(sb_bacteria, '
+  function(el, x) {
+    // Add extra text above each node using the value column
+    d3.selectAll(".node")
+      .append("text")
+      .text(function(d) { return parseFloat(d.value).toFixed(2) + "M"; })  
+      .attr("x", 15)
+      .attr("y", -1)
+      .attr("text-anchor", "middle")
+      .style("font-size", "8.8px")
+      .style("fill", "black");
+
+    // The original node text (name) is already kept next to the node by default
+  }
+')
+
+# Display the plot
+sd_bacteria
+
+# Save html output
+saveWidget(sd_bacteria, file = "bacteria_sankey.html")
+
+# Save screenshot to PDF
+webshot("bacteria_sankey.html", file = "bacteria_sankey_diagram.pdf")
+
+```
+
