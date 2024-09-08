@@ -1,0 +1,171 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+library(readr)
+library(dplyr)
+library(tidyr)
+library(ComplexHeatmap)
+library(circlize)
+library(grid)
+library(cowplot)
+library(smplot2)
+library(ggpubr)
+library(scales)
+library(forcats)
+library(ggforce)
+```
+
+### Fig 2a
+```{r}
+contamination <- read_tsv("Contamination_by_AssemblyLVL_RAW.tsv")
+conta_percent <- contamination %>% mutate(Assembly_level = ifelse(AssemblyLVL %in% c("Chromosome","Complete Genome"), "Complete/Chromosome",AssemblyLVL),
+                         conta = ifelse(Contamination == 0, 1, 0)) %>% 
+  group_by(Assembly_level) %>%
+  summarise(Percentage = round(mean(conta),digits = 4)*100) %>% 
+  mutate(percentage = 100.00 - Percentage) %>% 
+  ggplot(data = ., aes(x = factor(Assembly_level, levels =c("Contig","Scaffold","Complete/Chromosome")), y = percentage, fill = Assembly_level)) +
+  geom_bar(stat="identity") +
+  geom_text(aes(label=sprintf("%.2f", percentage)), hjust=0, size=3.5)+
+  coord_flip() +
+  scale_y_reverse() +
+  scale_fill_manual(values = c("Complete/Chromosome" = "#80A6E2", "Scaffold" = "#FBDD85", "Contig" = "#e3716e")) +
+  theme_bw() +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        legend.position = c(0.2, 0.8),  # Position legend in top left corner
+        axis.text.y = element_blank(),text = element_text(size=12)) +
+  scale_x_discrete(position = "top") +
+  labs(y = "% contaminated", x = NULL, fill = "Assembly level") 
+
+ggsave(filename = "./conta_percentage_withlegend.pdf",conta_percent,height = 4, width = 6)
+
+
+conta_data <- contamination %>% 
+  filter(Contamination != 0) %>% 
+  mutate(Assembly_level = ifelse(AssemblyLVL %in% c("Chromosome","Complete Genome"), "Complete/Chromosome",AssemblyLVL),
+         Fraction = log10(Contamination/Raw)) %>% 
+  ggplot(., aes(x = factor(Assembly_level, levels =c("Contig","Scaffold","Complete/Chromosome")), y = Fraction, fill = Assembly_level)) +
+  sm_raincloud(vertical = FALSE) +
+  scale_fill_manual(name = "Assembly Level", 
+                    values = c("Complete/Chromosome" = "#80A6E2", "Scaffold" = "#FBDD85", "Contig" = "#e3716e"),
+                    labels = c('Chromosome/Complete genome', 'Scaffold', 'Contig'), 
+                    limits = c("Complete/Chromosome", "Scaffold", "Contig"), 
+                    breaks = c("Complete/Chromosome", "Scaffold", "Contig")) + 
+  scale_y_continuous(breaks = log10(c(0.000001, 0.00001, 0.0001, 0.001, 0.01, 0.1, 0)), labels = c("0.0001", "0.001", "0.01", "0.1", "1", "10", "100")) +
+  annotation_logticks(sides = "b") +
+  theme_bw() +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        legend.position='none',text = element_text(size=12)) +
+  labs(y = "Contamination proportion(%)", x = NULL) 
+
+ggsave(filename = "./conta_data_withoutlegend.pdf",conta_data,height = 4, width = 6)
+
+
+```
+
+### Fig 2b 
+```{r}
+# Define the breaks and labels
+breaks <- c(0, 100, 1000, 10000, 100000, 1000000, 10000000, 100000000, 1000000000)
+breaks_labels <- c("0.0001", "0.001", "0.01", "0.1", "1", "10", "100", "1000")
+
+# All contig length
+all_contig_len <- read.table("AllContig_Lengths.txt", header = T)
+all_contig_len$breaks <- cut(all_contig_len$Length, breaks = breaks, right = FALSE, include.lowest = TRUE)
+
+all_contig_len_fre <- all_contig_len %>%
+  group_by(breaks) %>%
+  summarise(freq = sum(Length)) %>% 
+  mutate(cum_fre = cumsum(freq),
+         cum_percent = cum_fre / sum(freq) * 100,
+         percent = freq / sum(freq) * 100)
+
+# Contaminant contig length
+contig_len_contamination <- read.table("ContigLength_ContaminationLength.txt", header = TRUE)
+contig_len_contamination$breaks <- cut(contig_len_contamination$Length, breaks = breaks, right = FALSE, include.lowest = TRUE)
+
+combined_data <- contig_len_contamination %>% 
+  arrange(desc(Length)) %>% 
+  group_by(breaks) %>%
+  summarise(freq = sum(Contamination)) %>%
+  mutate(cum_fre = cumsum(freq),
+         cum_percent = cum_fre / sum(freq) * 100,
+         percent = freq / sum(freq) * 100,
+         type = "removed_contamination_contig") %>%
+  select(breaks, cum_percent, type) %>% 
+  bind_rows(., all_contig_len_fre %>% select(breaks, cum_percent) %>% mutate(type = "all_contig")) %>% 
+  mutate(Breaks = factor(breaks, levels = levels(breaks), labels = breaks_labels))
+
+length_break_plot <- ggplot(combined_data, aes(x = Breaks, y = cum_percent, group = type, colour = type)) +
+  geom_line() +
+  geom_point() +
+  labs(x = "Length", y = "Percentage(%)") +
+  scale_color_manual(name = "Type",
+                     values = c("all_contig" = "#80A6E2",
+                                "removed_contamination_contig" = "#e3716e"),
+                     labels = c("removed_contamination_contig" = 'Contaminant',
+                                "all_contig" = 'Total'), 
+                     limits = c("removed_contamination_contig", "all_contig")) +
+  theme_bw() +
+  theme(panel.grid.major = element_blank(), 
+        panel.grid.minor = element_blank(),
+        text = element_text(size = 12),
+        legend.position = c(0.2, 0.8),
+        axis.title.y = element_text(margin = margin(r = 3)),
+        axis.title.x = element_text(margin = margin(r = 10)),
+        axis.text.y = element_text(margin = margin(r = 5))) +
+  scale_x_discrete(limits = breaks_labels)
+ggsave(filename = "length_break_plot.pdf",length_break_plot,height = 4, width = 6)
+```
+
+
+### Fig 2c submission date 
+```{r}
+submission_date <- read.table("AccessionDate.txt", header = T)
+
+
+level_group = c()
+for (i in seq(2014,2023)){
+  level_group = c(level_group, paste("Jun",i, sep = " "), paste("Dec",i, sep = " "))
+}
+
+### length of contamination 
+submission_date_14_length <- submission_date %>% 
+  mutate(Group_year = ifelse(Year < 2014, "Jun 2014", 
+                        ifelse(Month >= 7, paste("Dec", Year, sep = " "), paste("Jun", Year, sep = " ") )),
+         Group = factor(Group_year, levels = level_group)) %>% 
+  group_by(Group) %>% 
+  summarise(cont_l = sum(Contamination),
+            gen_l = sum(Raw)) %>% 
+  mutate(cont_len = as.double(cumsum(cont_l))/(10^6),
+         gen_len = cumsum(gen_l)/(10^6)) 
+
+scale_factor <- max(submission_date_14_length$gen_len)/max(submission_date_14_length$cont_len)
+
+## set the factor of x-axis
+
+total_conta_len <- ggplot(data = submission_date_14_length) +
+  geom_line(aes(x = Group, y =  gen_len, group = 1),
+            color = "#80A6E2") +
+  geom_line(aes(x = Group, y = cont_len*scale_factor, group = 1),
+            linetype = "dashed",color = "#e3716e") +
+  geom_text(aes(x = "Jun 2017", y = 0.55*mean(gen_len), label = "Total"), 
+            hjust = -0.1, vjust = 1, color = "#80A6E2", size=4) +
+  geom_text(aes(x = "Dec 2015", y = 0.7*mean(cont_len * scale_factor), label = "Contaminant"), 
+            hjust = -0.1, vjust = -1, color = "#e3716e",size=4) +
+  scale_y_continuous(name = "total length(Gbp)",
+                     sec.axis = sec_axis(~./scale_factor, name = "Contaminant length(Gbp)")) +
+  theme_bw() +
+  theme(panel.grid.major = element_blank(), 
+        panel.grid.minor = element_blank(),
+        text = element_text(size=12),
+        axis.text.x = element_text(angle = 45, hjust = 1),
+        axis.title.y = element_text(margin = margin(r = 3))) +
+  labs(x = NULL)
+ggsave(filename = "./total_conta_len.pdf",total_conta_len,height = 4, width = 6)
+```

@@ -1,0 +1,294 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+library(readr)
+library(dplyr)
+library(tidyr)
+library(ComplexHeatmap)
+library(circlize)
+library(grid)
+library(cowplot)
+library(smplot2)
+```
+
+## main figure
+
+### only include ancient samples
+
+```{r}
+df = read_tsv("./Parasite_heatmap - ancient_only.tsv")  %>% 
+  mutate(Sample = paste(Dataset,sampleId,sep = "_"),
+         Authenticated = ifelse(covPosRelEntropy1000 >= 0.8, "TP","FP"),
+         logReads = ifelse(Authenticated == "TP", log10(1 + nReads), -log10(1 + nReads))) %>% 
+  filter(!Sample %in% c("Human_S2132","Human_S2133")) %>% 
+  dplyr::select(c("logReads", "Database", "Sample", "taxNameSpecies")) %>% 
+  complete(Database, Sample, taxNameSpecies, fill = list(logReads = 0)) 
+df_raw_wide <- df %>% 
+  filter(Database == "Raw") %>% 
+  pivot_wider(., id_cols = "Sample", 
+              names_from = "taxNameSpecies", 
+              values_from = "logReads") %>% 
+  column_to_rownames("Sample")
+
+df_decon_wide <- df %>% 
+  filter(Database == "Decontaminated") %>% 
+  pivot_wider(., id_cols = "Sample", 
+              names_from = "taxNameSpecies", 
+              values_from = "logReads") %>% 
+  column_to_rownames("Sample")
+
+color_scale_diverging <- colorRamp2(c(-6, -3, 0, 3, 6),
+                                    c("#d73027","#fee090","grey", "#91bfdb", "#4575b4"))
+
+heatmap_raw <- Heatmap(as.matrix(df_raw_wide),
+                       name = "logReads Raw",
+                       cluster_rows = FALSE,
+                       cluster_columns = T,
+                       show_column_dend = FALSE,
+                       col = color_scale_diverging,
+                       border = TRUE,
+                       rect_gp = gpar(col = "white", lwd = 1),
+                       row_split = factor(c(rep("Dog",8),
+                                            rep("Human",24), 
+                                            rep("Iceman",11))),
+                       row_gap = unit(3, "mm"),
+                       row_title = NULL,
+                       column_names_rot = 80,
+                       column_names_gp = gpar(fontface = "italic"))
+ht_raw <- draw(heatmap_raw)
+column_order_raw <- column_order(ht_raw)
+df_decon_wide <- df_decon_wide[, column_order_raw]
+
+
+heatmap_decon <- Heatmap(as.matrix(df_decon_wide),
+                         name = "logReads Decontaminated",
+                         cluster_rows = FALSE,
+                         cluster_columns = FALSE,
+                         col = color_scale_diverging,
+                         border = TRUE,
+                         rect_gp = gpar(col = "white", lwd = 1),
+                         row_split = factor(c(rep("Dog",8),
+                                            rep("Human",24), 
+                                            rep("Iceman",11))),
+                         row_gap = unit(3, "mm"),
+                         row_title = NULL,
+                         column_names_rot = 80,
+                         column_names_gp = gpar(fontface = "italic"))
+
+# Define color scale
+color_scale_legend_tp <- colorRamp2(c(0, 3, 6), c("grey", "#91bfdb", "#4575b4"))
+color_scale_legend_fp <- colorRamp2(c(0, 3, 6), c("grey", "#fee090", "#d73027"))
+# Create a legend object
+legend_TP <- Legend(at = c(3,4,5,6), 
+                 col_fun = color_scale_legend_tp, 
+                 title = "TP")
+legend_FP <- Legend(at = c(3,4,5,6), 
+                 col_fun = color_scale_legend_fp, 
+                 title = "FP")
+pdf("./TP_FP_combined_5colors.pdf", width = 20, height = 11)
+draw(heatmap_raw + heatmap_decon, 
+     annotation_legend_list = list(legend_TP,legend_FP),
+     show_heatmap_legend = FALSE,  
+     annotation_legend_side = "right")
+dev.off()
+```
+
+## Supplementary figure
+
+### all modern samples
+
+#### Pig dataset
+```{r}
+heat_ancient <- read_tsv("./Parasite_heatmap - ancient_only.tsv") 
+all_heat <- read_tsv("./Parasite_heatmap_all.tsv") %>%
+  filter(!sampleId %in% heat_ancient$sampleId,
+         str_detect(Dataset, "Pigs")) %>%
+  mutate(Sample = paste(Dataset,sampleId,sep = "_"),
+         logReads = ifelse(Authenticated == "TP", log10(1 + nReads), -log10(1 + nReads))) %>% 
+  dplyr::select(c("logReads", "Database", "Sample", "taxNameSpecies")) %>% 
+  complete(Database, Sample, taxNameSpecies, fill = list(logReads = 0)) 
+
+all_raw_wide <- all_heat %>% 
+  filter(Database == "Raw") %>% 
+  pivot_wider(., id_cols = "Sample", 
+              names_from = "taxNameSpecies", 
+              values_from = "logReads") %>% 
+  column_to_rownames("Sample")
+
+all_decon_wide <- all_heat %>% 
+  filter(Database == "Decontaminated") %>% 
+  pivot_wider(., id_cols = "Sample", 
+              names_from = "taxNameSpecies", 
+              values_from = "logReads") %>% 
+  column_to_rownames("Sample")
+
+color_scale_diverging <- colorRamp2(c(-6, -3, 0, 3, 6),
+                                    c("#d73027","#fee090","grey", "#91bfdb", "#4575b4"))
+
+heatmap_raw_modern <- Heatmap(as.matrix(all_raw_wide),
+                       name = "logReads Raw",
+                       cluster_rows = FALSE,
+                       cluster_columns = T,
+                       show_column_dend = FALSE,
+                       col = color_scale_diverging,
+                       border = TRUE,
+                       row_title = NULL,
+                       column_names_rot = 80,
+                       column_names_gp = gpar(fontface = "italic"),
+                       show_row_names = FALSE)
+
+ht_raw_modern <- draw(heatmap_raw_modern)
+column_order_raw_modern <- column_order(ht_raw_modern)
+all_decon_wide <- all_decon_wide[, column_order_raw_modern]
+
+
+heatmap_decon_modern <- Heatmap(as.matrix(all_decon_wide),
+                         name = "logReads Decontaminated",
+                         cluster_rows = FALSE,
+                         cluster_columns = FALSE,
+                         col = color_scale_diverging,
+                         border = TRUE,
+                         row_title = NULL,
+                         column_names_rot = 80,
+                         column_names_gp = gpar(fontface = "italic"),
+                         show_row_names = FALSE)
+
+
+pdf("/Users/hsf378/Downloads/Heatmap_pigs.pdf", width = 20, height = 11)
+draw(heatmap_raw_modern + heatmap_decon_modern,
+     annotation_legend_list = list(legend_TP,legend_FP),
+     show_heatmap_legend = FALSE,
+     annotation_legend_side = "right")
+dev.off()
+
+
+```
+
+#### Madagascar dataset
+```{r}
+all_heat <- read_tsv("./Parasite_heatmap_all.tsv") %>%
+  filter(!sampleId %in% heat_ancient$sampleId,
+         str_detect(Dataset, "Madagascar")) %>%
+  mutate(Sample = paste(Dataset,sampleId,sep = "_"),
+         logReads = ifelse(Authenticated == "TP", log10(1 + nReads), -log10(1 + nReads))) %>% 
+  dplyr::select(c("logReads", "Database", "Sample", "taxNameSpecies")) %>% 
+  complete(Database, Sample, taxNameSpecies, fill = list(logReads = 0)) 
+
+all_raw_wide <- all_heat %>% 
+  filter(Database == "Raw") %>% 
+  pivot_wider(., id_cols = "Sample", 
+              names_from = "taxNameSpecies", 
+              values_from = "logReads") %>% 
+  column_to_rownames("Sample")
+
+all_decon_wide <- all_heat %>% 
+  filter(Database == "Decontaminated") %>% 
+  pivot_wider(., id_cols = "Sample", 
+              names_from = "taxNameSpecies", 
+              values_from = "logReads") %>% 
+  column_to_rownames("Sample")
+
+color_scale_diverging <- colorRamp2(c(-6, -3, 0, 3, 6),
+                                    c("#d73027","#fee090","grey", "#91bfdb", "#4575b4"))
+
+heatmap_raw_modern <- Heatmap(as.matrix(all_raw_wide),
+                       name = "logReads Raw",
+                       cluster_rows = FALSE,
+                       cluster_columns = T,
+                       show_column_dend = FALSE,
+                       col = color_scale_diverging,
+                       border = TRUE,
+                       row_title = NULL,
+                       column_names_rot = 80,
+                       column_names_gp = gpar(fontface = "italic"),
+                       show_row_names = FALSE)
+
+ht_raw_modern <- draw(heatmap_raw_modern)
+column_order_raw_modern <- column_order(ht_raw_modern)
+all_decon_wide <- all_decon_wide[, column_order_raw_modern]
+
+
+heatmap_decon_modern <- Heatmap(as.matrix(all_decon_wide),
+                         name = "logReads Decontaminated",
+                         cluster_rows = FALSE,
+                         cluster_columns = FALSE,
+                         col = color_scale_diverging,
+                         border = TRUE,
+                         row_title = NULL,
+                         column_names_rot = 80,
+                         column_names_gp = gpar(fontface = "italic"),
+                         show_row_names = FALSE)
+
+
+pdf("./Heatmap_madagascar.pdf", width = 20, height = 11)
+draw(heatmap_raw_modern + heatmap_decon_modern,
+     annotation_legend_list = list(legend_TP,legend_FP),
+     show_heatmap_legend = FALSE,
+     annotation_legend_side = "right")
+dev.off()
+
+```
+
+#### Hadza dataset
+```{r}
+df_hadza = read_tsv("./HadzaHeatmapInput.tsv")  %>% 
+  select(c(sampleId, taxNameSpecies, Database,Authenticated,nReads,covPosRelEntropy1000)) %>% 
+  filter(!sampleId %in% heat_ancient$sampleId) %>%
+  mutate(Sample = sampleId,
+         logReads = ifelse(Authenticated == "TP", log10(1 + nReads), -log10(1 + nReads))) %>% 
+  dplyr::select(c("logReads", "Database", "Sample", "taxNameSpecies")) %>% 
+  complete(Database, Sample, taxNameSpecies, fill = list(logReads = 0))
+
+df_hadza_raw_wide <- df_hadza %>% 
+  filter(Database == "Raw") %>% 
+  pivot_wider(., id_cols = "Sample", 
+              names_from = "taxNameSpecies", 
+              values_from = "logReads") %>% 
+  column_to_rownames("Sample")
+
+df_hadza_decon_wide <- df_hadza %>% 
+  filter(Database == "Decontaminated") %>% 
+  pivot_wider(., id_cols = "Sample", 
+              names_from = "taxNameSpecies", 
+              values_from = "logReads") %>% 
+  column_to_rownames("Sample")
+# rownames(df_hadza_raw_wide)
+color_scale_diverging <- colorRamp2(c(-6, -3, 0, 3, 6),
+                                    c("#d73027","#fee090","grey", "#91bfdb", "#4575b4"))
+
+heatmap_raw_hadza <- Heatmap(as.matrix(df_hadza_raw_wide),
+                       name = "logReads Raw",
+                       cluster_rows = FALSE,
+                       cluster_columns = T,
+                       show_column_dend = FALSE,
+                       col = color_scale_diverging,
+                       border = TRUE, 
+                       show_row_names = FALSE,
+                       column_names_rot = 80,
+                       column_names_gp = gpar(fontface = "italic"))
+ht_raw_hadza <- draw(heatmap_raw_hadza)
+column_order_raw_hadza <- column_order(ht_raw_hadza)
+df_hadza_decon_wide <- df_hadza_decon_wide[, column_order_raw_hadza]
+
+
+heatmap_decon_hadza <- Heatmap(as.matrix(df_hadza_decon_wide),
+                         name = "logReads Decontaminated",
+                         cluster_rows = FALSE,
+                         cluster_columns = FALSE,
+                         col = color_scale_diverging,
+                         border = TRUE, show_row_names = FALSE,
+                         column_names_rot = 80,
+                         column_names_gp = gpar(fontface = "italic"))
+
+pdf("./heatmap_hadza.pdf", width = 12, height = 11)
+draw(heatmap_raw_hadza + heatmap_decon_hadza, 
+     annotation_legend_list = list(legend_TP,legend_FP),
+     show_heatmap_legend = FALSE,  
+     annotation_legend_side = "right")
+dev.off()
+```
+

@@ -1,0 +1,2182 @@
+Dataset	sampleId	taxNameSpecies	nReads	covPosRelEntropy1000	Database	Authenticated
+Iceman	Iceman_Muscle_tissue_Muscle_1_and_2	A. palestinensis	1594	0.9469363414	Raw	TP
+Iceman	Iceman	A. palestinensis	2059	0.8952158811	Raw	TP
+Dogs	Solarolo	A. palestinensis	3304	0.8333469662	Raw	TP
+Human	Zape3	A. alternata	1975	0.989325759	Decontaminated	TP
+Human	Zape3	A. alternata	1976	0.989115086	Raw	TP
+Human	BRS4	A. alternata	1081	0.9856709562	Decontaminated	TP
+Human	BRS4	A. alternata	1096	0.9816788767	Raw	TP
+Human	Zape_29	A. caninum	5200	0.9957721974	Raw	TP
+Human	Zape_29	A. caninum	5201	0.9957225616	Decontaminated	TP
+Dogs	Zape2	A. caninum	14436	0.9925556148	Raw	TP
+Dogs	Zape2	A. caninum	14442	0.9924962455	Decontaminated	TP
+Madagascar	SRR7658674	A. ceylanicum	3233	0.9972972219	Decontaminated	TP
+Madagascar	SRR7658674	A. ceylanicum	3234	0.9971390332	Raw	TP
+Iceman	Iceman	A. simplex	3396	0.1877539859	Raw	FP
+Iceman	Iceman_Muscle_tissue_Muscle_1_and_2	A. simplex	2751	0.1732915659	Raw	FP
+Iceman	Iceman_Large_intestine_upper_part_II_1036	A. simplex	2811	0.1637607384	Raw	FP
+Iceman	Iceman_Large_intestine_lower_part_225	A. simplex	1772	0.1630147471	Raw	FP
+Iceman	Iceman_Large_intestine_upper_part_I_1036	A. simplex	2664	0.1610061159	Raw	FP
+Iceman	Iceman_Stomach_corpus_content_I_1054	A. simplex	2795	0.1551953087	Raw	FP
+Iceman	Iceman_Stomach_corpus_content_II_1054	A. simplex	2804	0.1545424893	Raw	FP
+Iceman	Iceman_Stomach_corpus_surface_1054	A. simplex	2498	0.151828637	Raw	FP
+Iceman	Iceman_Small_intestine_1063	A. simplex	2457	0.1513132182	Raw	FP
+Iceman	Iceman_Stomach_antrum_content_1051	A. simplex	2644	0.151254167	Raw	FP
+Iceman	Iceman_Stomach_antrum_surface_1051	A. simplex	2909	0.1503051679	Raw	FP
+Madagascar	SRR7658639	A. simplex	1050	0.1093900172	Raw	FP
+Human	RGA001	A. lumbricoides	1410	0.9587011363	Decontaminated	TP
+Human	RGA001	A. lumbricoides	1410	0.9587011363	Raw	TP
+Pigs	2002-17	A. suum	2451	0.997436063	Decontaminated	TP
+Pigs	2003-17	A. suum	3628	0.9810315189	Decontaminated	TP
+Human	MAM001	A. suum	43688	0.978423188	Raw	TP
+Human	MAM001	A. suum	43706	0.9783909546	Decontaminated	TP
+Pigs	2014-17	A. suum	1640	0.9752313256	Decontaminated	TP
+Hallstatt	HS2612	A. suum	5978	0.952078928	Decontaminated	TP
+Hallstatt	HS2612	A. suum	5978	0.952078928	Raw	TP
+Pigs	2002-17	A. suum	2449	0.9440991696	Raw	TP
+Hallstatt	HS2604	A. suum	34303	0.9335285118	Raw	TP
+Hallstatt	HS2604	A. suum	34317	0.9334756825	Decontaminated	TP
+Pigs	2003-17	A. suum	3626	0.9189901592	Raw	TP
+Pigs	2014-17	A. suum	1638	0.910527771	Raw	TP
+Dogs	cop_JBG29	A. campestris	1019	0.9858325212	Raw	TP
+Dogs	cop_JBG29	A. campestris	1034	0.9809196305	Decontaminated	TP
+Dogs	YRK001	A. campestris	7347	0.9596711471	Raw	TP
+Dogs	YRK001	A. campestris	7406	0.9573177356	Decontaminated	TP
+Human	BRS4	A. cristatus	7556	0.6943989302	Decontaminated	FP
+Human	BRS2	A. cristatus	5361	0.6909672408	Decontaminated	FP
+Human	Zape5	A. cristatus	1416	0.6850538269	Raw	FP
+Human	Coprolite_19	A. cristatus	1154	0.6738620649	Raw	FP
+Human	BRS3	A. cristatus	2586	0.6386976129	Decontaminated	FP
+Human	BRS2	A. cristatus	7162	0.6335535737	Raw	FP
+Human	BRS4	A. cristatus	10048	0.6324155979	Raw	FP
+Human	Zape28	A. cristatus	6220	0.6090637644	Decontaminated	FP
+Human	BRS3	A. cristatus	3495	0.6012183712	Raw	FP
+Human	Coprolite_16	A. cristatus	1627	0.5839028354	Decontaminated	FP
+Human	Coprolite_14	A. cristatus	2425	0.5834187259	Decontaminated	FP
+Human	Zape28	A. cristatus	7984	0.5790476687	Raw	FP
+Human	Coprolite_16	A. cristatus	2058	0.576081967	Raw	FP
+Human	Coprolite_14	A. cristatus	3100	0.5706726671	Raw	FP
+Dogs	Zape2	A. cristatus	1957	0.5528859143	Decontaminated	FP
+Dogs	Zape2	A. cristatus	2669	0.5441109652	Raw	FP
+Iceman	Iceman	A. fumigatus	48486	0.9633000798	Decontaminated	TP
+Iceman	Iceman	A. fumigatus	48588	0.9626242739	Raw	TP
+Human	Zape2	A. glaucus	6195	0.8299789292	Raw	TP
+Human	Zape2	A. glaucus	6204	0.8298984625	Decontaminated	TP
+Human	Zape3	A. glaucus	24113	0.6468542864	Decontaminated	FP
+Human	Zape3	A. glaucus	24104	0.6468382439	Raw	FP
+Iceman	Iceman_Stomach_corpus_content_II_1054	A. nidulans	1671	0.9902446108	Decontaminated	TP
+Iceman	Iceman_Stomach_corpus_content_II_1054	A. nidulans	1674	0.9897010584	Raw	TP
+Iceman	Iceman_Large_intestine_lower_part_225	A. nidulans	2308	0.9886896315	Decontaminated	TP
+Iceman	Iceman_Large_intestine_lower_part_225	A. nidulans	2315	0.9880515141	Raw	TP
+Dogs	Solarolo	B. ovata	3678	0.3533926497	Raw	FP
+Iceman	Iceman_Large_intestine_lower_part_225	B. ovata	1011	0.3154474638	Raw	FP
+Iceman	Iceman	B. ovata	3592	0.2775361362	Raw	FP
+Pigs	9021-17	B. ailuri	1059	0.8020359227	Decontaminated	TP
+Madagascar	SRR7658613	B. ailuri	1223	0.7178354428	Raw	FP
+Human	Zape_23	B. ailuri	5485	0.6454648481	Raw	FP
+Dogs	cop_JBG16	B. ailuri	2845	0.64428858	Raw	FP
+Madagascar	SRR7658690	B. ailuri	1480	0.6364092965	Raw	FP
+Madagascar	SRR7658629	B. ailuri	1258	0.6338410422	Raw	FP
+Madagascar	SRR7658681	B. ailuri	9199	0.6190528042	Raw	FP
+Pigs	6006-17	B. ailuri	1470	0.617966511	Decontaminated	FP
+Madagascar	SRR7658677	B. ailuri	14676	0.6100031924	Raw	FP
+Madagascar	SRR7658652	B. ailuri	6021	0.6074474456	Raw	FP
+Iceman	Iceman_Muscle_tissue_Muscle_1_and_2	B. ailuri	1128	0.6069705727	Raw	FP
+Human	Zape_27	B. ailuri	2777	0.5992909271	Raw	FP
+Madagascar	SRR7658592	B. ailuri	2000	0.5981153079	Raw	FP
+Human	Coprolite_19	B. ailuri	7715	0.5967802394	Raw	FP
+Madagascar	SRR7658622	B. ailuri	2327	0.5946678117	Raw	FP
+Human	Zape_29	B. ailuri	14934	0.5943724235	Raw	FP
+Madagascar	SRR7658588	B. ailuri	8921	0.5939131809	Raw	FP
+Madagascar	SRR7658620	B. ailuri	1664	0.5927067528	Raw	FP
+Human	UT43	B. ailuri	4107	0.5918671048	Raw	FP
+Madagascar	SRR7658626	B. ailuri	1405	0.5902253584	Raw	FP
+Madagascar	SRR7658619	B. ailuri	6400	0.5880842417	Raw	FP
+Pigs	9021-17	B. ailuri	19574	0.5814543631	Raw	FP
+Dogs	Solarolo	B. ailuri	8378	0.5813490905	Raw	FP
+Dogs	cop_JBG29	B. ailuri	1434	0.5813397736	Raw	FP
+Madagascar	SRR7658595	B. ailuri	7109	0.5804932562	Raw	FP
+Madagascar	SRR7658589	B. ailuri	2407	0.5804297241	Raw	FP
+Madagascar	SRR7658673	B. ailuri	7977	0.5750205774	Raw	FP
+Madagascar	SRR7658685	B. ailuri	1618	0.5710554757	Raw	FP
+Madagascar	SRR7658636	B. ailuri	3447	0.570484827	Raw	FP
+Dogs	YRK001	B. ailuri	10652	0.5675612636	Raw	FP
+Madagascar	SRR7658655	B. ailuri	6132	0.5672363374	Raw	FP
+Madagascar	SRR7658689	B. ailuri	1874	0.5647079725	Raw	FP
+Dogs	cop_JBG10	B. ailuri	1019	0.5641112761	Raw	FP
+Madagascar	SRR7658631	B. ailuri	3292	0.5627015441	Raw	FP
+Madagascar	SRR7658638	B. ailuri	4186	0.5612232248	Raw	FP
+Madagascar	SRR7658683	B. ailuri	2623	0.5539654562	Raw	FP
+Madagascar	SRR7658684	B. ailuri	1866	0.5534062289	Raw	FP
+Madagascar	SRR7658679	B. ailuri	3820	0.5532892305	Raw	FP
+Madagascar	SRR7658616	B. ailuri	1047	0.5523023281	Raw	FP
+Madagascar	SRR7658644	B. ailuri	6849	0.5506701078	Raw	FP
+Madagascar	SRR7658648	B. ailuri	6890	0.5505296123	Raw	FP
+Madagascar	SRR7658668	B. ailuri	9112	0.5447757456	Raw	FP
+Dogs	Zape2	B. ailuri	79959	0.5426583912	Raw	FP
+Human	Zape3	B. ailuri	11648	0.5414141832	Raw	FP
+Human	Zape_31	B. ailuri	7322	0.5413739843	Raw	FP
+Madagascar	SRR7658654	B. ailuri	6662	0.5410015488	Raw	FP
+Madagascar	SRR7658633	B. ailuri	2885	0.5400931974	Raw	FP
+Madagascar	SRR7658651	B. ailuri	1434	0.5367912555	Raw	FP
+Madagascar	SRR7658646	B. ailuri	9639	0.5366723319	Raw	FP
+Madagascar	SRR7658623	B. ailuri	3333	0.5341528095	Raw	FP
+Madagascar	SRR7658674	B. ailuri	2947	0.5321805099	Raw	FP
+Human	BRS2	B. ailuri	1793	0.5316922655	Raw	FP
+Madagascar	SRR7658660	B. ailuri	3921	0.5308736601	Raw	FP
+Madagascar	SRR7658581	B. ailuri	4908	0.5304710473	Raw	FP
+Madagascar	SRR7658582	B. ailuri	3893	0.5303379492	Raw	FP
+Human	Zape_25	B. ailuri	5469	0.5289713488	Raw	FP
+Madagascar	SRR7658579	B. ailuri	18831	0.5272598665	Raw	FP
+Iceman	Iceman_Large_intestine_upper_part_II_1036	B. ailuri	11504	0.5267036193	Raw	FP
+Madagascar	SRR7658675	B. ailuri	7364	0.5237062052	Raw	FP
+Iceman	Iceman_Large_intestine_upper_part_I_1036	B. ailuri	12521	0.5217116903	Raw	FP
+Human	Coprolite_14	B. ailuri	20174	0.5178415988	Raw	FP
+Madagascar	SRR7658585	B. ailuri	8161	0.5158969108	Raw	FP
+Pigs	3202-17	B. ailuri	1065	0.5143702477	Decontaminated	FP
+Madagascar	SRR7658621	B. ailuri	7288	0.5138242885	Raw	FP
+Human	Coprolite_16	B. ailuri	15701	0.5127036436	Raw	FP
+Hallstatt	HS2612	B. ailuri	11965	0.5122162245	Raw	FP
+Human	Zape2	B. ailuri	47632	0.5105436941	Raw	FP
+Madagascar	SRR7658639	B. ailuri	3240	0.5069006877	Raw	FP
+Madagascar	SRR7658657	B. ailuri	61268	0.5054563408	Raw	FP
+Human	Zape1	B. ailuri	21269	0.504230896	Raw	FP
+Dogs	cop_ESL166	B. ailuri	2560	0.5021159108	Raw	FP
+Human	RGA001	B. ailuri	1070	0.5015381927	Raw	FP
+Human	Zape28	B. ailuri	20998	0.4967787875	Raw	FP
+Iceman	Iceman_Large_intestine_lower_part_225	B. ailuri	10010	0.4927287831	Raw	FP
+Iceman	Iceman	B. ailuri	44493	0.4926921879	Raw	FP
+Madagascar	SRR7658596	B. ailuri	2145	0.4924523862	Raw	FP
+Human	Zape5	B. ailuri	22491	0.4900540979	Raw	FP
+Madagascar	SRR7658658	B. ailuri	13647	0.489574729	Raw	FP
+Madagascar	SRR7658637	B. ailuri	9724	0.4894259074	Raw	FP
+Madagascar	SRR7658678	B. ailuri	4612	0.4845948907	Raw	FP
+Madagascar	SRR7658628	B. ailuri	7965	0.4840252389	Raw	FP
+Madagascar	SRR7658615	B. ailuri	1664	0.4838621281	Raw	FP
+Madagascar	SRR7658606	B. ailuri	8061	0.4819757436	Raw	FP
+Madagascar	SRR7658653	B. ailuri	6487	0.4809638697	Raw	FP
+Pigs	1039-17	B. ailuri	4773	0.4773450049	Raw	FP
+Pigs	8034-17	B. ailuri	3660	0.4760494738	Raw	FP
+Hallstatt	HS2604	B. ailuri	6403	0.4757076565	Raw	FP
+Pigs	7012-17	B. ailuri	17544	0.4718272233	Raw	FP
+Pigs	6021-17	B. ailuri	5111	0.4704366424	Raw	FP
+Human	UT30	B. ailuri	22139	0.4696310876	Raw	FP
+Hallstatt	HS2611	B. ailuri	16280	0.4683770035	Raw	FP
+Madagascar	SRR7658587	B. ailuri	3824	0.4663916658	Raw	FP
+Madagascar	SRR7658586	B. ailuri	14136	0.4648598498	Raw	FP
+Pigs	3203-17	B. ailuri	3349	0.460436116	Raw	FP
+Pigs	1033-17	B. ailuri	6118	0.455016475	Raw	FP
+Pigs	8020-17	B. ailuri	8198	0.4532145048	Raw	FP
+Pigs	8006-17	B. ailuri	8512	0.4490047194	Raw	FP
+Madagascar	SRR7658667	B. ailuri	6805	0.4477183515	Raw	FP
+Human	BRS4	B. ailuri	6470	0.4463651038	Raw	FP
+Pigs	6004-17	B. ailuri	8396	0.44633094	Raw	FP
+Madagascar	SRR7658649	B. ailuri	10156	0.4416484528	Raw	FP
+Pigs	7003-17	B. ailuri	20311	0.4384207375	Raw	FP
+Pigs	1015-17	B. ailuri	9222	0.4361834819	Raw	FP
+Pigs	1043-17	B. ailuri	4434	0.4341415201	Raw	FP
+Pigs	3217-17	B. ailuri	5563	0.4324784973	Raw	FP
+Pigs	9030-17	B. ailuri	1021	0.429354068	Decontaminated	FP
+Pigs	6010-17	B. ailuri	16027	0.4282137968	Raw	FP
+Pigs	3218-17	B. ailuri	5175	0.4281157215	Raw	FP
+Pigs	3215-17	B. ailuri	3115	0.4279106231	Raw	FP
+Pigs	6022-17	B. ailuri	8402	0.4227606735	Raw	FP
+Madagascar	SRR7658662	B. ailuri	16830	0.4130727229	Raw	FP
+Pigs	2008-17	B. ailuri	5907	0.4124028996	Raw	FP
+Madagascar	SRR7658624	B. ailuri	16194	0.4097103266	Raw	FP
+Madagascar	SRR7658672	B. ailuri	5203	0.407061761	Raw	FP
+Madagascar	SRR7658617	B. ailuri	5501	0.4063662633	Raw	FP
+Madagascar	SRR7658656	B. ailuri	6161	0.403157641	Raw	FP
+Hallstatt	HS2610	B. ailuri	8122	0.3988118371	Raw	FP
+Pigs	6007-17	B. ailuri	9810	0.3971535547	Raw	FP
+Madagascar	SRR7658594	B. ailuri	4007	0.3964570214	Raw	FP
+Pigs	5004-17	B. ailuri	10678	0.3922253928	Raw	FP
+Madagascar	SRR7658634	B. ailuri	2280	0.3894244444	Raw	FP
+Pigs	6008-17	B. ailuri	10953	0.3859067605	Raw	FP
+Pigs	6016-17	B. ailuri	19737	0.3767588795	Raw	FP
+Iceman	Iceman	B. ailuri	3760	0.3574508421	Decontaminated	FP
+Madagascar	SRR7658650	B. ailuri	8123	0.3345355395	Raw	FP
+Dogs	Zape2	B. ailuri	1579	0.3323278151	Decontaminated	FP
+Pigs	3213-17	B. schroederi	1182	0.8177355578	Raw	TP
+Pigs	3211-17	B. schroederi	1117	0.8175680362	Raw	TP
+Pigs	3214-17	B. schroederi	1175	0.8160235127	Raw	TP
+Pigs	3209-17	B. schroederi	1304	0.807386398	Raw	TP
+Pigs	1019-17	B. schroederi	1302	0.8062594014	Raw	TP
+Pigs	6005-17	B. schroederi	1490	0.8060791015	Raw	TP
+Pigs	3219-17	B. schroederi	1448	0.8046840963	Raw	TP
+Pigs	6020-17	B. schroederi	1498	0.803796964	Raw	TP
+Pigs	6009-17	B. schroederi	1490	0.8024054052	Raw	TP
+Pigs	6014-17	B. schroederi	1500	0.7969463797	Raw	FP
+Pigs	6015-17	B. schroederi	1585	0.7948014103	Raw	FP
+Pigs	8024-17	B. schroederi	1638	0.7920867317	Raw	FP
+Madagascar	SRR7658608	B. schroederi	1295	0.7901326302	Raw	FP
+Madagascar	SRR7658686	B. schroederi	1683	0.7841525985	Raw	FP
+Pigs	3212-17	B. schroederi	1872	0.7830790968	Raw	FP
+Pigs	8012-17	B. schroederi	1755	0.7820235331	Raw	FP
+Pigs	1027-17	B. schroederi	1824	0.7816563353	Raw	FP
+Pigs	3220-17	B. schroederi	1932	0.7810480814	Raw	FP
+Pigs	8030-17	B. schroederi	1953	0.7788437265	Raw	FP
+Pigs	3216-17	B. schroederi	2126	0.7746049446	Raw	FP
+Pigs	5008-17	B. schroederi	2031	0.7730174605	Raw	FP
+Pigs	6013-17	B. schroederi	2143	0.7725243132	Raw	FP
+Pigs	8028-17	B. schroederi	2189	0.7684568541	Raw	FP
+Madagascar	SRR7658580	B. schroederi	1273	0.7677570412	Raw	FP
+Madagascar	SRR7658643	B. schroederi	2801	0.7451351703	Raw	FP
+Pigs	6011-17	B. schroederi	3260	0.7404041504	Raw	FP
+Pigs	2020-17	B. schroederi	5188	0.7376151931	Raw	FP
+Pigs	8010-17	B. schroederi	3585	0.7338166181	Raw	FP
+Pigs	5019-17	B. schroederi	4024	0.7241396896	Raw	FP
+Pigs	3205-17	B. schroederi	4104	0.7185688325	Raw	FP
+Pigs	2014-17	B. schroederi	4420	0.7182260302	Raw	FP
+Madagascar	SRR7658632	B. schroederi	4667	0.7157331408	Raw	FP
+Pigs	1029-17	B. schroederi	4446	0.7144427652	Raw	FP
+Pigs	9018-17	B. schroederi	4957	0.7085137826	Raw	FP
+Pigs	8016-17	B. schroederi	5060	0.7051792855	Raw	FP
+Pigs	8026-17	B. schroederi	5590	0.699532816	Raw	FP
+Pigs	3204-17	B. schroederi	5859	0.6912101535	Raw	FP
+Pigs	6018-17	B. schroederi	6149	0.6909491385	Raw	FP
+Pigs	3201-17	B. schroederi	7043	0.6809313145	Raw	FP
+Madagascar	SRR7658584	B. schroederi	8147	0.675128882	Raw	FP
+Pigs	9030-17	B. schroederi	14475	0.6712997951	Raw	FP
+Pigs	1031-17	B. schroederi	8254	0.6685688904	Raw	FP
+Pigs	1005-17	B. schroederi	8527	0.6676225479	Raw	FP
+Madagascar	SRR7658642	B. schroederi	9053	0.6666365792	Raw	FP
+Pigs	9020-17	B. schroederi	8832	0.6648144821	Raw	FP
+Madagascar	SRR7658669	B. schroederi	9013	0.6616832695	Raw	FP
+Pigs	5036-17	B. schroederi	9616	0.6608199012	Raw	FP
+Madagascar	SRR7658666	B. schroederi	9199	0.6607298475	Raw	FP
+Pigs	9022-17	B. schroederi	9606	0.6586630521	Raw	FP
+Madagascar	SRR7658604	B. schroederi	10741	0.6584407278	Raw	FP
+Pigs	5026-17	B. schroederi	9844	0.657088106	Raw	FP
+Pigs	9002-17	B. schroederi	10085	0.6570454816	Raw	FP
+Pigs	9028-17	B. schroederi	15272	0.6516683209	Raw	FP
+Pigs	8014-17	B. schroederi	11077	0.6510180145	Raw	FP
+Pigs	7013-17	B. schroederi	11577	0.6497420287	Raw	FP
+Pigs	3206-17	B. schroederi	12045	0.644908363	Raw	FP
+Pigs	9003-17	B. schroederi	12509	0.6434184168	Raw	FP
+Pigs	9027-17	B. schroederi	18369	0.6433482134	Raw	FP
+Pigs	2011-17	B. schroederi	13678	0.6364307568	Raw	FP
+Madagascar	SRR7658661	B. schroederi	8892	0.6351569659	Raw	FP
+Pigs	9014-17	B. schroederi	14650	0.6327422627	Raw	FP
+Pigs	5041-17	B. schroederi	15583	0.6298182356	Raw	FP
+Pigs	8038-17	B. schroederi	16138	0.6263922587	Raw	FP
+Pigs	8036-17	B. schroederi	18315	0.6196997681	Raw	FP
+Madagascar	SRR7658665	B. schroederi	20130	0.6149587611	Raw	FP
+Pigs	9006-17	B. schroederi	21558	0.609567698	Raw	FP
+Pigs	7015-17	B. schroederi	20895	0.6081140458	Raw	FP
+Pigs	9029-17	B. schroederi	28925	0.6079733227	Raw	FP
+Pigs	5040-17	B. schroederi	23027	0.6050451017	Raw	FP
+Pigs	5035-17	B. schroederi	23861	0.6027232005	Raw	FP
+Pigs	7007-17	B. schroederi	24990	0.5988524308	Raw	FP
+Pigs	8040-17	B. schroederi	25980	0.5982296603	Raw	FP
+Pigs	4034-17	B. schroederi	26038	0.5976753178	Raw	FP
+Pigs	9013-17	B. schroederi	29834	0.5960237329	Raw	FP
+Pigs	1037-17	B. schroederi	26885	0.5960065619	Raw	FP
+Pigs	9024-17	B. schroederi	28109	0.5952891776	Raw	FP
+Pigs	5031-17	B. schroederi	31259	0.5886480304	Raw	FP
+Pigs	2017-17	B. schroederi	30233	0.5878171779	Raw	FP
+Pigs	7006-17	B. schroederi	30407	0.587811491	Raw	FP
+Pigs	4025-17	B. schroederi	16641	0.5858279235	Raw	FP
+Pigs	5015-17	B. schroederi	34510	0.5819274821	Raw	FP
+Pigs	1001-17	B. schroederi	35762	0.5818812153	Raw	FP
+Madagascar	SRR7658664	B. schroederi	41361	0.5787885552	Raw	FP
+Pigs	5032-17	B. schroederi	36561	0.5783008017	Raw	FP
+Pigs	9023-17	B. schroederi	36085	0.5782485107	Raw	FP
+Pigs	8022-17	B. schroederi	38450	0.5761341088	Raw	FP
+Pigs	5011-17	B. schroederi	40155	0.572620038	Raw	FP
+Pigs	2013-17	B. schroederi	40368	0.5715269508	Raw	FP
+Pigs	1007-17	B. schroederi	42226	0.5708398279	Raw	FP
+Pigs	6019-17	B. schroederi	41804	0.5707890326	Raw	FP
+Pigs	5037-17	B. schroederi	45037	0.5680911275	Raw	FP
+Pigs	8032-17	B. schroederi	45997	0.5676998764	Raw	FP
+Pigs	6006-17	B. schroederi	48330	0.5650790819	Raw	FP
+Pigs	2002-17	B. schroederi	45099	0.564921822	Raw	FP
+Pigs	5007-17	B. schroederi	46496	0.5647897351	Raw	FP
+Pigs	2012-17	B. schroederi	47217	0.5635854998	Raw	FP
+Pigs	5025-17	B. schroederi	49834	0.5615516878	Raw	FP
+Pigs	4035-17	B. schroederi	51072	0.5608029138	Raw	FP
+Pigs	4039-17	B. schroederi	53191	0.558492267	Raw	FP
+Pigs	4026-17	B. schroederi	56493	0.556559087	Raw	FP
+Pigs	9012-17	B. schroederi	57283	0.5555735912	Raw	FP
+Pigs	4002-17	B. schroederi	58086	0.5546262235	Raw	FP
+Pigs	4029-17	B. schroederi	57946	0.5534688621	Raw	FP
+Pigs	1023-17	B. schroederi	60178	0.5522616882	Raw	FP
+Pigs	8018-17	B. schroederi	64587	0.5513054622	Raw	FP
+Pigs	7010-17	B. schroederi	61265	0.5510237302	Raw	FP
+Pigs	7014-17	B. schroederi	63160	0.5498633717	Raw	FP
+Pigs	4031-17	B. schroederi	63680	0.5498293698	Raw	FP
+Pigs	2001-17	B. schroederi	60138	0.5497151548	Raw	FP
+Pigs	4007-17	B. schroederi	64407	0.5490948779	Raw	FP
+Pigs	2018-17	B. schroederi	64967	0.5479603354	Raw	FP
+Pigs	4038-17	B. schroederi	65727	0.5478323968	Raw	FP
+Pigs	7016-17	B. schroederi	67068	0.5470833699	Raw	FP
+Pigs	1041-17	B. schroederi	67563	0.5469793451	Raw	FP
+Pigs	3210-17	B. schroederi	66639	0.5467298621	Raw	FP
+Pigs	5028-17	B. schroederi	68060	0.5460119251	Raw	FP
+Pigs	7020-17	B. schroederi	67726	0.5456278399	Raw	FP
+Pigs	8004-17	B. schroederi	76067	0.5454973991	Raw	FP
+Pigs	9019-17	B. schroederi	71897	0.5448464686	Raw	FP
+Pigs	1035-17	B. schroederi	70146	0.5445529816	Raw	FP
+Pigs	4036-17	B. schroederi	71145	0.5444293728	Raw	FP
+Pigs	9017-17	B. schroederi	74326	0.5443525271	Raw	FP
+Pigs	5001-17	B. schroederi	78314	0.5415134537	Raw	FP
+Pigs	4030-17	B. schroederi	76980	0.5405262801	Raw	FP
+Pigs	4024-17	B. schroederi	79631	0.5400270968	Raw	FP
+Pigs	4001-17	B. schroederi	84799	0.5373420774	Raw	FP
+Pigs	4033-17	B. schroederi	85076	0.5361291725	Raw	FP
+Pigs	2019-17	B. schroederi	86822	0.5343037507	Raw	FP
+Pigs	4032-17	B. schroederi	88003	0.5339694302	Raw	FP
+Pigs	1003-17	B. schroederi	89280	0.5336474248	Raw	FP
+Pigs	5012-17	B. schroederi	88359	0.5335618225	Raw	FP
+Pigs	9015-17	B. schroederi	94136	0.5313099951	Raw	FP
+Pigs	4037-17	B. schroederi	97789	0.5293505134	Raw	FP
+Pigs	1021-17	B. schroederi	96916	0.5293126862	Raw	FP
+Pigs	7018-17	B. schroederi	101364	0.5288548552	Raw	FP
+Pigs	4028-17	B. schroederi	99169	0.5286978474	Raw	FP
+Pigs	7019-17	B. schroederi	104106	0.5282656889	Raw	FP
+Pigs	1017-17	B. schroederi	103105	0.5271023709	Raw	FP
+Pigs	7002-17	B. schroederi	106780	0.526911417	Raw	FP
+Pigs	3202-17	B. schroederi	104303	0.5253068851	Raw	FP
+Pigs	5029-17	B. schroederi	111715	0.5231839795	Raw	FP
+Pigs	9016-17	B. schroederi	116999	0.5220115147	Raw	FP
+Pigs	5027-17	B. schroederi	126718	0.518066193	Raw	FP
+Pigs	4014-17	B. schroederi	131492	0.5154751158	Raw	FP
+Pigs	1025-17	B. schroederi	138457	0.5149353933	Raw	FP
+Pigs	7017-17	B. schroederi	136101	0.5144437029	Raw	FP
+Pigs	7004-17	B. schroederi	140424	0.5132646301	Raw	FP
+Pigs	7009-17	B. schroederi	143128	0.5122799698	Raw	FP
+Pigs	1011-17	B. schroederi	156272	0.5094343019	Raw	FP
+Pigs	9001-17	B. schroederi	155574	0.5093708275	Raw	FP
+Pigs	2015-17	B. schroederi	160673	0.5080617013	Raw	FP
+Pigs	6001-17	B. schroederi	173835	0.5047665132	Raw	FP
+Pigs	8002-17	B. schroederi	185624	0.5022000861	Raw	FP
+Pigs	7011-17	B. schroederi	184533	0.5019100381	Raw	FP
+Pigs	2007-17	B. schroederi	192782	0.4999535568	Raw	FP
+Pigs	4023-17	B. schroederi	255291	0.4971461693	Raw	FP
+Pigs	6017-17	B. schroederi	205879	0.4971132833	Raw	FP
+Pigs	2010-17	B. schroederi	673972	0.4953239318	Raw	FP
+Pigs	8008-17	B. schroederi	299090	0.4948409462	Raw	FP
+Pigs	7008-17	B. schroederi	341080	0.4945959927	Raw	FP
+Pigs	6012-17	B. schroederi	257961	0.4941123637	Raw	FP
+Pigs	7001-17	B. schroederi	222183	0.494090145	Raw	FP
+Pigs	2009-17	B. schroederi	531802	0.4937421732	Raw	FP
+Pigs	2004-17	B. schroederi	687276	0.4936866805	Raw	FP
+Pigs	2005-17	B. schroederi	279568	0.4935644573	Raw	FP
+Pigs	7005-17	B. schroederi	245815	0.4930044626	Raw	FP
+Pigs	2006-17	B. schroederi	459967	0.4924444362	Raw	FP
+Pigs	2003-17	B. schroederi	219432	0.4917244386	Raw	FP
+Pigs	9002-17	Blastocystis_sp._subtype_1	1276	0.9969043046	Decontaminated	TP
+Pigs	9019-17	Blastocystis_sp._subtype_1	1779	0.9968369346	Decontaminated	TP
+Pigs	9017-17	Blastocystis_sp._subtype_1	2464	0.9968301267	Decontaminated	TP
+Pigs	9012-17	Blastocystis_sp._subtype_1	2675	0.9960759523	Decontaminated	TP
+Pigs	4030-17	Blastocystis_sp._subtype_1	2824	0.9955669908	Decontaminated	TP
+Pigs	9001-17	Blastocystis_sp._subtype_1	1265	0.9955227251	Decontaminated	TP
+Pigs	4034-17	Blastocystis_sp._subtype_1	2393	0.9951793881	Decontaminated	TP
+Pigs	4032-17	Blastocystis_sp._subtype_1	2359	0.9950613459	Decontaminated	TP
+Pigs	7014-17	Blastocystis_sp._subtype_1	1666	0.994662803	Decontaminated	TP
+Pigs	6008-17	Blastocystis_sp._subtype_1	1143	0.994572563	Decontaminated	TP
+Pigs	4031-17	Blastocystis_sp._subtype_1	1534	0.9944236281	Decontaminated	TP
+Pigs	6001-17	Blastocystis_sp._subtype_1	2664	0.9941789152	Decontaminated	TP
+Pigs	9003-17	Blastocystis_sp._subtype_1	2718	0.9940574816	Decontaminated	TP
+Pigs	4036-17	Blastocystis_sp._subtype_1	5347	0.9940421421	Decontaminated	TP
+Pigs	5011-17	Blastocystis_sp._subtype_1	3538	0.9936329988	Decontaminated	TP
+Pigs	4035-17	Blastocystis_sp._subtype_1	4054	0.9935399281	Decontaminated	TP
+Pigs	4038-17	Blastocystis_sp._subtype_1	3559	0.9934800702	Decontaminated	TP
+Pigs	5031-17	Blastocystis_sp._subtype_1	3905	0.9931848177	Decontaminated	TP
+Pigs	4007-17	Blastocystis_sp._subtype_1	2772	0.9928821344	Decontaminated	TP
+Pigs	5025-17	Blastocystis_sp._subtype_1	2190	0.9923220859	Decontaminated	TP
+Pigs	4033-17	Blastocystis_sp._subtype_1	5722	0.9921303055	Decontaminated	TP
+Pigs	8036-17	Blastocystis_sp._subtype_1	2940	0.9919792598	Decontaminated	TP
+Pigs	5035-17	Blastocystis_sp._subtype_1	2833	0.9918655762	Decontaminated	TP
+Pigs	4023-17	Blastocystis_sp._subtype_1	2714	0.9916784852	Decontaminated	TP
+Pigs	4026-17	Blastocystis_sp._subtype_1	5941	0.9914857395	Decontaminated	TP
+Pigs	1039-17	Blastocystis_sp._subtype_1	6489	0.9913956828	Decontaminated	TP
+Pigs	4002-17	Blastocystis_sp._subtype_1	5438	0.9911563656	Decontaminated	TP
+Pigs	7011-17	Blastocystis_sp._subtype_1	1743	0.991073624	Decontaminated	TP
+Pigs	5029-17	Blastocystis_sp._subtype_1	4299	0.9908499002	Decontaminated	TP
+Pigs	3208-17	Blastocystis_sp._subtype_1	5693	0.9906252448	Decontaminated	TP
+Pigs	7008-17	Blastocystis_sp._subtype_1	2722	0.9902503643	Decontaminated	TP
+Pigs	5026-17	Blastocystis_sp._subtype_1	7149	0.9895861392	Decontaminated	TP
+Pigs	1033-17	Blastocystis_sp._subtype_1	4231	0.98941654	Decontaminated	TP
+Pigs	5028-17	Blastocystis_sp._subtype_1	6883	0.9893771396	Decontaminated	TP
+Pigs	1029-17	Blastocystis_sp._subtype_1	6945	0.9893394247	Decontaminated	TP
+Pigs	7004-17	Blastocystis_sp._subtype_1	2095	0.9892220951	Decontaminated	TP
+Pigs	5037-17	Blastocystis_sp._subtype_1	4010	0.9892207626	Decontaminated	TP
+Pigs	3201-17	Blastocystis_sp._subtype_1	5421	0.9891511834	Decontaminated	TP
+Pigs	5036-17	Blastocystis_sp._subtype_1	6494	0.9890901136	Decontaminated	TP
+Pigs	4037-17	Blastocystis_sp._subtype_1	10034	0.9886876895	Decontaminated	TP
+Pigs	8016-17	Blastocystis_sp._subtype_1	6825	0.9885921295	Decontaminated	TP
+Pigs	7002-17	Blastocystis_sp._subtype_1	2226	0.9884357488	Decontaminated	TP
+Pigs	4001-17	Blastocystis_sp._subtype_1	10549	0.9871853921	Decontaminated	TP
+Pigs	8032-17	Blastocystis_sp._subtype_1	1257	0.987044481	Decontaminated	TP
+Pigs	3210-17	Blastocystis_sp._subtype_1	4707	0.9865883635	Decontaminated	TP
+Pigs	5015-17	Blastocystis_sp._subtype_1	4971	0.9858023514	Decontaminated	TP
+Pigs	3203-17	Blastocystis_sp._subtype_1	1579	0.9857817469	Decontaminated	TP
+Pigs	1023-17	Blastocystis_sp._subtype_1	7091	0.9856859966	Decontaminated	TP
+Pigs	1005-17	Blastocystis_sp._subtype_1	11436	0.9856512026	Decontaminated	TP
+Pigs	1043-17	Blastocystis_sp._subtype_1	9755	0.9855856402	Decontaminated	TP
+Pigs	3218-17	Blastocystis_sp._subtype_1	1802	0.985548738	Decontaminated	TP
+Pigs	8012-17	Blastocystis_sp._subtype_1	3510	0.985322727	Decontaminated	TP
+Pigs	8028-17	Blastocystis_sp._subtype_1	2325	0.9848744915	Decontaminated	TP
+Pigs	8034-17	Blastocystis_sp._subtype_1	1245	0.984656948	Decontaminated	TP
+Pigs	5012-17	Blastocystis_sp._subtype_1	16006	0.9842437316	Decontaminated	TP
+Pigs	1031-17	Blastocystis_sp._subtype_1	6827	0.9835480565	Decontaminated	TP
+Pigs	8026-17	Blastocystis_sp._subtype_1	1619	0.9831655175	Decontaminated	TP
+Pigs	5001-17	Blastocystis_sp._subtype_1	15554	0.9823411774	Decontaminated	TP
+Pigs	2018-17	Blastocystis_sp._subtype_1	1169	0.982280332	Decontaminated	TP
+Pigs	8014-17	Blastocystis_sp._subtype_1	19043	0.9820021764	Decontaminated	TP
+Pigs	9013-17	Blastocystis_sp._subtype_1	1138	0.9818990729	Decontaminated	TP
+Pigs	1019-17	Blastocystis_sp._subtype_1	22243	0.9817189826	Decontaminated	TP
+Pigs	6012-17	Blastocystis_sp._subtype_1	1336	0.9813479298	Decontaminated	TP
+Madagascar	SRR7658671	Blastocystis_sp._subtype_1	2381	0.9802747143	Decontaminated	TP
+Madagascar	SRR7658671	Blastocystis_sp._subtype_1	2381	0.9802747143	Raw	TP
+Pigs	8018-17	Blastocystis_sp._subtype_1	4134	0.9786503537	Decontaminated	TP
+Pigs	1001-17	Blastocystis_sp._subtype_1	25500	0.9786363674	Decontaminated	TP
+Pigs	7007-17	Blastocystis_sp._subtype_1	27408	0.9784448502	Decontaminated	TP
+Madagascar	SRR7658638	Blastocystis_sp._subtype_1	2643	0.9777530541	Decontaminated	TP
+Madagascar	SRR7658638	Blastocystis_sp._subtype_1	2642	0.9777435647	Raw	TP
+Pigs	1017-17	Blastocystis_sp._subtype_1	30290	0.9772944431	Decontaminated	TP
+Pigs	3220-17	Blastocystis_sp._subtype_1	1481	0.9769100085	Decontaminated	TP
+Madagascar	SRR7658602	Blastocystis_sp._subtype_1	1924	0.9763774343	Decontaminated	TP
+Pigs	1011-17	Blastocystis_sp._subtype_1	31552	0.9762925881	Decontaminated	TP
+Pigs	5019-17	Blastocystis_sp._subtype_1	1204	0.9742107484	Decontaminated	TP
+Madagascar	SRR7658625	Blastocystis_sp._subtype_1	3212	0.9732742321	Decontaminated	TP
+Madagascar	SRR7658625	Blastocystis_sp._subtype_1	3212	0.9732742321	Raw	TP
+Pigs	5027-17	Blastocystis_sp._subtype_1	40916	0.9726492169	Decontaminated	TP
+Madagascar	SRR7658668	Blastocystis_sp._subtype_1	3337	0.9704979182	Decontaminated	TP
+Pigs	4034-17	Blastocystis_sp._subtype_1	2374	0.9666742497	Raw	TP
+Human	Zape_31	Blastocystis_sp._subtype_1	3195	0.966653341	Raw	TP
+Pigs	1025-17	Blastocystis_sp._subtype_1	51783	0.9662919937	Decontaminated	TP
+Human	Zape_31	Blastocystis_sp._subtype_1	3214	0.9657722433	Decontaminated	TP
+Madagascar	SRR7658601	Blastocystis_sp._subtype_1	5087	0.9648359153	Decontaminated	TP
+Madagascar	SRR7658601	Blastocystis_sp._subtype_1	5086	0.9648281911	Raw	TP
+Pigs	9001-17	Blastocystis_sp._subtype_1	1248	0.9638636599	Raw	TP
+Pigs	4031-17	Blastocystis_sp._subtype_1	1513	0.9634534332	Raw	TP
+Human	UT43	Blastocystis_sp._subtype_1	5067	0.9603826609	Raw	TP
+Iceman	Iceman	Blastocystis_sp._subtype_1	6553	0.9592739843	Raw	TP
+Iceman	Iceman	Blastocystis_sp._subtype_1	6562	0.9592250807	Decontaminated	TP
+Human	UT43	Blastocystis_sp._subtype_1	5111	0.9586050927	Decontaminated	TP
+Pigs	9002-17	Blastocystis_sp._subtype_1	1267	0.9574861692	Raw	TP
+Pigs	4007-17	Blastocystis_sp._subtype_1	2734	0.9554378426	Raw	TP
+Human	UT30	Blastocystis_sp._subtype_1	6413	0.9549319856	Raw	TP
+Pigs	4032-17	Blastocystis_sp._subtype_1	2331	0.9546932143	Raw	TP
+Human	UT30	Blastocystis_sp._subtype_1	6438	0.9545098335	Decontaminated	TP
+Pigs	9013-17	Blastocystis_sp._subtype_1	1077	0.9531808365	Raw	TP
+Pigs	6001-17	Blastocystis_sp._subtype_1	2631	0.9527386039	Raw	TP
+Pigs	4023-17	Blastocystis_sp._subtype_1	2672	0.9522412374	Raw	TP
+Pigs	8032-17	Blastocystis_sp._subtype_1	1219	0.9519593389	Raw	TP
+Pigs	7014-17	Blastocystis_sp._subtype_1	1642	0.9518607141	Raw	TP
+Pigs	7004-17	Blastocystis_sp._subtype_1	2044	0.9518278594	Raw	TP
+Pigs	4035-17	Blastocystis_sp._subtype_1	4019	0.9517305773	Raw	TP
+Pigs	9017-17	Blastocystis_sp._subtype_1	2456	0.9509496152	Raw	TP
+Pigs	8034-17	Blastocystis_sp._subtype_1	1202	0.9504101305	Raw	TP
+Pigs	9019-17	Blastocystis_sp._subtype_1	1766	0.9502638571	Raw	TP
+Pigs	9003-17	Blastocystis_sp._subtype_1	2690	0.9501952832	Raw	TP
+Pigs	1035-17	Blastocystis_sp._subtype_1	93545	0.9499799645	Decontaminated	TP
+Pigs	3203-17	Blastocystis_sp._subtype_1	1521	0.9498767237	Raw	TP
+Pigs	6012-17	Blastocystis_sp._subtype_1	1267	0.9491832666	Raw	TP
+Pigs	8036-17	Blastocystis_sp._subtype_1	2901	0.9489646608	Raw	TP
+Pigs	3218-17	Blastocystis_sp._subtype_1	1728	0.9489067095	Raw	TP
+Pigs	5031-17	Blastocystis_sp._subtype_1	3858	0.9483432922	Raw	TP
+Madagascar	SRR7658657	Blastocystis_sp._subtype_1	8073	0.9479329327	Decontaminated	TP
+Madagascar	SRR7658657	Blastocystis_sp._subtype_1	8069	0.9479233502	Raw	TP
+Pigs	2018-17	Blastocystis_sp._subtype_1	1112	0.9479181097	Raw	TP
+Pigs	3220-17	Blastocystis_sp._subtype_1	1398	0.9479136853	Raw	TP
+Pigs	9012-17	Blastocystis_sp._subtype_1	2664	0.9474049884	Raw	TP
+Pigs	4002-17	Blastocystis_sp._subtype_1	5388	0.947353723	Raw	TP
+Pigs	4038-17	Blastocystis_sp._subtype_1	3534	0.9468033514	Raw	TP
+Pigs	4033-17	Blastocystis_sp._subtype_1	5679	0.9463807328	Raw	TP
+Pigs	4030-17	Blastocystis_sp._subtype_1	2817	0.946024245	Raw	TP
+Pigs	5019-17	Blastocystis_sp._subtype_1	1127	0.9459249339	Raw	TP
+Pigs	4036-17	Blastocystis_sp._subtype_1	5322	0.9454436234	Raw	TP
+Pigs	5011-17	Blastocystis_sp._subtype_1	3505	0.9444604792	Raw	TP
+Pigs	6008-17	Blastocystis_sp._subtype_1	1123	0.9443365581	Raw	TP
+Pigs	5029-17	Blastocystis_sp._subtype_1	4229	0.94234353	Raw	TP
+Pigs	8026-17	Blastocystis_sp._subtype_1	1552	0.9415477807	Raw	TP
+Pigs	5035-17	Blastocystis_sp._subtype_1	2778	0.9414208435	Raw	TP
+Pigs	7002-17	Blastocystis_sp._subtype_1	2166	0.9413622638	Raw	TP
+Hallstatt	HS2611	Blastocystis_sp._subtype_1	10987	0.9398331238	Raw	TP
+Pigs	5025-17	Blastocystis_sp._subtype_1	2155	0.9397356214	Raw	TP
+Hallstatt	HS2611	Blastocystis_sp._subtype_1	11017	0.9393747634	Decontaminated	TP
+Pigs	7011-17	Blastocystis_sp._subtype_1	1699	0.9391310905	Raw	TP
+Pigs	3210-17	Blastocystis_sp._subtype_1	4587	0.9386601385	Raw	TP
+Pigs	5037-17	Blastocystis_sp._subtype_1	3927	0.9385050274	Raw	TP
+Pigs	8028-17	Blastocystis_sp._subtype_1	2248	0.9380877312	Raw	TP
+Pigs	1033-17	Blastocystis_sp._subtype_1	4140	0.9379974504	Raw	TP
+Pigs	3208-17	Blastocystis_sp._subtype_1	5631	0.9371105351	Raw	TP
+Pigs	3201-17	Blastocystis_sp._subtype_1	5335	0.9370001265	Raw	TP
+Pigs	4026-17	Blastocystis_sp._subtype_1	5907	0.935129647	Raw	TP
+Pigs	1029-17	Blastocystis_sp._subtype_1	6844	0.9335265113	Raw	TP
+Pigs	1039-17	Blastocystis_sp._subtype_1	6429	0.9319371222	Raw	TP
+Pigs	7008-17	Blastocystis_sp._subtype_1	2694	0.9308972487	Raw	TP
+Pigs	1035-17	Blastocystis_sp._subtype_1	93105	0.9302882397	Raw	TP
+Pigs	5015-17	Blastocystis_sp._subtype_1	4840	0.9301808495	Raw	TP
+Pigs	4037-17	Blastocystis_sp._subtype_1	9965	0.9279735996	Raw	TP
+Pigs	5036-17	Blastocystis_sp._subtype_1	6405	0.9275459772	Raw	TP
+Human	Zape5	Blastocystis_sp._subtype_1	34912	0.9257149247	Raw	TP
+Pigs	8012-17	Blastocystis_sp._subtype_1	3405	0.9255790159	Raw	TP
+Human	Zape5	Blastocystis_sp._subtype_1	35022	0.9253823651	Decontaminated	TP
+Pigs	5026-17	Blastocystis_sp._subtype_1	7057	0.9251516954	Raw	TP
+Pigs	1023-17	Blastocystis_sp._subtype_1	6960	0.9242697136	Raw	TP
+Pigs	5028-17	Blastocystis_sp._subtype_1	6798	0.9239679548	Raw	TP
+Human	Zape_25	Blastocystis_sp._subtype_1	40763	0.922607418	Raw	TP
+Human	Zape_25	Blastocystis_sp._subtype_1	40912	0.9223702587	Decontaminated	TP
+Pigs	4001-17	Blastocystis_sp._subtype_1	10505	0.9223453921	Raw	TP
+Pigs	1025-17	Blastocystis_sp._subtype_1	51501	0.9203857261	Raw	TP
+Pigs	1031-17	Blastocystis_sp._subtype_1	6741	0.9202195901	Raw	TP
+Pigs	1043-17	Blastocystis_sp._subtype_1	9616	0.9172834962	Raw	TP
+Pigs	8016-17	Blastocystis_sp._subtype_1	6702	0.9171662674	Raw	TP
+Pigs	5027-17	Blastocystis_sp._subtype_1	40718	0.9155651526	Raw	TP
+Madagascar	SRR7658673	Blastocystis_sp._subtype_1	18092	0.9113608224	Decontaminated	TP
+Pigs	1005-17	Blastocystis_sp._subtype_1	11262	0.9112063123	Raw	TP
+Pigs	1011-17	Blastocystis_sp._subtype_1	31338	0.910450897	Raw	TP
+Pigs	1017-17	Blastocystis_sp._subtype_1	30096	0.9094767323	Raw	TP
+Pigs	8018-17	Blastocystis_sp._subtype_1	4032	0.9094543829	Raw	TP
+Pigs	1001-17	Blastocystis_sp._subtype_1	25226	0.9055624771	Raw	TP
+Pigs	7007-17	Blastocystis_sp._subtype_1	27280	0.9052150958	Raw	TP
+Pigs	5001-17	Blastocystis_sp._subtype_1	15336	0.9018666575	Raw	TP
+Pigs	5012-17	Blastocystis_sp._subtype_1	15819	0.8992111725	Raw	TP
+Pigs	1019-17	Blastocystis_sp._subtype_1	22057	0.8961496345	Raw	TP
+Pigs	8014-17	Blastocystis_sp._subtype_1	18831	0.8896828189	Raw	TP
+Pigs	2012-17	Blastocystis_sp._subtype_2	4296	0.9948223999	Decontaminated	TP
+Pigs	8022-17	Blastocystis_sp._subtype_2	2879	0.9945778554	Decontaminated	TP
+Pigs	7013-17	Blastocystis_sp._subtype_2	3996	0.9943654704	Decontaminated	TP
+Pigs	8038-17	Blastocystis_sp._subtype_2	1130	0.9938459206	Decontaminated	TP
+Pigs	7003-17	Blastocystis_sp._subtype_2	2213	0.9915925548	Decontaminated	TP
+Pigs	6018-17	Blastocystis_sp._subtype_2	11704	0.9887027086	Decontaminated	TP
+Pigs	7006-17	Blastocystis_sp._subtype_2	12519	0.9878847161	Decontaminated	TP
+Pigs	6019-17	Blastocystis_sp._subtype_2	16649	0.9866417133	Decontaminated	TP
+Madagascar	SRR7658592	Blastocystis_sp._subtype_2	1246	0.9854929956	Decontaminated	TP
+Pigs	7009-17	Blastocystis_sp._subtype_2	15262	0.9850673106	Decontaminated	TP
+Madagascar	SRR7658635	Blastocystis_sp._subtype_2	1297	0.9844325658	Decontaminated	TP
+Pigs	1041-17	Blastocystis_sp._subtype_2	15943	0.9836750784	Decontaminated	TP
+Pigs	6014-17	Blastocystis_sp._subtype_2	21056	0.9822952295	Decontaminated	TP
+Madagascar	SRR7658637	Blastocystis_sp._subtype_2	2032	0.9815406901	Decontaminated	TP
+Pigs	5008-17	Blastocystis_sp._subtype_2	29262	0.9784203501	Decontaminated	TP
+Madagascar	SRR7658661	Blastocystis_sp._subtype_2	1081	0.9784033574	Decontaminated	TP
+Madagascar	SRR7658670	Blastocystis_sp._subtype_2	1699	0.9783687054	Decontaminated	TP
+Madagascar	SRR7658613	Blastocystis_sp._subtype_2	1826	0.9782921638	Decontaminated	TP
+Pigs	5007-17	Blastocystis_sp._subtype_2	69386	0.9627464102	Raw	TP
+Pigs	5007-17	Blastocystis_sp._subtype_2	68707	0.9606398617	Decontaminated	TP
+Human	Coprolite_16	Blastocystis_sp._subtype_2	3233	0.9589859049	Decontaminated	TP
+Human	Coprolite_16	Blastocystis_sp._subtype_2	3254	0.9563345854	Raw	TP
+Pigs	2012-17	Blastocystis_sp._subtype_2	4318	0.951612208	Raw	TP
+Human	Zape28	Blastocystis_sp._subtype_2	4345	0.9500128423	Decontaminated	TP
+Human	Zape2	Blastocystis_sp._subtype_2	4383	0.9494829759	Decontaminated	TP
+Human	Zape28	Blastocystis_sp._subtype_2	4378	0.9467459557	Raw	TP
+Human	Zape2	Blastocystis_sp._subtype_2	4415	0.9463069789	Raw	TP
+Madagascar	SRR7658623	Blastocystis_sp._subtype_2	9424	0.9460266199	Decontaminated	TP
+Pigs	7013-17	Blastocystis_sp._subtype_2	4050	0.9399909687	Raw	TP
+Pigs	5008-17	Blastocystis_sp._subtype_2	29721	0.9388246405	Raw	TP
+Pigs	8022-17	Blastocystis_sp._subtype_2	2923	0.9338640117	Raw	TP
+Pigs	6014-17	Blastocystis_sp._subtype_2	21320	0.9323624304	Raw	TP
+Pigs	6019-17	Blastocystis_sp._subtype_2	16754	0.9268097256	Raw	TP
+Pigs	8038-17	Blastocystis_sp._subtype_2	1180	0.924120615	Raw	TP
+Pigs	7003-17	Blastocystis_sp._subtype_2	2351	0.9209898965	Raw	TP
+Pigs	7006-17	Blastocystis_sp._subtype_2	12754	0.918607793	Raw	TP
+Pigs	1041-17	Blastocystis_sp._subtype_2	16187	0.9155544605	Raw	TP
+Pigs	6018-17	Blastocystis_sp._subtype_2	11832	0.9144987097	Raw	TP
+Pigs	7009-17	Blastocystis_sp._subtype_2	15488	0.9085559201	Raw	TP
+Pigs	2019-17	Blastocystis_sp._subtype_3	1419	0.9975770408	Decontaminated	TP
+Pigs	8030-17	Blastocystis_sp._subtype_3	2628	0.9963317513	Decontaminated	TP
+Pigs	3204-17	Blastocystis_sp._subtype_3	5613	0.9937556086	Decontaminated	TP
+Pigs	9022-17	Blastocystis_sp._subtype_3	6816	0.993717908	Decontaminated	TP
+Pigs	3206-17	Blastocystis_sp._subtype_3	6271	0.9934293434	Decontaminated	TP
+Pigs	8010-17	Blastocystis_sp._subtype_3	8235	0.9931277239	Decontaminated	TP
+Pigs	7010-17	Blastocystis_sp._subtype_3	2752	0.9929356529	Decontaminated	TP
+Pigs	1003-17	Blastocystis_sp._subtype_3	13844	0.9894021671	Decontaminated	TP
+Pigs	1007-17	Blastocystis_sp._subtype_3	15446	0.9891894286	Decontaminated	TP
+Madagascar	SRR7658651	Blastocystis_sp._subtype_3	1065	0.9869706147	Decontaminated	TP
+Madagascar	SRR7658651	Blastocystis_sp._subtype_3	1065	0.9869706147	Raw	TP
+Madagascar	SRR7658669	Blastocystis_sp._subtype_3	1081	0.9867337118	Decontaminated	TP
+Madagascar	SRR7658669	Blastocystis_sp._subtype_3	1081	0.9867337118	Raw	TP
+Pigs	1021-17	Blastocystis_sp._subtype_3	19463	0.9847483533	Decontaminated	TP
+Pigs	4028-17	Blastocystis_sp._subtype_3	2577	0.983992569	Decontaminated	TP
+Human	Coprolite_19	Blastocystis_sp._subtype_3	1543	0.9839598927	Decontaminated	TP
+Human	Coprolite_19	Blastocystis_sp._subtype_3	1543	0.9839598927	Raw	TP
+Madagascar	SRR7658581	Blastocystis_sp._subtype_3	56134	0.9791770651	Decontaminated	TP
+Madagascar	SRR7658581	Blastocystis_sp._subtype_3	56134	0.9791770651	Raw	TP
+Madagascar	SRR7658596	Blastocystis_sp._subtype_3	46072	0.9768233863	Decontaminated	TP
+Madagascar	SRR7658596	Blastocystis_sp._subtype_3	46072	0.9768233863	Raw	TP
+Madagascar	SRR7658582	Blastocystis_sp._subtype_3	2736	0.9758856231	Decontaminated	TP
+Madagascar	SRR7658681	Blastocystis_sp._subtype_3	2147	0.9753515379	Decontaminated	TP
+Madagascar	SRR7658608	Blastocystis_sp._subtype_3	3070	0.9743993589	Decontaminated	TP
+Pigs	1037-17	Blastocystis_sp._subtype_3	6817	0.9738431082	Decontaminated	TP
+Pigs	1027-17	Blastocystis_sp._subtype_3	53195	0.9717930938	Raw	TP
+Pigs	1027-17	Blastocystis_sp._subtype_3	53194	0.970690329	Decontaminated	TP
+Madagascar	SRR7658621	Blastocystis_sp._subtype_3	4088	0.9700418682	Decontaminated	TP
+Madagascar	SRR7658621	Blastocystis_sp._subtype_3	4088	0.9700418682	Raw	TP
+Madagascar	SRR7658597	Blastocystis_sp._subtype_3	4146	0.9678939338	Decontaminated	TP
+Madagascar	SRR7658597	Blastocystis_sp._subtype_3	4146	0.9678939338	Raw	TP
+Madagascar	SRR7658666	Blastocystis_sp._subtype_3	4822	0.9648769487	Decontaminated	TP
+Madagascar	SRR7658666	Blastocystis_sp._subtype_3	4822	0.9648769487	Raw	TP
+Madagascar	SRR7658603	Blastocystis_sp._subtype_3	4077	0.9645543746	Decontaminated	TP
+Madagascar	SRR7658603	Blastocystis_sp._subtype_3	4077	0.9645543746	Raw	TP
+Human	Coprolite_14	Blastocystis_sp._subtype_3	22416	0.9610452603	Decontaminated	TP
+Human	Coprolite_14	Blastocystis_sp._subtype_3	22417	0.9610429469	Raw	TP
+Madagascar	SRR7658656	Blastocystis_sp._subtype_3	6066	0.9606840524	Decontaminated	TP
+Madagascar	SRR7658656	Blastocystis_sp._subtype_3	6066	0.9606840524	Raw	TP
+Madagascar	SRR7658659	Blastocystis_sp._subtype_3	5433	0.960529148	Decontaminated	TP
+Pigs	2019-17	Blastocystis_sp._subtype_3	1419	0.953174501	Raw	TP
+Madagascar	SRR7658580	Blastocystis_sp._subtype_3	6993	0.9529598869	Decontaminated	TP
+Madagascar	SRR7658580	Blastocystis_sp._subtype_3	6993	0.9529598869	Raw	TP
+Madagascar	SRR7658615	Blastocystis_sp._subtype_3	8265	0.9484234014	Decontaminated	TP
+Pigs	9022-17	Blastocystis_sp._subtype_3	6816	0.9469636389	Raw	TP
+Pigs	8030-17	Blastocystis_sp._subtype_3	2628	0.9410174964	Raw	TP
+Pigs	1021-17	Blastocystis_sp._subtype_3	19464	0.9379940345	Raw	TP
+Pigs	3204-17	Blastocystis_sp._subtype_3	5613	0.9364873752	Raw	TP
+Pigs	7010-17	Blastocystis_sp._subtype_3	2753	0.9323271531	Raw	TP
+Pigs	3206-17	Blastocystis_sp._subtype_3	6271	0.9315387849	Raw	TP
+Pigs	1007-17	Blastocystis_sp._subtype_3	15446	0.9253319318	Raw	TP
+Pigs	4028-17	Blastocystis_sp._subtype_3	2577	0.9246672345	Raw	TP
+Pigs	1003-17	Blastocystis_sp._subtype_3	13845	0.917701411	Raw	TP
+Pigs	8010-17	Blastocystis_sp._subtype_3	8235	0.9103135379	Raw	TP
+Pigs	1037-17	Blastocystis_sp._subtype_3	6817	0.8932226253	Raw	TP
+Madagascar	SRR7658645	Blastocystis_sp._subtype_6	1591	0.685772071	Raw	FP
+Madagascar	SRR7658659	Blastocystis_sp._subtype_6	3782	0.6754904607	Raw	FP
+Madagascar	SRR7658690	Blastocystis_sp._subtype_6	1573	0.6560252016	Raw	FP
+Madagascar	SRR7658613	Blastocystis_sp._subtype_6	1158	0.6489133055	Raw	FP
+Madagascar	SRR7658652	Blastocystis_sp._subtype_6	2847	0.6044454465	Raw	FP
+Madagascar	SRR7658588	Blastocystis_sp._subtype_6	3328	0.5835386123	Raw	FP
+Pigs	9018-17	Blastocystis_sp._subtype_6	54833	0.5581423319	Raw	FP
+Madagascar	SRR7658673	Blastocystis_sp._subtype_6	6793	0.5293397386	Raw	FP
+Madagascar	SRR7658608	Blastocystis_sp._subtype_6	1005	0.5138954847	Raw	FP
+Human	Zape_29	Blastocystis_sp._subtype_6	1067	0.4944265493	Raw	FP
+Hallstatt	HS2612	Blastocystis_sp._subtype_6	2178	0.4575454585	Raw	FP
+Madagascar	SRR7658647	Blastocystis_sp._subtype_6	1483	0.411222105	Raw	FP
+Dogs	Zape2	Blastocystis_sp._subtype_6	4098	0.3579171385	Raw	FP
+Pigs	9020-17	Blastocystis_sp._subtype_6	8990	0.3578557672	Raw	FP
+Pigs	2014-17	Blastocystis_sp._subtype_6	10864	0.3570986397	Raw	FP
+Pigs	2011-17	Blastocystis_sp._subtype_6	8358	0.3400430494	Raw	FP
+Pigs	6006-17	Blastocystis_sp._subtype_6	14049	0.3396768138	Raw	FP
+Pigs	2010-17	Blastocystis_sp._subtype_6	6629	0.3379179288	Raw	FP
+Pigs	7019-17	Blastocystis_sp._subtype_6	29077	0.3376534188	Raw	FP
+Pigs	9014-17	Blastocystis_sp._subtype_6	14118	0.3353842228	Raw	FP
+Pigs	4025-17	Blastocystis_sp._subtype_6	14306	0.3344626704	Raw	FP
+Pigs	2001-17	Blastocystis_sp._subtype_6	11333	0.333362723	Raw	FP
+Pigs	7012-17	Blastocystis_sp._subtype_6	13944	0.3331358914	Raw	FP
+Pigs	7016-17	Blastocystis_sp._subtype_6	18793	0.332545117	Raw	FP
+Pigs	2007-17	Blastocystis_sp._subtype_6	8909	0.3317912291	Raw	FP
+Pigs	2015-17	Blastocystis_sp._subtype_6	4722	0.3304419327	Raw	FP
+Pigs	2002-17	Blastocystis_sp._subtype_6	9039	0.3293210064	Raw	FP
+Pigs	3219-17	Blastocystis_sp._subtype_6	16024	0.3289094028	Raw	FP
+Pigs	8004-17	Blastocystis_sp._subtype_6	9227	0.3257138732	Raw	FP
+Pigs	8002-17	Blastocystis_sp._subtype_6	10396	0.3252370978	Raw	FP
+Pigs	9021-17	Blastocystis_sp._subtype_6	6501	0.3250407459	Raw	FP
+Pigs	2003-17	Blastocystis_sp._subtype_6	6461	0.3249604743	Raw	FP
+Pigs	3212-17	Blastocystis_sp._subtype_6	11539	0.3235141489	Raw	FP
+Pigs	3214-17	Blastocystis_sp._subtype_6	6737	0.3233652767	Raw	FP
+Pigs	2017-17	Blastocystis_sp._subtype_6	5731	0.3210944582	Raw	FP
+Pigs	9024-17	Blastocystis_sp._subtype_6	6444	0.3195638488	Raw	FP
+Pigs	8006-17	Blastocystis_sp._subtype_6	6660	0.3148483309	Raw	FP
+Pigs	2013-17	Blastocystis_sp._subtype_6	3652	0.312514277	Raw	FP
+Pigs	8008-17	Blastocystis_sp._subtype_6	10881	0.312076259	Raw	FP
+Pigs	3202-17	Blastocystis_sp._subtype_6	5057	0.31013784	Raw	FP
+Pigs	3211-17	Blastocystis_sp._subtype_6	5143	0.3074794921	Raw	FP
+Dogs	YRK001	Blastocystis_sp._subtype_6	1145	0.3042314575	Raw	FP
+Pigs	3205-17	Blastocystis_sp._subtype_6	2980	0.2983717575	Raw	FP
+Madagascar	SRR7658661	Blastocystis_sp._subtype_6	1158	0.2742266833	Raw	FP
+Madagascar	SRR7658617	Blastocystis_sp._subtype_6	2490	0.2450542888	Raw	FP
+Madagascar	SRR7658622	Blastocystis_sp._subtype_9	1109	0.541849377	Raw	FP
+Madagascar	SRR7658627	Blastocystis_sp._subtype_9	1507	0.3451172295	Raw	FP
+Madagascar	SRR7658668	Blastocystis_sp._subtype_9	1082	0.2981516806	Raw	FP
+Madagascar	SRR7658632	Blastocystis_sp._subtype_9	3798	0.2911771091	Raw	FP
+Dogs	Solarolo	B. timori	2772	0.541248523	Raw	FP
+Iceman	Iceman	B. timori	6845	0.4593992143	Raw	FP
+Iceman	Iceman_Large_intestine_upper_part_II_1036	B. timori	1383	0.4326415825	Raw	FP
+Iceman	Iceman_Large_intestine_upper_part_I_1036	B. timori	1447	0.4212305541	Raw	FP
+Human	BRS4	B. timori	2827	0.4095820435	Raw	FP
+Pigs	9021-17	B. timori	1092	0.3693904773	Raw	FP
+Iceman	Iceman_Muscle_tissue_Muscle_1_and_2	B. timori	1457	0.3540031306	Raw	FP
+Dogs	Zape2	B. timori	1089	0.3131210241	Raw	FP
+Dogs	cop_ESL166	B. timori	1407	0.2856422546	Raw	FP
+Hallstatt	HS2604	B. timori	1122	0.2839176492	Raw	FP
+Hallstatt	HS2612	B. timori	1107	0.2630874886	Raw	FP
+Human	Zape_31	B. timori	1006	0.2524619225	Raw	FP
+Iceman	Iceman_Stomach_corpus_surface_1054	B. timori	1734	0.2241766084	Raw	FP
+Human	Zape2	C. albicans	15123	0.9414059614	Decontaminated	TP
+Human	Zape2	C. albicans	15289	0.9402059552	Raw	TP
+Human	BRS4	C. globosum	2873	0.93496935	Raw	TP
+Human	Zape_29	C. globosum	1146	0.9291642556	Raw	TP
+Human	BRS4	C. globosum	3396	0.8604744345	Decontaminated	TP
+Human	Zape_29	C. globosum	1398	0.8557801241	Decontaminated	TP
+Human	UT30	C. globosum	1232	0.5954843922	Decontaminated	FP
+Iceman	Iceman	C. purpurea	2300	0.9912392833	Decontaminated	TP
+Iceman	Iceman	C. purpurea	2342	0.9857967002	Raw	TP
+Madagascar	SRR7658680	C. goldi	1088	0.6508454483	Raw	FP
+Madagascar	SRR7658635	C. goldi	1012	0.6416375814	Raw	FP
+Pigs	9021-17	C. goldi	2197	0.6339154535	Raw	FP
+Madagascar	SRR7658614	C. goldi	1253	0.6335251184	Raw	FP
+Madagascar	SRR7658630	C. goldi	1183	0.6328384379	Raw	FP
+Pigs	8004-17	C. goldi	1233	0.6319509679	Raw	FP
+Human	BRS2	C. goldi	1256	0.6290485553	Raw	FP
+Human	Zape1	C. goldi	1723	0.6270166877	Raw	FP
+Madagascar	SRR7658683	C. goldi	1133	0.6251214843	Raw	FP
+Human	UT43	C. goldi	1795	0.6158163071	Raw	FP
+Pigs	4028-17	C. goldi	1041	0.6018859933	Raw	FP
+Human	BRS4	C. goldi	2665	0.5977578764	Raw	FP
+Madagascar	SRR7658597	C. goldi	1715	0.5954984068	Raw	FP
+Madagascar	SRR7658580	C. goldi	1489	0.5948553771	Raw	FP
+Madagascar	SRR7658623	C. goldi	1664	0.5927057438	Raw	FP
+Pigs	9013-17	C. goldi	1461	0.5909988575	Raw	FP
+Madagascar	SRR7658678	C. goldi	1389	0.5908697868	Raw	FP
+Madagascar	SRR7658679	C. goldi	1559	0.5897461214	Raw	FP
+Pigs	6012-17	C. goldi	1277	0.58812194	Raw	FP
+Madagascar	SRR7658582	C. goldi	1356	0.5751385089	Raw	FP
+Madagascar	SRR7658602	C. goldi	1993	0.5741600682	Raw	FP
+Madagascar	SRR7658600	C. goldi	2079	0.5715206256	Raw	FP
+Pigs	9017-17	C. goldi	14332	0.5708213016	Raw	FP
+Madagascar	SRR7658648	C. goldi	2846	0.5651236433	Raw	FP
+Pigs	9022-17	C. goldi	1414	0.5646954219	Raw	FP
+Madagascar	SRR7658657	C. goldi	2316	0.5618576806	Raw	FP
+Madagascar	SRR7658616	C. goldi	2389	0.5612356098	Raw	FP
+Pigs	9020-17	C. goldi	2850	0.5603000269	Raw	FP
+Madagascar	SRR7658644	C. goldi	3701	0.5594152645	Raw	FP
+Madagascar	SRR7658676	C. goldi	2520	0.5591759296	Raw	FP
+Madagascar	SRR7658660	C. goldi	1937	0.5569975369	Raw	FP
+Madagascar	SRR7658637	C. goldi	2350	0.5562464898	Raw	FP
+Madagascar	SRR7658652	C. goldi	3107	0.5555007442	Raw	FP
+Pigs	9028-17	C. goldi	2961	0.5540961042	Raw	FP
+Pigs	2014-17	C. goldi	2889	0.5539134879	Raw	FP
+Madagascar	SRR7658591	C. goldi	3687	0.5519284906	Raw	FP
+Pigs	2020-17	C. goldi	2078	0.5508402305	Raw	FP
+Madagascar	SRR7658592	C. goldi	1823	0.5506320121	Raw	FP
+Madagascar	SRR7658687	C. goldi	2094	0.5502568177	Raw	FP
+Madagascar	SRR7658608	C. goldi	4293	0.5496771343	Raw	FP
+Madagascar	SRR7658631	C. goldi	3729	0.5447118867	Raw	FP
+Human	Zape3	C. goldi	4632	0.5376828241	Raw	FP
+Madagascar	SRR7658622	C. goldi	4678	0.533424586	Raw	FP
+Madagascar	SRR7658639	C. goldi	4413	0.532887917	Raw	FP
+Hallstatt	HS2604	C. goldi	4108	0.5322536751	Raw	FP
+Madagascar	SRR7658607	C. goldi	4223	0.5279263016	Raw	FP
+Madagascar	SRR7658604	C. goldi	4815	0.5255791125	Raw	FP
+Madagascar	SRR7658586	C. goldi	5289	0.5227070576	Raw	FP
+Madagascar	SRR7658641	C. goldi	4516	0.5221555683	Raw	FP
+Madagascar	SRR7658642	C. goldi	5044	0.5202206336	Raw	FP
+Madagascar	SRR7658628	C. goldi	5726	0.5112813123	Raw	FP
+Madagascar	SRR7658617	C. goldi	3414	0.5105666827	Raw	FP
+Pigs	9029-17	C. goldi	4481	0.5098749581	Raw	FP
+Madagascar	SRR7658653	C. goldi	5746	0.5097211148	Raw	FP
+Madagascar	SRR7658636	C. goldi	7460	0.5096129942	Raw	FP
+Madagascar	SRR7658669	C. goldi	7348	0.5077844662	Raw	FP
+Pigs	9027-17	C. goldi	4506	0.506299358	Raw	FP
+Madagascar	SRR7658633	C. goldi	7328	0.5053241312	Raw	FP
+Madagascar	SRR7658606	C. goldi	7972	0.5038059256	Raw	FP
+Madagascar	SRR7658584	C. goldi	8917	0.5035592854	Raw	FP
+Pigs	4023-17	C. goldi	5916	0.4987544274	Raw	FP
+Madagascar	SRR7658677	C. goldi	10998	0.4975750559	Raw	FP
+Madagascar	SRR7658632	C. goldi	6011	0.4895715194	Raw	FP
+Pigs	9016-17	C. goldi	2204	0.4867398214	Raw	FP
+Madagascar	SRR7658665	C. goldi	13538	0.4858954725	Raw	FP
+Madagascar	SRR7658668	C. goldi	10109	0.484710643	Raw	FP
+Madagascar	SRR7658656	C. goldi	8996	0.4802994268	Raw	FP
+Madagascar	SRR7658643	C. goldi	9556	0.4770966548	Raw	FP
+Madagascar	SRR7658661	C. goldi	16753	0.4770214873	Raw	FP
+Madagascar	SRR7658682	C. goldi	13355	0.4769468613	Raw	FP
+Pigs	9030-17	C. goldi	9108	0.4763542648	Raw	FP
+Madagascar	SRR7658672	C. goldi	10737	0.4758549725	Raw	FP
+Madagascar	SRR7658645	C. goldi	11532	0.4739035739	Raw	FP
+Dogs	Zape2	C. goldi	14143	0.4730499534	Raw	FP
+Human	Zape_29	C. goldi	24434	0.471789371	Raw	FP
+Madagascar	SRR7658649	C. goldi	13271	0.4717254974	Raw	FP
+Madagascar	SRR7658627	C. goldi	17335	0.4696422678	Raw	FP
+Madagascar	SRR7658662	C. goldi	17435	0.4652753822	Raw	FP
+Madagascar	SRR7658658	C. goldi	16146	0.4630413314	Raw	FP
+Madagascar	SRR7658655	C. goldi	21066	0.4580031797	Raw	FP
+Madagascar	SRR7658590	C. goldi	17402	0.4569546624	Raw	FP
+Madagascar	SRR7658624	C. goldi	18308	0.4529134343	Raw	FP
+Madagascar	SRR7658594	C. goldi	20710	0.4526612687	Raw	FP
+Human	Zape2	C. goldi	24883	0.4479575669	Raw	FP
+Madagascar	SRR7658585	C. goldi	18004	0.4479177079	Raw	FP
+Madagascar	SRR7658670	C. goldi	30663	0.4464891113	Raw	FP
+Madagascar	SRR7658664	C. goldi	38800	0.4458059335	Raw	FP
+Madagascar	SRR7658646	C. goldi	34519	0.4412537189	Raw	FP
+Madagascar	SRR7658675	C. goldi	26970	0.4383190858	Raw	FP
+Madagascar	SRR7658650	C. goldi	34756	0.4292033603	Raw	FP
+Iceman	Iceman	C. goldi	1074	0.4289195926	Raw	FP
+Madagascar	SRR7658583	C. goldi	35912	0.4257636078	Raw	FP
+Pigs	6011-17	C. goldi	1630	0.4250109247	Raw	FP
+Madagascar	SRR7658667	C. goldi	39940	0.4199635329	Raw	FP
+Pigs	4024-17	C. goldi	2253	0.3216953042	Raw	FP
+Pigs	6013-17	C. goldi	1703	0.2816403755	Raw	FP
+Pigs	2003-17	D. hansenii	2695	0.9971347085	Decontaminated	TP
+Pigs	2006-17	D. hansenii	6105	0.9946366155	Decontaminated	TP
+Human	S2133	D. hansenii	1293	0.9811420009	Decontaminated	TP
+Human	S2133	D. hansenii	1292	0.9811253667	Raw	TP
+Human	S2132	D. hansenii	1969	0.9800233141	Raw	TP
+Human	S2132	D. hansenii	1974	0.9797679804	Decontaminated	TP
+Pigs	2006-17	D. hansenii	6097	0.9432099854	Raw	TP
+Pigs	2003-17	D. hansenii	2692	0.9409519634	Raw	TP
+Human	RGA001	D. latus	1075	0.9965257903	Raw	TP
+Human	RGA001	D. latus	1074	0.9965220917	Decontaminated	TP
+Dogs	Solarolo	D. dendriticum	1052	0.9991710127	Raw	TP
+Hallstatt	HS2611	D. dendriticum	1651	0.998300066	Raw	TP
+Dogs	Solarolo	D. dendriticum	1060	0.9982854653	Decontaminated	TP
+Hallstatt	HS2611	D. dendriticum	1655	0.9981917102	Decontaminated	TP
+Hallstatt	HS2611	D. viviparus	1022	0.6083270233	Decontaminated	FP
+Dogs	YRK001	D. viviparus	1008	0.602559509	Decontaminated	FP
+Dogs	Solarolo	D. viviparus	1653	0.5791723092	Decontaminated	FP
+Human	Zape2	D. caninum	1222	0.1952100961	Raw	FP
+Pigs	6014-17	E. canadensis	1113	0.5826891071	Raw	FP
+Pigs	6009-17	E. canadensis	1136	0.5816022754	Raw	FP
+Pigs	7011-17	E. canadensis	1097	0.5815795069	Raw	FP
+Pigs	7001-17	E. canadensis	1032	0.5797122405	Raw	FP
+Pigs	3202-17	E. canadensis	1135	0.5794178815	Raw	FP
+Dogs	YRK001	E. canadensis	1301	0.5755163539	Raw	FP
+Pigs	5004-17	E. canadensis	1155	0.5754313295	Raw	FP
+Pigs	5019-17	E. canadensis	1040	0.5754233514	Raw	FP
+Pigs	6020-17	E. canadensis	1124	0.5725909998	Raw	FP
+Pigs	8030-17	E. canadensis	1187	0.5713934768	Raw	FP
+Pigs	6018-17	E. canadensis	1032	0.56985949	Raw	FP
+Pigs	7010-17	E. canadensis	1334	0.5675698371	Raw	FP
+Pigs	9001-17	E. canadensis	1028	0.567225616	Raw	FP
+Pigs	9022-17	E. canadensis	1153	0.5655436812	Raw	FP
+Pigs	6005-17	E. canadensis	1316	0.5653012989	Raw	FP
+Pigs	4023-17	E. canadensis	1211	0.5630286972	Raw	FP
+Pigs	4028-17	E. canadensis	1295	0.5618689362	Raw	FP
+Pigs	4031-17	E. canadensis	1449	0.5614045478	Raw	FP
+Pigs	4032-17	E. canadensis	1117	0.5610942893	Raw	FP
+Pigs	6013-17	E. canadensis	1102	0.5592367789	Raw	FP
+Pigs	4034-17	E. canadensis	1052	0.559161317	Raw	FP
+Pigs	5032-17	E. canadensis	1297	0.5587540853	Raw	FP
+Pigs	4030-17	E. canadensis	1515	0.5565767645	Raw	FP
+Pigs	5015-17	E. canadensis	1127	0.555281708	Raw	FP
+Pigs	3218-17	E. canadensis	1313	0.5546532095	Raw	FP
+Pigs	1039-17	E. canadensis	1110	0.5544060052	Raw	FP
+Pigs	7009-17	E. canadensis	1603	0.5523788829	Raw	FP
+Pigs	4036-17	E. canadensis	1501	0.5513600463	Raw	FP
+Pigs	2006-17	E. canadensis	1063	0.5490789355	Raw	FP
+Pigs	3209-17	E. canadensis	1710	0.5485536688	Raw	FP
+Pigs	4026-17	E. canadensis	1413	0.5478850163	Raw	FP
+Pigs	3215-17	E. canadensis	1181	0.5473769547	Raw	FP
+Pigs	5011-17	E. canadensis	1455	0.5470676247	Raw	FP
+Pigs	9003-17	E. canadensis	1820	0.5459528083	Raw	FP
+Pigs	4035-17	E. canadensis	1805	0.5458155294	Raw	FP
+Pigs	5041-17	E. canadensis	1696	0.5449244817	Raw	FP
+Pigs	3207-17	E. canadensis	1489	0.5448736655	Raw	FP
+Pigs	2014-17	E. canadensis	1804	0.5427182123	Raw	FP
+Pigs	3201-17	E. canadensis	1663	0.5415699534	Raw	FP
+Pigs	3203-17	E. canadensis	1340	0.5382615601	Raw	FP
+Pigs	6007-17	E. canadensis	2046	0.5379622193	Raw	FP
+Pigs	5035-17	E. canadensis	1506	0.5376505452	Raw	FP
+Pigs	1033-17	E. canadensis	1752	0.5352325979	Raw	FP
+Pigs	5025-17	E. canadensis	2050	0.5342319888	Raw	FP
+Pigs	7002-17	E. canadensis	2129	0.5340974078	Raw	FP
+Dogs	Solarolo	E. canadensis	1306	0.5333209269	Raw	FP
+Pigs	4007-17	E. canadensis	2154	0.5317196265	Raw	FP
+Pigs	9029-17	E. canadensis	1262	0.5301137507	Raw	FP
+Pigs	5036-17	E. canadensis	1858	0.5290076289	Raw	FP
+Pigs	7004-17	E. canadensis	2235	0.5284753696	Raw	FP
+Pigs	1031-17	E. canadensis	1808	0.5279296784	Raw	FP
+Pigs	8020-17	E. canadensis	2471	0.5261337737	Raw	FP
+Pigs	7003-17	E. canadensis	2152	0.5229981515	Raw	FP
+Pigs	4037-17	E. canadensis	2395	0.5229189702	Raw	FP
+Pigs	6001-17	E. canadensis	2749	0.5215460804	Raw	FP
+Pigs	1029-17	E. canadensis	2373	0.5208413755	Raw	FP
+Pigs	4002-17	E. canadensis	2966	0.5185698018	Raw	FP
+Pigs	1041-17	E. canadensis	1821	0.5180896282	Raw	FP
+Pigs	1043-17	E. canadensis	2003	0.5178010194	Raw	FP
+Pigs	4001-17	E. canadensis	2744	0.517407437	Raw	FP
+Pigs	9013-17	E. canadensis	2450	0.5170373396	Raw	FP
+Pigs	8036-17	E. canadensis	1825	0.5142698197	Raw	FP
+Pigs	5027-17	E. canadensis	3043	0.5140576294	Raw	FP
+Pigs	4025-17	E. canadensis	2774	0.51306917	Raw	FP
+Pigs	6011-17	E. canadensis	3382	0.5129681712	Raw	FP
+Pigs	8026-17	E. canadensis	3186	0.5116527051	Raw	FP
+Pigs	3204-17	E. canadensis	2418	0.5112217666	Raw	FP
+Pigs	3210-17	E. canadensis	2735	0.506815675	Raw	FP
+Pigs	1037-17	E. canadensis	3180	0.5053665357	Raw	FP
+Pigs	1019-17	E. canadensis	3109	0.5030775688	Raw	FP
+Pigs	5037-17	E. canadensis	2374	0.5028861954	Raw	FP
+Pigs	1025-17	E. canadensis	3558	0.4985828319	Raw	FP
+Pigs	4024-17	E. canadensis	4725	0.4984302746	Raw	FP
+Pigs	1003-17	E. canadensis	3454	0.497603336	Raw	FP
+Pigs	7006-17	E. canadensis	3666	0.4964842716	Raw	FP
+Pigs	3206-17	E. canadensis	3811	0.4950359208	Raw	FP
+Pigs	5026-17	E. canadensis	4603	0.4917164119	Raw	FP
+Pigs	1017-17	E. canadensis	3972	0.4917129581	Raw	FP
+Pigs	5008-17	E. canadensis	4043	0.4909130655	Raw	FP
+Pigs	5028-17	E. canadensis	4101	0.4874341212	Raw	FP
+Pigs	1027-17	E. canadensis	4396	0.4872910787	Raw	FP
+Pigs	3220-17	E. canadensis	3478	0.4862390958	Raw	FP
+Pigs	6015-17	E. canadensis	2918	0.4850915116	Raw	FP
+Pigs	1021-17	E. canadensis	4541	0.4836916148	Raw	FP
+Pigs	1011-17	E. canadensis	4527	0.4819254714	Raw	FP
+Pigs	5007-17	E. canadensis	4454	0.481729304	Raw	FP
+Pigs	1015-17	E. canadensis	4202	0.4812804581	Raw	FP
+Pigs	8018-17	E. canadensis	1246	0.481162003	Raw	FP
+Pigs	3217-17	E. canadensis	5009	0.4753456644	Raw	FP
+Pigs	1035-17	E. canadensis	5264	0.4730196013	Raw	FP
+Pigs	1005-17	E. canadensis	5946	0.4688991535	Raw	FP
+Pigs	5029-17	E. canadensis	7098	0.4685197143	Raw	FP
+Pigs	5012-17	E. canadensis	6883	0.4622806315	Raw	FP
+Pigs	8012-17	E. canadensis	1460	0.4610792282	Raw	FP
+Pigs	1001-17	E. canadensis	2868	0.4570423049	Raw	FP
+Pigs	1023-17	E. canadensis	7823	0.4564665738	Raw	FP
+Pigs	5001-17	E. canadensis	2602	0.4555728267	Raw	FP
+Pigs	1007-17	E. canadensis	7648	0.4532830386	Raw	FP
+Pigs	6016-17	E. canadensis	7589	0.4526563135	Raw	FP
+Pigs	8016-17	E. canadensis	1896	0.4422886216	Raw	FP
+Pigs	8014-17	E. canadensis	4035	0.4227398314	Raw	FP
+Pigs	9020-17	E. brunetti	1346	0.2229951667	Raw	FP
+Pigs	9014-17	E. brunetti	1574	0.2142745545	Raw	FP
+Pigs	7002-17	E. brunetti	1364	0.2129952508	Raw	FP
+Pigs	4001-17	E. brunetti	1056	0.2078319449	Raw	FP
+Pigs	8008-17	E. brunetti	1261	0.2068033677	Raw	FP
+Pigs	7016-17	E. brunetti	1036	0.2064054396	Raw	FP
+Pigs	4034-17	E. brunetti	1204	0.2060104973	Raw	FP
+Pigs	8002-17	E. brunetti	1279	0.1997916558	Raw	FP
+Pigs	8004-17	E. brunetti	1680	0.198709887	Raw	FP
+Pigs	4023-17	E. brunetti	1268	0.1974009969	Raw	FP
+Pigs	4025-17	E. brunetti	1867	0.1962187199	Raw	FP
+Pigs	9024-17	E. brunetti	1050	0.1960918621	Raw	FP
+Pigs	5019-17	E. brunetti	1120	0.1960813543	Raw	FP
+Pigs	9015-17	E. brunetti	1353	0.19232895	Raw	FP
+Pigs	6014-17	E. brunetti	1871	0.1892134935	Raw	FP
+Pigs	8006-17	E. brunetti	1945	0.1866405866	Raw	FP
+Pigs	4007-17	E. brunetti	1172	0.1862119556	Raw	FP
+Pigs	6021-17	E. brunetti	1274	0.1855435898	Raw	FP
+Pigs	4024-17	E. brunetti	2129	0.1827844607	Raw	FP
+Pigs	6015-17	E. brunetti	2285	0.1819705876	Raw	FP
+Pigs	9022-17	E. brunetti	2036	0.180054348	Raw	FP
+Pigs	9016-17	E. brunetti	1746	0.1721736192	Raw	FP
+Pigs	2009-17	E. brunetti	3187	0.1709617932	Raw	FP
+Pigs	7012-17	E. brunetti	1275	0.1673009577	Raw	FP
+Pigs	2010-17	E. brunetti	1299	0.1672946203	Raw	FP
+Pigs	6016-17	E. brunetti	2879	0.1666269566	Raw	FP
+Pigs	7003-17	E. brunetti	1975	0.1665693693	Raw	FP
+Pigs	6018-17	E. brunetti	1084	0.162769378	Raw	FP
+Pigs	3212-17	E. brunetti	1013	0.1597194884	Raw	FP
+Pigs	6005-17	E. brunetti	2521	0.1595769039	Raw	FP
+Pigs	6008-17	E. brunetti	1233	0.1541352797	Raw	FP
+Pigs	2008-17	E. brunetti	1996	0.1484443703	Raw	FP
+Pigs	6007-17	E. brunetti	1742	0.1151272645	Raw	FP
+Pigs	6004-17	E. brunetti	1335	0.1132186495	Raw	FP
+Pigs	6010-17	E. brunetti	1476	0.1116838727	Raw	FP
+Pigs	9030-17	E. dispar	1246	0.271016767	Raw	FP
+Madagascar	SRR7658645	E. dispar	1037	0.2490029282	Raw	FP
+Madagascar	SRR7658643	E. dispar	1373	0.2462775021	Raw	FP
+Madagascar	SRR7658665	E. dispar	1226	0.2250859128	Raw	FP
+Madagascar	SRR7658677	E. dispar	1121	0.2220621752	Raw	FP
+Madagascar	SRR7658668	E. dispar	1227	0.216114108	Raw	FP
+Madagascar	SRR7658590	E. dispar	1418	0.2154004259	Raw	FP
+Madagascar	SRR7658661	E. dispar	1548	0.2151078251	Raw	FP
+Madagascar	SRR7658670	E. dispar	2678	0.2125418228	Raw	FP
+Madagascar	SRR7658682	E. dispar	1017	0.2112130347	Raw	FP
+Madagascar	SRR7658662	E. dispar	1366	0.2111551893	Raw	FP
+Madagascar	SRR7658624	E. dispar	1138	0.2109212954	Raw	FP
+Madagascar	SRR7658655	E. dispar	1423	0.2106141288	Raw	FP
+Human	Zape2	E. dispar	2329	0.2093836097	Raw	FP
+Madagascar	SRR7658594	E. dispar	1406	0.2081016096	Raw	FP
+Madagascar	SRR7658658	E. dispar	1203	0.2061823272	Raw	FP
+Madagascar	SRR7658675	E. dispar	1764	0.2050124804	Raw	FP
+Madagascar	SRR7658627	E. dispar	1716	0.2050034701	Raw	FP
+Human	Zape_29	E. dispar	1670	0.2009202844	Raw	FP
+Madagascar	SRR7658650	E. dispar	2436	0.2003071356	Raw	FP
+Madagascar	SRR7658585	E. dispar	2162	0.1995340603	Raw	FP
+Madagascar	SRR7658667	E. dispar	3114	0.1993129952	Raw	FP
+Madagascar	SRR7658646	E. dispar	2565	0.1980392615	Raw	FP
+Madagascar	SRR7658664	E. dispar	3231	0.1961686177	Raw	FP
+Madagascar	SRR7658583	E. dispar	2730	0.1900146178	Raw	FP
+Madagascar	SRR7658641	E. histolytica	1680	0.09247070262	Raw	FP
+Iceman	Iceman_Large_intestine_lower_part_225	E. histolytica	2666	0.08313912056	Raw	FP
+Human	UT30	E. vermicularis	1102	0.8906649431	Raw	TP
+Madagascar	SRR7658582	E. vermicularis	1031	0.5702661456	Raw	FP
+Pigs	9016-17	E. vermicularis	1091	0.567717285	Raw	FP
+Madagascar	SRR7658657	E. vermicularis	1111	0.5647463318	Raw	FP
+Human	UT43	E. vermicularis	1125	0.5643073371	Raw	FP
+Madagascar	SRR7658676	E. vermicularis	1202	0.5566587699	Raw	FP
+Madagascar	SRR7658648	E. vermicularis	1657	0.5545501666	Raw	FP
+Madagascar	SRR7658602	E. vermicularis	1186	0.5523444521	Raw	FP
+Madagascar	SRR7658600	E. vermicularis	1205	0.5491067188	Raw	FP
+Madagascar	SRR7658637	E. vermicularis	1159	0.5430525047	Raw	FP
+Pigs	9017-17	E. vermicularis	1561	0.5427736465	Raw	FP
+Pigs	2020-17	E. vermicularis	1464	0.5372362228	Raw	FP
+Madagascar	SRR7658644	E. vermicularis	2121	0.5365031773	Raw	FP
+Pigs	9020-17	E. vermicularis	1740	0.534828671	Raw	FP
+Pigs	2014-17	E. vermicularis	1429	0.5348263812	Raw	FP
+Madagascar	SRR7658592	E. vermicularis	1145	0.533341618	Raw	FP
+Madagascar	SRR7658687	E. vermicularis	1489	0.5326094262	Raw	FP
+Madagascar	SRR7658631	E. vermicularis	1831	0.5270759941	Raw	FP
+Pigs	9028-17	E. vermicularis	1865	0.5207680126	Raw	FP
+Madagascar	SRR7658641	E. vermicularis	2261	0.5186976176	Raw	FP
+Hallstatt	HS2604	E. vermicularis	1783	0.5091107596	Raw	FP
+Madagascar	SRR7658639	E. vermicularis	2574	0.5072320497	Raw	FP
+Madagascar	SRR7658622	E. vermicularis	2642	0.5049980247	Raw	FP
+Madagascar	SRR7658591	E. vermicularis	2437	0.5030180582	Raw	FP
+Madagascar	SRR7658608	E. vermicularis	1881	0.5020804807	Raw	FP
+Madagascar	SRR7658607	E. vermicularis	2860	0.5003444437	Raw	FP
+Madagascar	SRR7658604	E. vermicularis	2493	0.4937909563	Raw	FP
+Madagascar	SRR7658617	E. vermicularis	2320	0.4910124298	Raw	FP
+Madagascar	SRR7658636	E. vermicularis	4476	0.4886796179	Raw	FP
+Pigs	9027-17	E. vermicularis	3207	0.4865593697	Raw	FP
+Pigs	9029-17	E. vermicularis	3167	0.4855856848	Raw	FP
+Madagascar	SRR7658628	E. vermicularis	2437	0.4850902964	Raw	FP
+Madagascar	SRR7658586	E. vermicularis	2908	0.4842387738	Raw	FP
+Human	Zape3	E. vermicularis	2456	0.4827922615	Raw	FP
+Madagascar	SRR7658669	E. vermicularis	4513	0.480916152	Raw	FP
+Madagascar	SRR7658633	E. vermicularis	4100	0.4803263571	Raw	FP
+Human	BRS4	E. vermicularis	1203	0.4762797081	Raw	FP
+Madagascar	SRR7658632	E. vermicularis	4246	0.4756875212	Raw	FP
+Madagascar	SRR7658584	E. vermicularis	5733	0.4749257415	Raw	FP
+Pigs	4023-17	E. vermicularis	4129	0.473685733	Raw	FP
+Madagascar	SRR7658653	E. vermicularis	2592	0.4734950342	Raw	FP
+Madagascar	SRR7658642	E. vermicularis	4082	0.4691022321	Raw	FP
+Madagascar	SRR7658606	E. vermicularis	3950	0.4671504983	Raw	FP
+Madagascar	SRR7658652	E. vermicularis	2243	0.4668114131	Raw	FP
+Madagascar	SRR7658665	E. vermicularis	7616	0.4612262119	Raw	FP
+Madagascar	SRR7658677	E. vermicularis	7120	0.4606757854	Raw	FP
+Madagascar	SRR7658661	E. vermicularis	10495	0.4525278055	Raw	FP
+Madagascar	SRR7658616	E. vermicularis	1987	0.4511676393	Raw	FP
+Pigs	9030-17	E. vermicularis	6656	0.4476770013	Raw	FP
+Madagascar	SRR7658672	E. vermicularis	4591	0.4459828549	Raw	FP
+Madagascar	SRR7658643	E. vermicularis	7823	0.4445212595	Raw	FP
+Madagascar	SRR7658645	E. vermicularis	7092	0.443559603	Raw	FP
+Madagascar	SRR7658627	E. vermicularis	10750	0.4435099819	Raw	FP
+Madagascar	SRR7658668	E. vermicularis	6851	0.4419555918	Raw	FP
+Madagascar	SRR7658649	E. vermicularis	6033	0.4392777889	Raw	FP
+Madagascar	SRR7658662	E. vermicularis	8291	0.4353690454	Raw	FP
+Madagascar	SRR7658682	E. vermicularis	6696	0.4343649528	Raw	FP
+Human	Zape2	E. vermicularis	15096	0.4329534933	Raw	FP
+Madagascar	SRR7658655	E. vermicularis	10198	0.4328240171	Raw	FP
+Madagascar	SRR7658658	E. vermicularis	8030	0.43169216	Raw	FP
+Dogs	Zape2	E. vermicularis	5327	0.4307082192	Raw	FP
+Madagascar	SRR7658656	E. vermicularis	6735	0.4291696853	Raw	FP
+Madagascar	SRR7658624	E. vermicularis	7751	0.4234415741	Raw	FP
+Madagascar	SRR7658590	E. vermicularis	7671	0.4223833213	Raw	FP
+Human	Zape_29	E. vermicularis	12202	0.4216128549	Raw	FP
+Madagascar	SRR7658670	E. vermicularis	17852	0.4199383206	Raw	FP
+Madagascar	SRR7658664	E. vermicularis	23576	0.4170240721	Raw	FP
+Madagascar	SRR7658594	E. vermicularis	9912	0.4150594886	Raw	FP
+Madagascar	SRR7658646	E. vermicularis	19131	0.4149483341	Raw	FP
+Iceman	Iceman	E. vermicularis	1794	0.4126264325	Raw	FP
+Madagascar	SRR7658585	E. vermicularis	11473	0.411375677	Raw	FP
+Madagascar	SRR7658675	E. vermicularis	11537	0.4091067545	Raw	FP
+Madagascar	SRR7658650	E. vermicularis	14197	0.3947867162	Raw	FP
+Madagascar	SRR7658583	E. vermicularis	17695	0.3926574231	Raw	FP
+Madagascar	SRR7658667	E. vermicularis	17394	0.3827104916	Raw	FP
+Iceman	Iceman_Large_intestine_lower_part_225	E. bieneusi	1181	0.4577350078	Raw	FP
+Iceman	Iceman_Stomach_corpus_content_II_1054	E. bieneusi	1437	0.4216477699	Raw	FP
+Iceman	Iceman_Stomach_corpus_content_I_1054	E. bieneusi	1781	0.4112681227	Raw	FP
+Iceman	Iceman	E. bieneusi	6204	0.4025508595	Raw	FP
+Iceman	Iceman_Stomach_antrum_content_1051	E. bieneusi	1358	0.3974361203	Raw	FP
+Iceman	Iceman_Small_intestine_1063	E. bieneusi	2441	0.3902441247	Raw	FP
+Madagascar	SRR7658642	E. bieneusi	1273	0.3899946166	Raw	FP
+Madagascar	SRR7658677	E. bieneusi	1009	0.3876244887	Raw	FP
+Madagascar	SRR7658645	E. bieneusi	1694	0.3847442056	Raw	FP
+Iceman	Iceman_Muscle_tissue_Muscle_1_and_2	E. bieneusi	2185	0.3834949284	Raw	FP
+Iceman	Iceman_Stomach_antrum_surface_1051	E. bieneusi	2689	0.381573085	Raw	FP
+Iceman	Iceman_Large_intestine_upper_part_I_1036	E. bieneusi	3427	0.380785311	Raw	FP
+Dogs	Zape2	E. bieneusi	1727	0.3800903589	Raw	FP
+Iceman	Iceman_Large_intestine_upper_part_II_1036	E. bieneusi	3735	0.3796118683	Raw	FP
+Iceman	Iceman_Stomach_corpus_surface_1054	E. bieneusi	2498	0.3774426646	Raw	FP
+Madagascar	SRR7658643	E. bieneusi	2088	0.3770409507	Raw	FP
+Madagascar	SRR7658669	E. bieneusi	1506	0.3743053608	Raw	FP
+Human	Zape2	E. bieneusi	2904	0.3697358277	Raw	FP
+Human	Zape5	E. bieneusi	1181	0.3630151866	Raw	FP
+Human	Coprolite_14	E. bieneusi	1132	0.3629165648	Raw	FP
+Madagascar	SRR7658676	E. bieneusi	1049	0.360081561	Raw	FP
+Madagascar	SRR7658624	E. bieneusi	1272	0.3549738174	Raw	FP
+Madagascar	SRR7658668	E. bieneusi	1615	0.3520725013	Raw	FP
+Human	Zape1	E. bieneusi	1096	0.3498460125	Raw	FP
+Madagascar	SRR7658655	E. bieneusi	1288	0.3469381723	Raw	FP
+Madagascar	SRR7658664	E. bieneusi	2223	0.3462068912	Raw	FP
+Madagascar	SRR7658661	E. bieneusi	1474	0.3431447053	Raw	FP
+Madagascar	SRR7658675	E. bieneusi	1897	0.3405050777	Raw	FP
+Madagascar	SRR7658627	E. bieneusi	1308	0.3373164295	Raw	FP
+Human	Zape_29	E. bieneusi	1133	0.3343859419	Raw	FP
+Madagascar	SRR7658658	E. bieneusi	1321	0.3295285087	Raw	FP
+Madagascar	SRR7658657	E. bieneusi	1081	0.3252973721	Raw	FP
+Madagascar	SRR7658646	E. bieneusi	2002	0.3217519257	Raw	FP
+Madagascar	SRR7658594	E. bieneusi	1108	0.3214793861	Raw	FP
+Human	Zape28	E. bieneusi	1163	0.3181987477	Raw	FP
+Madagascar	SRR7658586	E. bieneusi	1108	0.3036997469	Raw	FP
+Madagascar	SRR7658583	E. bieneusi	2429	0.3032482117	Raw	FP
+Madagascar	SRR7658670	E. bieneusi	2436	0.3003351912	Raw	FP
+Human	Zape3	E. bieneusi	1171	0.2930865511	Raw	FP
+Madagascar	SRR7658667	E. bieneusi	3272	0.2887799348	Raw	FP
+Madagascar	SRR7658650	E. bieneusi	1889	0.2601299716	Raw	FP
+Human	UT30	E. bieneusi	1511	0.2581101714	Raw	FP
+Hallstatt	HS2612	E. bieneusi	2578	0.2559303541	Raw	FP
+Hallstatt	HS2604	E. bieneusi	1039	0.16555754	Raw	FP
+Human	Zape3	F. circinatum	3327	0.9861092524	Decontaminated	TP
+Human	Zape28	F. circinatum	1518	0.9847484172	Decontaminated	TP
+Human	Zape3	F. circinatum	3359	0.9843415052	Raw	TP
+Human	Zape2	F. circinatum	7076	0.97765286	Decontaminated	TP
+Human	Zape28	F. circinatum	1561	0.9766691009	Raw	TP
+Human	Zape2	F. circinatum	7196	0.9723005729	Raw	TP
+Pigs	6007-17	H. placei	1000	0.3926840407	Raw	FP
+Human	Coprolite_16	H. placei	1152	0.3750615451	Raw	FP
+Human	Coprolite_14	H. placei	1215	0.3734717897	Raw	FP
+Pigs	6020-17	H. placei	1310	0.3733097468	Raw	FP
+Pigs	6021-17	H. placei	1203	0.3705109925	Raw	FP
+Pigs	6006-17	H. placei	1040	0.3699753623	Raw	FP
+Pigs	8016-17	H. placei	1660	0.3694059892	Raw	FP
+Pigs	6022-17	H. placei	1913	0.3690899608	Raw	FP
+Pigs	6011-17	H. placei	1716	0.3680966778	Raw	FP
+Pigs	3217-17	H. placei	1113	0.3674228706	Raw	FP
+Pigs	6018-17	H. placei	1236	0.3662983677	Raw	FP
+Pigs	3209-17	H. placei	1308	0.3596267697	Raw	FP
+Pigs	8018-17	H. placei	1564	0.3590994777	Raw	FP
+Pigs	7019-17	H. placei	1284	0.3585573725	Raw	FP
+Pigs	7013-17	H. placei	1213	0.3577362005	Raw	FP
+Pigs	8012-17	H. placei	2007	0.3570278456	Raw	FP
+Pigs	1033-17	H. placei	1310	0.3568992008	Raw	FP
+Pigs	8014-17	H. placei	2027	0.3566115473	Raw	FP
+Pigs	7006-17	H. placei	1503	0.355547444	Raw	FP
+Pigs	7012-17	H. placei	1256	0.3554528286	Raw	FP
+Pigs	5029-17	H. placei	1339	0.3550674109	Raw	FP
+Pigs	8026-17	H. placei	1117	0.3546429568	Raw	FP
+Pigs	5001-17	H. placei	2163	0.3543400337	Raw	FP
+Pigs	1001-17	H. placei	2280	0.3542011183	Raw	FP
+Pigs	6005-17	H. placei	1769	0.3536035272	Raw	FP
+Pigs	6019-17	H. placei	1150	0.3531155941	Raw	FP
+Pigs	6015-17	H. placei	2132	0.3525494197	Raw	FP
+Pigs	6016-17	H. placei	1920	0.3524330948	Raw	FP
+Pigs	3213-17	H. placei	1301	0.3519403276	Raw	FP
+Pigs	9015-17	H. placei	1091	0.3512078313	Raw	FP
+Pigs	1021-17	H. placei	1431	0.3511432244	Raw	FP
+Pigs	8020-17	H. placei	1189	0.3509010538	Raw	FP
+Pigs	1015-17	H. placei	1719	0.3507354156	Raw	FP
+Pigs	4023-17	H. placei	1352	0.3506087037	Raw	FP
+Pigs	5032-17	H. placei	1268	0.3503123179	Raw	FP
+Pigs	1003-17	H. placei	1372	0.349980077	Raw	FP
+Pigs	1035-17	H. placei	1117	0.3497322328	Raw	FP
+Pigs	3210-17	H. placei	1446	0.3494684992	Raw	FP
+Pigs	5028-17	H. placei	1808	0.3494165056	Raw	FP
+Pigs	3202-17	H. placei	1195	0.3492662479	Raw	FP
+Pigs	5025-17	H. placei	1478	0.3488958406	Raw	FP
+Pigs	3216-17	H. placei	1506	0.3481159678	Raw	FP
+Pigs	7003-17	H. placei	1717	0.3479990541	Raw	FP
+Pigs	3204-17	H. placei	1176	0.3479899451	Raw	FP
+Pigs	7015-17	H. placei	1098	0.3478086007	Raw	FP
+Pigs	8010-17	H. placei	1877	0.3473200793	Raw	FP
+Pigs	3212-17	H. placei	1503	0.3471108108	Raw	FP
+Pigs	6012-17	H. placei	1873	0.3470614123	Raw	FP
+Pigs	2020-17	H. placei	1273	0.3466784439	Raw	FP
+Human	Zape2	H. placei	2317	0.3463187923	Raw	FP
+Pigs	6001-17	H. placei	2173	0.3463045792	Raw	FP
+Pigs	5011-17	H. placei	1278	0.3459289822	Raw	FP
+Pigs	1025-17	H. placei	1501	0.3453776213	Raw	FP
+Pigs	1023-17	H. placei	1641	0.3449307481	Raw	FP
+Pigs	4007-17	H. placei	1072	0.3448028495	Raw	FP
+Pigs	6017-17	H. placei	1114	0.3444581516	Raw	FP
+Pigs	1007-17	H. placei	1621	0.344441331	Raw	FP
+Human	Zape28	H. placei	2346	0.3443837098	Raw	FP
+Pigs	7010-17	H. placei	1702	0.3442497373	Raw	FP
+Pigs	7011-17	H. placei	1438	0.3438832257	Raw	FP
+Pigs	3208-17	H. placei	1449	0.343831662	Raw	FP
+Pigs	1005-17	H. placei	1670	0.3437448052	Raw	FP
+Pigs	7005-17	H. placei	1408	0.3437083661	Raw	FP
+Pigs	9020-17	H. placei	1049	0.3436480911	Raw	FP
+Pigs	9016-17	H. placei	1336	0.3435974794	Raw	FP
+Pigs	4024-17	H. placei	1489	0.3432873285	Raw	FP
+Pigs	3219-17	H. placei	1843	0.3431358437	Raw	FP
+Pigs	4038-17	H. placei	1049	0.3429901114	Raw	FP
+Pigs	7001-17	H. placei	1565	0.3429113216	Raw	FP
+Pigs	1011-17	H. placei	1610	0.3428596149	Raw	FP
+Pigs	5015-17	H. placei	1481	0.3419473683	Raw	FP
+Pigs	6010-17	H. placei	2010	0.3418803926	Raw	FP
+Pigs	7009-17	H. placei	1926	0.3417026868	Raw	FP
+Pigs	6008-17	H. placei	2163	0.3413918967	Raw	FP
+Pigs	5007-17	H. placei	1145	0.3413834137	Raw	FP
+Pigs	5019-17	H. placei	1891	0.3405419556	Raw	FP
+Pigs	8028-17	H. placei	1026	0.3405125005	Raw	FP
+Pigs	5012-17	H. placei	2121	0.3404980801	Raw	FP
+Human	Zape1	H. placei	2290	0.3398833844	Raw	FP
+Pigs	5026-17	H. placei	1963	0.3397194612	Raw	FP
+Pigs	8002-17	H. placei	2100	0.3391622225	Raw	FP
+Pigs	6013-17	H. placei	3165	0.3387977882	Raw	FP
+Pigs	6014-17	H. placei	1924	0.3385655694	Raw	FP
+Pigs	1041-17	H. placei	1188	0.3374031837	Raw	FP
+Pigs	4036-17	H. placei	1044	0.3360270593	Raw	FP
+Pigs	5008-17	H. placei	1924	0.3357650678	Raw	FP
+Pigs	8006-17	H. placei	2304	0.3355699953	Raw	FP
+Pigs	5004-17	H. placei	2165	0.3349653376	Raw	FP
+Pigs	1017-17	H. placei	1166	0.3347676489	Raw	FP
+Pigs	4001-17	H. placei	1529	0.3342901855	Raw	FP
+Pigs	1019-17	H. placei	2302	0.3341128575	Raw	FP
+Pigs	8030-17	H. placei	1701	0.3340891701	Raw	FP
+Pigs	5027-17	H. placei	1499	0.3325487439	Raw	FP
+Pigs	8008-17	H. placei	2494	0.3325215371	Raw	FP
+Pigs	7014-17	H. placei	1447	0.3320957912	Raw	FP
+Pigs	1037-17	H. placei	1027	0.3307829532	Raw	FP
+Pigs	7004-17	H. placei	2323	0.3301630734	Raw	FP
+Pigs	7016-17	H. placei	1459	0.3293459188	Raw	FP
+Pigs	7007-17	H. placei	1379	0.3292904969	Raw	FP
+Pigs	8004-17	H. placei	2443	0.3288039012	Raw	FP
+Human	UT30	H. placei	2295	0.3277004695	Raw	FP
+Pigs	4025-17	H. placei	1431	0.3259868702	Raw	FP
+Human	Zape5	H. placei	1741	0.3240381584	Raw	FP
+Pigs	1027-17	H. placei	1516	0.3238303516	Raw	FP
+Pigs	7008-17	H. placei	1609	0.3224085516	Raw	FP
+Pigs	7002-17	H. placei	1525	0.321163249	Raw	FP
+Pigs	4037-17	H. placei	1220	0.3197848037	Raw	FP
+Pigs	2019-17	H. placei	1546	0.3196906675	Raw	FP
+Pigs	4026-17	H. placei	2069	0.3187755777	Raw	FP
+Pigs	9002-17	H. placei	1038	0.3184848955	Raw	FP
+Pigs	9022-17	H. placei	1236	0.3182367023	Raw	FP
+Pigs	4028-17	H. placei	1613	0.3173924393	Raw	FP
+Hallstatt	HS2611	H. placei	3456	0.3168112276	Raw	FP
+Pigs	2001-17	H. placei	1132	0.3158943288	Raw	FP
+Pigs	4002-17	H. placei	1434	0.3146057626	Raw	FP
+Human	Zape3	H. placei	1033	0.314399979	Raw	FP
+Pigs	2017-17	H. placei	1185	0.3132118629	Raw	FP
+Pigs	4030-17	H. placei	1377	0.3131667227	Raw	FP
+Pigs	4035-17	H. placei	1340	0.3125444044	Raw	FP
+Pigs	4032-17	H. placei	1363	0.3105356254	Raw	FP
+Pigs	2002-17	H. placei	1778	0.31035917	Raw	FP
+Pigs	6004-17	H. placei	3339	0.3100072592	Raw	FP
+Pigs	9021-17	H. placei	1436	0.309478009	Raw	FP
+Pigs	2009-17	H. placei	1361	0.3083230612	Raw	FP
+Pigs	2005-17	H. placei	1147	0.3080547458	Raw	FP
+Pigs	2004-17	H. placei	1368	0.3074493874	Raw	FP
+Pigs	2007-17	H. placei	1610	0.3068329065	Raw	FP
+Pigs	4014-17	H. placei	1294	0.3016604687	Raw	FP
+Pigs	2010-17	H. placei	1075	0.2976484855	Raw	FP
+Pigs	4031-17	H. placei	1741	0.2928716887	Raw	FP
+Hallstatt	HS2610	H. placei	2849	0.2896545692	Raw	FP
+Pigs	4034-17	H. placei	1109	0.2888230734	Raw	FP
+Pigs	2003-17	H. placei	1492	0.2862179658	Raw	FP
+Pigs	4029-17	H. placei	1600	0.2816725869	Raw	FP
+Pigs	2011-17	H. placei	1586	0.2769532174	Raw	FP
+Pigs	4033-17	H. placei	1627	0.2747101179	Raw	FP
+Hallstatt	HS2612	H. placei	2920	0.2712786963	Raw	FP
+Pigs	2006-17	H. placei	2115	0.2649504283	Raw	FP
+Pigs	2014-17	H. placei	2503	0.255938711	Raw	FP
+Madagascar	SRR7658647	H. placei	1032	0.2454092364	Raw	FP
+Dogs	Solarolo	H. hammondi	1374	0.8131393522	Raw	TP
+Iceman	Iceman	H. hammondi	6642	0.5388150114	Raw	FP
+Iceman	Iceman_Large_intestine_lower_part_225	H. hammondi	1017	0.4590278624	Raw	FP
+Iceman	Iceman_Muscle_tissue_Muscle_1_and_2	H. hammondi	2269	0.4545941996	Raw	FP
+Iceman	Iceman_Stomach_corpus_content_II_1054	H. hammondi	1300	0.4474214119	Raw	FP
+Iceman	Iceman_Stomach_antrum_content_1051	H. hammondi	1062	0.4262380569	Raw	FP
+Iceman	Iceman_Stomach_corpus_content_I_1054	H. hammondi	1543	0.4239065632	Raw	FP
+Iceman	Iceman_Large_intestine_upper_part_II_1036	H. hammondi	3098	0.4228190341	Raw	FP
+Iceman	Iceman_Large_intestine_upper_part_I_1036	H. hammondi	2817	0.4207391514	Raw	FP
+Iceman	Iceman_Stomach_antrum_surface_1051	H. hammondi	2104	0.4065367016	Raw	FP
+Iceman	Iceman_Small_intestine_1063	H. hammondi	1847	0.402034971	Raw	FP
+Iceman	Iceman_Stomach_corpus_surface_1054	H. hammondi	1874	0.3961594242	Raw	FP
+Pigs	2020-17	H. ohiense_(nom._inval.)	1062	0.4207737797	Raw	FP
+Madagascar	SRR7658591	H. ohiense_(nom._inval.)	1131	0.4187550971	Raw	FP
+Madagascar	SRR7658644	H. ohiense_(nom._inval.)	1205	0.4156966244	Raw	FP
+Pigs	9028-17	H. ohiense_(nom._inval.)	1295	0.4149581165	Raw	FP
+Madagascar	SRR7658639	H. ohiense_(nom._inval.)	1224	0.4110993733	Raw	FP
+Madagascar	SRR7658622	H. ohiense_(nom._inval.)	1083	0.4085270815	Raw	FP
+Madagascar	SRR7658608	H. ohiense_(nom._inval.)	1117	0.4075504758	Raw	FP
+Madagascar	SRR7658653	H. ohiense_(nom._inval.)	1402	0.4068117463	Raw	FP
+Madagascar	SRR7658652	H. ohiense_(nom._inval.)	1134	0.4027311455	Raw	FP
+Madagascar	SRR7658586	H. ohiense_(nom._inval.)	1256	0.4010767322	Raw	FP
+Madagascar	SRR7658607	H. ohiense_(nom._inval.)	1680	0.4006703962	Raw	FP
+Madagascar	SRR7658636	H. ohiense_(nom._inval.)	2327	0.3970367017	Raw	FP
+Madagascar	SRR7658642	H. ohiense_(nom._inval.)	1510	0.3953648871	Raw	FP
+Madagascar	SRR7658617	H. ohiense_(nom._inval.)	1346	0.3945798987	Raw	FP
+Madagascar	SRR7658604	H. ohiense_(nom._inval.)	1093	0.3940581951	Raw	FP
+Madagascar	SRR7658669	H. ohiense_(nom._inval.)	1818	0.3923517248	Raw	FP
+Madagascar	SRR7658584	H. ohiense_(nom._inval.)	2220	0.391309916	Raw	FP
+Madagascar	SRR7658656	H. ohiense_(nom._inval.)	2234	0.3900005739	Raw	FP
+Madagascar	SRR7658606	H. ohiense_(nom._inval.)	1665	0.3888118217	Raw	FP
+Pigs	9027-17	H. ohiense_(nom._inval.)	2260	0.3860236102	Raw	FP
+Pigs	9029-17	H. ohiense_(nom._inval.)	2151	0.382912798	Raw	FP
+Madagascar	SRR7658628	H. ohiense_(nom._inval.)	1449	0.3810243516	Raw	FP
+Madagascar	SRR7658633	H. ohiense_(nom._inval.)	2070	0.3810063071	Raw	FP
+Madagascar	SRR7658632	H. ohiense_(nom._inval.)	2310	0.3800559892	Raw	FP
+Madagascar	SRR7658645	H. ohiense_(nom._inval.)	1927	0.3799987411	Raw	FP
+Madagascar	SRR7658677	H. ohiense_(nom._inval.)	3404	0.3792766992	Raw	FP
+Madagascar	SRR7658665	H. ohiense_(nom._inval.)	3483	0.3756096664	Raw	FP
+Pigs	4023-17	H. ohiense_(nom._inval.)	2878	0.37325102	Raw	FP
+Dogs	Zape2	H. ohiense_(nom._inval.)	1592	0.3724159747	Raw	FP
+Madagascar	SRR7658668	H. ohiense_(nom._inval.)	3623	0.3717883744	Raw	FP
+Human	Zape_29	H. ohiense_(nom._inval.)	2193	0.3661968614	Raw	FP
+Madagascar	SRR7658594	H. ohiense_(nom._inval.)	3294	0.3660228354	Raw	FP
+Madagascar	SRR7658661	H. ohiense_(nom._inval.)	4979	0.3654824508	Raw	FP
+Madagascar	SRR7658682	H. ohiense_(nom._inval.)	2488	0.3652118475	Raw	FP
+Madagascar	SRR7658643	H. ohiense_(nom._inval.)	4046	0.3642563631	Raw	FP
+Human	Zape2	H. ohiense_(nom._inval.)	1944	0.3612978179	Raw	FP
+Madagascar	SRR7658658	H. ohiense_(nom._inval.)	4012	0.3603228869	Raw	FP
+Madagascar	SRR7658649	H. ohiense_(nom._inval.)	3161	0.3573142146	Raw	FP
+Madagascar	SRR7658662	H. ohiense_(nom._inval.)	3772	0.3572956033	Raw	FP
+Pigs	9030-17	H. ohiense_(nom._inval.)	4366	0.3572114494	Raw	FP
+Madagascar	SRR7658627	H. ohiense_(nom._inval.)	3276	0.3563893689	Raw	FP
+Madagascar	SRR7658655	H. ohiense_(nom._inval.)	4819	0.3546773231	Raw	FP
+Madagascar	SRR7658672	H. ohiense_(nom._inval.)	2526	0.3521057537	Raw	FP
+Madagascar	SRR7658646	H. ohiense_(nom._inval.)	7414	0.3498854238	Raw	FP
+Madagascar	SRR7658590	H. ohiense_(nom._inval.)	2349	0.3497339874	Raw	FP
+Madagascar	SRR7658670	H. ohiense_(nom._inval.)	6437	0.3476138059	Raw	FP
+Madagascar	SRR7658664	H. ohiense_(nom._inval.)	10161	0.3468947107	Raw	FP
+Madagascar	SRR7658624	H. ohiense_(nom._inval.)	3580	0.3430154328	Raw	FP
+Madagascar	SRR7658585	H. ohiense_(nom._inval.)	7036	0.3420214692	Raw	FP
+Madagascar	SRR7658675	H. ohiense_(nom._inval.)	5137	0.3364406815	Raw	FP
+Madagascar	SRR7658583	H. ohiense_(nom._inval.)	8053	0.3342261069	Raw	FP
+Madagascar	SRR7658650	H. ohiense_(nom._inval.)	6888	0.3323450659	Raw	FP
+Madagascar	SRR7658667	H. ohiense_(nom._inval.)	4211	0.2901845198	Raw	FP
+Pigs	7012-17	L. ramosa	1591	0.9984634866	Decontaminated	TP
+Iceman	Iceman	L. ramosa	110716	0.9720476015	Raw	TP
+Iceman	Iceman	L. ramosa	110715	0.9720450663	Decontaminated	TP
+Pigs	7012-17	L. ramosa	1591	0.9555100723	Raw	TP
+Iceman	Iceman	Mansonella_sp._'DEUX'	5958	0.7364787351	Raw	FP
+Iceman	Iceman	Mansonella_sp._'DEUX'	2206	0.7110788391	Decontaminated	FP
+Pigs	3219-17	M. circinelloides	1670	0.9979863977	Decontaminated	TP
+Pigs	2017-17	M. circinelloides	25451	0.9912688835	Decontaminated	TP
+Human	UT30	M. circinelloides	156616	0.9740256463	Decontaminated	TP
+Human	UT30	M. circinelloides	156996	0.9733268324	Raw	TP
+Hallstatt	HS2604	M. circinelloides	3345	0.9724681061	Decontaminated	TP
+Hallstatt	HS2604	M. circinelloides	3371	0.969207049	Raw	TP
+Pigs	3219-17	M. circinelloides	1673	0.9479060548	Raw	TP
+Pigs	2017-17	M. circinelloides	25548	0.9234345927	Raw	TP
+Iceman	Iceman	M. circinelloides	61163	0.9119797337	Decontaminated	TP
+Iceman	Iceman	M. circinelloides	61799	0.9077352818	Raw	TP
+Iceman	Iceman_Large_intestine_lower_part_225	M. circinelloides	1909	0.8816021347	Decontaminated	TP
+Dogs	Zape2	M. circinelloides	1961	0.881403015	Decontaminated	TP
+Iceman	Iceman_Large_intestine_lower_part_225	M. circinelloides	2038	0.8494391972	Raw	TP
+Dogs	Zape2	M. circinelloides	2149	0.8342597214	Raw	TP
+Pigs	2007-17	N. albida	2796	0.9956030338	Decontaminated	TP
+Pigs	2007-17	N. albida	2846	0.9543920146	Raw	TP
+Human	UT30	N. albida	1876	0.614866476	Raw	FP
+Human	Zape2	N. albida	1400	0.5537908361	Raw	FP
+Pigs	6007-17	N. glabratus	12204	0.9916498975	Decontaminated	TP
+Pigs	6007-17	N. glabratus	12282	0.9193904303	Raw	TP
+Pigs	9030-17	O. dentatum	2298	0.994002565	Decontaminated	TP
+Pigs	9030-17	O. dentatum	2296	0.9702906543	Raw	TP
+Iceman	Iceman_Large_intestine_upper_part_II_1036	O. lupi	1022	0.4738265244	Raw	FP
+Iceman	Iceman_Muscle_tissue_Muscle_1_and_2	O. lupi	10411	0.3515090086	Raw	FP
+Iceman	Iceman_Large_intestine_lower_part_225	O. ochengi	1268	0.8665578015	Raw	TP
+Iceman	Iceman_Stomach_antrum_content_1051	O. ochengi	1051	0.8632023208	Raw	TP
+Dogs	Solarolo	O. ochengi	4120	0.8366460222	Raw	TP
+Iceman	Iceman	O. ochengi	9294	0.758236521	Raw	FP
+Madagascar	SRR7658585	P. univalens	1012	0.2842591098	Raw	FP
+Madagascar	SRR7658624	P. univalens	1110	0.2741225745	Raw	FP
+Madagascar	SRR7658658	P. univalens	1355	0.2618384317	Raw	FP
+Madagascar	SRR7658586	P. univalens	1565	0.2608299075	Raw	FP
+Madagascar	SRR7658662	P. univalens	3911	0.2359202021	Raw	FP
+Dogs	Solarolo	P. univalens	1754	0.2052299491	Raw	FP
+Dogs	Zape2	P. univalens	1579	0.1808727247	Raw	FP
+Pigs	2014-17	P. univalens	1641	0.1631319082	Raw	FP
+Madagascar	SRR7658646	P. univalens	1103	0.1611871085	Raw	FP
+Hallstatt	HS2604	P. univalens	1965	0.1604848793	Raw	FP
+Madagascar	SRR7658661	P. univalens	1053	0.1574870212	Raw	FP
+Pigs	7004-17	P. univalens	1025	0.1527714838	Raw	FP
+Madagascar	SRR7658605	P. univalens	1181	0.1522058973	Raw	FP
+Madagascar	SRR7658587	P. univalens	1040	0.1519345962	Raw	FP
+Madagascar	SRR7658634	P. univalens	1007	0.1515174938	Raw	FP
+Pigs	8030-17	P. univalens	1010	0.150716956	Raw	FP
+Human	Zape28	P. univalens	1825	0.1498192857	Raw	FP
+Pigs	6010-17	P. univalens	1176	0.1498003799	Raw	FP
+Pigs	8002-17	P. univalens	1218	0.1497859787	Raw	FP
+Madagascar	SRR7658647	P. univalens	1235	0.1488225885	Raw	FP
+Pigs	8008-17	P. univalens	1064	0.1483378896	Raw	FP
+Human	Zape2	P. univalens	1997	0.1479549621	Raw	FP
+Pigs	7018-17	P. univalens	1050	0.147779195	Raw	FP
+Madagascar	SRR7658649	P. univalens	1282	0.147394003	Raw	FP
+Madagascar	SRR7658627	P. univalens	1156	0.1472783086	Raw	FP
+Pigs	8004-17	P. univalens	1177	0.1472475839	Raw	FP
+Pigs	2009-17	P. univalens	1224	0.1467681444	Raw	FP
+Pigs	6016-17	P. univalens	1070	0.146656469	Raw	FP
+Pigs	4037-17	P. univalens	1005	0.1466280972	Raw	FP
+Madagascar	SRR7658584	P. univalens	1054	0.1464185497	Raw	FP
+Pigs	7008-17	P. univalens	1139	0.1462368555	Raw	FP
+Pigs	2004-17	P. univalens	1334	0.1456703774	Raw	FP
+Pigs	2012-17	P. univalens	1344	0.1449819411	Raw	FP
+Pigs	2005-17	P. univalens	1384	0.1448364415	Raw	FP
+Pigs	4014-17	P. univalens	1157	0.1441780224	Raw	FP
+Pigs	2015-17	P. univalens	1227	0.1441730362	Raw	FP
+Pigs	2008-17	P. univalens	1137	0.1440820176	Raw	FP
+Pigs	9022-17	P. univalens	1410	0.1440386447	Raw	FP
+Pigs	4023-17	P. univalens	1058	0.1439865158	Raw	FP
+Madagascar	SRR7658663	P. univalens	1709	0.1436146482	Raw	FP
+Pigs	2001-17	P. univalens	1361	0.1435773129	Raw	FP
+Pigs	2011-17	P. univalens	1344	0.1435574534	Raw	FP
+Pigs	4002-17	P. univalens	1392	0.1434216612	Raw	FP
+Hallstatt	HS2611	P. univalens	2397	0.1434128816	Raw	FP
+Madagascar	SRR7658667	P. univalens	1916	0.143313694	Raw	FP
+Hallstatt	HS2610	P. univalens	2059	0.1428066607	Raw	FP
+Pigs	2002-17	P. univalens	1483	0.1422734405	Raw	FP
+Human	Zape3	P. univalens	2125	0.1405478256	Raw	FP
+Pigs	2017-17	P. univalens	1571	0.1401990493	Raw	FP
+Pigs	2003-17	P. univalens	1662	0.1401036691	Raw	FP
+Iceman	Iceman_Muscle_tissue_Muscle_1_and_2	P. univalens	1031	0.1385642739	Raw	FP
+Pigs	2006-17	P. univalens	1654	0.138549397	Raw	FP
+Madagascar	SRR7658641	P. univalens	1862	0.138270681	Raw	FP
+Pigs	2007-17	P. univalens	1658	0.1367413305	Raw	FP
+Iceman	Iceman_Large_intestine_lower_part_225	P. univalens	2048	0.1287645376	Raw	FP
+Iceman	Iceman_Large_intestine_upper_part_II_1036	P. univalens	1055	0.1269603956	Raw	FP
+Iceman	Iceman	P. univalens	1862	0.1132541387	Raw	FP
+Dogs	Solarolo	P. trichosuri	1006	0.7439083072	Raw	FP
+Human	BRS2	P. trichosuri	1031	0.6027289641	Raw	FP
+Iceman	Iceman	P. trichosuri	2026	0.5956240678	Raw	FP
+Human	BRS4	P. trichosuri	3963	0.5439694844	Raw	FP
+Iceman	Iceman	P. tenuis	1371	0.6455882635	Raw	FP
+Dogs	cop_JBG16	P. rubens	1547	0.9759052989	Decontaminated	TP
+Dogs	cop_JBG16	P. rubens	1559	0.9747177129	Raw	TP
+Human	UT30	P. rubens	5677	0.9548281507	Decontaminated	TP
+Human	UT30	P. rubens	5820	0.9440888061	Raw	TP
+Dogs	YRK001	P. rubens	1152	0.910093534	Decontaminated	TP
+Hallstatt	HS2604	P. rubens	94651	0.8534170691	Decontaminated	TP
+Hallstatt	HS2604	P. rubens	94630	0.8533489699	Raw	TP
+Pigs	2006-17	P. rubens	1836	0.8283284352	Decontaminated	TP
+Dogs	YRK001	P. rubens	1469	0.7741648828	Raw	FP
+Pigs	2014-17	P. rubens	5915	0.7636560662	Decontaminated	FP
+Human	Zape2	P. rubens	1000	0.7519304572	Raw	FP
+Pigs	2006-17	P. rubens	2057	0.6556134408	Raw	FP
+Pigs	2014-17	P. rubens	6696	0.5928202089	Raw	FP
+Human	BRS4	P. rubens	1372	0.2648921577	Raw	FP
+Dogs	Solarolo	P. rubens	1101	0.1304802092	Raw	FP
+Pigs	6001-17	P. kudriavzevii	1242	0.996278365	Decontaminated	TP
+Pigs	6016-17	P. kudriavzevii	1051	0.9962083374	Decontaminated	TP
+Pigs	5004-17	P. kudriavzevii	1688	0.99615909	Decontaminated	TP
+Pigs	2008-17	P. kudriavzevii	10958	0.9885211866	Decontaminated	TP
+Hallstatt	HS2604	P. kudriavzevii	1555	0.9802796868	Raw	TP
+Hallstatt	HS2604	P. kudriavzevii	1607	0.9674916209	Decontaminated	TP
+Pigs	6016-17	P. kudriavzevii	1041	0.9487137086	Raw	TP
+Pigs	6001-17	P. kudriavzevii	1227	0.9454777884	Raw	TP
+Pigs	5004-17	P. kudriavzevii	1678	0.9364608074	Raw	TP
+Pigs	2008-17	P. kudriavzevii	10865	0.9235943044	Raw	TP
+Iceman	Iceman	R. delemar	13079	0.8356042633	Raw	TP
+Iceman	Iceman	R. delemar	14693	0.7884178003	Decontaminated	FP
+Pigs	6009-17	S. cerevisiae	1107	0.9983920633	Decontaminated	TP
+Pigs	6005-17	S. cerevisiae	1047	0.9979054704	Decontaminated	TP
+Pigs	7012-17	S. cerevisiae	1500	0.9976298818	Decontaminated	TP
+Pigs	5004-17	S. cerevisiae	1316	0.996801949	Decontaminated	TP
+Pigs	7003-17	S. cerevisiae	3217	0.9960515303	Decontaminated	TP
+Pigs	6007-17	S. cerevisiae	8971	0.9928941592	Decontaminated	TP
+Hallstatt	HS2604	S. cerevisiae	1074643	0.9918615162	Decontaminated	TP
+Hallstatt	HS2604	S. cerevisiae	1075309	0.9916889939	Raw	TP
+Madagascar	SRR7658606	S. cerevisiae	2892	0.9758732891	Decontaminated	TP
+Pigs	6016-17	S. cerevisiae	41057	0.9757649147	Decontaminated	TP
+Madagascar	SRR7658606	S. cerevisiae	2896	0.9751742532	Raw	TP
+Madagascar	SRR7658602	S. cerevisiae	2035	0.9745099913	Decontaminated	TP
+Madagascar	SRR7658602	S. cerevisiae	2038	0.9737645483	Raw	TP
+Pigs	6016-17	S. cerevisiae	41095	0.9691153489	Raw	TP
+Pigs	7012-17	S. cerevisiae	1495	0.9652681565	Raw	TP
+Hallstatt	HS2611	S. cerevisiae	19609	0.9615446304	Decontaminated	TP
+Hallstatt	HS2611	S. cerevisiae	19666	0.960361192	Raw	TP
+Pigs	6009-17	S. cerevisiae	1111	0.9566029275	Raw	TP
+Pigs	7003-17	S. cerevisiae	3224	0.9438632179	Raw	TP
+Pigs	6005-17	S. cerevisiae	1047	0.9426067396	Raw	TP
+Pigs	5004-17	S. cerevisiae	1315	0.9408002054	Raw	TP
+Pigs	6007-17	S. cerevisiae	8970	0.929665484	Raw	TP
+Madagascar	SRR7658664	S. venezuelensis	1669	0.2985051569	Raw	FP
+Human	Zape_29	S. venezuelensis	2805	0.2907937942	Raw	FP
+Madagascar	SRR7658670	S. venezuelensis	1114	0.2199809108	Raw	FP
+Human	Zape2	S. venezuelensis	1012	0.2062174863	Raw	FP
+Madagascar	SRR7658675	S. venezuelensis	1739	0.1785005101	Raw	FP
+Madagascar	SRR7658650	S. venezuelensis	2208	0.1728732972	Raw	FP
+Madagascar	SRR7658631	S. vulgaris	1086	0.4467878168	Raw	FP
+Madagascar	SRR7658641	S. vulgaris	1014	0.4404308002	Raw	FP
+Madagascar	SRR7658591	S. vulgaris	1128	0.43959255	Raw	FP
+Madagascar	SRR7658608	S. vulgaris	1141	0.4385718896	Raw	FP
+Madagascar	SRR7658622	S. vulgaris	1280	0.4322786806	Raw	FP
+Madagascar	SRR7658586	S. vulgaris	1598	0.4268746229	Raw	FP
+Madagascar	SRR7658628	S. vulgaris	1772	0.4213441575	Raw	FP
+Madagascar	SRR7658653	S. vulgaris	1836	0.4210133675	Raw	FP
+Madagascar	SRR7658669	S. vulgaris	1794	0.4199203565	Raw	FP
+Madagascar	SRR7658606	S. vulgaris	2070	0.4090353861	Raw	FP
+Madagascar	SRR7658633	S. vulgaris	1954	0.408780671	Raw	FP
+Madagascar	SRR7658636	S. vulgaris	1800	0.403278043	Raw	FP
+Madagascar	SRR7658656	S. vulgaris	2533	0.4011200118	Raw	FP
+Madagascar	SRR7658584	S. vulgaris	2242	0.3915411513	Raw	FP
+Madagascar	SRR7658639	S. vulgaris	1096	0.3894573956	Raw	FP
+Madagascar	SRR7658645	S. vulgaris	2426	0.3849745871	Raw	FP
+Madagascar	SRR7658672	S. vulgaris	3499	0.3843847143	Raw	FP
+Madagascar	SRR7658677	S. vulgaris	2665	0.3843397389	Raw	FP
+Madagascar	SRR7658665	S. vulgaris	3117	0.3833539906	Raw	FP
+Madagascar	SRR7658642	S. vulgaris	1208	0.3831342179	Raw	FP
+Madagascar	SRR7658682	S. vulgaris	3214	0.382986246	Raw	FP
+Madagascar	SRR7658649	S. vulgaris	3724	0.3819042398	Raw	FP
+Pigs	4023-17	S. vulgaris	1175	0.3815587423	Raw	FP
+Madagascar	SRR7658632	S. vulgaris	1272	0.3775464191	Raw	FP
+Dogs	Zape2	S. vulgaris	2959	0.3753719728	Raw	FP
+Madagascar	SRR7658590	S. vulgaris	3890	0.3726875552	Raw	FP
+Madagascar	SRR7658662	S. vulgaris	5369	0.3697612033	Raw	FP
+Madagascar	SRR7658658	S. vulgaris	4415	0.3685473637	Raw	FP
+Madagascar	SRR7658668	S. vulgaris	2276	0.368420416	Raw	FP
+Madagascar	SRR7658661	S. vulgaris	3450	0.3678152197	Raw	FP
+Madagascar	SRR7658624	S. vulgaris	5035	0.3667916773	Raw	FP
+Madagascar	SRR7658594	S. vulgaris	5304	0.366522579	Raw	FP
+Madagascar	SRR7658655	S. vulgaris	5285	0.3661516249	Raw	FP
+Madagascar	SRR7658627	S. vulgaris	3923	0.3636865787	Raw	FP
+Madagascar	SRR7658675	S. vulgaris	7060	0.3558875158	Raw	FP
+Human	Zape_29	S. vulgaris	4652	0.35436816	Raw	FP
+Madagascar	SRR7658670	S. vulgaris	6266	0.3505434191	Raw	FP
+Human	Zape2	S. vulgaris	5186	0.3491902479	Raw	FP
+Madagascar	SRR7658643	S. vulgaris	2058	0.3479101327	Raw	FP
+Madagascar	SRR7658646	S. vulgaris	9176	0.3471648796	Raw	FP
+Pigs	9030-17	S. vulgaris	1791	0.3470680277	Raw	FP
+Madagascar	SRR7658650	S. vulgaris	9448	0.3453082908	Raw	FP
+Madagascar	SRR7658664	S. vulgaris	7728	0.3432352366	Raw	FP
+Madagascar	SRR7658585	S. vulgaris	4011	0.3422495536	Raw	FP
+Madagascar	SRR7658583	S. vulgaris	11546	0.3416600302	Raw	FP
+Madagascar	SRR7658667	S. vulgaris	8822	0.3351742249	Raw	FP
+Dogs	YRK001	T. solium	1023	0.6382019605	Raw	FP
+Dogs	Solarolo	T. solium	1081	0.6154837728	Raw	FP
+Pigs	7009-17	T. solium	1019	0.5756909799	Raw	FP
+Pigs	5036-17	T. solium	1075	0.5705253523	Raw	FP
+Pigs	5011-17	T. solium	1001	0.5701827165	Raw	FP
+Pigs	9003-17	T. solium	1061	0.5623206859	Raw	FP
+Pigs	1043-17	T. solium	1325	0.5604188541	Raw	FP
+Pigs	3201-17	T. solium	1114	0.5585787378	Raw	FP
+Pigs	8020-17	T. solium	1332	0.5573640912	Raw	FP
+Pigs	5025-17	T. solium	1125	0.5568323665	Raw	FP
+Pigs	4026-17	T. solium	1004	0.5541111843	Raw	FP
+Pigs	1033-17	T. solium	1089	0.5527896367	Raw	FP
+Pigs	6001-17	T. solium	1160	0.5519079155	Raw	FP
+Pigs	6011-17	T. solium	1690	0.551463286	Raw	FP
+Pigs	7004-17	T. solium	1330	0.5501967079	Raw	FP
+Pigs	1031-17	T. solium	1194	0.5501864692	Raw	FP
+Pigs	1041-17	T. solium	1264	0.548763604	Raw	FP
+Pigs	4035-17	T. solium	1054	0.5481302208	Raw	FP
+Pigs	6007-17	T. solium	1147	0.547752125	Raw	FP
+Pigs	3207-17	T. solium	1038	0.5473727893	Raw	FP
+Pigs	1003-17	T. solium	1738	0.5471410159	Raw	FP
+Pigs	5037-17	T. solium	1465	0.5458375078	Raw	FP
+Pigs	4007-17	T. solium	1293	0.5455550179	Raw	FP
+Pigs	1025-17	T. solium	1918	0.5452561788	Raw	FP
+Pigs	1037-17	T. solium	1805	0.5441312397	Raw	FP
+Pigs	7002-17	T. solium	1482	0.5425862397	Raw	FP
+Pigs	8036-17	T. solium	1443	0.5397772355	Raw	FP
+Pigs	1019-17	T. solium	1815	0.5385554007	Raw	FP
+Pigs	1011-17	T. solium	2508	0.5370660601	Raw	FP
+Pigs	5007-17	T. solium	2624	0.5368818789	Raw	FP
+Pigs	1029-17	T. solium	1460	0.5368569196	Raw	FP
+Pigs	5008-17	T. solium	2245	0.5363557229	Raw	FP
+Pigs	8018-17	T. solium	1159	0.5360045863	Raw	FP
+Pigs	5027-17	T. solium	1892	0.5356960142	Raw	FP
+Pigs	1017-17	T. solium	2200	0.5352230217	Raw	FP
+Pigs	8026-17	T. solium	1877	0.5347696134	Raw	FP
+Pigs	1015-17	T. solium	2449	0.533789892	Raw	FP
+Pigs	4037-17	T. solium	1347	0.5331701979	Raw	FP
+Pigs	1021-17	T. solium	2475	0.5318708482	Raw	FP
+Pigs	3204-17	T. solium	1646	0.5295688759	Raw	FP
+Pigs	3210-17	T. solium	1639	0.5269860165	Raw	FP
+Pigs	8012-17	T. solium	1397	0.5269587218	Raw	FP
+Pigs	4002-17	T. solium	1694	0.5266787104	Raw	FP
+Pigs	1027-17	T. solium	2587	0.5264982878	Raw	FP
+Pigs	5028-17	T. solium	2461	0.5229633728	Raw	FP
+Pigs	4025-17	T. solium	1813	0.5218219504	Raw	FP
+Pigs	5026-17	T. solium	2473	0.5210986747	Raw	FP
+Pigs	3220-17	T. solium	2251	0.5193814203	Raw	FP
+Pigs	6016-17	T. solium	2710	0.5185187203	Raw	FP
+Pigs	1005-17	T. solium	3627	0.5161107761	Raw	FP
+Pigs	3206-17	T. solium	2496	0.5143043256	Raw	FP
+Pigs	5012-17	T. solium	3661	0.5122351388	Raw	FP
+Pigs	4001-17	T. solium	1745	0.5117408567	Raw	FP
+Pigs	1001-17	T. solium	2610	0.5081725087	Raw	FP
+Pigs	1023-17	T. solium	4282	0.5073057562	Raw	FP
+Pigs	1035-17	T. solium	3195	0.5070939833	Raw	FP
+Pigs	8016-17	T. solium	1643	0.5057328671	Raw	FP
+Pigs	5029-17	T. solium	3910	0.5049666523	Raw	FP
+Pigs	4024-17	T. solium	2686	0.5031988352	Raw	FP
+Pigs	1007-17	T. solium	4192	0.5004023228	Raw	FP
+Pigs	7006-17	T. solium	3012	0.4993881112	Raw	FP
+Pigs	5001-17	T. solium	2215	0.4958630727	Raw	FP
+Pigs	8014-17	T. solium	3406	0.4861071984	Raw	FP
+Pigs	3217-17	T. solium	3708	0.4856176114	Raw	FP
+Human	Zape_29	T. thermophilus	1016	0.9055078262	Decontaminated	TP
+Human	Zape_29	T. thermophilus	1030	0.9036797412	Raw	TP
+Human	BRS4	T. thermophilus	2709	0.8561702534	Decontaminated	TP
+Human	BRS4	T. thermophilus	2737	0.8531614025	Raw	TP
+Madagascar	SRR7658606	T. leonina	1100	0.8364951771	Raw	TP
+Madagascar	SRR7658651	T. leonina	1051	0.8271786863	Raw	TP
+Dogs	YRK001	T. leonina	1686	0.8175148643	Decontaminated	TP
+Dogs	YRK001	T. leonina	2373	0.8164511219	Raw	TP
+Madagascar	SRR7658660	T. leonina	1438	0.8035365899	Raw	TP
+Madagascar	SRR7658600	T. leonina	1347	0.7913935805	Decontaminated	FP
+Madagascar	SRR7658600	T. leonina	2009	0.7910581557	Raw	FP
+Madagascar	SRR7658677	T. leonina	1395	0.7811295857	Raw	FP
+Human	RGA001	T. leonina	1975	0.7725354131	Decontaminated	FP
+Dogs	cop_JBG10	T. leonina	2153	0.7691203768	Decontaminated	FP
+Dogs	cop_JBG462	T. leonina	2226	0.7662065479	Raw	FP
+Dogs	cop_JBG462	T. leonina	1540	0.7628893996	Decontaminated	FP
+Madagascar	SRR7658655	T. leonina	2842	0.7609065288	Raw	FP
+Human	RGA001	T. leonina	3111	0.7589073766	Raw	FP
+Dogs	cop_JBG10	T. leonina	3245	0.7585634061	Raw	FP
+Madagascar	SRR7658655	T. leonina	1961	0.7569074407	Decontaminated	FP
+Madagascar	SRR7658596	T. leonina	2282	0.7438265394	Decontaminated	FP
+Madagascar	SRR7658596	T. leonina	3541	0.737797962	Raw	FP
+Madagascar	SRR7658689	T. leonina	3830	0.7343920582	Raw	FP
+Human	MAM001	T. leonina	3566	0.7296304929	Decontaminated	FP
+Hallstatt	HS2604	T. leonina	3231	0.726118457	Decontaminated	FP
+Hallstatt	HS2604	T. leonina	4657	0.7256039762	Raw	FP
+Human	MAM001	T. leonina	5471	0.7252945529	Raw	FP
+Madagascar	SRR7658581	T. leonina	2910	0.7226500653	Decontaminated	FP
+Madagascar	SRR7658689	T. leonina	2640	0.7204182377	Decontaminated	FP
+Madagascar	SRR7658581	T. leonina	4520	0.7191428101	Raw	FP
+Madagascar	SRR7658607	T. leonina	4095	0.6887393191	Decontaminated	FP
+Madagascar	SRR7658607	T. leonina	6415	0.6876090717	Raw	FP
+Dogs	cop_JBG16	T. leonina	21977	0.6366225645	Raw	FP
+Dogs	cop_JBG16	T. leonina	14945	0.6341571752	Decontaminated	FP
+Madagascar	SRR7658658	T. leonina	12555	0.6238388621	Decontaminated	FP
+Madagascar	SRR7658658	T. leonina	19760	0.619367716	Raw	FP
+Pigs	9018-17	T. leonina	1493	0.5434930947	Decontaminated	FP
+Pigs	7009-17	T. leonina	2488	0.5166962166	Decontaminated	FP
+Pigs	9030-17	T. leonina	1110	0.4009595835	Raw	FP
+Pigs	9018-17	T. leonina	1540	0.2679146082	Raw	FP
+Pigs	7009-17	T. leonina	2497	0.2458251508	Raw	FP
+Dogs	cop_JBG16	T. canis	12947	0.9836075839	Decontaminated	TP
+Dogs	cop_JBG16	T. canis	25980	0.8190460148	Raw	TP
+Iceman	Iceman_Stomach_corpus_content_I_1054	T. canis	1160	0.8152919142	Raw	TP
+Madagascar	SRR7658677	T. canis	1383	0.781789404	Raw	FP
+Dogs	cop_JBG29	T. canis	2406	0.7422990547	Raw	FP
+Iceman	Iceman_Large_intestine_upper_part_I_1036	T. canis	2758	0.731500008	Raw	FP
+Iceman	Iceman_Large_intestine_upper_part_II_1036	T. canis	2984	0.721454012	Raw	FP
+Iceman	Iceman_Stomach_corpus_content_II_1054	T. canis	4145	0.7136489962	Raw	FP
+Dogs	Solarolo	T. canis	12563	0.6389812258	Raw	FP
+Madagascar	SRR7658646	T. canis	1532	0.6268925958	Raw	FP
+Madagascar	SRR7658584	T. canis	9705	0.6190290313	Raw	FP
+Madagascar	SRR7658661	T. canis	12180	0.6165951331	Raw	FP
+Dogs	Zape2	T. canis	16345	0.6137239633	Raw	FP
+Madagascar	SRR7658641	T. canis	12859	0.6101367603	Raw	FP
+Hallstatt	HS2611	T. canis	43786	0.5528547956	Raw	FP
+Hallstatt	HS2604	T. canis	36848	0.5356624422	Raw	FP
+Iceman	Iceman_Large_intestine_lower_part_225	T. canis	105962	0.5189158061	Raw	FP
+Iceman	Iceman	T. canis	224612	0.4897032522	Raw	FP
+Human	Zape2	T. canis	1085	0.2677897725	Raw	FP
+Iceman	Iceman	T. gondii	3370	0.398291636	Raw	FP
+Iceman	Iceman_Muscle_tissue_Muscle_1_and_2	T. gondii	1417	0.3265647459	Raw	FP
+Iceman	Iceman_Stomach_corpus_surface_1054	T. patagoniensis	1016	0.6169062727	Raw	FP
+Iceman	Iceman_Small_intestine_1063	T. patagoniensis	1301	0.6094456759	Raw	FP
+Iceman	Iceman_Large_intestine_lower_part_225	T. patagoniensis	2515	0.565526769	Raw	FP
+Iceman	Iceman_Stomach_antrum_content_1051	T. patagoniensis	2405	0.5631488702	Raw	FP
+Iceman	Iceman_Stomach_antrum_surface_1051	T. patagoniensis	2638	0.557430864	Raw	FP
+Hallstatt	HS2610	T. patagoniensis	1721	0.5355684385	Raw	FP
+Iceman	Iceman_Stomach_corpus_content_I_1054	T. patagoniensis	4033	0.52874238	Raw	FP
+Pigs	7020-17	T. patagoniensis	1534	0.5146165278	Raw	FP
+Pigs	5007-17	T. patagoniensis	2197	0.510154571	Raw	FP
+Pigs	9024-17	T. patagoniensis	1466	0.5074243105	Raw	FP
+Pigs	8030-17	T. patagoniensis	2168	0.4968096707	Raw	FP
+Iceman	Iceman_Stomach_corpus_content_II_1054	T. patagoniensis	9743	0.4965538594	Raw	FP
+Pigs	3207-17	T. patagoniensis	1114	0.4961914898	Raw	FP
+Iceman	Iceman	T. patagoniensis	11870	0.4950061597	Raw	FP
+Hallstatt	HS2604	T. patagoniensis	19869	0.4775842467	Raw	FP
+Hallstatt	HS2604	T. patagoniensis	1435	0.2598722259	Decontaminated	FP
+Iceman	Iceman	T. patagoniensis	1048	0.2551402589	Decontaminated	FP
+Madagascar	SRR7658648	T. mentagrophytes	1274	0.4709277686	Raw	FP
+Pigs	2020-17	T. mentagrophytes	1328	0.4676188464	Raw	FP
+Madagascar	SRR7658622	T. mentagrophytes	1469	0.4659358942	Raw	FP
+Human	UT43	T. mentagrophytes	1087	0.4647033236	Raw	FP
+Pigs	2014-17	T. mentagrophytes	1403	0.4585905307	Raw	FP
+Pigs	9028-17	T. mentagrophytes	1730	0.4573091792	Raw	FP
+Madagascar	SRR7658630	T. mentagrophytes	1167	0.4572584083	Raw	FP
+Madagascar	SRR7658652	T. mentagrophytes	1372	0.4542731085	Raw	FP
+Madagascar	SRR7658591	T. mentagrophytes	1281	0.4531824244	Raw	FP
+Madagascar	SRR7658616	T. mentagrophytes	1782	0.4511170447	Raw	FP
+Madagascar	SRR7658592	T. mentagrophytes	1271	0.4508690633	Raw	FP
+Madagascar	SRR7658687	T. mentagrophytes	1268	0.4461054536	Raw	FP
+Madagascar	SRR7658644	T. mentagrophytes	2132	0.4437528444	Raw	FP
+Madagascar	SRR7658637	T. mentagrophytes	1653	0.4425884052	Raw	FP
+Pigs	9020-17	T. mentagrophytes	2098	0.4422352322	Raw	FP
+Hallstatt	HS2604	T. mentagrophytes	2336	0.4399041298	Raw	FP
+Madagascar	SRR7658631	T. mentagrophytes	1865	0.4367593222	Raw	FP
+Pigs	9029-17	T. mentagrophytes	2804	0.4280867136	Raw	FP
+Pigs	9027-17	T. mentagrophytes	2839	0.4263359493	Raw	FP
+Madagascar	SRR7658641	T. mentagrophytes	2691	0.4232483414	Raw	FP
+Madagascar	SRR7658639	T. mentagrophytes	2699	0.4221880016	Raw	FP
+Human	Zape3	T. mentagrophytes	2390	0.4202098588	Raw	FP
+Madagascar	SRR7658607	T. mentagrophytes	2419	0.4189453808	Raw	FP
+Madagascar	SRR7658584	T. mentagrophytes	4233	0.4160266713	Raw	FP
+Madagascar	SRR7658632	T. mentagrophytes	3113	0.4143951565	Raw	FP
+Pigs	4023-17	T. mentagrophytes	3769	0.4120561841	Raw	FP
+Madagascar	SRR7658617	T. mentagrophytes	1776	0.4111776188	Raw	FP
+Madagascar	SRR7658649	T. mentagrophytes	2774	0.4087372056	Raw	FP
+Madagascar	SRR7658604	T. mentagrophytes	2685	0.4066578278	Raw	FP
+Madagascar	SRR7658677	T. mentagrophytes	4743	0.4054093182	Raw	FP
+Madagascar	SRR7658636	T. mentagrophytes	4971	0.3977382245	Raw	FP
+Madagascar	SRR7658669	T. mentagrophytes	3980	0.3974610652	Raw	FP
+Madagascar	SRR7658608	T. mentagrophytes	1980	0.3966813738	Raw	FP
+Madagascar	SRR7658653	T. mentagrophytes	3315	0.3934142065	Raw	FP
+Pigs	9030-17	T. mentagrophytes	5748	0.3918962343	Raw	FP
+Madagascar	SRR7658606	T. mentagrophytes	5847	0.3863358555	Raw	FP
+Madagascar	SRR7658633	T. mentagrophytes	4145	0.386030217	Raw	FP
+Madagascar	SRR7658665	T. mentagrophytes	7095	0.3845897033	Raw	FP
+Madagascar	SRR7658661	T. mentagrophytes	7237	0.3817912926	Raw	FP
+Madagascar	SRR7658627	T. mentagrophytes	7012	0.3808036777	Raw	FP
+Madagascar	SRR7658643	T. mentagrophytes	2920	0.3798227227	Raw	FP
+Madagascar	SRR7658642	T. mentagrophytes	4845	0.3789693208	Raw	FP
+Madagascar	SRR7658645	T. mentagrophytes	3105	0.3770844964	Raw	FP
+Madagascar	SRR7658672	T. mentagrophytes	5514	0.3742567684	Raw	FP
+Madagascar	SRR7658682	T. mentagrophytes	4542	0.3741980287	Raw	FP
+Madagascar	SRR7658668	T. mentagrophytes	7695	0.3736501475	Raw	FP
+Madagascar	SRR7658658	T. mentagrophytes	9463	0.3687598485	Raw	FP
+Madagascar	SRR7658646	T. mentagrophytes	7470	0.3669172415	Raw	FP
+Human	Zape2	T. mentagrophytes	10868	0.3621855142	Raw	FP
+Dogs	Zape2	T. mentagrophytes	7611	0.3615018461	Raw	FP
+Madagascar	SRR7658656	T. mentagrophytes	7343	0.3589178479	Raw	FP
+Human	Zape_29	T. mentagrophytes	12495	0.3580422811	Raw	FP
+Madagascar	SRR7658662	T. mentagrophytes	8837	0.3547193074	Raw	FP
+Madagascar	SRR7658594	T. mentagrophytes	12117	0.3538230639	Raw	FP
+Madagascar	SRR7658635	T. mentagrophytes	1179	0.3514642761	Raw	FP
+Madagascar	SRR7658664	T. mentagrophytes	20984	0.3448744218	Raw	FP
+Madagascar	SRR7658675	T. mentagrophytes	12236	0.342857671	Raw	FP
+Madagascar	SRR7658585	T. mentagrophytes	3296	0.3410121939	Raw	FP
+Madagascar	SRR7658655	T. mentagrophytes	9804	0.3407475375	Raw	FP
+Madagascar	SRR7658670	T. mentagrophytes	17528	0.3406350087	Raw	FP
+Madagascar	SRR7658590	T. mentagrophytes	9559	0.3401558016	Raw	FP
+Madagascar	SRR7658624	T. mentagrophytes	2983	0.2826839716	Raw	FP
+Madagascar	SRR7658650	T. mentagrophytes	2226	0.2778382696	Raw	FP
+Madagascar	SRR7658667	T. mentagrophytes	9694	0.2602449161	Raw	FP
+Madagascar	SRR7658583	T. mentagrophytes	2274	0.2158050674	Raw	FP
+Human	MAM001	T. trichiura	1550	0.9735808164	Decontaminated	TP
+Human	MAM001	T. trichiura	2017	0.9435930545	Raw	TP
+Hallstatt	HS2604	T. trichiura	2978	0.9356720801	Decontaminated	TP
+Human	BRS3	T. trichiura	2851	0.8064362397	Raw	TP
+Dogs	cop_JBG29	T. trichiura	4782	0.753851313	Raw	FP
+Pigs	6010-17	T. trichiura	1297	0.7450290155	Decontaminated	FP
+Pigs	5037-17	T. trichiura	1018	0.7333442352	Decontaminated	FP
+Pigs	2008-17	T. trichiura	1804	0.7320486093	Decontaminated	FP
+Human	RGA001	T. trichiura	2378	0.7195618377	Raw	FP
+Pigs	3203-17	T. trichiura	1435	0.7145294277	Decontaminated	FP
+Pigs	1035-17	T. trichiura	1806	0.7101442956	Decontaminated	FP
+Pigs	9019-17	T. trichiura	1368	0.7071247203	Decontaminated	FP
+Pigs	1031-17	T. trichiura	1402	0.705480244	Decontaminated	FP
+Pigs	4026-17	T. trichiura	1005	0.7006905461	Decontaminated	FP
+Pigs	2016-17	T. trichiura	15163	0.6986353468	Raw	FP
+Pigs	9002-17	T. trichiura	1010	0.6974205622	Decontaminated	FP
+Pigs	5040-17	T. trichiura	1268	0.6967604815	Decontaminated	FP
+Madagascar	SRR7658609	T. trichiura	10846	0.6965702832	Raw	FP
+Pigs	8026-17	T. trichiura	1908	0.693868225	Decontaminated	FP
+Dogs	YRK001	T. trichiura	11987	0.6931253443	Raw	FP
+Pigs	4007-17	T. trichiura	1002	0.6918569516	Decontaminated	FP
+Pigs	3206-17	T. trichiura	1080	0.6914783541	Decontaminated	FP
+Pigs	5028-17	T. trichiura	1021	0.689391638	Decontaminated	FP
+Human	BRS2	T. trichiura	14256	0.6887164878	Raw	FP
+Madagascar	SRR7658612	T. trichiura	11545	0.6877426377	Raw	FP
+Pigs	3201-17	T. trichiura	2065	0.6845949304	Decontaminated	FP
+Pigs	1027-17	T. trichiura	1951	0.6844729929	Decontaminated	FP
+Pigs	9013-17	T. trichiura	1023	0.6838495917	Decontaminated	FP
+Pigs	1033-17	T. trichiura	1583	0.6836516831	Decontaminated	FP
+Pigs	7007-17	T. trichiura	1027	0.6834908392	Decontaminated	FP
+Pigs	5015-17	T. trichiura	1121	0.6830543444	Decontaminated	FP
+Pigs	8012-17	T. trichiura	2140	0.6830454086	Decontaminated	FP
+Pigs	9015-17	T. trichiura	1077	0.6829534648	Decontaminated	FP
+Dogs	cop_JBG16	T. trichiura	12808	0.6828207209	Raw	FP
+Pigs	7014-17	T. trichiura	1074	0.6822614045	Decontaminated	FP
+Pigs	7019-17	T. trichiura	1081	0.6821146148	Decontaminated	FP
+Pigs	5001-17	T. trichiura	2839	0.6798613822	Decontaminated	FP
+Pigs	8016-17	T. trichiura	2400	0.6744972373	Decontaminated	FP
+Pigs	4037-17	T. trichiura	1138	0.6736208797	Decontaminated	FP
+Pigs	8008-17	T. trichiura	1236	0.6685634511	Decontaminated	FP
+Pigs	2012-17	T. trichiura	1014	0.6678212843	Decontaminated	FP
+Pigs	7010-17	T. trichiura	1153	0.6671352625	Decontaminated	FP
+Pigs	5036-17	T. trichiura	1430	0.6666068332	Decontaminated	FP
+Pigs	7004-17	T. trichiura	1231	0.6665250969	Decontaminated	FP
+Pigs	3217-17	T. trichiura	1250	0.6636936992	Decontaminated	FP
+Pigs	7009-17	T. trichiura	1711	0.6606616758	Decontaminated	FP
+Pigs	1043-17	T. trichiura	3021	0.6603030282	Decontaminated	FP
+Pigs	7003-17	T. trichiura	1262	0.6593101643	Decontaminated	FP
+Pigs	1023-17	T. trichiura	2059	0.6583732995	Decontaminated	FP
+Pigs	1007-17	T. trichiura	2207	0.6578916853	Decontaminated	FP
+Madagascar	SRR7658614	T. trichiura	28394	0.6576260084	Raw	FP
+Madagascar	SRR7658605	T. trichiura	14572	0.6562272003	Raw	FP
+Pigs	5041-17	T. trichiura	1969	0.6542187294	Decontaminated	FP
+Pigs	1025-17	T. trichiura	2188	0.6525147496	Decontaminated	FP
+Madagascar	SRR7658603	T. trichiura	12539	0.6516302143	Raw	FP
+Pigs	6001-17	T. trichiura	1479	0.6512161845	Decontaminated	FP
+Human	BRS4	T. trichiura	28275	0.6511084585	Raw	FP
+Pigs	1001-17	T. trichiura	3584	0.6507535483	Decontaminated	FP
+Pigs	1017-17	T. trichiura	2338	0.6436167388	Decontaminated	FP
+Pigs	8030-17	T. trichiura	2153	0.6432811131	Decontaminated	FP
+Pigs	7017-17	T. trichiura	1702	0.6430181157	Decontaminated	FP
+Pigs	1011-17	T. trichiura	2734	0.6424794107	Decontaminated	FP
+Pigs	5008-17	T. trichiura	1806	0.6411546397	Decontaminated	FP
+Pigs	1041-17	T. trichiura	3355	0.6408297896	Decontaminated	FP
+Pigs	9013-17	T. trichiura	33543	0.6406335601	Raw	FP
+Pigs	8034-17	T. trichiura	2243	0.6405325409	Decontaminated	FP
+Pigs	3220-17	T. trichiura	2587	0.6386322823	Decontaminated	FP
+Pigs	3216-17	T. trichiura	20321	0.6383957044	Raw	FP
+Human	UT43	T. trichiura	31614	0.6381586639	Raw	FP
+Pigs	3210-17	T. trichiura	1532	0.6376538449	Decontaminated	FP
+Pigs	7005-17	T. trichiura	1798	0.6370751078	Decontaminated	FP
+Pigs	4025-17	T. trichiura	15418	0.6319784548	Raw	FP
+Madagascar	SRR7658657	T. trichiura	42174	0.6308571699	Raw	FP
+Pigs	8004-17	T. trichiura	2192	0.6300429439	Decontaminated	FP
+Pigs	8014-17	T. trichiura	4378	0.6288793767	Decontaminated	FP
+Pigs	5007-17	T. trichiura	1728	0.6287875311	Decontaminated	FP
+Pigs	3218-17	T. trichiura	2275	0.6269999526	Decontaminated	FP
+Pigs	8002-17	T. trichiura	1933	0.6267431199	Decontaminated	FP
+Madagascar	SRR7658680	T. trichiura	27452	0.6265653967	Raw	FP
+Pigs	8028-17	T. trichiura	3077	0.6238736846	Decontaminated	FP
+Pigs	9021-17	T. trichiura	31640	0.6234410319	Raw	FP
+Pigs	8022-17	T. trichiura	3312	0.6229159496	Decontaminated	FP
+Madagascar	SRR7658651	T. trichiura	19376	0.6217679851	Raw	FP
+Madagascar	SRR7658635	T. trichiura	32337	0.6206723635	Raw	FP
+Pigs	7018-17	T. trichiura	2404	0.6205926454	Decontaminated	FP
+Human	Zape2	T. trichiura	452726	0.620190595	Raw	FP
+Pigs	6022-17	T. trichiura	16544	0.6192627943	Raw	FP
+Madagascar	SRR7658616	T. trichiura	49238	0.6190583632	Raw	FP
+Madagascar	SRR7658592	T. trichiura	47640	0.6183093284	Raw	FP
+Dogs	cop_JBG462	T. trichiura	1296	0.6178511804	Raw	FP
+Madagascar	SRR7658658	T. trichiura	383613	0.6163323653	Raw	FP
+Madagascar	SRR7658629	T. trichiura	29469	0.6161153379	Raw	FP
+Madagascar	SRR7658664	T. trichiura	726512	0.6148748275	Raw	FP
+Pigs	1037-17	T. trichiura	3116	0.6146985802	Decontaminated	FP
+Madagascar	SRR7658683	T. trichiura	29394	0.6138726686	Raw	FP
+Madagascar	SRR7658661	T. trichiura	372195	0.6132737117	Raw	FP
+Madagascar	SRR7658611	T. trichiura	10810	0.6131626897	Raw	FP
+Madagascar	SRR7658670	T. trichiura	549155	0.6130269536	Raw	FP
+Madagascar	SRR7658649	T. trichiura	255245	0.6118481153	Raw	FP
+Madagascar	SRR7658677	T. trichiura	242784	0.611783239	Raw	FP
+Madagascar	SRR7658676	T. trichiura	48485	0.6117756097	Raw	FP
+Madagascar	SRR7658600	T. trichiura	50112	0.611759527	Raw	FP
+Madagascar	SRR7658646	T. trichiura	597299	0.6116138187	Raw	FP
+Madagascar	SRR7658655	T. trichiura	375690	0.6111295866	Raw	FP
+Pigs	2020-17	T. trichiura	60787	0.6103856869	Raw	FP
+Madagascar	SRR7658669	T. trichiura	161544	0.6100512587	Raw	FP
+Madagascar	SRR7658665	T. trichiura	266094	0.6099801672	Raw	FP
+Pigs	2014-17	T. trichiura	66656	0.6098906126	Raw	FP
+Madagascar	SRR7658583	T. trichiura	681801	0.6096878304	Raw	FP
+Pigs	9028-17	T. trichiura	70351	0.6096406225	Raw	FP
+Madagascar	SRR7658597	T. trichiura	41016	0.6096057775	Raw	FP
+Madagascar	SRR7658637	T. trichiura	47629	0.6095033533	Raw	FP
+Madagascar	SRR7658633	T. trichiura	144583	0.6093444861	Raw	FP
+Madagascar	SRR7658645	T. trichiura	211913	0.6090974335	Raw	FP
+Madagascar	SRR7658624	T. trichiura	332699	0.6090695072	Raw	FP
+Madagascar	SRR7658594	T. trichiura	369757	0.6086652835	Raw	FP
+Madagascar	SRR7658602	T. trichiura	40942	0.608420971	Raw	FP
+Madagascar	SRR7658662	T. trichiura	347146	0.6082441143	Raw	FP
+Madagascar	SRR7658643	T. trichiura	247323	0.6081835145	Raw	FP
+Madagascar	SRR7658650	T. trichiura	576956	0.6081518298	Raw	FP
+Madagascar	SRR7658604	T. trichiura	106861	0.6079287782	Raw	FP
+Madagascar	SRR7658584	T. trichiura	191723	0.6078330169	Raw	FP
+Madagascar	SRR7658652	T. trichiura	59802	0.6075757882	Raw	FP
+Madagascar	SRR7658641	T. trichiura	91299	0.6075586506	Raw	FP
+Madagascar	SRR7658585	T. trichiura	409660	0.6075389397	Raw	FP
+Madagascar	SRR7658675	T. trichiura	452747	0.6075311453	Raw	FP
+Madagascar	SRR7658622	T. trichiura	93788	0.6074273769	Raw	FP
+Madagascar	SRR7658607	T. trichiura	102204	0.6071536746	Raw	FP
+Madagascar	SRR7658667	T. trichiura	713881	0.6071509801	Raw	FP
+Madagascar	SRR7658656	T. trichiura	186420	0.6070152236	Raw	FP
+Madagascar	SRR7658599	T. trichiura	38941	0.6066537343	Raw	FP
+Madagascar	SRR7658606	T. trichiura	156976	0.6062720905	Raw	FP
+Madagascar	SRR7658628	T. trichiura	121981	0.6059594093	Raw	FP
+Madagascar	SRR7658627	T. trichiura	324534	0.6059188636	Raw	FP
+Madagascar	SRR7658590	T. trichiura	324257	0.605535414	Raw	FP
+Madagascar	SRR7658672	T. trichiura	206061	0.605517909	Raw	FP
+Madagascar	SRR7658631	T. trichiura	75065	0.6050847769	Raw	FP
+Pigs	9027-17	T. trichiura	121180	0.6049154141	Raw	FP
+Madagascar	SRR7658653	T. trichiura	119769	0.6048257417	Raw	FP
+Madagascar	SRR7658636	T. trichiura	161013	0.6047011692	Raw	FP
+Human	Zape_23	T. trichiura	21732	0.6046910476	Raw	FP
+Pigs	8040-17	T. trichiura	2749	0.6043177552	Decontaminated	FP
+Pigs	9029-17	T. trichiura	119971	0.6042175258	Raw	FP
+Madagascar	SRR7658632	T. trichiura	142596	0.6041598679	Raw	FP
+Madagascar	SRR7658678	T. trichiura	41452	0.6039392055	Raw	FP
+Pigs	9030-17	T. trichiura	236984	0.6037195463	Raw	FP
+Madagascar	SRR7658668	T. trichiura	227781	0.6036501622	Raw	FP
+Madagascar	SRR7658682	T. trichiura	246800	0.6035625961	Raw	FP
+Madagascar	SRR7658687	T. trichiura	57589	0.6031449314	Raw	FP
+Madagascar	SRR7658591	T. trichiura	82457	0.6030236598	Raw	FP
+Pigs	9020-17	T. trichiura	69915	0.6020351237	Raw	FP
+Pigs	4023-17	T. trichiura	162876	0.6017616008	Raw	FP
+Human	Zape_29	T. trichiura	348160	0.6008275981	Raw	FP
+Madagascar	SRR7658642	T. trichiura	125593	0.5998699347	Raw	FP
+Pigs	8020-17	T. trichiura	4246	0.599306074	Decontaminated	FP
+Madagascar	SRR7658639	T. trichiura	114863	0.5992694719	Raw	FP
+Madagascar	SRR7658586	T. trichiura	124628	0.5986807963	Raw	FP
+Madagascar	SRR7658644	T. trichiura	90154	0.5980547418	Raw	FP
+Madagascar	SRR7658617	T. trichiura	87585	0.5978066677	Raw	FP
+Madagascar	SRR7658608	T. trichiura	84674	0.5974922124	Raw	FP
+Pigs	8032-17	T. trichiura	3212	0.5964926149	Decontaminated	FP
+Madagascar	SRR7658660	T. trichiura	42841	0.5962144354	Raw	FP
+Pigs	6011-17	T. trichiura	17441	0.596151484	Raw	FP
+Madagascar	SRR7658647	T. trichiura	22771	0.5958480491	Raw	FP
+Dogs	Zape2	T. trichiura	227852	0.5957179297	Raw	FP
+Pigs	9022-17	T. trichiura	1969	0.5939288911	Decontaminated	FP
+Pigs	9017-17	T. trichiura	69161	0.5932240863	Raw	FP
+Hallstatt	HS2604	T. trichiura	79959	0.592772935	Raw	FP
+Pigs	9016-17	T. trichiura	55064	0.5923164035	Raw	FP
+Madagascar	SRR7658648	T. trichiura	71804	0.5914923287	Raw	FP
+Pigs	3202-17	T. trichiura	16551	0.5881082556	Raw	FP
+Pigs	8018-17	T. trichiura	5594	0.5866332951	Decontaminated	FP
+Human	Zape3	T. trichiura	91804	0.5866228261	Raw	FP
+Pigs	9014-17	T. trichiura	16153	0.5865830955	Raw	FP
+Madagascar	SRR7658685	T. trichiura	12089	0.5864549782	Raw	FP
+Pigs	4028-17	T. trichiura	36412	0.5856872429	Raw	FP
+Pigs	7008-17	T. trichiura	3137	0.5846259664	Decontaminated	FP
+Madagascar	SRR7658679	T. trichiura	52883	0.58271152	Raw	FP
+Pigs	8038-17	T. trichiura	4117	0.5823323358	Decontaminated	FP
+Madagascar	SRR7658626	T. trichiura	17205	0.5822746579	Raw	FP
+Pigs	8036-17	T. trichiura	5432	0.5817876657	Decontaminated	FP
+Madagascar	SRR7658630	T. trichiura	42268	0.5803183196	Raw	FP
+Pigs	9022-17	T. trichiura	36898	0.5801950851	Raw	FP
+Madagascar	SRR7658579	T. trichiura	15577	0.5799818511	Raw	FP
+Madagascar	SRR7658688	T. trichiura	6663	0.5795790658	Raw	FP
+Pigs	9024-17	T. trichiura	11492	0.5784949616	Raw	FP
+Pigs	8010-17	T. trichiura	6251	0.5772589298	Decontaminated	FP
+Madagascar	SRR7658623	T. trichiura	48851	0.5751028354	Raw	FP
+Iceman	Iceman_Large_intestine_lower_part_225	T. trichiura	1274	0.574765785	Raw	FP
+Madagascar	SRR7658580	T. trichiura	52789	0.5716365918	Raw	FP
+Madagascar	SRR7658582	T. trichiura	48279	0.5711650474	Raw	FP
+Pigs	8004-17	T. trichiura	37923	0.5679731274	Raw	FP
+Pigs	9023-17	T. trichiura	12158	0.5671157869	Raw	FP
+Pigs	6012-17	T. trichiura	36850	0.5658338131	Raw	FP
+Pigs	2018-17	T. trichiura	20115	0.5644167021	Raw	FP
+Madagascar	SRR7658640	T. trichiura	30153	0.5562126171	Raw	FP
+Pigs	4024-17	T. trichiura	14312	0.5540691917	Raw	FP
+Pigs	1039-17	T. trichiura	5594	0.551744775	Decontaminated	FP
+Pigs	4002-17	T. trichiura	15982	0.5506859265	Raw	FP
+Madagascar	SRR7658588	T. trichiura	19991	0.5469100865	Raw	FP
+Human	Zape1	T. trichiura	37202	0.5456760145	Raw	FP
+Madagascar	SRR7658684	T. trichiura	12058	0.5410940965	Raw	FP
+Madagascar	SRR7658674	T. trichiura	16838	0.5404966645	Raw	FP
+Pigs	2011-17	T. trichiura	6576	0.5341197004	Raw	FP
+Pigs	4038-17	T. trichiura	25542	0.5320371343	Raw	FP
+Madagascar	SRR7658621	T. trichiura	26033	0.5318507126	Raw	FP
+Madagascar	SRR7658666	T. trichiura	22399	0.5298298199	Raw	FP
+Pigs	4014-17	T. trichiura	21525	0.5296272486	Raw	FP
+Madagascar	SRR7658613	T. trichiura	3961	0.529367855	Raw	FP
+Pigs	6007-17	T. trichiura	6880	0.5284518577	Raw	FP
+Madagascar	SRR7658689	T. trichiura	14760	0.5262251402	Raw	FP
+Pigs	2017-17	T. trichiura	10373	0.5256834595	Raw	FP
+Madagascar	SRR7658589	T. trichiura	18914	0.5246944524	Raw	FP
+Pigs	4001-17	T. trichiura	24882	0.5240118403	Raw	FP
+Madagascar	SRR7658595	T. trichiura	18010	0.5204042732	Raw	FP
+Pigs	4026-17	T. trichiura	25332	0.5160335713	Raw	FP
+Madagascar	SRR7658620	T. trichiura	22839	0.5148804288	Raw	FP
+Madagascar	SRR7658619	T. trichiura	16224	0.5144760113	Raw	FP
+Madagascar	SRR7658601	T. trichiura	12702	0.5139875519	Raw	FP
+Pigs	3218-17	T. trichiura	10605	0.5071663794	Raw	FP
+Pigs	5035-17	T. trichiura	7840	0.5056435656	Raw	FP
+Madagascar	SRR7658659	T. trichiura	33895	0.5055770792	Raw	FP
+Pigs	6020-17	T. trichiura	7347	0.5047554775	Raw	FP
+Madagascar	SRR7658663	T. trichiura	17717	0.5030919622	Raw	FP
+Pigs	5032-17	T. trichiura	19567	0.5021168429	Raw	FP
+Pigs	6006-17	T. trichiura	9583	0.5005515979	Raw	FP
+Madagascar	SRR7658587	T. trichiura	14558	0.4993452746	Raw	FP
+Madagascar	SRR7658686	T. trichiura	9336	0.4988916759	Raw	FP
+Pigs	5007-17	T. trichiura	23644	0.4981313924	Raw	FP
+Pigs	6001-17	T. trichiura	27864	0.4970759658	Raw	FP
+Pigs	2004-17	T. trichiura	30906	0.4967999511	Raw	FP
+Pigs	1011-17	T. trichiura	30047	0.4905321723	Raw	FP
+Pigs	4030-17	T. trichiura	21473	0.4900968841	Raw	FP
+Pigs	5031-17	T. trichiura	15609	0.4893174255	Raw	FP
+Madagascar	SRR7658615	T. trichiura	6250	0.4890268654	Raw	FP
+Pigs	3209-17	T. trichiura	4833	0.4850773705	Raw	FP
+Pigs	5036-17	T. trichiura	12226	0.4838011805	Raw	FP
+Pigs	9003-17	T. trichiura	13917	0.4829410143	Raw	FP
+Pigs	6019-17	T. trichiura	15182	0.4819916451	Raw	FP
+Pigs	5040-17	T. trichiura	7407	0.4818652481	Raw	FP
+Madagascar	SRR7658634	T. trichiura	12230	0.4816082172	Raw	FP
+Pigs	8006-17	T. trichiura	10691	0.4814667351	Raw	FP
+Pigs	5001-17	T. trichiura	24206	0.4797423106	Raw	FP
+Madagascar	SRR7658654	T. trichiura	18182	0.4788969108	Raw	FP
+Pigs	1021-17	T. trichiura	21801	0.477944711	Raw	FP
+Pigs	1015-17	T. trichiura	11563	0.4764781901	Raw	FP
+Pigs	7007-17	T. trichiura	19309	0.4755135137	Raw	FP
+Pigs	3219-17	T. trichiura	8280	0.4750567056	Raw	FP
+Pigs	9006-17	T. trichiura	6289	0.4739390367	Raw	FP
+Pigs	4035-17	T. trichiura	15556	0.4709662331	Raw	FP
+Pigs	4007-17	T. trichiura	16997	0.4705347431	Raw	FP
+Pigs	3201-17	T. trichiura	10924	0.4688549188	Raw	FP
+Iceman	Iceman	T. trichiura	6488	0.468179387	Raw	FP
+Pigs	2005-17	T. trichiura	17611	0.4660517632	Raw	FP
+Pigs	3204-17	T. trichiura	9815	0.4653287081	Raw	FP
+Pigs	2002-17	T. trichiura	12372	0.4648534459	Raw	FP
+Madagascar	SRR7658598	T. trichiura	12346	0.4643333049	Raw	FP
+Pigs	2006-17	T. trichiura	23425	0.464208331	Raw	FP
+Pigs	5041-17	T. trichiura	9256	0.463477835	Raw	FP
+Madagascar	SRR7658671	T. trichiura	17185	0.463053843	Raw	FP
+Pigs	7013-17	T. trichiura	12512	0.4628988228	Raw	FP
+Pigs	7018-17	T. trichiura	21216	0.4616153414	Raw	FP
+Pigs	4031-17	T. trichiura	16953	0.4611215912	Raw	FP
+Pigs	8014-17	T. trichiura	21003	0.46079021	Raw	FP
+Pigs	2008-17	T. trichiura	10654	0.4598517204	Raw	FP
+Pigs	7019-17	T. trichiura	17344	0.4592221984	Raw	FP
+Madagascar	SRR7658618	T. trichiura	6083	0.4555397007	Raw	FP
+Hallstatt	HS2611	T. trichiura	2444	0.455119861	Decontaminated	FP
+Pigs	7004-17	T. trichiura	23325	0.4547490194	Raw	FP
+Pigs	4037-17	T. trichiura	21513	0.4539718791	Raw	FP
+Pigs	1003-17	T. trichiura	18140	0.451978085	Raw	FP
+Pigs	4034-17	T. trichiura	14180	0.4514131675	Raw	FP
+Pigs	1041-17	T. trichiura	17813	0.4502973078	Raw	FP
+Pigs	5026-17	T. trichiura	12628	0.4498217887	Raw	FP
+Pigs	4033-17	T. trichiura	17235	0.4445895216	Raw	FP
+Madagascar	SRR7658596	T. trichiura	10982	0.4435811636	Raw	FP
+Pigs	3210-17	T. trichiura	13456	0.4431568923	Raw	FP
+Pigs	5012-17	T. trichiura	16631	0.4425891039	Raw	FP
+Madagascar	SRR7658581	T. trichiura	23659	0.4424070009	Raw	FP
+Pigs	1035-17	T. trichiura	15608	0.4422003888	Raw	FP
+Pigs	8020-17	T. trichiura	14391	0.4419078021	Raw	FP
+Pigs	8002-17	T. trichiura	23647	0.441556143	Raw	FP
+Madagascar	SRR7658638	T. trichiura	9456	0.4412448566	Raw	FP
+Pigs	3217-17	T. trichiura	7877	0.4405553073	Raw	FP
+Pigs	5008-17	T. trichiura	17830	0.4404576286	Raw	FP
+Pigs	3205-17	T. trichiura	4364	0.4401827242	Raw	FP
+Pigs	1037-17	T. trichiura	17805	0.4389959278	Raw	FP
+Pigs	6009-17	T. trichiura	7894	0.4381774988	Raw	FP
+Pigs	6021-17	T. trichiura	6910	0.4375196614	Raw	FP
+Pigs	6015-17	T. trichiura	10201	0.436176583	Raw	FP
+Hallstatt	HS2611	T. trichiura	20548	0.4351395674	Raw	FP
+Madagascar	SRR7658673	T. trichiura	13889	0.4343994961	Raw	FP
+Pigs	7015-17	T. trichiura	14591	0.4338548625	Raw	FP
+Pigs	7011-17	T. trichiura	18579	0.433170592	Raw	FP
+Dogs	Solarolo	T. trichiura	7976	0.4319858438	Raw	FP
+Pigs	8018-17	T. trichiura	21611	0.431607786	Raw	FP
+Pigs	4029-17	T. trichiura	14442	0.4315896819	Raw	FP
+Pigs	5037-17	T. trichiura	10680	0.4315264645	Raw	FP
+Pigs	8016-17	T. trichiura	13697	0.4306566356	Raw	FP
+Pigs	1043-17	T. trichiura	12311	0.4295973956	Raw	FP
+Pigs	3215-17	T. trichiura	4064	0.4294708252	Raw	FP
+Pigs	2013-17	T. trichiura	5233	0.4284776253	Raw	FP
+Pigs	1023-17	T. trichiura	20730	0.4283541507	Raw	FP
+Pigs	1001-17	T. trichiura	27049	0.4281188063	Raw	FP
+Pigs	4039-17	T. trichiura	14000	0.4280042665	Raw	FP
+Madagascar	SRR7658600	T. trichiura	4301	0.4279294793	Decontaminated	FP
+Pigs	6018-17	T. trichiura	7739	0.4277674678	Raw	FP
+Pigs	6005-17	T. trichiura	11842	0.4276728893	Raw	FP
+Madagascar	SRR7658690	T. trichiura	15110	0.4272235163	Raw	FP
+Pigs	3220-17	T. trichiura	12880	0.4271638338	Raw	FP
+Madagascar	SRR7658625	T. trichiura	12916	0.4264647281	Raw	FP
+Pigs	7014-17	T. trichiura	15053	0.4262708377	Raw	FP
+Madagascar	SRR7658681	T. trichiura	3759	0.4262616796	Raw	FP
+Pigs	5015-17	T. trichiura	15636	0.4258433567	Raw	FP
+Pigs	2019-17	T. trichiura	14143	0.4256554357	Raw	FP
+Pigs	4036-17	T. trichiura	17409	0.4252067715	Raw	FP
+Pigs	1017-17	T. trichiura	22196	0.4249227102	Raw	FP
+Pigs	6013-17	T. trichiura	8479	0.424834251	Raw	FP
+Pigs	8032-17	T. trichiura	15354	0.4237079556	Raw	FP
+Pigs	1007-17	T. trichiura	17345	0.4232428663	Raw	FP
+Pigs	3207-17	T. trichiura	5619	0.4227628498	Raw	FP
+Pigs	6016-17	T. trichiura	11417	0.4225865008	Raw	FP
+Pigs	8022-17	T. trichiura	17161	0.4224146213	Raw	FP
+Pigs	5011-17	T. trichiura	10228	0.4223104646	Raw	FP
+Madagascar	SRR7658674	T. trichiura	1869	0.4222917644	Decontaminated	FP
+Pigs	1005-17	T. trichiura	13950	0.4220923522	Raw	FP
+Pigs	5025-17	T. trichiura	14821	0.421712501	Raw	FP
+Pigs	2012-17	T. trichiura	10802	0.4210036107	Raw	FP
+Pigs	4032-17	T. trichiura	15634	0.4207574617	Raw	FP
+Pigs	9002-17	T. trichiura	12775	0.4198737258	Raw	FP
+Pigs	5029-17	T. trichiura	13385	0.4197604238	Raw	FP
+Pigs	6017-17	T. trichiura	15729	0.4192203717	Raw	FP
+Pigs	7020-17	T. trichiura	16003	0.4180075364	Raw	FP
+Pigs	7012-17	T. trichiura	8353	0.4179820002	Raw	FP
+Pigs	3208-17	T. trichiura	7467	0.4175120106	Raw	FP
+Pigs	8008-17	T. trichiura	21010	0.4173660185	Raw	FP
+Pigs	8010-17	T. trichiura	25234	0.4172581551	Raw	FP
+Madagascar	SRR7658655	T. trichiura	1678	0.4168717306	Decontaminated	FP
+Pigs	5019-17	T. trichiura	12500	0.4162673479	Raw	FP
+Hallstatt	HS2610	T. trichiura	1952	0.4160127767	Decontaminated	FP
+Pigs	2003-17	T. trichiura	13244	0.4139518645	Raw	FP
+Madagascar	SRR7658671	T. trichiura	2542	0.4139023137	Decontaminated	FP
+Pigs	1031-17	T. trichiura	13977	0.4136571755	Raw	FP
+Pigs	7016-17	T. trichiura	16172	0.4129282771	Raw	FP
+Madagascar	SRR7658647	T. trichiura	1311	0.4118641962	Decontaminated	FP
+Pigs	1027-17	T. trichiura	17452	0.4114568214	Raw	FP
+Madagascar	SRR7658592	T. trichiura	4072	0.4094372949	Decontaminated	FP
+Pigs	5004-17	T. trichiura	10788	0.4090622495	Raw	FP
+Hallstatt	HS2612	T. trichiura	24908	0.4088641512	Raw	FP
+Pigs	1025-17	T. trichiura	21711	0.4083854203	Raw	FP
+Pigs	3212-17	T. trichiura	6895	0.407604803	Raw	FP
+Pigs	1029-17	T. trichiura	10278	0.4059820866	Raw	FP
+Pigs	3203-17	T. trichiura	8607	0.4059056328	Raw	FP
+Madagascar	SRR7658621	T. trichiura	1869	0.4058093547	Decontaminated	FP
+Pigs	7002-17	T. trichiura	15849	0.4057410592	Raw	FP
+Pigs	2001-17	T. trichiura	11648	0.4047223552	Raw	FP
+Pigs	5027-17	T. trichiura	22703	0.4043377388	Raw	FP
+Pigs	8026-17	T. trichiura	11410	0.4042639332	Raw	FP
+Pigs	7017-17	T. trichiura	19080	0.4035310498	Raw	FP
+Pigs	5028-17	T. trichiura	17561	0.4029826327	Raw	FP
+Pigs	8028-17	T. trichiura	12248	0.4026430389	Raw	FP
+Pigs	8036-17	T. trichiura	16738	0.4016528863	Raw	FP
+Pigs	6010-17	T. trichiura	11772	0.4006243142	Raw	FP
+Pigs	9018-17	T. trichiura	8630	0.4004405542	Raw	FP
+Pigs	2007-17	T. trichiura	13301	0.4001715565	Raw	FP
+Pigs	8030-17	T. trichiura	13209	0.3994352127	Raw	FP
+Pigs	7008-17	T. trichiura	27881	0.3989680526	Raw	FP
+Madagascar	SRR7658638	T. trichiura	1594	0.3989303233	Decontaminated	FP
+Pigs	8012-17	T. trichiura	14551	0.3985042253	Raw	FP
+Pigs	3206-17	T. trichiura	9631	0.3983255541	Raw	FP
+Madagascar	SRR7658679	T. trichiura	7012	0.3973790174	Decontaminated	FP
+Pigs	7006-17	T. trichiura	12408	0.3970233991	Raw	FP
+Pigs	6014-17	T. trichiura	12338	0.3965401323	Raw	FP
+Pigs	9019-17	T. trichiura	15595	0.3957161883	Raw	FP
+Madagascar	SRR7658622	T. trichiura	1633	0.3956732171	Decontaminated	FP
+Pigs	2015-17	T. trichiura	10767	0.3953574925	Raw	FP
+Pigs	8038-17	T. trichiura	15889	0.395083749	Raw	FP
+Pigs	1033-17	T. trichiura	12988	0.3949867886	Raw	FP
+Pigs	1039-17	T. trichiura	16376	0.3944742688	Raw	FP
+Pigs	3211-17	T. trichiura	4459	0.3935834568	Raw	FP
+Madagascar	SRR7658610	T. trichiura	1491	0.3927005566	Raw	FP
+Madagascar	SRR7658620	T. trichiura	9411	0.3920203564	Decontaminated	FP
+Pigs	1019-17	T. trichiura	13435	0.3914721205	Raw	FP
+Madagascar	SRR7658654	T. trichiura	2561	0.3903706736	Decontaminated	FP
+Pigs	6008-17	T. trichiura	11924	0.3901981557	Raw	FP
+Pigs	9001-17	T. trichiura	12749	0.3891660334	Raw	FP
+Pigs	7003-17	T. trichiura	12904	0.3890321877	Raw	FP
+Madagascar	SRR7658651	T. trichiura	2019	0.3888804332	Decontaminated	FP
+Pigs	9015-17	T. trichiura	14422	0.387745965	Raw	FP
+Pigs	7009-17	T. trichiura	20751	0.3876822268	Raw	FP
+Pigs	8040-17	T. trichiura	14015	0.3874572237	Raw	FP
+Pigs	8034-17	T. trichiura	9748	0.3866297215	Raw	FP
+Pigs	7010-17	T. trichiura	17516	0.3850824741	Raw	FP
+Pigs	9012-17	T. trichiura	9409	0.3832203836	Raw	FP
+Madagascar	SRR7658683	T. trichiura	2235	0.3830629195	Decontaminated	FP
+Madagascar	SRR7658672	T. trichiura	2690	0.3795415339	Decontaminated	FP
+Pigs	7005-17	T. trichiura	21248	0.3792973208	Raw	FP
+Pigs	3214-17	T. trichiura	4034	0.3773410845	Raw	FP
+Pigs	8024-17	T. trichiura	6088	0.3771445759	Raw	FP
+Pigs	2010-17	T. trichiura	12404	0.3759348498	Raw	FP
+Pigs	6004-17	T. trichiura	6490	0.3746624544	Raw	FP
+Pigs	2009-17	T. trichiura	19933	0.3738200302	Raw	FP
+Pigs	3213-17	T. trichiura	7936	0.3730255124	Raw	FP
+Madagascar	SRR7658593	T. trichiura	4236	0.3725842929	Raw	FP
+Madagascar	SRR7658649	T. trichiura	4026	0.3721303947	Decontaminated	FP
+Madagascar	SRR7658689	T. trichiura	3215	0.3706231067	Decontaminated	FP
+Pigs	7001-17	T. trichiura	17175	0.3685712401	Raw	FP
+Madagascar	SRR7658660	T. trichiura	5353	0.3681556784	Decontaminated	FP
+Hallstatt	HS2610	T. trichiura	11571	0.3644959285	Raw	FP
+Human	Zape28	T. trichiura	18846	0.3621486991	Raw	FP
+Madagascar	SRR7658634	T. trichiura	2557	0.3607064346	Decontaminated	FP
+Human	Zape5	T. trichiura	18282	0.3579834571	Raw	FP
+Human	UT30	T. trichiura	22653	0.3579031594	Raw	FP
+Madagascar	SRR7658680	T. trichiura	6701	0.3574092422	Decontaminated	FP
+Madagascar	SRR7658641	T. trichiura	2077	0.3573935237	Decontaminated	FP
+Madagascar	SRR7658581	T. trichiura	3459	0.3567291327	Decontaminated	FP
+Human	Zape_27	T. trichiura	7548	0.3540623414	Raw	FP
+Madagascar	SRR7658642	T. trichiura	1453	0.351038748	Decontaminated	FP
+Madagascar	SRR7658628	T. trichiura	1840	0.3456019916	Decontaminated	FP
+Madagascar	SRR7658616	T. trichiura	1742	0.3444150828	Decontaminated	FP
+Madagascar	SRR7658656	T. trichiura	8366	0.3418745471	Decontaminated	FP
+Madagascar	SRR7658580	T. trichiura	5109	0.3417111389	Decontaminated	FP
+Madagascar	SRR7658599	T. trichiura	3653	0.3412900368	Decontaminated	FP
+Madagascar	SRR7658678	T. trichiura	2269	0.3411099233	Decontaminated	FP
+Madagascar	SRR7658687	T. trichiura	4813	0.3409943263	Decontaminated	FP
+Madagascar	SRR7658677	T. trichiura	6897	0.3389550662	Decontaminated	FP
+Madagascar	SRR7658690	T. trichiura	8568	0.3358811081	Decontaminated	FP
+Madagascar	SRR7658589	T. trichiura	2435	0.3355925225	Decontaminated	FP
+Madagascar	SRR7658669	T. trichiura	8473	0.3344152911	Decontaminated	FP
+Human	Coprolite_14	T. trichiura	14794	0.3336929242	Raw	FP
+Madagascar	SRR7658650	T. trichiura	10245	0.3321824383	Decontaminated	FP
+Human	Coprolite_19	T. trichiura	8693	0.330187454	Raw	FP
+Madagascar	SRR7658583	T. trichiura	12380	0.3282617835	Decontaminated	FP
+Madagascar	SRR7658623	T. trichiura	10896	0.3270074143	Decontaminated	FP
+Madagascar	SRR7658659	T. trichiura	8218	0.3255946616	Decontaminated	FP
+Human	Zape_31	T. trichiura	14936	0.3251062372	Raw	FP
+Madagascar	SRR7658587	T. trichiura	5059	0.324120209	Decontaminated	FP
+Human	Coprolite_16	T. trichiura	14301	0.3196123896	Raw	FP
+Madagascar	SRR7658646	T. trichiura	4093	0.3184311548	Decontaminated	FP
+Madagascar	SRR7658630	T. trichiura	6258	0.3176585711	Decontaminated	FP
+Human	Zape_25	T. trichiura	9480	0.315376473	Raw	FP
+Madagascar	SRR7658643	T. trichiura	10113	0.3142159615	Decontaminated	FP
+Madagascar	SRR7658639	T. trichiura	10922	0.3140140811	Decontaminated	FP
+Madagascar	SRR7658626	T. trichiura	1192	0.311288934	Decontaminated	FP
+Madagascar	SRR7658648	T. trichiura	7270	0.3060092566	Decontaminated	FP
+Madagascar	SRR7658640	T. trichiura	1105	0.2914665796	Decontaminated	FP
+Madagascar	SRR7658663	T. trichiura	2694	0.2560219628	Decontaminated	FP
+Madagascar	SRR7658652	T. trichiura	1126	0.2531186786	Decontaminated	FP
+Madagascar	SRR7658667	T. trichiura	4613	0.2453563577	Decontaminated	FP
+Human	Zape2	T. trichiura	2304	0.2029596432	Decontaminated	FP
+Human	Zape28	T. trichiura	2279	0.2028634419	Decontaminated	FP
+Human	Zape1	T. trichiura	1007	0.1634249771	Decontaminated	FP
+Human	UT30	T. trichiura	1654	0.1298432276	Decontaminated	FP
+Human	Zape5	T. trichiura	1277	0.007816743899	Decontaminated	FP
+Iceman	Iceman_Large_intestine_lower_part_225	T. congolense	1677	0.382266406	Raw	FP
+Iceman	Iceman_Stomach_corpus_content_II_1054	T. congolense	2164	0.3563079577	Raw	FP
+Iceman	Iceman	T. congolense	7613	0.3557519087	Raw	FP
+Iceman	Iceman_Muscle_tissue_Muscle_1_and_2	T. congolense	3123	0.3475931097	Raw	FP
+Iceman	Iceman_Large_intestine_upper_part_II_1036	T. congolense	4825	0.3475126393	Raw	FP
+Iceman	Iceman_Stomach_antrum_content_1051	T. congolense	2181	0.3454169792	Raw	FP
+Iceman	Iceman_Stomach_corpus_content_I_1054	T. congolense	2603	0.3453589892	Raw	FP
+Iceman	Iceman_Large_intestine_upper_part_I_1036	T. congolense	4584	0.3449312446	Raw	FP
+Iceman	Iceman_Stomach_corpus_surface_1054	T. congolense	3367	0.3390313734	Raw	FP
+Iceman	Iceman_Small_intestine_1063	T. congolense	3144	0.3375699867	Raw	FP
+Iceman	Iceman_Stomach_antrum_surface_1051	T. congolense	3490	0.3374766442	Raw	FP
