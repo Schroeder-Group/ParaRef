@@ -7,7 +7,7 @@ Shotgun metagenomics is a valuable tool for detecting parasite DNA, but contamin
    - Gather parasite genome sequences from public databases such as **NCBI** and **VEuPathDB** Release 61.
    
 2. **Contamination Detection and Removal**:
-   - Apply **FCS-GX** and **Contaminator** to detect contamination within the collected genomes.
+   - Apply **[FCS-adaptor](https://github.com/ncbi/fcs/wiki/FCS-adaptor-quickstart)**, **[FCS-GX](https://github.com/ncbi/fcs/wiki/FCS-GX-quickstart)** and **[Contaminator](https://github.com/steineggerlab/conterminator)** to detect contamination within the collected genomes.
    - Remove contaminated regions to clean the genome data using custom script.
 
 3. **Masking Low-Complexity Regions**:
@@ -42,3 +42,9 @@ Shotgun metagenomics is a valuable tool for detecting parasite DNA, but contamin
    - Use these metrics to evaluate the efficiency of contamination-masking and confirm the reliability of the curated database for parasite detection.
 
 This workflow ensures a rigorous process to decontaminate, evaluate, and authenticate parasite genomes, providing a robust database for accurate parasite detection in metagenomic studies.
+
+#### Reference
+O'Leary NA, Cox E, Holmes JB, et al. Exploring and retrieving sequence and metadata for species across the tree of life with NCBI Datasets. Sci Data. 2024;11(1):732. Published 2024 Jul 5. doi:10.1038/s41597-024-03571-y
+Amos B, Aurrecoechea C, Barba M, et al. VEuPathDB: the eukaryotic pathogen, vector and host bioinformatics resource center. Nucleic Acids Res. 2022;50(D1):D898-D911. doi:10.1093/nar/gkab929
+
+Astashyn A, Tvedte ES, Sweeney D, Sapojnikov V, Bouk N, Joukov V, Mozes E, Strope PK, Sylla PM, Wagner L, Bidwell SL, Brown LC, Clark K, Davis EW, Smith-White B, Hlavina W, Pruitt KD, Schneider VA, Murphy TD. Rapid and sensitive detection of genome contamination at scale with FCS-GX. Genome Biol. 2024 Feb 26;25(1):60. doi: 10.1186/s13059-024-03198-7. PMID: 38409096; PMCID: PMC10898089.
