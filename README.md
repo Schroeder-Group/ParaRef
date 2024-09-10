@@ -44,9 +44,9 @@ Shotgun metagenomics is a valuable tool for detecting parasite DNA, but contamin
 This workflow ensures a rigorous process to decontaminate, evaluate, and authenticate parasite genomes, providing a robust database for accurate parasite detection in metagenomic studies.
 
 #### Reference
-O'Leary NA, Cox E, Holmes JB, et al. Exploring and retrieving sequence and metadata for species across the tree of life with NCBI Datasets. Sci Data. 2024;11(1):732. Published 2024 Jul 5. doi:10.1038/s41597-024-03571-y
-Amos B, Aurrecoechea C, Barba M, et al. VEuPathDB: the eukaryotic pathogen, vector and host bioinformatics resource center. Nucleic Acids Res. 2022;50(D1):D898-D911. doi:10.1093/nar/gkab929
-Astashyn A, Tvedte ES, Sweeney D, et al. Rapid and sensitive detection of genome contamination at scale with FCS-GX. Genome Biol. 2024;25(1):60. Published 2024 Feb 26. doi:10.1186/s13059-024-03198-7
-Steinegger M, Salzberg SL. Terminating contamination: large-scale search identifies more than 2,000,000 contaminated entries in GenBank. Genome Biol. 2020;21(1):115. Published 2020 May 12. doi:10.1186/s13059-020-02023-1
-Fellows Yates JA, Lamnidis TC, Borry M, et al. Reproducible, portable, and efficient ancient genome reconstruction with nf-core/eager. PeerJ. 2021;9:e10947. Published 2021 Mar 16. doi:10.7717/peerj.10947
-Sikora M, Canteri E, Fernandez-Guerra A, et al. The landscape of ancient human pathogens in Eurasia from the Stone Age to historical times. bioRxiv. 2023. doi: 10.1101/2023.10.06.561165
+1. O'Leary NA, Cox E, Holmes JB, et al. Exploring and retrieving sequence and metadata for species across the tree of life with NCBI Datasets. Sci Data. 2024;11(1):732. Published 2024 Jul 5. doi:10.1038/s41597-024-03571-y
+2. Amos B, Aurrecoechea C, Barba M, et al. VEuPathDB: the eukaryotic pathogen, vector and host bioinformatics resource center. Nucleic Acids Res. 2022;50(D1):D898-D911. doi:10.1093/nar/gkab929
+3. Astashyn A, Tvedte ES, Sweeney D, et al. Rapid and sensitive detection of genome contamination at scale with FCS-GX. Genome Biol. 2024;25(1):60. Published 2024 Feb 26. doi:10.1186/s13059-024-03198-7
+4. Steinegger M, Salzberg SL. Terminating contamination: large-scale search identifies more than 2,000,000 contaminated entries in GenBank. Genome Biol. 2020;21(1):115. Published 2020 May 12. doi:10.1186/s13059-020-02023-1
+5. Fellows Yates JA, Lamnidis TC, Borry M, et al. Reproducible, portable, and efficient ancient genome reconstruction with nf-core/eager. PeerJ. 2021;9:e10947. Published 2021 Mar 16. doi:10.7717/peerj.10947
+6. Sikora M, Canteri E, Fernandez-Guerra A, et al. The landscape of ancient human pathogens in Eurasia from the Stone Age to historical times. bioRxiv. 2023. doi: 10.1101/2023.10.06.561165
