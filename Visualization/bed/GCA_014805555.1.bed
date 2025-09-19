@@ -1,0 +1,32 @@
+SBIQ01000135.1	1	23113	23113	EXCLUDE	anml:crustaceans	52	Procambarus clarkii
+SBIQ01000204.1	1	15668	15668	EXCLUDE	anml:crustaceans	55	Procambarus clarkii
+SBIQ01000331.1	1	7490	7490	EXCLUDE	anml:crustaceans	54	Procambarus clarkii
+SBIQ01000446.1	1	3562	3562	EXCLUDE	anml:crustaceans	79	Procambarus clarkii
+SBIQ01000486.1	1	2818	2818	EXCLUDE	anml:crustaceans	88	Procambarus clarkii
+SBIQ01000491.1	1	2788	2788	EXCLUDE	anml:crustaceans	100	Procambarus clarkii
+SBIQ01000641.1	518	1616	1616	TRIM	anml:crustaceans	65	Procambarus clarkii
+SBIQ01000725.1	1	1359	1359	EXCLUDE	virs:eukaryotic viruses	100	Invertebrate iridescent virus 6
+SBIQ01000730.1	1	1314	1314	EXCLUDE	anml:crustaceans	100	Eurytemora affinis
+SBIQ01000735.1	1	1334	1334	EXCLUDE	anml:crustaceans	92	Procambarus clarkii
+SBIQ01000936.1	1	987	987	EXCLUDE	virs:viruses	100	Cricket iridovirus
+SBIQ01001041.1	1	904	904	EXCLUDE	virs:eukaryotic viruses	96	Invertebrate iridescent virus 6
+SBIQ01001058.1	1	799	799	EXCLUDE	virs:eukaryotic viruses	100	Invertebrate iridescent virus Kaz2018
+SBIQ01001073.1	1	842	842	EXCLUDE	virs:eukaryotic viruses	100	Invertebrate iridescent virus 6
+SBIQ01001085.1	1	795	795	EXCLUDE	anml:crustaceans	60	Procambarus clarkii
+SBIQ01001092.1	1	788	788	EXCLUDE	anml:crustaceans	97	Procambarus clarkii
+SBIQ01001114.1	1	661	661	EXCLUDE	virs:eukaryotic viruses	94	Invertebrate iridescent virus Kaz2018
+SBIQ01001127.1	1	709	709	EXCLUDE	anml:crustaceans	69	Procambarus clarkii
+SBIQ01001151.1	1	669	669	EXCLUDE	anml:crustaceans	90	Procambarus clarkii
+SBIQ01001152.1	1	668	668	EXCLUDE	virs:eukaryotic viruses	100	Invertebrate iridescent virus Kaz2018
+SBIQ01001186.1	1	623	623	EXCLUDE	anml:crustaceans	98	Procambarus clarkii
+SBIQ01001225.1	1	587	587	EXCLUDE	anml:crustaceans	97	Procambarus clarkii
+SBIQ01001240.1	1	574	574	EXCLUDE	virs:eukaryotic viruses	100	Invertebrate iridescent virus Kaz2018
+SBIQ01001248.1	1	572	572	EXCLUDE	virs:eukaryotic viruses	98	Invertebrate iridescent virus Kaz2018
+SBIQ01001268.1	1	560	560	EXCLUDE	anml:crustaceans	90	Procambarus clarkii
+SBIQ01001290.1	1	548	548	EXCLUDE	virs:eukaryotic viruses	100	Invertebrate iridescent virus Kaz2018
+SBIQ01001318.1	1	536	536	EXCLUDE	virs:eukaryotic viruses	82	Invertebrate iridescent virus Kaz2018
+SBIQ01001321.1	1	534	534	EXCLUDE	virs:eukaryotic viruses	100	Invertebrate iridescent virus 6
+SBIQ01001322.1	1	534	534	EXCLUDE	anml:crustaceans	73	Procambarus clarkii
+SBIQ01001342.1	1	523	523	EXCLUDE	anml:crustaceans	97	Procambarus clarkii
+SBIQ01001354.1	1	516	516	EXCLUDE	virs:eukaryotic viruses	100	Invertebrate iridescent virus 6
+SBIQ01001365.1	1	512	512	EXCLUDE	anml:crustaceans	81	Procambarus clarkii

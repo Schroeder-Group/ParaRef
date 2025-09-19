@@ -1,0 +1,15 @@
+NW_018108289.1	166283	166911	196215	FIX	plnt:plants	48	n/a
+NW_018108305.1	142291	143185	178869	FIX	plnt:plants	85	Cajanus cajan
+NW_018108422.1	69500	71808	100920	FIX	virs:prokaryotic viruses	25	Staphylococcus phage 812
+NW_018108455.1	1	709	88565	TRIM	plnt:plants	50	n/a
+NW_018108462.1	60389	60911	86820	FIX	plnt:plants	100	Durio zibethinus
+NW_018108557.1	40828	42176	62540	FIX	fung:ascomycetes	41	Xylaria sp. FL1777
+NW_018108577.1	1	597	58228	TRIM	plnt:plants	90	n/a
+NW_018108747.1	21735	22462	29322	FIX	fung:ascomycetes	67	Aspergillus fijiensis
+NW_018108905.1	7507	8453	16310	FIX	plnt:plants	28	n/a
+NW_018109056.1	7156	7754	8933	FIX	prok:bacteria	69	n/a
+NW_018109684.1	1	1955	1955	EXCLUDE	anml:insects	34	n/a
+NW_018109820.1	1	1816	1816	EXCLUDE	anml:molluscs	20	n/a
+NW_018109866.1	1	1774	1774	EXCLUDE	anml:echinoderms	21	n/a
+NW_018110375.1	1	1458	1458	EXCLUDE	anml:insects	26	n/a
+NW_018112923.1	1	695	695	EXCLUDE	virs:eukaryotic viruses	38	Eutrema salsugineum

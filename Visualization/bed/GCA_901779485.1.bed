@@ -1,0 +1,100 @@
+CABFKQ010000039.1	15738	16321	16321	TRIM	virs:prokaryotic viruses	33	n/a
+CABFKQ010000104.1	15324	16044	16044	TRIM	prok:CFB group bacteria	100	Elizabethkingia miricola
+CABFKQ010000198.1	14583	18660	24867	FIX	prok:b-proteobacteria	91	Delftia acidovorans
+CABFKQ010001400.1	1	2117	2117	EXCLUDE	prok:b-proteobacteria	40	Achromobacter deleyi
+CABFKQ010003172.1	1	1760	1760	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia ursingii
+CABFKQ010003330.1	1	225	8378	TRIM	prok:CFB group bacteria	100	Elizabethkingia ursingii
+CABFKQ010003751.1	1375	1667	1667	TRIM	prok:CFB group bacteria	100	Elizabethkingia miricola
+CABFKQ010003962.1	1	1633	1633	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia ursingii
+CABFKQ010004612.1	1	1540	1540	EXCLUDE	prok:CFB group bacteria	43	Taibaiella chishuiensis
+CABFKQ010004945.1	1	1496	1496	EXCLUDE	prok:a-proteobacteria	77	Pseudochrobactrum asaccharolyticum
+CABFKQ010005806.1	1	1385	1385	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia ursingii
+CABFKQ010007669.1	1	1196	1196	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia ursingii
+CABFKQ010008266.1	1	1139	1139	EXCLUDE	prok:a-proteobacteria	78	Pseudochrobactrum asaccharolyticum
+CABFKQ010008422.1	1	1125	1125	EXCLUDE	prok:CFB group bacteria	99	Taibaiella chishuiensis
+CABFKQ010008548.1	1	1113	1113	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia ursingii
+CABFKQ010009072.1	1	1067	1067	EXCLUDE	prok:CFB group bacteria	75	Candidatus Azobacteroides sp.
+CABFKQ010009258.1	1	1053	1053	EXCLUDE	prok:CFB group bacteria	23	Taibaiella helva
+CABFKQ010009538.1	1	1031	1031	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia bruuniana
+CABFKQ010009753.1	1	1014	1014	EXCLUDE	prok:CFB group bacteria	100	Chryseobacterium oranimense
+CABFKQ010009889.1	1	1004	1004	EXCLUDE	prok:CFB group bacteria	100	Chryseobacterium pennae
+CABFKQ010009968.1	1	998	998	EXCLUDE	virs:viruses	32	n/a
+CABFKQ010010136.1	1	988	988	EXCLUDE	prok:CFB group bacteria	29	Elizabethkingia ursingii
+CABFKQ010010464.1	1	964	964	EXCLUDE	prok:CFB group bacteria	36	Taibaiella chishuiensis
+CABFKQ010010944.1	1	929	929	EXCLUDE	prok:CFB group bacteria	99	Taibaiella chishuiensis
+CABFKQ010010948.1	1	929	929	EXCLUDE	prok:CFB group bacteria	100	Taibaiella chishuiensis
+CABFKQ010011562.1	1	886	886	EXCLUDE	prok:CFB group bacteria	36	Taibaiella chishuiensis
+CABFKQ010011697.1	1	878	878	EXCLUDE	prok:a-proteobacteria	93	Pseudochrobactrum asaccharolyticum
+CABFKQ010012282.1	1	844	844	EXCLUDE	prok:CFB group bacteria	49	Taibaiella chishuiensis
+CABFKQ010012325.1	1	842	842	EXCLUDE	prok:CFB group bacteria	100	Taibaiella chishuiensis
+CABFKQ010012343.1	1	841	841	EXCLUDE	prok:CFB group bacteria	36	Taibaiella chishuiensis
+CABFKQ010012553.1	1	829	829	EXCLUDE	prok:CFB group bacteria	97	Taibaiella chishuiensis
+CABFKQ010012744.1	1	818	818	EXCLUDE	prok:CFB group bacteria	100	Taibaiella chishuiensis
+CABFKQ010012797.1	1	815	815	EXCLUDE	prok:CFB group bacteria	43	Taibaiella chishuiensis
+CABFKQ010012812.1	1	815	815	EXCLUDE	prok:g-proteobacteria	54	Escherichia coli
+CABFKQ010013004.1	1	804	804	EXCLUDE	prok:CFB group bacteria	55	Marivirga lumbricoides
+CABFKQ010013017.1	1	803	803	EXCLUDE	prok:CFB group bacteria	100	Taibaiella chishuiensis
+CABFKQ010013151.1	1	796	796	EXCLUDE	prok:CFB group bacteria	96	Taibaiella chishuiensis
+CABFKQ010013251.1	1	791	791	EXCLUDE	prok:CFB group bacteria	100	Taibaiella chishuiensis
+CABFKQ010013331.1	1	788	788	EXCLUDE	prok:CFB group bacteria	88	Taibaiella chishuiensis
+CABFKQ010013389.1	1	785	785	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia miricola
+CABFKQ010013487.1	1	779	779	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia ursingii
+CABFKQ010013496.1	1	779	779	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia ursingii
+CABFKQ010013533.1	1	777	777	EXCLUDE	prok:CFB group bacteria	95	Taibaiella chishuiensis
+CABFKQ010013555.1	1	776	776	EXCLUDE	prok:CFB group bacteria	53	Taibaiella chishuiensis
+CABFKQ010013611.1	1	773	773	EXCLUDE	prok:CFB group bacteria	49	Elizabethkingia ursingii
+CABFKQ010013650.1	1	772	772	EXCLUDE	prok:CFB group bacteria	100	Taibaiella chishuiensis
+CABFKQ010013755.1	1	767	767	EXCLUDE	prok:CFB group bacteria	49	Taibaiella chishuiensis
+CABFKQ010013778.1	1	770	770	EXCLUDE	virs:viruses	42	n/a
+CABFKQ010013780.1	1	766	766	EXCLUDE	prok:CFB group bacteria	100	Taibaiella chishuiensis
+CABFKQ010013861.1	1	762	762	EXCLUDE	prok:CFB group bacteria	100	Taibaiella chishuiensis
+CABFKQ010013966.1	1	757	757	EXCLUDE	prok:CFB group bacteria	100	Chryseobacterium oranimense
+CABFKQ010013975.1	1	757	757	EXCLUDE	prok:CFB group bacteria	100	Taibaiella chishuiensis
+CABFKQ010013995.1	1	756	756	EXCLUDE	prok:CFB group bacteria	100	Taibaiella chishuiensis
+CABFKQ010014037.1	1	754	754	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+CABFKQ010014126.1	1	750	750	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia ursingii
+CABFKQ010014224.1	1	745	745	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia ursingii
+CABFKQ010014250.1	1	744	744	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia ursingii
+CABFKQ010014402.1	1	735	735	EXCLUDE	prok:CFB group bacteria	100	Flavobacterium dauae
+CABFKQ010014443.1	1	733	733	EXCLUDE	prok:CFB group bacteria	37	Taibaiella chishuiensis
+CABFKQ010014461.1	1	733	733	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia ursingii
+CABFKQ010014485.1	1	732	732	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia ursingii
+CABFKQ010014602.1	1	1479	5493	TRIM	prok:CFB group bacteria	31	Elizabethkingia ursingii
+CABFKQ010014631.1	1	725	725	EXCLUDE	prok:CFB group bacteria	57	Taibaiella chishuiensis
+CABFKQ010014672.1	1	723	723	EXCLUDE	prok:CFB group bacteria	99	Taibaiella chishuiensis
+CABFKQ010014717.1	1	721	721	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia ursingii
+CABFKQ010014727.1	1	720	720	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia ursingii
+CABFKQ010014819.1	1	716	716	EXCLUDE	prok:CFB group bacteria	47	Taibaiella chishuiensis
+CABFKQ010014859.1	1	714	714	EXCLUDE	prok:CFB group bacteria	99	Taibaiella chishuiensis
+CABFKQ010014867.1	1	713	713	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia ursingii
+CABFKQ010014931.1	1	711	711	EXCLUDE	prok:CFB group bacteria	100	Pedobacter nanyangensis
+CABFKQ010014950.1	1	710	710	EXCLUDE	prok:CFB group bacteria	100	Taibaiella chishuiensis
+CABFKQ010015040.1	1	706	706	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia ursingii
+CABFKQ010015069.1	1	704	704	EXCLUDE	prok:g-proteobacteria	55	Escherichia coli
+CABFKQ010015073.1	1	704	704	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia bruuniana
+CABFKQ010015188.1	1	698	698	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia ursingii
+CABFKQ010015262.1	1	694	694	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia ursingii
+CABFKQ010015327.1	1	689	689	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+CABFKQ010015492.1	1	681	681	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia ursingii
+CABFKQ010015552.1	1	677	677	EXCLUDE	virs:eukaryotic viruses	29	n/a
+CABFKQ010015597.1	1	674	674	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia ursingii
+CABFKQ010015735.1	1	666	666	EXCLUDE	prok:CFB group bacteria	38	Olivibacter sitiensis
+CABFKQ010015750.1	1	665	665	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia ursingii
+CABFKQ010015853.1	1	659	659	EXCLUDE	prok:CFB group bacteria	99	Taibaiella chishuiensis
+CABFKQ010016032.1	1	647	647	EXCLUDE	prok:CFB group bacteria	100	Taibaiella chishuiensis
+CABFKQ010016058.1	1	646	646	EXCLUDE	prok:CFB group bacteria	94	Elizabethkingia ursingii
+CABFKQ010016077.1	1	644	644	EXCLUDE	prok:CFB group bacteria	51	Elizabethkingia ursingii
+CABFKQ010016999.1	1	589	589	EXCLUDE	prok:g-proteobacteria	92	Escherichia fergusonii
+CABFKQ010017173.1	1	578	578	EXCLUDE	prok:CFB group bacteria	36	Elizabethkingia ursingii
+CABFKQ010017428.1	1	562	562	EXCLUDE	prok:g-proteobacteria	75	Escherichia coli
+CABFKQ010017761.1	1	541	541	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia ursingii
+CABFKQ010018445.1	1	502	502	EXCLUDE	prok:a-proteobacteria	82	Pseudochrobactrum asaccharolyticum
+CABFKQ010019039.1	1	781	4288	TRIM	prok:CFB group bacteria	100	Taibaiella chishuiensis
+CABFKQ010019346.1	1	777	4008	TRIM	prok:CFB group bacteria	38	Elizabethkingia ursingii
+CABFKQ010019577.1	1	236	3814	TRIM	prok:CFB group bacteria	91	Taibaiella chishuiensis
+CABFKQ010019653.1	1	1476	3739	TRIM	prok:CFB group bacteria	31	n/a
+CABFKQ010019655.1	3312	3736	3736	TRIM	prok:CFB group bacteria	100	Elizabethkingia ursingii
+CABFKQ010020177.1	1	363	3381	TRIM	prok:CFB group bacteria	68	Taibaiella chishuiensis
+CABFKQ010021172.1	1	2905	2905	EXCLUDE	prok:a-proteobacteria	75	Pseudochrobactrum asaccharolyticum
+CABFKQ010022142.1	1	2553	2553	EXCLUDE	prok:CFB group bacteria	19	Elizabethkingia ursingii
+CABFKQ010023312.1	1	2214	2214	EXCLUDE	prok:CFB group bacteria	74	Taibaiella chishuiensis

@@ -1,0 +1,38 @@
+SCGM01000010.1	1	29366	29366	EXCLUDE	prok:proteobacteria	35	Aliarcobacter butzleri
+SCGM01000056.1	1	1000	21987	TRIM	prok:CFB group bacteria	100	Epilithonimonas caeni
+SCGM01000132.1	1	1737	18676	TRIM	prok:g-proteobacteria	98	Citrobacter freundii
+SCGM01000137.1	21341	21885	21885	TRIM	fung:budding yeasts	100	Candida parapsilosis
+SCGM01000157.1	1	6061	17819	TRIM	fung:ascomycetes	77	Scolecobasidium constrictum
+SCGM01000176.1	1	518	17286	TRIM	fung:ascomycetes	100	Fusarium solani
+SCGM01000234.1	1	26414	26414	EXCLUDE	prok:CFB group bacteria	12	Flavobacterium coralii
+SCGM01000238.1	1	870	16128	TRIM	prok:g-proteobacteria	100	Superficieibacter electus
+SCGM01000406.1	1	13930	13930	EXCLUDE	fung:ascomycetes	22	Verruconis gallopava
+SCGM01000462.1	1	1171	13483	TRIM	prok:proteobacteria	100	Aliarcobacter butzleri
+SCGM01000637.1	1	1590	12178	TRIM	prok:a-proteobacteria	100	Sphingomonas ginsenosidimutans
+SCGM01000759.1	10634	11536	11536	TRIM	fung:budding yeasts	100	Candida parapsilosis
+SCGM01000921.1	1	3671	10759	TRIM	prok:CFB group bacteria	100	Flavobacterium lindanitolerans
+SCGM01000938.1	10752	11277	11277	TRIM	virs:prokaryotic viruses	100	Klebsiella phage YMC15/11/N53_KPN_BP
+SCGM01000977.1	1	10530	10530	EXCLUDE	fung:budding yeasts	11	Candida parapsilosis
+SCGM01001129.1	1	9904	9904	EXCLUDE	prok:g-proteobacteria	11	Acinetobacter baumannii
+SCGM01001204.1	1	1361	9633	TRIM	fung:budding yeasts	98	Candida parapsilosis
+SCGM01001349.1	7131	9230	9230	TRIM	fung:budding yeasts	100	Candida parapsilosis
+SCGM01001442.1	6908	8936	8936	TRIM	prok:g-proteobacteria	88	Enterobacter hormaechei subsp. xiangfangensis
+SCGM01001507.1	1	993	8753	TRIM	fung:ascomycetes	80	Scolecobasidium constrictum
+SCGM01001602.1	1	8524	8524	EXCLUDE	fung:budding yeasts	12	Candida parapsilosis
+SCGM01002183.1	1	580	6811	TRIM	fung:ascomycetes	100	Fusarium paranaense
+SCGM01002237.1	1	8902	8902	EXCLUDE	fung:ascomycetes	12	Scolecobasidium constrictum
+SCGM01002757.1	1	666	5068	TRIM	fung:budding yeasts	100	Candida parapsilosis
+SCGM01003104.1	1	9198	9198	EXCLUDE	fung:budding yeasts	39	Candida parapsilosis
+SCGM01003842.1	1	2237	5735	TRIM	fung:budding yeasts	98	Candida parapsilosis
+SCGM01003939.1	1	5566	5566	EXCLUDE	prok:CFB group bacteria	47	Flavobacterium lindanitolerans
+SCGM01004042.1	1	794	5408	TRIM	prok:CFB group bacteria	97	Epilithonimonas hispanica
+SCGM01004368.1	1	4947	4947	EXCLUDE	prok:CFB group bacteria	100	Flavobacterium lindanitolerans
+SCGM01004536.1	1	966	4769	TRIM	fung:budding yeasts	100	Candida parapsilosis
+SCGM01005529.1	1	611	3913	TRIM	fung:budding yeasts	100	Candida parapsilosis
+SCGM01005825.1	1	3681	3681	EXCLUDE	prok:CFB group bacteria	74	Flavobacterium lindanitolerans
+SCGM01005843.1	3061	3671	3671	TRIM	prok:CFB group bacteria	100	Epilithonimonas zeae
+SCGM01006005.1	1	1727	3559	TRIM	fung:ascomycetes	71	Scolecobasidium constrictum
+SCGM01006136.1	1	573	3478	TRIM	prok:CFB group bacteria	80	Lacibacter cauensis
+SCGM01006545.1	1	3447	3447	EXCLUDE	fung:budding yeasts	38	Candida parapsilosis
+SCGM01006950.1	1846	3035	3035	TRIM	fung:budding yeasts	100	Candida parapsilosis
+SCGM01006969.1	1	3024	3024	EXCLUDE	fung:budding yeasts	100	Candida parapsilosis

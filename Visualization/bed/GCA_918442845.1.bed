@@ -1,0 +1,25 @@
+OU923308.1	167854	168360	230258	FIX	virs:prokaryotic viruses	41	n/a
+OU923260.1	111738	112254	308506	FIX	fung:fungi	57	n/a
+OU923135.1	620800	621513	748908	FIX	prok:firmicutes	36	n/a
+CAKKLB010014202.1	1	5585	5585	EXCLUDE	synt:synthetic	100	synthetic
+CAKKLB010014278.1	1	1439	1439	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+CAKKLB010014302.1	1	1303	1303	EXCLUDE	prok:g-proteobacteria	100	Escherichia fergusonii
+CAKKLB010014304.1	1	1296	1296	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+CAKKLB010014311.1	1	1271	1271	EXCLUDE	prok:g-proteobacteria	100	Escherichia sp.
+CAKKLB010014318.1	1	1224	1224	EXCLUDE	prok:g-proteobacteria	100	Escherichia fergusonii
+CAKKLB010014319.1	1	1223	1223	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+CAKKLB010014320.1	1	1222	1222	EXCLUDE	prok:g-proteobacteria	100	Escherichia fergusonii
+CAKKLB010014665.1	1	791	791	EXCLUDE	prok:g-proteobacteria	100	Escherichia ruysiae
+CAKKLB010014815.1	1	725	725	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+CAKKLB010015022.1	1	661	661	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+CAKKLB010015665.1	1	557	557	EXCLUDE	prok:g-proteobacteria	100	Escherichia fergusonii
+CAKKLB010017505.1	1	410	410	EXCLUDE	virs:prokaryotic viruses	66	Escherichia ruysiae
+CAKKLB010021801.1	1	343	343	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+CAKKLB010022220.1	1	330	330	EXCLUDE	prok:g-proteobacteria	100	Escherichia fergusonii
+CAKKLB010022630.1	1	319	319	EXCLUDE	virs:prokaryotic viruses	51	n/a
+CAKKLB010022645.1	1	319	319	EXCLUDE	virs:prokaryotic viruses	76	Yersinia canariae
+CAKKLB010022654.1	1	319	319	EXCLUDE	virs:prokaryotic viruses	76	Salmonella enterica
+CAKKLB010024891.1	1	279	279	EXCLUDE	virs:prokaryotic viruses	96	Dickeya zeae
+CAKKLB010024909.1	1	279	279	EXCLUDE	virs:prokaryotic viruses	96	Kosakonia cowanii
+CAKKLB010024932.1	1	279	279	EXCLUDE	virs:prokaryotic viruses	96	Dickeya zeae
+CAKKLB010029710.1	1	238	238	EXCLUDE	prok:g-proteobacteria	90	n/a

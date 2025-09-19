@@ -1,0 +1,9 @@
+JH993857.1	1	11300	91997	TRIM	anml:insects	29	Colletes gigas
+JH993911.1	1	2610	2610	EXCLUDE	anml:insects	27	Harpegnathos saltator
+JH993914.1	1	1909	1909	EXCLUDE	fung:budding yeasts	100	Candida parapsilosis
+JH993920.1	1	2829	2829	EXCLUDE	fung:budding yeasts	100	Candida parapsilosis
+JH993921.1	1	1887	1887	EXCLUDE	fung:budding yeasts	100	Candida parapsilosis
+JH993923.1	1	2712	2712	EXCLUDE	anml:insects	82	Dinoponera quadriceps
+JH993938.1	1	10704	10704	EXCLUDE	anml:insects	25	Harpegnathos saltator
+JH993981.1	35584	37629	134947	FIX	anml:insects	79	Harpegnathos saltator
+JH994020.1	1	12020	12020	EXCLUDE	anml:insects	18	Cataglyphis hispanica

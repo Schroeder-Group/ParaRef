@@ -1,0 +1,14 @@
+ABBT01000251.1	1	1707	1707	EXCLUDE	prok:firmicutes	100	Bacillus subtilis
+ABBT01000170.1	1	2386	2386	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+ABBT01000133.1	1	2369	2369	EXCLUDE	prok:g-proteobacteria	100	Escherichia fergusonii
+ABBT01000132.1	1	2339	2339	EXCLUDE	virs:prokaryotic viruses	98	Escherichia phage Lg3
+ABBT01000129.1	1	2152	2152	EXCLUDE	virs:prokaryotic viruses	100	Tunavirus BIFF
+ABBT01000126.1	1	2425	2425	EXCLUDE	virs:prokaryotic viruses	100	Escherichia phage Lg3
+ABBT01000124.1	1	3991	3991	EXCLUDE	prok:g-proteobacteria	87	Escherichia coli
+ABBT01000123.1	1	9293	9293	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+ABBT01000119.1	1	5855	5855	EXCLUDE	virs:prokaryotic viruses	100	Escherichia coli
+ABBT01000020.1	1	2838	2838	EXCLUDE	virs:prokaryotic viruses	100	Tunavirus BIFF
+ABBT01000017.1	1	3607	3607	EXCLUDE	virs:prokaryotic viruses	100	Tunavirus BIFF
+ABBT01000014.1	1	5530	5530	EXCLUDE	virs:prokaryotic viruses	100	Tunavirus IME18
+ABBT01000005.1	1	11783	11783	EXCLUDE	virs:prokaryotic viruses	100	Tunavirus T1
+ABBT01000004.1	1	8746	8746	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli

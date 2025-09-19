@@ -1,0 +1,10 @@
+JABVXU010000130.1	1	132537	132537	EXCLUDE	prok:a-proteobacteria	100	Wolbachia endosymbiont of Cruorifilaria tuberocauda
+JABVXU010001406.1	1	5471	5471	EXCLUDE	fung:ascomycetes	13	Ascocoryne sarcoides
+JABVXU010001829.1	1	2123	2123	EXCLUDE	prst:protists	26	Proteromonas lacertae
+JABVXU010000219.1	1	657	88791	TRIM	prst:alveolates	59	n/a
+JABVXU010000032.1	1	308861	308861	EXCLUDE	prok:a-proteobacteria	100	Wolbachia endosymbiont of Cruorifilaria tuberocauda
+JABVXU010000715.1	1	1593	24475	TRIM	prok:firmicutes	20	n/a
+JABVXU010000778.1	9922	12235	20996	FIX	prok:firmicutes	19	Clostridium sp. UBA7339
+JABVXU010000786.1	18648	19164	20494	FIX	plnt:green algae	62	n/a
+JABVXU010000808.1	1	19753	19753	EXCLUDE	prok:a-proteobacteria	100	Wolbachia endosymbiont of Cruorifilaria tuberocauda
+JABVXU010000925.1	1140	1996	14826	FIX	plnt:plants	54	Ipomoea nil

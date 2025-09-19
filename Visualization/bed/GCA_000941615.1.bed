@@ -1,0 +1,710 @@
+LM523199.1	34309	35308	175917	FIX	prok:g-proteobacteria	93	Enterobacteriaceae endosymbiont of Donacia provostii
+LM523201.1	1	170764	170764	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas naejangsanensis
+LM523238.1	1	60160	60160	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523247.1	1	45502	45502	EXCLUDE	prok:a-proteobacteria	96	Brevundimonas naejangsanensis
+LM523250.1	1	43233	43233	EXCLUDE	prok:a-proteobacteria	97	Brevundimonas naejangsanensis
+LM523251.1	1	41210	41210	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas bullata
+LM523253.1	1	39921	39921	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523254.1	1	38978	38978	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523256.1	1	37895	37895	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523257.1	1	36487	36487	EXCLUDE	prok:g-proteobacteria	90	Pseudomonas sp. UBA7500
+LM523258.1	1	33494	33494	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523259.1	1	32830	32830	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523260.1	1	31943	31943	EXCLUDE	prok:a-proteobacteria	93	Brevundimonas pondensis
+LM523261.1	1	31416	31416	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523262.1	1	30442	30442	EXCLUDE	prok:a-proteobacteria	99	Brevundimonas naejangsanensis
+LM523263.1	1	30061	30061	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas bullata
+LM523264.1	1	29660	29660	EXCLUDE	prok:a-proteobacteria	99	Brevundimonas bullata
+LM523265.1	1	29121	29121	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523268.1	1	28708	28708	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523271.1	1	28037	28037	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523274.1	1	27748	27748	EXCLUDE	prok:a-proteobacteria	96	Brevundimonas pondensis
+LM523275.1	1	27606	27606	EXCLUDE	prok:a-proteobacteria	97	Brevundimonas sp. UBA7506
+LM523277.1	1	26140	26140	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523279.1	1	25786	25786	EXCLUDE	prok:a-proteobacteria	96	Brevundimonas sp. UBA7506
+LM523280.1	1	25474	25474	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas naejangsanensis
+LM523283.1	1	24196	24196	EXCLUDE	prok:a-proteobacteria	94	Brevundimonas sp. UBA5936
+LM523286.1	1	23434	23434	EXCLUDE	prok:a-proteobacteria	74	Brevundimonas bullata
+LM523291.1	1	22675	22675	EXCLUDE	prok:a-proteobacteria	99	Brevundimonas sp. UBA5936
+LM523292.1	1	22641	22641	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523293.1	1	22316	22316	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM523295.1	1	21122	21122	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523296.1	1	21098	21098	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523297.1	1	21060	21060	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523299.1	1	20931	20931	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523305.1	1	19139	19139	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523306.1	1	18924	18924	EXCLUDE	prok:a-proteobacteria	84	Brevundimonas naejangsanensis
+LM523309.1	1	18793	18793	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523312.1	1	18200	18200	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas naejangsanensis
+LM523315.1	1	17867	17867	EXCLUDE	prok:a-proteobacteria	85	Brevundimonas pondensis
+LM523318.1	1	17255	17255	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas naejangsanensis
+LM523319.1	1	17192	17192	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523321.1	1	16993	16993	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523324.1	1	16590	16590	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7507
+LM523325.1	1	16303	16303	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM523326.1	1	16268	16268	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523327.1	1	16190	16190	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523329.1	1	16063	16063	EXCLUDE	prok:a-proteobacteria	94	Brevundimonas guildfordensis
+LM523333.1	1	15516	15516	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523337.1	1	14757	14757	EXCLUDE	prok:a-proteobacteria	96	Brevundimonas pondensis
+LM523339.1	1	14523	14523	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523341.1	1	14157	14157	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523343.1	1	14050	14050	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas naejangsanensis
+LM523345.1	1	13824	13824	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523354.1	1	13290	13290	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523357.1	1	12912	12912	EXCLUDE	prok:a-proteobacteria	99	Brevundimonas sp. UBA5936
+LM523358.1	1	12866	12866	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523359.1	1	12741	12741	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM523360.1	1	12670	12670	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas naejangsanensis
+LM523361.1	1	12541	12541	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas bullata
+LM523363.1	1	12275	12275	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523364.1	1	12216	12216	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas bullata
+LM523366.1	1	12015	12015	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7507
+LM523367.1	1	11981	11981	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523368.1	1	11844	11844	EXCLUDE	prok:a-proteobacteria	99	Brevundimonas sp. UBA5936
+LM523370.1	1	11645	11645	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523371.1	1	11634	11634	EXCLUDE	prok:CFB group bacteria	94	Sphingobacterium sp. UBA5996
+LM523372.1	1	11604	11604	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas naejangsanensis
+LM523374.1	1	11394	11394	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523377.1	1	11182	11182	EXCLUDE	prok:high GC Gram+	88	Microbacterium mitrae
+LM523381.1	1	10993	10993	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas bullata
+LM523382.1	1	10919	10919	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM523383.1	1	10825	10825	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523387.1	1	10656	10656	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM523390.1	1	10446	10446	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523391.1	1	10440	10440	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523396.1	1	10096	10096	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7506
+LM523397.1	1	10080	10080	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523398.1	1	10055	10055	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523402.1	1	9883	9883	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523404.1	1	9876	9876	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523417.1	1	8993	8993	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523418.1	1	8907	8907	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM523422.1	1	8714	8714	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523423.1	1	8706	8706	EXCLUDE	prok:a-proteobacteria	98	Pseudochrobactrum asaccharolyticum
+LM523424.1	1	8652	8652	EXCLUDE	prok:a-proteobacteria	99	Brevundimonas naejangsanensis
+LM523426.1	1	8523	8523	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM523427.1	1	8473	8473	EXCLUDE	prok:a-proteobacteria	94	Brevundimonas guildfordensis
+LM523429.1	1	8402	8402	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas pondensis
+LM523431.1	1	8334	8334	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523433.1	1	8325	8325	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523435.1	1	8297	8297	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM523437.1	1	8273	8273	EXCLUDE	prok:a-proteobacteria	97	Devosia epidermidihirudinis
+LM523438.1	1	8247	8247	EXCLUDE	prok:a-proteobacteria	100	Devosia ginsengisoli
+LM523439.1	1	8222	8222	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523440.1	1	8105	8105	EXCLUDE	prok:CFB group bacteria	99	Pedobacter frigiditerrae
+LM523443.1	1	8000	8000	EXCLUDE	prok:a-proteobacteria	81	Rhizobium laguerreae
+LM523444.1	1	7972	7972	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523448.1	1	7811	7811	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523449.1	1	7799	7799	EXCLUDE	prok:a-proteobacteria	91	Devosia epidermidihirudinis
+LM523451.1	1	7773	7773	EXCLUDE	prok:a-proteobacteria	91	Brevundimonas naejangsanensis
+LM523452.1	1	7749	7749	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523456.1	1	7678	7678	EXCLUDE	prok:a-proteobacteria	88	Brevundimonas naejangsanensis
+LM523457.1	1	7604	7604	EXCLUDE	prok:high GC Gram+	96	Leucobacter chromiisoli
+LM523458.1	1	7584	7584	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM523465.1	1	7412	7412	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523467.1	1	7376	7376	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523470.1	1	7221	7221	EXCLUDE	prok:CFB group bacteria	41	Pedobacter sandarakinus
+LM523475.1	1	7129	7129	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523476.1	1	7122	7122	EXCLUDE	prok:g-proteobacteria	100	Pseudomonas sp. UBA7500
+LM523478.1	1	7045	7045	EXCLUDE	prok:high GC Gram+	26	Leucobacter chironomi
+LM523479.1	1	6995	6995	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523480.1	1	6941	6941	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523481.1	1	6933	6933	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523482.1	1	6898	6898	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523485.1	1	6786	6786	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523489.1	1	6678	6678	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523490.1	1	6636	6636	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM523492.1	1	6516	6516	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523494.1	1	6466	6466	EXCLUDE	prok:g-proteobacteria	83	Pseudomonas morbosilactucae
+LM523495.1	1	6386	6386	EXCLUDE	prok:a-proteobacteria	99	Brevundimonas naejangsanensis
+LM523498.1	1	6344	6344	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM523499.1	1	6307	6307	EXCLUDE	prok:a-proteobacteria	98	Pseudochrobactrum asaccharolyticum
+LM523500.1	1	6283	6283	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523501.1	1	6283	6283	EXCLUDE	prok:CFB group bacteria	75	Myroides aquimaris
+LM523504.1	1	6180	6180	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523505.1	1	6143	6143	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523506.1	1	6141	6141	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523507.1	1	6126	6126	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM523508.1	1	6123	6123	EXCLUDE	prok:a-proteobacteria	99	Brevundimonas guildfordensis
+LM523510.1	1	6113	6113	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523511.1	1	6092	6092	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523513.1	1	6091	6091	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7507
+LM523514.1	1	6086	6086	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas guildfordensis
+LM523520.1	1	5941	5941	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523522.1	1	5917	5917	EXCLUDE	prok:high GC Gram+	100	Leucobacter soli
+LM523524.1	1	5869	5869	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523526.1	1	5839	5839	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523527.1	1	5836	5836	EXCLUDE	prok:a-proteobacteria	75	Pseudochrobactrum asaccharolyticum
+LM523528.1	1	5820	5820	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523529.1	1	5697	5697	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523530.1	1	5674	5674	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas bullata
+LM523531.1	1	5655	5655	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523532.1	1	5651	5651	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523534.1	1	1189	5619	TRIM	plnt:plants	40	n/a
+LM523535.1	1	5600	5600	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523539.1	1	5503	5503	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7507
+LM523540.1	1	5495	5495	EXCLUDE	synt:synthetic	100	synthetic
+LM523541.1	1	5494	5494	EXCLUDE	prok:CFB group bacteria	72	Chryseobacterium balustinum
+LM523543.1	1	5482	5482	EXCLUDE	prok:b-proteobacteria	98	Alcaligenes faecalis
+LM523544.1	1	5455	5455	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523545.1	1	5448	5448	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523546.1	1	5422	5422	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523548.1	1	5421	5421	EXCLUDE	prok:g-proteobacteria	89	Pseudomonas sp. UBA7500
+LM523552.1	1	5390	5390	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523554.1	1	5337	5337	EXCLUDE	prok:g-proteobacteria	100	Pseudomonas sp. UBA7500
+LM523556.1	1	5312	5312	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM523557.1	1	5312	5312	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM523559.1	1	5282	5282	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM523561.1	1	5253	5253	EXCLUDE	prok:a-proteobacteria	92	Brevundimonas sp. UBA5936
+LM523563.1	1	5182	5182	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM523566.1	1	5119	5119	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM523567.1	1	5111	5111	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523569.1	1	5103	5103	EXCLUDE	prok:g-proteobacteria	91	Stenotrophomonas cyclobalanopsidis
+LM523570.1	1	5086	5086	EXCLUDE	prok:a-proteobacteria	93	Brevundimonas guildfordensis
+LM523575.1	1	5009	5009	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM523576.1	1	4977	4977	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas pondensis
+LM523578.1	1	4976	4976	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM523579.1	1	4961	4961	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523580.1	1	4946	4946	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523586.1	1	4910	4910	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM523588.1	1	4891	4891	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523589.1	1	4890	4890	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7507
+LM523590.1	1	4883	4883	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523591.1	1	4832	4832	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523593.1	1	4796	4796	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523594.1	1	4789	4789	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523600.1	1	4751	4751	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523601.1	1	4687	4687	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM523602.1	1	4678	4678	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523605.1	1	4640	4640	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523606.1	1	4611	4611	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523608.1	1	4586	4586	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM523611.1	1	4536	4536	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523612.1	1	4528	4528	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM523613.1	1	4516	4516	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523614.1	1	4509	4509	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM523615.1	1	4504	4504	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523618.1	1	4491	4491	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523619.1	1	4485	4485	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523621.1	1	4476	4476	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas pondensis
+LM523622.1	1	4473	4473	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM523627.1	1	4332	4332	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523628.1	1	4324	4324	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523629.1	1	4318	4318	EXCLUDE	prok:a-proteobacteria	93	Pseudochrobactrum algeriensis
+LM523630.1	1	4314	4314	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523632.1	1	4263	4263	EXCLUDE	prok:high GC Gram+	47	Leucobacter massiliensis
+LM523634.1	1	4229	4229	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM523636.1	1	4221	4221	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523639.1	1	4189	4189	EXCLUDE	prok:high GC Gram+	100	Leucobacter zeae
+LM523640.1	1	4174	4174	EXCLUDE	prok:firmicutes	14	Caldibacillus lycopersici
+LM523641.1	1	4170	4170	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523642.1	1	4145	4145	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM523647.1	1	4099	4099	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523652.1	1	4016	4016	EXCLUDE	prok:a-proteobacteria	92	Brevundimonas bullata
+LM523654.1	1	3987	3987	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523655.1	1	3977	3977	EXCLUDE	prok:a-proteobacteria	98	Pseudochrobactrum asaccharolyticum
+LM523657.1	1	3953	3953	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7506
+LM523658.1	1	3932	3932	EXCLUDE	prok:high GC Gram+	93	Leucobacter ruminantium
+LM523659.1	1	3923	3923	EXCLUDE	prok:high GC Gram+	88	Leucobacter komagatae
+LM523660.1	1	3875	3875	EXCLUDE	prok:a-proteobacteria	40	Pelagibacterium sp. SCN 64-44
+LM523665.1	1	3828	3828	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523667.1	1	3810	3810	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523669.1	1	3796	3796	EXCLUDE	prok:a-proteobacteria	100	Brucella pituitosa
+LM523672.1	1	3748	3748	EXCLUDE	prok:a-proteobacteria	50	Brevundimonas naejangsanensis
+LM523673.1	1	3744	3744	EXCLUDE	prok:a-proteobacteria	100	Brucella pituitosa
+LM523674.1	1	3737	3737	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523675.1	1	3719	3719	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523677.1	1	3690	3690	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM523678.1	1	3685	3685	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM523680.1	1	3682	3682	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523691.1	1	3571	3571	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523692.1	1	3563	3563	EXCLUDE	prok:high GC Gram+	70	Leucobacter chromiisoli
+LM523693.1	1	3554	3554	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523694.1	1	3535	3535	EXCLUDE	prok:a-proteobacteria	100	Phenylobacterium haematophilum
+LM523695.1	1	3526	3526	EXCLUDE	prok:a-proteobacteria	67	Brevundimonas guildfordensis
+LM523696.1	1	3522	3522	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7506
+LM523697.1	1	3511	3511	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas sp. UBA7507
+LM523699.1	1	3505	3505	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas sp. UBA7507
+LM523712.1	1	3447	3447	EXCLUDE	prok:CFB group bacteria	100	Chryseobacterium schmidteae
+LM523714.1	1	3440	3440	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523716.1	1	3423	3423	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523718.1	1	3397	3397	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM523721.1	1	3373	3373	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523724.1	1	3368	3368	EXCLUDE	prok:CFB group bacteria	75	Flavobacterium ummariense
+LM523725.1	1	3364	3364	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523728.1	1	3333	3333	EXCLUDE	prok:CFB group bacteria	88	Flavobacterium beibuense
+LM523732.1	1	3321	3321	EXCLUDE	prok:a-proteobacteria	98	Pseudochrobactrum asaccharolyticum
+LM523738.1	1	3295	3295	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523740.1	1	3271	3271	EXCLUDE	prok:b-proteobacteria	100	Comamonas odontotermitis
+LM523741.1	1	3255	3255	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523742.1	1	3254	3254	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523747.1	1	3231	3231	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523749.1	1	3220	3220	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523754.1	1	3184	3184	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523756.1	1	3180	3180	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM523757.1	1	3172	3172	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7506
+LM523759.1	1	3157	3157	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523762.1	1	3152	3152	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523763.1	1	3149	3149	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas sp. UBA5936
+LM523764.1	1	3148	3148	EXCLUDE	prok:g-proteobacteria	96	Pseudomonas shirazensis
+LM523767.1	1	3134	3134	EXCLUDE	prok:high GC Gram+	100	Candidatus Leucobacter sulfamidivorax
+LM523771.1	1	3113	3113	EXCLUDE	prok:high GC Gram+	75	Leucobacter exalbidus
+LM523773.1	1	3103	3103	EXCLUDE	prok:a-proteobacteria	100	Devosia psychrophila
+LM523777.1	1	3076	3076	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas naejangsanensis
+LM523778.1	1	3076	3076	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523779.1	1	3072	3072	EXCLUDE	prok:CFB group bacteria	88	Pedobacter psychrotolerans
+LM523783.1	1	3052	3052	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523786.1	1	3045	3045	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523788.1	1	3035	3035	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523790.1	1	3025	3025	EXCLUDE	prok:a-proteobacteria	99	Brevundimonas guildfordensis
+LM523792.1	1	3019	3019	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523795.1	1	2987	2987	EXCLUDE	prok:g-proteobacteria	89	Pseudocitrobacter vendiensis
+LM523796.1	1	2971	2971	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523798.1	1	2967	2967	EXCLUDE	prok:a-proteobacteria	76	Brevundimonas sp. UBA5936
+LM523799.1	1	2965	2965	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523802.1	1	2949	2949	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas bullata
+LM523803.1	1	2944	2944	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523804.1	1	2941	2941	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523811.1	1	2890	2890	EXCLUDE	prok:a-proteobacteria	99	Brevundimonas sp. UBA5936
+LM523816.1	1	2865	2865	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523819.1	1	2850	2850	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523821.1	1	2843	2843	EXCLUDE	prok:b-proteobacteria	98	Achromobacter denitrificans
+LM523822.1	1	2841	2841	EXCLUDE	prok:a-proteobacteria	53	Brevundimonas naejangsanensis
+LM523826.1	1	2815	2815	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523827.1	1	2808	2808	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523829.1	1	2798	2798	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523834.1	1	2756	2756	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523837.1	1	2747	2747	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523838.1	1	2744	2744	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM523839.1	1	2744	2744	EXCLUDE	prok:high GC Gram+	98	Microbacterium phyllosphaerae
+LM523840.1	1	2744	2744	EXCLUDE	prok:CFB group bacteria	97	Pedobacter hiemivivus
+LM523843.1	1	2732	2732	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523844.1	1	2732	2732	EXCLUDE	prok:a-proteobacteria	84	Phenylobacterium haematophilum
+LM523845.1	1	2727	2727	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM523848.1	1	2710	2710	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523853.1	1	2684	2684	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523856.1	1	2676	2676	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523858.1	1	2661	2661	EXCLUDE	prok:g-proteobacteria	57	Pseudomonas sp. UBA7500
+LM523859.1	1	2660	2660	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM523861.1	1	2647	2647	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523862.1	1	2637	2637	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM523863.1	1	2626	2626	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM523865.1	1	2620	2620	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523866.1	1	2612	2612	EXCLUDE	prok:a-proteobacteria	89	Pseudochrobactrum asaccharolyticum
+LM523868.1	1	2597	2597	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523872.1	1	2589	2589	EXCLUDE	prok:CFB group bacteria	66	Pedobacter steynii
+LM523873.1	1	2566	2566	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523874.1	1	2553	2553	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523875.1	1	2544	2544	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523877.1	1	2540	2540	EXCLUDE	prok:g-proteobacteria	90	Pseudomonas qingdaonensis
+LM523878.1	1	2533	2533	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM523879.1	1	2525	2525	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM523882.1	1	2513	2513	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523884.1	1	2507	2507	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523887.1	1	2495	2495	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523888.1	1	2494	2494	EXCLUDE	prok:b-proteobacteria	100	Achromobacter xylosoxidans
+LM523889.1	1	2491	2491	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523894.1	1	2465	2465	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523895.1	1	2464	2464	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM523896.1	1	2459	2459	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM523905.1	1	2403	2403	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM523909.1	1	2375	2375	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523911.1	1	2371	2371	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523912.1	1	2368	2368	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523913.1	1	2363	2363	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7507
+LM523914.1	1	2358	2358	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM523923.1	1	2304	2304	EXCLUDE	prok:g-proteobacteria	90	Stenotrophomonas geniculata
+LM523925.1	1	2300	2300	EXCLUDE	prok:CFB group bacteria	50	Pedobacter sp. UBA4863
+LM523931.1	1	2264	2264	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523932.1	1	2255	2255	EXCLUDE	prok:high GC Gram+	94	Microbacterium mitrae
+LM523933.1	1	2250	2250	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523936.1	1	2235	2235	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM523937.1	1	2234	2234	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523938.1	1	2224	2224	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM523942.1	1	2213	2213	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523947.1	1	2196	2196	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM523949.1	1	2194	2194	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM523953.1	1	2190	2190	EXCLUDE	prok:high GC Gram+	100	Microbacterium mitrae
+LM523956.1	1	2178	2178	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM523958.1	1	2175	2175	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523959.1	1	2174	2174	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas sp. UBA7506
+LM523962.1	1	2155	2155	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523966.1	1	2150	2150	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523967.1	1	2147	2147	EXCLUDE	prok:a-proteobacteria	95	Brevundimonas naejangsanensis
+LM523969.1	1	2136	2136	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM523970.1	1	2134	2134	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523972.1	1	2113	2113	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523974.1	1	2101	2101	EXCLUDE	prok:a-proteobacteria	100	Devosia lucknowensis
+LM523976.1	1	2095	2095	EXCLUDE	prok:CFB group bacteria	100	Sphingobacterium kitahiroshimense
+LM523979.1	1	2081	2081	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM523980.1	1	2078	2078	EXCLUDE	prok:high GC Gram+	100	Leucobacter chromiisoli
+LM523986.1	1	2068	2068	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM523988.1	1	2064	2064	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM523991.1	1	2054	2054	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM523992.1	1	2050	2050	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM523994.1	1	2046	2046	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM523997.1	1	2033	2033	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM523999.1	1	2025	2025	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7506
+LM524001.1	1	2018	2018	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524002.1	1	2016	2016	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM524007.1	1	1991	1991	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas naejangsanensis
+LM524008.1	1	1989	1989	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas pondensis
+LM524009.1	1	1989	1989	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524015.1	1	1962	1962	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524017.1	1	1960	1960	EXCLUDE	prok:a-proteobacteria	97	Devosia neptuniae
+LM524022.1	1	1949	1949	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524023.1	1	1946	1946	EXCLUDE	anml:fishes	21	Myxocyprinus asiaticus
+LM524024.1	1	1944	1944	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524031.1	1	1925	1925	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524038.1	1	1910	1910	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524040.1	1	1906	1906	EXCLUDE	prok:high GC Gram+	100	Microbacterium mitrae
+LM524043.1	1	1900	1900	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524044.1	1	1896	1896	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524046.1	1	1888	1888	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524048.1	1	1886	1886	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524050.1	1	1880	1880	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524051.1	1	1879	1879	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524054.1	1	1860	1860	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524055.1	1	1859	1859	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524056.1	1	1857	1857	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524057.1	1	1856	1856	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524058.1	1	1856	1856	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524059.1	1	1850	1850	EXCLUDE	prok:CFB group bacteria	88	Pedobacter heparinus
+LM524062.1	1	1838	1838	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM524067.1	1	1827	1827	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM524068.1	1	1826	1826	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524071.1	1	1816	1816	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM524072.1	1	1814	1814	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524073.1	1	1814	1814	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524076.1	1	1800	1800	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM524079.1	1	1797	1797	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM524082.1	1	1791	1791	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM524084.1	1	1784	1784	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524087.1	1	1780	1780	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524090.1	1	1772	1772	EXCLUDE	prok:a-proteobacteria	22	Pelagibacterium montanilacus
+LM524091.1	1	1770	1770	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524094.1	1	1764	1764	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524095.1	1	1764	1764	EXCLUDE	prok:high GC Gram+	87	Microbacterium liquefaciens
+LM524100.1	1	1760	1760	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM524104.1	1	1753	1753	EXCLUDE	prok:high GC Gram+	100	Microbacterium invictum
+LM524105.1	1	1752	1752	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524109.1	1	1744	1744	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524111.1	1	1742	1742	EXCLUDE	prok:a-proteobacteria	91	Brevundimonas sp. UBA7507
+LM524112.1	1	1742	1742	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524113.1	1	1741	1741	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524114.1	1	1740	1740	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524115.1	1	1740	1740	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM524119.1	1	1732	1732	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524122.1	1	1728	1728	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524123.1	1	1725	1725	EXCLUDE	prok:a-proteobacteria	100	Devosia soli
+LM524125.1	1	1721	1721	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524134.1	1	1708	1708	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM524135.1	1	1704	1704	EXCLUDE	prok:CFB group bacteria	100	Edaphocola flava
+LM524136.1	1	1704	1704	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524137.1	1	1702	1702	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524139.1	1	1700	1700	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524141.1	1	1696	1696	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524143.1	1	1693	1693	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524144.1	1	1689	1689	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524145.1	1	1688	1688	EXCLUDE	prok:a-proteobacteria	55	Martelella lutilitoris
+LM524147.1	1	1687	1687	EXCLUDE	prok:a-proteobacteria	100	Phenylobacterium haematophilum
+LM524149.1	1	1685	1685	EXCLUDE	prok:a-proteobacteria	100	Phenylobacterium haematophilum
+LM524150.1	1	1682	1682	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM524152.1	1	1680	1680	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM524156.1	1	1675	1675	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524157.1	1	1675	1675	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524158.1	1	1673	1673	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM524159.1	1	1673	1673	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524161.1	1	1669	1669	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7507
+LM524162.1	1	1663	1663	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524163.1	1	1661	1661	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524165.1	1	1653	1653	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM524169.1	1	1650	1650	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524170.1	1	1648	1648	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas sp. UBA7506
+LM524171.1	1	1641	1641	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524174.1	1	1633	1633	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524177.1	1	1632	1632	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM524179.1	1	1630	1630	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7507
+LM524181.1	1	1627	1627	EXCLUDE	prok:a-proteobacteria	84	Brevundimonas sp. UBA4553
+LM524185.1	1	1620	1620	EXCLUDE	prok:b-proteobacteria	40	Paracandidimonas soli
+LM524188.1	1	1614	1614	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524189.1	1	1609	1609	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM524191.1	1	1602	1602	EXCLUDE	prok:b-proteobacteria	100	Achromobacter ruhlandii
+LM524192.1	1	1599	1599	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM524200.1	1	1579	1579	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524202.1	1	1578	1578	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524205.1	1	1575	1575	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524207.1	1	1571	1571	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524209.1	1	1570	1570	EXCLUDE	prok:a-proteobacteria	87	Brevundimonas guildfordensis
+LM524213.1	1	1561	1561	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM524214.1	1	1558	1558	EXCLUDE	prok:CFB group bacteria	100	Pedobacter steynii
+LM524216.1	1	1555	1555	EXCLUDE	prok:b-proteobacteria	100	Achromobacter veterisilvae
+LM524217.1	1	1553	1553	EXCLUDE	prok:a-proteobacteria	100	Devosia riboflavina
+LM524221.1	1	1548	1548	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7507
+LM524222.1	1	1548	1548	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM524224.1	1	1546	1546	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524225.1	1	1543	1543	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524230.1	1	1538	1538	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524232.1	1	1529	1529	EXCLUDE	virs:prokaryotic viruses	73	Acidovorax antarcticus
+LM524240.1	1	1519	1519	EXCLUDE	prok:b-proteobacteria	98	Achromobacter denitrificans
+LM524243.1	1	1511	1511	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM524247.1	1	1504	1504	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524248.1	1	1503	1503	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM524249.1	1	1501	1501	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524252.1	1	1500	1500	EXCLUDE	prok:b-proteobacteria	100	Achromobacter insuavis
+LM524255.1	1	1498	1498	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes pakistanensis
+LM524256.1	1	1497	1497	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM524260.1	1	1492	1492	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524261.1	1	1490	1490	EXCLUDE	prok:CFB group bacteria	93	Sphingobacterium sp. UBA1498
+LM524268.1	1	1477	1477	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM524271.1	1	1474	1474	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524280.1	1	1458	1458	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas naejangsanensis
+LM524281.1	1	1457	1457	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524283.1	1	1453	1453	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM524286.1	1	1450	1450	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524290.1	1	1438	1438	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524291.1	1	1438	1438	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524293.1	1	1433	1433	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524302.1	1	1405	1405	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524303.1	1	1404	1404	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524306.1	1	1398	1398	EXCLUDE	prok:b-proteobacteria	98	Achromobacter denitrificans
+LM524313.1	1	1382	1382	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524314.1	1	1381	1381	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524318.1	1	1366	1366	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas pondensis
+LM524319.1	1	1364	1364	EXCLUDE	prok:a-proteobacteria	70	Pseudochrobactrum algeriensis
+LM524322.1	1	1359	1359	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524323.1	1	1359	1359	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7507
+LM524324.1	1	1356	1356	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7507
+LM524329.1	1	1344	1344	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524330.1	1	1342	1342	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524332.1	1	1339	1339	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7507
+LM524335.1	1	1334	1334	EXCLUDE	prok:a-proteobacteria	38	Devosia soli
+LM524338.1	1	1331	1331	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524343.1	1	1328	1328	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524344.1	1	1324	1324	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7507
+LM524345.1	1	1320	1320	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524347.1	1	1317	1317	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524350.1	1	1314	1314	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM524351.1	1	1314	1314	EXCLUDE	prok:a-proteobacteria	89	Brucella tritici
+LM524358.1	1	1307	1307	EXCLUDE	prok:b-proteobacteria	100	Achromobacter pulmonis
+LM524361.1	1	1301	1301	EXCLUDE	prok:a-proteobacteria	93	Phenylobacterium haematophilum
+LM524367.1	1	1298	1298	EXCLUDE	prok:a-proteobacteria	100	Devosia geojensis
+LM524368.1	1	1296	1296	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM524369.1	1	1295	1295	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524370.1	1	1294	1294	EXCLUDE	prok:CFB group bacteria	93	Pedobacter nyackensis
+LM524372.1	1	1293	1293	EXCLUDE	prok:a-proteobacteria	43	Devosia elaeis
+LM524373.1	1	1292	1292	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524376.1	1	1287	1287	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524377.1	1	1284	1284	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM524380.1	1	1279	1279	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7507
+LM524386.1	1	1272	1272	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524396.1	1	1260	1260	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas sp. UBA5936
+LM524398.1	1	1257	1257	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524399.1	1	1256	1256	EXCLUDE	prok:a-proteobacteria	97	Brevundimonas guildfordensis
+LM524402.1	1	1254	1254	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524403.1	1	1253	1253	EXCLUDE	prok:a-proteobacteria	100	Devosia limi
+LM524412.1	1	1237	1237	EXCLUDE	prok:a-proteobacteria	100	Phenylobacterium haematophilum
+LM524419.1	1	1224	1224	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524420.1	1	1223	1223	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524421.1	1	1222	1222	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524425.1	1	1212	1212	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524426.1	1	1212	1212	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524430.1	1	1208	1208	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM524438.1	1	1189	1189	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas sp. UBA5936
+LM524441.1	1	1184	1184	EXCLUDE	prok:g-proteobacteria	100	Stenotrophomonas maltophilia
+LM524444.1	1	1180	1180	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524446.1	1	1176	1176	EXCLUDE	prok:b-proteobacteria	100	Achromobacter piechaudii
+LM524449.1	1	1171	1171	EXCLUDE	prok:b-proteobacteria	100	Achromobacter marplatensis
+LM524451.1	1	1171	1171	EXCLUDE	prok:a-proteobacteria	90	Brevundimonas guildfordensis
+LM524456.1	1	1159	1159	EXCLUDE	prok:b-proteobacteria	98	Delftia acidovorans
+LM524457.1	1	1157	1157	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM524459.1	1	1155	1155	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum algeriensis
+LM524462.1	1	1152	1152	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM524466.1	1	1146	1146	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM524469.1	1	1138	1138	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7506
+LM524470.1	1	1135	1135	EXCLUDE	prok:a-proteobacteria	94	Brevundimonas guildfordensis
+LM524471.1	1	1134	1134	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524475.1	1	1128	1128	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA4553
+LM524476.1	1	1126	1126	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524477.1	1	1124	1124	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524487.1	1	1094	1094	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM524489.1	1	1093	1093	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas sp. UBA7506
+LM524490.1	1	1092	1092	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524492.1	1	1091	1091	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524494.1	1	1088	1088	EXCLUDE	prok:a-proteobacteria	93	Pseudochrobactrum asaccharolyticum
+LM524495.1	1	1087	1087	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM524496.1	1	1087	1087	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524497.1	1	1087	1087	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524501.1	1	1078	1078	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524503.1	1	1071	1071	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM524505.1	1	1068	1068	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524506.1	1	1067	1067	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524509.1	1	1061	1061	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM524510.1	1	1060	1060	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM524516.1	1	1056	1056	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM524517.1	1	1052	1052	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM524518.1	1	1052	1052	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524521.1	1	1047	1047	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7507
+LM524522.1	1	1045	1045	EXCLUDE	prok:b-proteobacteria	100	Achromobacter veterisilvae
+LM524524.1	1	1041	1041	EXCLUDE	prok:a-proteobacteria	77	Brevundimonas guildfordensis
+LM524527.1	1	1038	1038	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM524529.1	1	1034	1034	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524531.1	1	1034	1034	EXCLUDE	prok:CFB group bacteria	100	Sphingobacterium sp. UBA1578
+LM524532.1	1	1034	1034	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM524534.1	1	1030	1030	EXCLUDE	prok:a-proteobacteria	97	Brevundimonas pondensis
+LM524535.1	1	1029	1029	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524546.1	1	1009	1009	EXCLUDE	prok:b-proteobacteria	98	Achromobacter denitrificans
+LM524547.1	1	1008	1008	EXCLUDE	virs:prokaryotic viruses	91	Pantoea septica
+LM524548.1	1	1001	1001	EXCLUDE	prok:a-proteobacteria	100	Paracoccus ravus
+LM524549.1	1	998	998	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM524551.1	1	997	997	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524564.1	1	986	986	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7507
+LM524566.1	1	981	981	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524567.1	1	981	981	EXCLUDE	prok:a-proteobacteria	87	Brevundimonas naejangsanensis
+LM524571.1	1	977	977	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524574.1	1	976	976	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM524584.1	1	967	967	EXCLUDE	prok:a-proteobacteria	100	Devosia soli
+LM524585.1	1	966	966	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524587.1	1	959	959	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524589.1	1	958	958	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA6550
+LM524594.1	1	944	944	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM524599.1	1	938	938	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524604.1	1	935	935	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM524605.1	1	934	934	EXCLUDE	prok:a-proteobacteria	96	Pseudochrobactrum asaccharolyticum
+LM524606.1	1	931	931	EXCLUDE	prok:a-proteobacteria	94	Candidatus Pelagibacter sp. TMED203
+LM524607.1	1	930	930	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7506
+LM524608.1	1	929	929	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524609.1	1	929	929	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524611.1	1	926	926	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524613.1	1	925	925	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM524615.1	1	923	923	EXCLUDE	prok:a-proteobacteria	96	Brevundimonas sp. UBA7507
+LM524616.1	1	922	922	EXCLUDE	prok:a-proteobacteria	100	Rhizobium daejeonense
+LM524620.1	1	918	918	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524621.1	1	917	917	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM524624.1	1	914	914	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM524630.1	1	901	901	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM524631.1	1	901	901	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM524632.1	1	901	901	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM524635.1	1	899	899	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524638.1	1	898	898	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524639.1	1	897	897	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524640.1	1	893	893	EXCLUDE	prok:CFB group bacteria	100	Pedobacter insulae
+LM524641.1	1	892	892	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM524642.1	1	891	891	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524645.1	1	886	886	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524650.1	1	882	882	EXCLUDE	prok:b-proteobacteria	92	Ramlibacter sp.
+LM524653.1	1	878	878	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM524654.1	1	878	878	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7507
+LM524656.1	1	875	875	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524657.1	1	875	875	EXCLUDE	prok:a-proteobacteria	100	Phenylobacterium haematophilum
+LM524659.1	1	872	872	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas naejangsanensis
+LM524660.1	1	870	870	EXCLUDE	prok:a-proteobacteria	100	Phenylobacterium haematophilum
+LM524661.1	1	870	870	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7506
+LM524663.1	1	869	869	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524664.1	1	868	868	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM524665.1	1	866	866	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524666.1	1	865	865	EXCLUDE	prok:b-proteobacteria	98	Comamonas koreensis
+LM524667.1	1	860	860	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7507
+LM524669.1	1	859	859	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas sp. UBA7507
+LM524672.1	1	854	854	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM524677.1	1	849	849	EXCLUDE	prok:a-proteobacteria	89	Brevundimonas diminuta
+LM524678.1	1	844	844	EXCLUDE	prok:CFB group bacteria	70	Sphingobacterium paludis
+LM524679.1	1	844	844	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524682.1	1	840	840	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524686.1	1	837	837	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524688.1	1	837	837	EXCLUDE	prok:a-proteobacteria	96	Brevundimonas naejangsanensis
+LM524690.1	1	836	836	EXCLUDE	prok:b-proteobacteria	96	Achromobacter veterisilvae
+LM524691.1	1	835	835	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524696.1	1	829	829	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7507
+LM524698.1	1	824	824	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524699.1	1	824	824	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas pondensis
+LM524700.1	1	823	823	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM524710.1	1	816	816	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524711.1	1	815	815	EXCLUDE	prok:a-proteobacteria	98	Pseudochrobactrum algeriensis
+LM524712.1	1	814	814	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524718.1	1	809	809	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas diminuta
+LM524719.1	1	806	806	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524726.1	1	790	790	EXCLUDE	prok:CFB group bacteria	87	Flavobacterium ummariense
+LM524729.1	1	785	785	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7507
+LM524735.1	1	776	776	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM524736.1	1	776	776	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM524738.1	1	775	775	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM524740.1	1	772	772	EXCLUDE	prok:b-proteobacteria	100	Achromobacter deleyi
+LM524746.1	1	759	759	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524751.1	1	749	749	EXCLUDE	prok:b-proteobacteria	97	Paracandidimonas soli
+LM524756.1	1	743	743	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM524758.1	1	741	741	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM524760.1	1	736	736	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524761.1	1	736	736	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524771.1	1	723	723	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524772.1	1	718	718	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524777.1	1	715	715	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM524786.1	1	698	698	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM524789.1	1	696	696	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM524795.1	1	688	688	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM524796.1	1	688	688	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524800.1	1	687	687	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524803.1	1	684	684	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524816.1	1	675	675	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM524818.1	1	672	672	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524823.1	1	670	670	EXCLUDE	prok:b-proteobacteria	100	Delftia acidovorans
+LM524824.1	1	670	670	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM524827.1	1	667	667	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524828.1	1	666	666	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524835.1	1	652	652	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM524836.1	1	651	651	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524842.1	1	648	648	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524843.1	1	646	646	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM524845.1	1	639	639	EXCLUDE	prok:b-proteobacteria	100	Franklinella schreckenbergeri
+LM524846.1	1	639	639	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524851.1	1	637	637	EXCLUDE	prok:g-proteobacteria	100	Pseudomonas fragi
+LM524853.1	1	635	635	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524858.1	1	634	634	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7506
+LM524859.1	1	631	631	EXCLUDE	prok:CFB group bacteria	100	Pedobacter caeni
+LM524860.1	1	630	630	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM524863.1	1	628	628	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM524866.1	1	626	626	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524870.1	1	621	621	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM524875.1	1	618	618	EXCLUDE	prok:b-proteobacteria	100	Achromobacter spanius
+LM524878.1	1	617	617	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524880.1	1	615	615	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM524881.1	1	612	612	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524886.1	1	607	607	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524887.1	1	606	606	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM524889.1	1	604	604	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524890.1	1	602	602	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524892.1	1	600	600	EXCLUDE	prok:a-proteobacteria	98	Pseudochrobactrum asaccharolyticum
+LM524893.1	1	597	597	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM524895.1	1	591	591	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA7507
+LM524896.1	1	589	589	EXCLUDE	prok:high GC Gram+	100	Microbacterium dextranolyticum
+LM524897.1	1	588	588	EXCLUDE	prok:a-proteobacteria	100	Brucella grignonensis
+LM524898.1	1	587	587	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524900.1	1	586	586	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM524902.1	1	583	583	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524905.1	1	577	577	EXCLUDE	prok:b-proteobacteria	92	Diaphorobacter aerolatus
+LM524914.1	1	572	572	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524918.1	1	568	568	EXCLUDE	prok:b-proteobacteria	100	Achromobacter marplatensis
+LM524921.1	1	563	563	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas bullata
+LM524922.1	1	561	561	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas guildfordensis
+LM524923.1	1	560	560	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524924.1	1	559	559	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524928.1	1	553	553	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+LM524931.1	1	549	549	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524932.1	1	549	549	EXCLUDE	prok:CFB group bacteria	100	Flavobacterium limnosediminis
+LM524933.1	1	549	549	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524935.1	1	548	548	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM524937.1	1	544	544	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas sp. UBA5936
+LM524939.1	1	543	543	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524945.1	1	535	535	EXCLUDE	prok:b-proteobacteria	100	Achromobacter denitrificans
+LM524946.1	1	535	535	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524948.1	1	534	534	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524949.1	1	533	533	EXCLUDE	prok:a-proteobacteria	98	Brevundimonas guildfordensis
+LM524950.1	1	529	529	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524952.1	1	526	526	EXCLUDE	prok:a-proteobacteria	97	Brevundimonas naejangsanensis
+LM524953.1	1	525	525	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas naejangsanensis
+LM524954.1	1	524	524	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM524956.1	1	523	523	EXCLUDE	prok:a-proteobacteria	100	Pseudochrobactrum asaccharolyticum
+LM524960.1	1	514	514	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis
+LM524964.1	1	506	506	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas diminuta
+LM524965.1	1	504	504	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas guildfordensis

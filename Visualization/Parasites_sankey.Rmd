@@ -10,7 +10,228 @@ library(networkD3)
 library(htmlwidgets)
 library(webshot2)
 library(tidyverse)
+library(GenomicRanges)
 ```
+
+```{r}
+  
+convert_bed <- function(df){
+  merged_list <- lapply(split(df, df$group), function(subdf) {
+  # Create a GRanges object for the current group.
+    gr <- GRanges(seqnames = subdf$group,
+                  ranges = IRanges(start = subdf$start, end = subdf$end))
+  
+  # Use reduce() to merge overlapping intervals.
+    merged_gr <- reduce(gr)
+  
+  # Return a data frame with the merged intervals.
+    data.frame(
+      genome = subdf$genome[1],
+      contig = subdf$contig[1],
+      start  = start(merged_gr),
+      end    = end(merged_gr),
+      div    = subdf$div[1],
+      top_tax_name = subdf$top_tax_name[1],
+      stringsAsFactors = FALSE
+    )
+  })
+  # Combine the list of data frames into one final data frame.
+  merged_df <- do.call(rbind, merged_list)
+  return(merged_df)
+}
+
+fcs_all_tb <- data_frame()
+all_acc <- read.table("genome_info.txt", header = FALSE)
+for (i in all_acc$V1) {
+  bed_file <- paste0("bed/", i, ".bed")
+  
+  # Check that both files exist and are not empty
+  if (file.exists(bed_file) && file.info(bed_file)$size > 0) {
+    
+    a_genome_info <- read_tsv(bed_file,
+                          col_names = c("contig", "start", "end", "seq_len", 
+                                            "action", "div", "agg_cont_cov", "top_tax_name")) %>% 
+      select(-c(action,agg_cont_cov)) %>% 
+      mutate(genome = i,
+             group = paste(genome,contig,div,top_tax_name,sep = "_")) 
+    
+    out <- convert_bed(a_genome_info)
+    fcs_all_tb <- bind_rows(fcs_all_tb, out)
+    
+  } else {
+    cat("Skipping empty or missing file for:", i, "\n")
+  }
+}
+
+fcs_all_tb_all <- fcs_all_tb %>% 
+  mutate(dist = end - start + 1) 
+# fcs_all_tb_all %>% 
+#   select(div,top_tax_name, dist) %>% 
+#   group_by(div,top_tax_name) %>% 
+#   summarise(contamination = sum(dist)) %>% 
+#   write_tsv("Parasites_contamination_source_length.tsv")
+
+fcs_all_tb_all %>% 
+  separate(.,div, into=c("kindom","details"), sep = ":") %>% 
+  mutate(simplified_tax_name = word(top_tax_name, 1, 2)) %>% 
+  select(genome,kindom,simplified_tax_name, dist) %>% 
+  group_by(genome,kindom,simplified_tax_name) %>% 
+  summarise(contamination = sum(dist)) %>%
+  mutate(kindom = ifelse(kindom == "prok","Bacteria",
+                         ifelse(kindom == "arch","Archaea",
+                                ifelse(kindom == "fung", "Fungi",
+                                       ifelse(kindom == "anml", "Metazoa",
+                                              ifelse(kindom == "synt","Synthetic",
+                                                     ifelse(kindom == "plnt","Viridiplantae",
+                                                            ifelse(kindom == "virs","Virus","Other eukaryotes")))))))) %>% 
+  left_join(., parasites_taxon_species_name %>% select(c(`Scientific Name`, `NCBI Accession ID`)),
+                                                     by = c("genome" = "NCBI Accession ID")) %>% 
+  rename(`Scientific Name` = "Species",
+         genome = "NCBI/VEuPathDB Accession ID",
+         kindom = "Taxonomic group",
+         contamination = "Length of contamination (bp)",
+         simplified_tax_name = "Contaminant species") %>% 
+  select(Species,`NCBI/VEuPathDB Accession ID`, `Taxonomic group`,`Length of contamination (bp)`, `Contaminant species`) %>% 
+  write_tsv("Supplementary_table3.tsv")
+
+  
+
+
+parasites_taxon_species_name <- read_tsv("Overlap_fcs_cont - parasites_taxon_species_name.tsv")
+# fcs_all_tb_all %>% 
+#   separate(.,div, into=c("kindom","details"), sep = ":") %>% 
+#   select(kindom,top_tax_name, dist) %>% 
+#   mutate(simplified_tax_name = word(top_tax_name, 1, 2)) %>% 
+#   select(-top_tax_name) %>% 
+#   group_by(kindom,simplified_tax_name) %>% 
+#   summarise(contamination = sum(dist)) %>% 
+#   write_tsv("Parasites_contamination_source_length2.tsv")
+# 
+# bacteria <- fcs_all_tb_all %>% 
+#   separate(.,div, into=c("kindom","details"), sep = ":") %>% 
+#   select(kindom,top_tax_name, dist) %>% 
+#   mutate(simplified_tax_name = word(top_tax_name, 1, 2)) %>% 
+#   select(-top_tax_name) %>% 
+#   group_by(kindom,simplified_tax_name) %>% 
+#   summarise(contamination = sum(dist)) %>% 
+  # filter(kindom == "prok")
+# sum(bacteria$contamination)
+```
+
+## Fig 3A heatmap text show the total length of taxon in MB, the color ingrediant shows the precentage of contamintion
+
+```{r}
+parasits_taxon <- read_tsv("Parasites_taxon.tsv")
+
+
+fcs_all_tb_all %>% 
+  separate(.,div, into=c("kindom","details"), sep = ":") %>% 
+  select(genome, kindom, dist) %>% 
+  group_by(genome,kindom) %>% 
+  summarise(contamination = sum(dist)/1000000) %>% 
+  left_join(.,parasits_taxon %>% select(-Length),by = c("genome" = "NCBI Accession ID")) %>% 
+  mutate(`Taxonomic Group`= ifelse(`Taxonomic Group` == "Blastocystis","Other eukaryotes",`Taxonomic Group`)) %>% 
+  select(-genome) %>% 
+  group_by(`Taxonomic Group`,kindom) %>% 
+  summarise(conta = round(sum(contamination), digits = 3)) %>% 
+  pivot_wider(., id_cols = "kindom", 
+              names_from = "Taxonomic Group", 
+              values_from = "conta") %>% 
+  column_to_rownames("kindom") %>% 
+  replace_na(.,list(Fungi = 0,Platyhelminthes = 0))
+  
+
+geno_len_parasites <- parasits_taxon %>% 
+  select(-"NCBI Accession ID") %>% 
+  mutate(`Taxonomic Group`= ifelse(`Taxonomic Group` == "Blastocystis","Other eukaryotes",`Taxonomic Group`)) %>% 
+  group_by(`Taxonomic Group`) %>% 
+  summarise(len = sum(Length))
+
+fcs_all_tb_all %>% 
+  separate(div, into = c("kindom", "details"), sep = ":") %>% 
+  select(genome, kindom, dist) %>% 
+  group_by(genome, kindom) %>% 
+  summarise(contamination = sum(dist), .groups = "drop") %>% 
+  left_join(parasits_taxon %>% select(-Length), by = c("genome" = "NCBI Accession ID")) %>% 
+  mutate(`Taxonomic Group` = ifelse(`Taxonomic Group` == "Blastocystis", 
+                                    "Other eukaryotes", 
+                                    `Taxonomic Group`)) %>% 
+  select(-genome) %>% 
+  group_by(`Taxonomic Group`, kindom) %>% 
+  summarise(conta = sum(contamination), .groups = "drop") %>% 
+  left_join(geno_len_parasites, by = "Taxonomic Group") %>% 
+  mutate(percentage = conta / len * 100,
+         percentage_bin = cut(percentage, 
+                              breaks = conta_per, 
+                              right = FALSE, 
+                              include.lowest = TRUE)) %>% 
+  pivot_wider(., id_cols = "kindom", 
+              names_from = "Taxonomic Group", 
+              values_from = "percentage_bin") %>% 
+  column_to_rownames("kindom")
+
+
+
+
+conta_per <- c(0, 0.001, 0.01, 0.1, 1)
+
+df_heatmap <- fcs_all_tb_all %>% 
+  separate(div, into = c("kindom", "details"), sep = ":") %>% 
+  select(genome, kindom, dist) %>% 
+  group_by(genome, kindom) %>% 
+  summarise(contamination = sum(dist), .groups = "drop") %>% 
+  left_join(parasits_taxon %>% select(-Length), by = c("genome" = "NCBI Accession ID")) %>% 
+  mutate(`Taxonomic Group` = ifelse(`Taxonomic Group` == "Blastocystis", 
+                                    "Other eukaryotes", 
+                                    `Taxonomic Group`)) %>% 
+  select(-genome) %>% 
+  group_by(`Taxonomic Group`, kindom) %>% 
+  summarise(conta = sum(contamination), .groups = "drop") %>% 
+  left_join(geno_len_parasites, by = "Taxonomic Group") %>% 
+  mutate(percentage = conta / len * 100,
+         percentage_bin = cut(percentage, 
+                              breaks = conta_per, 
+                              right = FALSE, 
+                              include.lowest = TRUE)) %>% 
+  pivot_wider(., id_cols = "kindom", 
+              names_from = "Taxonomic Group", 
+              values_from = "percentage_bin") %>% 
+  column_to_rownames("kindom") %>% 
+  as.data.frame(.)
+
+# Convert all columns to character (if they are factors) so the matrix holds the bin labels.
+df_heatmap[] <- lapply(df_heatmap, as.character)
+
+# Convert the data frame to a matrix.
+df_matrix <- as.matrix(df_heatmap)
+
+# Define a color mapping for your discrete bins:
+bin_colors <- c(
+  "[0,0.001)"    = "#F6DED8",  # lightest red
+  "[0.001,0.01)" = "#F2B28C",  # light red
+  "[0.01,0.1)"   = "#D2665A",  # medium red
+  "[0.1,1]"      = "#B82132"   # darkest red
+)
+
+# Create the heatmap.
+Heatmap(df_matrix,
+        col = bin_colors,        # map each bin to a color
+        na_col = "lightgrey",         # show NA cells in grey
+        name = "% contamination by length", # title for the legend
+        row_names_side = "left",
+        border = TRUE,
+        row_gap = unit(3, "mm"),
+        row_title = NULL,
+        row_order = c("arch","synt","prst","fung","virs","plnt","anml","prok"),
+        column_names_rot = 80,
+        column_order = c("Platyhelminthes","Other eukaryotes",
+                         "Fungi","Nematoda"),
+        # column_names_side = "top",
+        cluster_rows = T,
+        cluster_columns = T,
+        rect_gp = gpar(col = "white", lwd = 0.3))
+```
+
 
 ## Animalia
 

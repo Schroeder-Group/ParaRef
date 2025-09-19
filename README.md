@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # ParaRef: A decontaminated reference database for parasite detection in ancient and modern metagenomic datasets 
 Shotgun metagenomics is a valuable tool for detecting parasite DNA, but contamination in reference genomes can lead to false positives. To address this, we curated a database by quantifying and removing contamination from 831 published endoparasite genomes. Testing this database on modern and ancient metagenomic datasets showed a significant reduction in false positive detections, providing a more reliable resource for parasite identification.
 
@@ -50,3 +51,7 @@ This workflow ensures a rigorous process to decontaminate, evaluate, and authent
 4. Steinegger M, Salzberg SL. Terminating contamination: large-scale search identifies more than 2,000,000 contaminated entries in GenBank. Genome Biol. 2020;21(1):115. Published 2020 May 12. doi:10.1186/s13059-020-02023-1
 5. Fellows Yates JA, Lamnidis TC, Borry M, et al. Reproducible, portable, and efficient ancient genome reconstruction with nf-core/eager. PeerJ. 2021;9:e10947. Published 2021 Mar 16. doi:10.7717/peerj.10947
 6. Sikora M, Canteri E, Fernandez-Guerra A, et al. The landscape of ancient human pathogens in Eurasia from the Stone Age to historical times. bioRxiv. 2023. doi: 10.1101/2023.10.06.561165
+=======
+# Parasites-project
+shi
+>>>>>>> Stashed changes

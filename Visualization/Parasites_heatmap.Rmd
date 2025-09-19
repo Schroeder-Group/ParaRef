@@ -20,7 +20,7 @@ library(smplot2)
 ### only include ancient samples
 
 ```{r}
-df = read_tsv("./Parasite_heatmap - ancient_only.tsv")  %>% 
+df = read_tsv("./Input//Parasite_heatmap - ancient_only.tsv")  %>% 
   mutate(Sample = paste(Dataset,sampleId,sep = "_"),
          Authenticated = ifelse(covPosRelEntropy1000 >= 0.8, "TP","FP"),
          logReads = ifelse(Authenticated == "TP", log10(1 + nReads), -log10(1 + nReads))) %>% 
@@ -41,8 +41,7 @@ df_decon_wide <- df %>%
               values_from = "logReads") %>% 
   column_to_rownames("Sample")
 
-color_scale_diverging <- colorRamp2(c(-6, -3, 0, 3, 6),
-                                    c("#d73027","#fee090","grey", "#91bfdb", "#4575b4"))
+color_scale_diverging <- colorRamp2(c(-6, -5,-4,-3, 0, 3,4, 5,6),                                c("#a50f15","#de2d26","#fb6a4a","#fcae91","#EEEEEE","#bdd7e7","#6baed6","#3182bd","#08519c"))
 
 heatmap_raw <- Heatmap(as.matrix(df_raw_wide),
                        name = "logReads Raw",
@@ -52,9 +51,11 @@ heatmap_raw <- Heatmap(as.matrix(df_raw_wide),
                        col = color_scale_diverging,
                        border = TRUE,
                        rect_gp = gpar(col = "white", lwd = 1),
+                       # row_split = factor(c(rep("Dog",8),
+                       #                      rep("Human",24), 
+                       #                      rep("Iceman",11))),
                        row_split = factor(c(rep("Dog",8),
-                                            rep("Human",24), 
-                                            rep("Iceman",11))),
+                                            rep("Human",35))),
                        row_gap = unit(3, "mm"),
                        row_title = NULL,
                        column_names_rot = 80,
@@ -71,30 +72,38 @@ heatmap_decon <- Heatmap(as.matrix(df_decon_wide),
                          col = color_scale_diverging,
                          border = TRUE,
                          rect_gp = gpar(col = "white", lwd = 1),
+                         # row_split = factor(c(rep("Dog",8),
+                         #                    rep("Human",24), 
+                         #                    rep("Iceman",11))),
                          row_split = factor(c(rep("Dog",8),
-                                            rep("Human",24), 
-                                            rep("Iceman",11))),
+                                            rep("Human",35))),
                          row_gap = unit(3, "mm"),
                          row_title = NULL,
                          column_names_rot = 80,
                          column_names_gp = gpar(fontface = "italic"))
 
 # Define color scale
-color_scale_legend_tp <- colorRamp2(c(0, 3, 6), c("grey", "#91bfdb", "#4575b4"))
-color_scale_legend_fp <- colorRamp2(c(0, 3, 6), c("grey", "#fee090", "#d73027"))
+# color_scale_legend_tp <- colorRamp2(c(0, 3, 6), c("grey", "#91bfdb", "#4575b4"))
+# color_scale_legend_fp <- colorRamp2(c(0, 3, 6), c("grey", "#fee090", "#d73027"))
+color_scale_legend_tp <- colorRamp2(c(3, 4, 5, 6), c("#bdd7e7","#6baed6","#3182bd","#08519c"))
+color_scale_legend_fp <- colorRamp2(c(3, 4, 5, 6), c("#fcae91","#fb6a4a","#de2d26","#a50f15"))
+
 # Create a legend object
 legend_TP <- Legend(at = c(3,4,5,6), 
                  col_fun = color_scale_legend_tp, 
-                 title = "TP")
+                 labels = c("1,000","10,000","100,000","1,000,000"),
+                 title = "Pass")
 legend_FP <- Legend(at = c(3,4,5,6), 
                  col_fun = color_scale_legend_fp, 
-                 title = "FP")
-pdf("./TP_FP_combined_5colors.pdf", width = 20, height = 11)
+                 labels = c("1,000","10,000","100,000","1,000,000"),
+                 title = "Fail")
+pdf("~/Desktop/TP_FP_combined_5colors.pdf", width = 20, height = 11)
 draw(heatmap_raw + heatmap_decon, 
      annotation_legend_list = list(legend_TP,legend_FP),
      show_heatmap_legend = FALSE,  
      annotation_legend_side = "right")
 dev.off()
+
 ```
 
 ## Supplementary figure
@@ -103,8 +112,8 @@ dev.off()
 
 #### Pig dataset
 ```{r}
-heat_ancient <- read_tsv("./Parasite_heatmap - ancient_only.tsv") 
-all_heat <- read_tsv("./Parasite_heatmap_all.tsv") %>%
+heat_ancient <- read_tsv("./Input/Parasite_heatmap - ancient_only.tsv") 
+all_heat <- read_tsv("./Input/Parasite_heatmap_all.tsv") %>%
   filter(!sampleId %in% heat_ancient$sampleId,
          str_detect(Dataset, "Pigs")) %>%
   mutate(Sample = paste(Dataset,sampleId,sep = "_"),
@@ -126,8 +135,8 @@ all_decon_wide <- all_heat %>%
               values_from = "logReads") %>% 
   column_to_rownames("Sample")
 
-color_scale_diverging <- colorRamp2(c(-6, -3, 0, 3, 6),
-                                    c("#d73027","#fee090","grey", "#91bfdb", "#4575b4"))
+# color_scale_diverging <- colorRamp2(c(-6, -3, 0, 3, 6),
+#                                     c("#d73027","#fee090","grey", "#91bfdb", "#4575b4"))
 
 heatmap_raw_modern <- Heatmap(as.matrix(all_raw_wide),
                        name = "logReads Raw",
@@ -158,7 +167,7 @@ heatmap_decon_modern <- Heatmap(as.matrix(all_decon_wide),
                          show_row_names = FALSE)
 
 
-pdf("/Users/hsf378/Downloads/Heatmap_pigs.pdf", width = 20, height = 11)
+pdf("/Users/hsf378/Desktop/Heatmap_pigs.pdf", width = 20, height = 11)
 draw(heatmap_raw_modern + heatmap_decon_modern,
      annotation_legend_list = list(legend_TP,legend_FP),
      show_heatmap_legend = FALSE,
@@ -170,7 +179,7 @@ dev.off()
 
 #### Madagascar dataset
 ```{r}
-all_heat <- read_tsv("./Parasite_heatmap_all.tsv") %>%
+all_heat <- read_tsv("./Input/Parasite_heatmap_all.tsv") %>%
   filter(!sampleId %in% heat_ancient$sampleId,
          str_detect(Dataset, "Madagascar")) %>%
   mutate(Sample = paste(Dataset,sampleId,sep = "_"),
@@ -192,8 +201,8 @@ all_decon_wide <- all_heat %>%
               values_from = "logReads") %>% 
   column_to_rownames("Sample")
 
-color_scale_diverging <- colorRamp2(c(-6, -3, 0, 3, 6),
-                                    c("#d73027","#fee090","grey", "#91bfdb", "#4575b4"))
+# color_scale_diverging <- colorRamp2(c(-6, -3, 0, 3, 6),
+#                                     c("#d73027","#fee090","grey", "#91bfdb", "#4575b4"))
 
 heatmap_raw_modern <- Heatmap(as.matrix(all_raw_wide),
                        name = "logReads Raw",
@@ -224,7 +233,7 @@ heatmap_decon_modern <- Heatmap(as.matrix(all_decon_wide),
                          show_row_names = FALSE)
 
 
-pdf("./Heatmap_madagascar.pdf", width = 20, height = 11)
+pdf("~/Desktop/Heatmap_madagascar.pdf", width = 20, height = 11)
 draw(heatmap_raw_modern + heatmap_decon_modern,
      annotation_legend_list = list(legend_TP,legend_FP),
      show_heatmap_legend = FALSE,
@@ -235,7 +244,7 @@ dev.off()
 
 #### Hadza dataset
 ```{r}
-df_hadza = read_tsv("./HadzaHeatmapInput.tsv")  %>% 
+df_hadza = read_tsv("./Input/HadzaHeatmapInput.tsv")  %>% 
   select(c(sampleId, taxNameSpecies, Database,Authenticated,nReads,covPosRelEntropy1000)) %>% 
   filter(!sampleId %in% heat_ancient$sampleId) %>%
   mutate(Sample = sampleId,
@@ -257,8 +266,8 @@ df_hadza_decon_wide <- df_hadza %>%
               values_from = "logReads") %>% 
   column_to_rownames("Sample")
 # rownames(df_hadza_raw_wide)
-color_scale_diverging <- colorRamp2(c(-6, -3, 0, 3, 6),
-                                    c("#d73027","#fee090","grey", "#91bfdb", "#4575b4"))
+# color_scale_diverging <- colorRamp2(c(-6, -3, 0, 3, 6),
+#                                     c("#d73027","#fee090","grey", "#91bfdb", "#4575b4"))
 
 heatmap_raw_hadza <- Heatmap(as.matrix(df_hadza_raw_wide),
                        name = "logReads Raw",
@@ -284,11 +293,10 @@ heatmap_decon_hadza <- Heatmap(as.matrix(df_hadza_decon_wide),
                          column_names_rot = 80,
                          column_names_gp = gpar(fontface = "italic"))
 
-pdf("./heatmap_hadza.pdf", width = 12, height = 11)
+pdf("~/Desktop/heatmap_hadza.pdf", width = 12, height = 11)
 draw(heatmap_raw_hadza + heatmap_decon_hadza, 
      annotation_legend_list = list(legend_TP,legend_FP),
      show_heatmap_legend = FALSE,  
      annotation_legend_side = "right")
 dev.off()
 ```
-

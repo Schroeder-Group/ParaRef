@@ -1,0 +1,65 @@
+BFBS01000013.1	1	72	72	EXCLUDE	prok:firmicutes	84	n/a
+BFBS01001049.1	1	80	80	EXCLUDE	virs:prokaryotic viruses	72	n/a
+BFBS01001306.1	1	62	62	EXCLUDE	prok:firmicutes	91	n/a
+BFBS01001697.1	1	72	72	EXCLUDE	prok:firmicutes	95	n/a
+BFBS01001876.1	1	63	63	EXCLUDE	prok:firmicutes	96	n/a
+BFBS01001910.1	1	89	89	EXCLUDE	virs:prokaryotic viruses	82	n/a
+BFBS01001927.1	1	61	61	EXCLUDE	prok:high GC Gram+	91	n/a
+BFBS01001988.1	1	89	89	EXCLUDE	prok:high GC Gram+	83	n/a
+BFBS01002057.1	1	89	89	EXCLUDE	prok:high GC Gram+	80	n/a
+BFBS01002482.1	1	108	108	EXCLUDE	virs:prokaryotic viruses	77	n/a
+BFBS01002726.1	1	61	61	EXCLUDE	prok:high GC Gram+	91	n/a
+BFBS01002832.1	1	89	89	EXCLUDE	prok:high GC Gram+	82	n/a
+BFBS01002976.1	1	74	74	EXCLUDE	virs:prokaryotic viruses	94	n/a
+BFBS01004124.1	1	89	89	EXCLUDE	virs:prokaryotic viruses	78	n/a
+BFBS01004409.1	1	75	75	EXCLUDE	prok:high GC Gram+	92	n/a
+BFBS01004804.1	1	89	89	EXCLUDE	virs:prokaryotic viruses	82	n/a
+BFBS01004994.1	1	60	60	EXCLUDE	virs:prokaryotic viruses	95	n/a
+BFBS01005179.1	1	89	89	EXCLUDE	virs:prokaryotic viruses	82	n/a
+BFBS01005557.1	1	75	75	EXCLUDE	prok:high GC Gram+	82	n/a
+BFBS01006205.1	1	61	61	EXCLUDE	prok:firmicutes	91	n/a
+BFBS01006325.1	1	90	90	EXCLUDE	prok:high GC Gram+	100	Streptomyces rochei
+BFBS01006483.1	1	61	61	EXCLUDE	prok:high GC Gram+	91	n/a
+BFBS01006620.1	1	82	82	EXCLUDE	prok:high GC Gram+	89	n/a
+BFBS01007280.1	1	89	89	EXCLUDE	virs:prokaryotic viruses	82	n/a
+BFBS01007305.1	1	89	89	EXCLUDE	prok:high GC Gram+	80	n/a
+BFBS01007830.1	1	89	89	EXCLUDE	prok:high GC Gram+	92	n/a
+BFBS01009171.1	1	70	70	EXCLUDE	prok:firmicutes	90	n/a
+BFBS01009355.1	1	297	297	EXCLUDE	prok:high GC Gram+	100	Streptomyces rochei
+BFBS01009758.1	1	62	62	EXCLUDE	prok:firmicutes	93	n/a
+BFBS01009959.1	1	79	79	EXCLUDE	virs:prokaryotic viruses	70	n/a
+BFBS01010220.1	1	80	80	EXCLUDE	prok:high GC Gram+	87	n/a
+BFBS01010343.1	1	113	113	EXCLUDE	prok:high GC Gram+	98	Streptomyces solincola
+BFBS01010351.1	1	89	89	EXCLUDE	virs:prokaryotic viruses	82	n/a
+BFBS01010379.1	1	60	60	EXCLUDE	prok:high GC Gram+	96	n/a
+BFBS01011152.1	1	89	89	EXCLUDE	prok:high GC Gram+	84	n/a
+BFBS01011481.1	1	78	78	EXCLUDE	virs:prokaryotic viruses	76	n/a
+BFBS01011747.1	1	81	81	EXCLUDE	prok:firmicutes	82	n/a
+BFBS01011768.1	1	61	61	EXCLUDE	prok:high GC Gram+	91	n/a
+BFBS01012301.1	1	88	88	EXCLUDE	virs:prokaryotic viruses	69	n/a
+BFBS01012516.1	1	72	72	EXCLUDE	virs:prokaryotic viruses	81	n/a
+BFBS01012545.1	1	74	74	EXCLUDE	prok:high GC Gram+	81	n/a
+BFBS01013041.1	1	73	73	EXCLUDE	prok:firmicutes	87	n/a
+BFBS01013195.1	1	89	89	EXCLUDE	virs:prokaryotic viruses	82	n/a
+BFBS01013272.1	1	89	89	EXCLUDE	prok:high GC Gram+	88	n/a
+BFBS01013346.1	1	94	94	EXCLUDE	prok:high GC Gram+	100	Streptomyces rochei
+BFBS01013425.1	1	97	97	EXCLUDE	prok:high GC Gram+	100	Streptomyces rochei
+BFBS01013500.1	1	89	89	EXCLUDE	prok:high GC Gram+	92	n/a
+BFBS01013540.1	1	69	69	EXCLUDE	prok:firmicutes	92	n/a
+BFBS01013925.1	1	62	62	EXCLUDE	prok:high GC Gram+	91	n/a
+BFBS01014189.1	1	64	64	EXCLUDE	prok:high GC Gram+	93	n/a
+BFBS01014610.1	1	90	90	EXCLUDE	virs:prokaryotic viruses	67	n/a
+BFBS01014767.1	1	70	70	EXCLUDE	prok:firmicutes	82	n/a
+BFBS01014881.1	1	67	67	EXCLUDE	prok:high GC Gram+	86	n/a
+BFBS01014915.1	1	69	69	EXCLUDE	prok:firmicutes	82	n/a
+BFBS01014922.1	1	87	87	EXCLUDE	virs:prokaryotic viruses	66	n/a
+BFBS01014977.1	1	127	127	EXCLUDE	prok:high GC Gram+	100	Streptomyces rochei
+BFBS01015288.1	1	74	74	EXCLUDE	prok:firmicutes	87	n/a
+BFBS01015318.1	1	67	67	EXCLUDE	prok:firmicutes	92	n/a
+BFBS01015456.1	1	100	100	EXCLUDE	virs:eukaryotic viruses	71	n/a
+BFBS01015544.1	1	97	97	EXCLUDE	prok:high GC Gram+	100	Streptomyces rochei
+BFBS01015625.1	1	89	89	EXCLUDE	prok:high GC Gram+	84	n/a
+BFBS01015788.1	1	48413	48413	EXCLUDE	virs:prokaryotic viruses	100	Oceanobacillus profundus
+BFBS01016009.1	1	2947	2947	EXCLUDE	prok:high GC Gram+	89	Streptomyces echinatus
+BFBS01016255.1	1	7182	7182	EXCLUDE	prok:high GC Gram+	61	Streptomyces misionensis
+BFBS01016339.1	1	6815	6815	EXCLUDE	prok:high GC Gram+	70	Streptomyces misionensis

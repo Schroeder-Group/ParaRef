@@ -1,0 +1,133 @@
+UZAJ01005218.1	1	817	2686	TRIM	plnt:plants	41	n/a
+UZAJ01007187.1	1	2134	2134	EXCLUDE	anml:insects	68	Cryptotermes secundus
+UZAJ01007392.1	1	2089	2089	EXCLUDE	anml:primates	100	Homo sapiens
+UZAJ01007397.1	1	2089	2089	EXCLUDE	anml:primates	100	Homo sapiens
+UZAJ01007535.1	1	2060	2060	EXCLUDE	prok:a-proteobacteria	85	Wolbachia endosymbiont of Onchocerca volvulus
+UZAJ01008587.1	1	1875	1875	EXCLUDE	anml:insects	55	Limulus polyphemus
+UZAJ01008859.1	1	1834	1834	EXCLUDE	anml:insects	37	Leptopilina heterotoma
+UZAJ01009869.1	1	1696	1696	EXCLUDE	prok:a-proteobacteria	60	Wolbachia endosymbiont of Onchocerca volvulus
+UZAJ01010364.1	1	1633	1633	EXCLUDE	prok:a-proteobacteria	32	Wolbachia endosymbiont of Litomosoides sigmodontis
+UZAJ01010542.1	1	1613	1613	EXCLUDE	anml:primates	100	Homo sapiens
+UZAJ01010774.1	1	1587	1587	EXCLUDE	prok:a-proteobacteria	100	Rhizobium oryzihabitans
+UZAJ01011142.1	1	1544	1544	EXCLUDE	anml:fishes	76	Erpetoichthys calabaricus
+UZAJ01011191.1	942	1538	1538	TRIM	plnt:plants	85	n/a
+UZAJ01011648.1	1	1491	1491	EXCLUDE	prok:a-proteobacteria	44	Wolbachia endosymbiont of Onchocerca volvulus
+UZAJ01012059.1	1	1451	1451	EXCLUDE	anml:fishes	47	Petromyzon marinus
+UZAJ01012101.1	1	1447	1447	EXCLUDE	anml:fishes	95	Petromyzon marinus
+UZAJ01012373.1	1	1423	1423	EXCLUDE	anml:insects	52	Cryptotermes secundus
+UZAJ01012397.1	1	1420	1420	EXCLUDE	anml:fishes	80	Petromyzon marinus
+UZAJ01012526.1	1	1409	1409	EXCLUDE	anml:insects	98	Cryptotermes secundus
+UZAJ01013567.1	1	1322	1322	EXCLUDE	anml:fishes	83	Erpetoichthys calabaricus
+UZAJ01013651.1	1	1316	1316	EXCLUDE	anml:insects	94	Cryptotermes secundus
+UZAJ01014297.1	1	1269	1269	EXCLUDE	anml:fishes	86	Petromyzon marinus
+UZAJ01014333.1	1	1267	1267	EXCLUDE	anml:insects	95	Cryptotermes secundus
+UZAJ01014674.1	1	1245	1245	EXCLUDE	anml:insects	91	Limulus polyphemus
+UZAJ01014981.1	1	1223	1223	EXCLUDE	anml:insects	62	Cryptotermes secundus
+UZAJ01014995.1	1	1222	1222	EXCLUDE	anml:insects	67	Vandiemenella viatica
+UZAJ01015420.1	1	1196	1196	EXCLUDE	prok:a-proteobacteria	25	Wolbachia endosymbiont of Onchocerca volvulus
+UZAJ01016291.1	1	1143	1143	EXCLUDE	prok:a-proteobacteria	49	Wolbachia endosymbiont of Onchocerca volvulus
+UZAJ01016526.1	1	1129	1129	EXCLUDE	anml:insects	35	Nylanderia fulva
+UZAJ01016591.1	1	1125	1125	EXCLUDE	anml:insects	45	Limulus polyphemus
+UZAJ01016622.1	1	1124	1124	EXCLUDE	anml:fishes	61	Erpetoichthys calabaricus
+UZAJ01017076.1	1	1101	1101	EXCLUDE	virs:eukaryotic viruses	28	n/a
+UZAJ01017144.1	1	1097	1097	EXCLUDE	prok:a-proteobacteria	69	Wolbachia endosymbiont of Onchocerca volvulus
+UZAJ01018124.1	1	1047	1047	EXCLUDE	anml:fishes	48	Petromyzon marinus
+UZAJ01018573.1	1	1024	1024	EXCLUDE	anml:fishes	97	Erpetoichthys calabaricus
+UZAJ01018962.1	1	1006	1006	EXCLUDE	prok:a-proteobacteria	96	Wolbachia endosymbiont of Dirofilaria (Dirofilaria) immitis
+UZAJ01018971.1	1	1006	1006	EXCLUDE	anml:insects	84	Limulus polyphemus
+UZAJ01019012.1	1	1004	1004	EXCLUDE	prok:a-proteobacteria	69	Wolbachia endosymbiont of Onchocerca volvulus
+UZAJ01019106.1	1	1000	1000	EXCLUDE	anml:insects	57	Limulus polyphemus
+UZAJ01019119.1	1	999	999	EXCLUDE	anml:insects	65	Nylanderia fulva
+UZAJ01019372.1	1	989	989	EXCLUDE	anml:fishes	82	Petromyzon marinus
+UZAJ01019412.1	1	988	988	EXCLUDE	anml:insects	67	Cryptotermes secundus
+UZAJ01020064.1	1	958	958	EXCLUDE	anml:fishes	83	Chanos chanos
+UZAJ01020804.1	1	927	927	EXCLUDE	anml:fishes	95	Erpetoichthys calabaricus
+UZAJ01021465.1	1	902	902	EXCLUDE	anml:fishes	56	Petromyzon marinus
+UZAJ01021549.1	1	898	898	EXCLUDE	prok:a-proteobacteria	100	Rhizobium oryzihabitans
+UZAJ01021855.1	1	887	887	EXCLUDE	prok:a-proteobacteria	36	Wolbachia endosymbiont of Onchocerca volvulus
+UZAJ01021998.1	1	882	882	EXCLUDE	anml:fishes	98	Erpetoichthys calabaricus
+UZAJ01022549.1	1	864	864	EXCLUDE	prok:a-proteobacteria	100	Wolbachia endosymbiont of Onchocerca volvulus
+UZAJ01022590.1	1	863	863	EXCLUDE	prok:a-proteobacteria	100	Brevundimonas vesicularis
+UZAJ01022888.1	1	853	853	EXCLUDE	prok:a-proteobacteria	88	Wolbachia endosymbiont of Dirofilaria (Dirofilaria) immitis
+UZAJ01022899.1	1	853	853	EXCLUDE	anml:mammals	100	Ovis aries
+UZAJ01022965.1	1	851	851	EXCLUDE	prok:a-proteobacteria	100	Rhodoligotrophos defluvii
+UZAJ01023286.1	1	840	840	EXCLUDE	anml:insects	70	Limulus polyphemus
+UZAJ01023619.1	1	831	831	EXCLUDE	anml:fishes	98	Petromyzon marinus
+UZAJ01023950.1	1	821	821	EXCLUDE	anml:insects	63	Limulus polyphemus
+UZAJ01024078.1	1	816	816	EXCLUDE	anml:mammals	84	Ovis aries
+UZAJ01025243.1	1	782	782	EXCLUDE	anml:insects	79	Cryptotermes secundus
+UZAJ01025280.1	1	781	781	EXCLUDE	anml:mammals	100	Ovis aries
+UZAJ01025614.1	1	771	771	EXCLUDE	virs:viruses	39	n/a
+UZAJ01025687.1	1	769	769	EXCLUDE	prok:a-proteobacteria	52	Rhizobium lemnae
+UZAJ01025826.1	1	765	765	EXCLUDE	anml:mammals	100	Ovis aries
+UZAJ01026156.1	1	756	756	EXCLUDE	virs:prokaryotic viruses	40	n/a
+UZAJ01027486.1	1	722	722	EXCLUDE	anml:insects	83	Limulus polyphemus
+UZAJ01027544.1	1	721	721	EXCLUDE	anml:insects	52	Cryptotermes secundus
+UZAJ01028424.1	1	699	699	EXCLUDE	anml:insects	67	Limulus polyphemus
+UZAJ01028639.1	1	694	694	EXCLUDE	anml:insects	85	Cryptotermes secundus
+UZAJ01028896.1	1	688	688	EXCLUDE	anml:mammals	91	Ovis aries
+UZAJ01029061.1	1	684	684	EXCLUDE	anml:insects	100	Limulus polyphemus
+UZAJ01029640.1	1	671	671	EXCLUDE	anml:mammals	100	Ovis aries
+UZAJ01030210.1	1	660	660	EXCLUDE	prok:a-proteobacteria	93	Wolbachia endosymbiont of Onchocerca volvulus
+UZAJ01031114.1	1	641	641	EXCLUDE	anml:mammals	71	Ovis aries
+UZAJ01031342.1	1	637	637	EXCLUDE	anml:insects	95	Limulus polyphemus
+UZAJ01033348.1	1	599	599	EXCLUDE	anml:insects	84	Hesperophylax magnus
+UZAJ01033837.1	1	590	590	EXCLUDE	anml:insects	100	Cryptotermes secundus
+UZAJ01033868.1	1	590	590	EXCLUDE	prok:a-proteobacteria	100	Wolbachia endosymbiont of Onchocerca volvulus
+UZAJ01033870.1	1	590	590	EXCLUDE	anml:mammals	96	Ovis aries
+UZAJ01034012.1	1	587	587	EXCLUDE	prok:a-proteobacteria	51	Wolbachia endosymbiont of Onchocerca volvulus
+UZAJ01034406.1	1	581	581	EXCLUDE	virs:prokaryotic viruses	69	n/a
+UZAJ01034513.1	1	579	579	EXCLUDE	anml:mammals	95	Ovis aries
+UZAJ01034540.1	1	579	579	EXCLUDE	anml:primates	100	Homo sapiens
+UZAJ01035129.1	1	568	568	EXCLUDE	anml:insects	100	Limulus polyphemus
+UZAJ01035640.1	1	561	561	EXCLUDE	anml:fishes	82	Thalassophryne amazonica
+UZAJ01036279.1	1	551	551	EXCLUDE	anml:fishes	49	Erpetoichthys calabaricus
+UZAJ01036389.1	1	550	550	EXCLUDE	prok:a-proteobacteria	90	Wolbachia endosymbiont of Onchocerca volvulus
+UZAJ01036964.1	1	542	542	EXCLUDE	virs:viruses	37	n/a
+UZAJ01037255.1	1	538	538	EXCLUDE	prok:a-proteobacteria	100	Camelimonas fluminis
+UZAJ01037333.1	1	537	537	EXCLUDE	virs:viruses	51	n/a
+UZAJ01037488.1	1	535	535	EXCLUDE	anml:fishes	61	Petromyzon marinus
+UZAJ01037777.1	1	530	530	EXCLUDE	anml:mammals	94	Ovis aries
+UZAJ01037820.1	1	529	529	EXCLUDE	prok:a-proteobacteria	89	Wolbachia endosymbiont of Onchocerca volvulus
+UZAJ01037901.1	1	528	528	EXCLUDE	anml:fishes	94	Salmo salar
+UZAJ01038077.1	1	525	525	EXCLUDE	anml:fishes	100	Petromyzon marinus
+UZAJ01038556.1	1	518	518	EXCLUDE	anml:fishes	84	Thalassophryne amazonica
+UZAJ01038801.1	1	514	514	EXCLUDE	prok:a-proteobacteria	86	Wolbachia endosymbiont of Onchocerca volvulus
+UZAJ01039005.1	1	511	511	EXCLUDE	prok:a-proteobacteria	53	Wolbachia endosymbiont of Onchocerca volvulus
+UZAJ01039010.1	1	511	511	EXCLUDE	anml:insects	97	Photinus pyralis
+UZAJ01039099.1	1	510	510	EXCLUDE	prok:a-proteobacteria	53	Wolbachia endosymbiont of Onchocerca volvulus
+UZAJ01039515.1	1	504	504	EXCLUDE	anml:insects	85	Limulus polyphemus
+UZAJ01040231.1	10597	10667	10667	TRIM	prok:a-proteobacteria	84	n/a
+UZAJ01040614.1	1	6866	6866	EXCLUDE	prok:a-proteobacteria	100	Rhizobium oryzihabitans
+UZAJ01040893.1	1	5464	5464	EXCLUDE	synt:synthetic	99	synthetic
+UZAJ01041831.1	1	3070	3070	EXCLUDE	anml:mammals	71	Ovis aries
+UZAJ01041845.1	1	3039	3039	EXCLUDE	prok:a-proteobacteria	57	Wolbachia endosymbiont of Onchocerca volvulus
+UZAJ01042056.1	1	2766	2766	EXCLUDE	anml:mammals	31	Ovis aries
+UZAJ01042327.1	1	2465	2465	EXCLUDE	anml:insects	41	Cryptotermes secundus
+UZAJ01042501.1	1	2263	2263	EXCLUDE	prok:a-proteobacteria	43	Wolbachia endosymbiont of Onchocerca volvulus
+UZAJ01043019.1	1	1801	1801	EXCLUDE	anml:mammals	95	Ovis aries
+UZAJ01043070.1	1	1763	1763	EXCLUDE	anml:mammals	88	Ovis aries
+UZAJ01043437.1	1	1471	1471	EXCLUDE	virs:prokaryotic viruses	27	n/a
+UZAJ01043556.1	1	1386	1386	EXCLUDE	prok:a-proteobacteria	39	Wolbachia endosymbiont of Onchocerca volvulus
+UZAJ01043652.1	1	1324	1324	EXCLUDE	anml:mammals	30	n/a
+UZAJ01043826.1	1	1211	1211	EXCLUDE	anml:mammals	46	Ovis aries
+UZAJ01044011.1	1	1103	1103	EXCLUDE	prok:a-proteobacteria	30	Wolbachia endosymbiont of Armadillidium vulgare
+UZAJ01044239.1	1	984	984	EXCLUDE	virs:prokaryotic viruses	37	n/a
+UZAJ01044339.1	1	931	931	EXCLUDE	prok:a-proteobacteria	34	Wolbachia endosymbiont of Onchocerca volvulus
+UZAJ01044626.1	1	820	820	EXCLUDE	prok:a-proteobacteria	66	Wolbachia endosymbiont of Onchocerca volvulus
+UZAJ01044722.1	1	788	788	EXCLUDE	anml:primates	100	Homo sapiens
+UZAJ01044856.1	1	738	738	EXCLUDE	anml:mammals	74	n/a
+UZAJ01044895.1	1	726	726	EXCLUDE	anml:fishes	45	Petromyzon marinus
+UZAJ01044920.1	1	718	718	EXCLUDE	anml:fishes	24	n/a
+UZAJ01045049.1	1	685	685	EXCLUDE	anml:fishes	27	n/a
+UZAJ01045082.1	1	677	677	EXCLUDE	anml:fishes	40	n/a
+UZAJ01045083.1	1	677	677	EXCLUDE	prok:a-proteobacteria	33	Wolbachia endosymbiont of Onchocerca volvulus
+UZAJ01045231.1	1	643	643	EXCLUDE	virs:prokaryotic viruses	27	n/a
+UZAJ01045275.1	1	636	636	EXCLUDE	anml:mammals	21	n/a
+UZAJ01045299.1	1	630	630	EXCLUDE	anml:mammals	30	n/a
+UZAJ01045343.1	1	622	622	EXCLUDE	prok:a-proteobacteria	26	n/a
+UZAJ01045347.1	1	621	621	EXCLUDE	prok:a-proteobacteria	28	n/a
+UZAJ01045389.1	1	605	605	EXCLUDE	anml:mammals	30	n/a
+UZAJ01045410.1	1	593	593	EXCLUDE	anml:mammals	32	n/a
+UZAJ01045419.1	1	587	587	EXCLUDE	anml:mammals	26	n/a
+UZAJ01045422.1	1	585	585	EXCLUDE	anml:fishes	60	n/a

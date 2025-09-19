@@ -1,0 +1,952 @@
+LN012623.1	1	11385	11385	EXCLUDE	anml:rodents	58	Marmota monax
+LN013988.1	1	10947	10947	EXCLUDE	anml:primates	28	Lemur catta
+LN015403.1	1	10549	10549	EXCLUDE	anml:mammals	63	Echinops telfairi
+LN019530.1	1	9566	9566	EXCLUDE	anml:mammals	44	Echinops telfairi
+LN019939.1	1	9481	9481	EXCLUDE	anml:rodents	35	Marmota monax
+LN027946.1	1	8133	8133	EXCLUDE	anml:nematodes	26	Oscheius tipulae
+LN029188.1	1	7966	7966	EXCLUDE	anml:mammals	40	Elephas maximus
+LN030314.1	1	7825	7825	EXCLUDE	anml:rodents	34	Nannospalax galili
+LN030610.1	1	7788	7788	EXCLUDE	anml:fishes	26	Carcharodon carcharias
+LN032345.1	1	7587	7587	EXCLUDE	anml:rodents	45	Marmota monax
+LN039231.1	1	6859	6859	EXCLUDE	anml:primates	47	Lemur catta
+LN039408.1	1	6842	6842	EXCLUDE	anml:rodents	64	Marmota monax
+LN041818.1	1	6625	6625	EXCLUDE	anml:rodents	41	Marmota monax
+LN045435.1	1	6320	6320	EXCLUDE	anml:mammals	20	Echinops telfairi
+LN045602.1	1	6308	6308	EXCLUDE	anml:mammals	21	Elephas maximus
+LN046972.1	1	6202	6202	EXCLUDE	anml:primates	80	Homo sapiens
+LN047872.1	1	6136	6136	EXCLUDE	anml:nematodes	29	Onchocerca volvulus
+LN049068.1	1	6050	6050	EXCLUDE	anml:crustaceans	21	Procambarus clarkii
+LN049997.1	1	5980	5980	EXCLUDE	anml:fishes	27	Alosa sapidissima
+LN055594.1	1	5605	5605	EXCLUDE	anml:mammals	65	Elephantulus edwardii
+LN056998.1	1	5521	5521	EXCLUDE	anml:rodents	28	Nannospalax galili
+LN058573.1	1	5423	5423	EXCLUDE	anml:rodents	81	Marmota monax
+LN061769.1	1	5241	5241	EXCLUDE	anml:mammals	46	Neogale vison
+LN063288.1	1	5158	5158	EXCLUDE	anml:fishes	52	Carcharodon carcharias
+LN063473.1	1	5147	5147	EXCLUDE	anml:rodents	40	Marmota monax
+LN066631.1	1	4979	4979	EXCLUDE	anml:rodents	35	Marmota monax
+LN066757.1	1	4972	4972	EXCLUDE	anml:fishes	55	Carcharodon carcharias
+LN068645.1	1	4880	4880	EXCLUDE	anml:crustaceans	31	Procambarus clarkii
+LN068873.1	1	4870	4870	EXCLUDE	anml:mammals	24	Echinops telfairi
+LN069420.1	1	4843	4843	EXCLUDE	anml:crustaceans	25	Procambarus clarkii
+LN069787.1	1	4824	4824	EXCLUDE	anml:rodents	21	Marmota monax
+LN073062.1	1	4672	4672	EXCLUDE	anml:molluscs	21	Nautilus pompilius
+LN073752.1	1	4643	4643	EXCLUDE	anml:fishes	26	Carcharodon carcharias
+LN076531.1	1	4521	4521	EXCLUDE	anml:reptiles	33	Sceloporus undulatus
+LN078485.1	1	4441	4441	EXCLUDE	anml:rodents	37	Oryctolagus cuniculus
+LN079470.1	1	4402	4402	EXCLUDE	anml:rodents	78	Oryctolagus cuniculus
+LN079640.1	1	4396	4396	EXCLUDE	anml:crustaceans	24	Procambarus clarkii
+LN080294.1	1	4370	4370	EXCLUDE	anml:mammals	37	Echinops telfairi
+LN081113.1	1	4337	4337	EXCLUDE	anml:fishes	45	Erpetoichthys calabaricus
+LN082331.1	1	4287	4287	EXCLUDE	anml:nematodes	21	Onchocerca volvulus
+LN083569.1	1	4238	4238	EXCLUDE	anml:rodents	76	Marmota monax
+LN087813.1	1	4079	4079	EXCLUDE	anml:fishes	52	Danio rerio
+LN091107.1	1	3962	3962	EXCLUDE	anml:fishes	27	Erpetoichthys calabaricus
+LN091838.1	1	3938	3938	EXCLUDE	anml:amphibians	22	Xenopus laevis
+LN092235.1	1	3926	3926	EXCLUDE	anml:rodents	36	Marmota monax
+LN092944.1	1	3902	3902	EXCLUDE	anml:molluscs	35	Biomphalaria glabrata
+LN094692.1	1	3843	3843	EXCLUDE	anml:primates	33	Lemur catta
+LN094741.1	1	3842	3842	EXCLUDE	anml:molluscs	48	Nautilus pompilius
+LN097714.1	1	3746	3746	EXCLUDE	anml:fishes	21	Carcharodon carcharias
+LN100806.1	1	3650	3650	EXCLUDE	anml:fishes	32	Erpetoichthys calabaricus
+LN101959.1	1	3614	3614	EXCLUDE	anml:fishes	81	Carcharodon carcharias
+LN104986.1	1	3524	3524	EXCLUDE	anml:rodents	61	Marmota monax
+LN105728.1	1	3501	3501	EXCLUDE	anml:primates	99	Homo sapiens
+LN110013.1	1	3380	3380	EXCLUDE	anml:mammals	39	Elephas maximus
+LN112986.1	1	3300	3300	EXCLUDE	plnt:plants	13	n/a
+LN113822.1	1	3277	3277	EXCLUDE	anml:rodents	91	Marmota monax
+LN115657.1	1	3230	3230	EXCLUDE	anml:fishes	66	Callorhinchus milii
+LN116717.1	1	3204	3204	EXCLUDE	anml:rodents	46	Marmota monax
+LN117780.1	1	3178	3178	EXCLUDE	anml:reptiles	36	Gekko japonicus
+LN125401.1	1	2994	2994	EXCLUDE	anml:fishes	36	Salmo salar
+LN127495.1	1	2944	2944	EXCLUDE	anml:mammals	69	Elephas maximus
+LN128883.1	1	2913	2913	EXCLUDE	anml:primates	77	Lemur catta
+LN129735.1	1	2895	2895	EXCLUDE	anml:fishes	61	Erpetoichthys calabaricus
+LN130672.1	1	2874	2874	EXCLUDE	anml:mammals	87	Echinops telfairi
+LN131055.1	2792	2865	2865	TRIM	plnt:plants	98	n/a
+LN131598.1	1470	1574	2854	FIX	virs:prokaryotic viruses	77	n/a
+LN132796.1	1	2828	2828	EXCLUDE	anml:mammals	46	Elephantulus edwardii
+LN134818.1	1	2786	2786	EXCLUDE	anml:mammals	92	Echinops telfairi
+LN136466.1	1	2752	2752	EXCLUDE	anml:fishes	22	Callorhinchus milii
+LN137031.1	1	2741	2741	EXCLUDE	anml:rodents	44	Marmota monax
+LN137261.1	1	2736	2736	EXCLUDE	anml:crustaceans	32	Procambarus clarkii
+LN138043.1	1	2721	2721	EXCLUDE	anml:fishes	28	Erpetoichthys calabaricus
+LN138866.1	1	2705	2705	EXCLUDE	anml:primates	99	Homo sapiens
+LN139787.1	1	2686	2686	EXCLUDE	anml:amphibians	30	Geotrypetes seraphini
+LN140756.1	1	2667	2667	EXCLUDE	anml:mammals	100	Elephas maximus
+LN144375.1	1	2596	2596	EXCLUDE	anml:mammals	55	Ceratotherium simum
+LN145084.1	1	2583	2583	EXCLUDE	anml:fishes	20	n/a
+LN145768.1	1	2570	2570	EXCLUDE	anml:primates	99	Homo sapiens
+LN146799.1	1	2551	2551	EXCLUDE	anml:primates	99	Homo sapiens
+LN149981.1	1	2495	2495	EXCLUDE	anml:rodents	40	Nannospalax galili
+LN150999.1	1	2478	2478	EXCLUDE	anml:rodents	36	Marmota monax
+LN153831.1	1	2429	2429	EXCLUDE	anml:primates	99	Homo sapiens
+LN154172.1	1	2422	2422	EXCLUDE	anml:molluscs	28	Octopus sinensis
+LN154855.1	1	2411	2411	EXCLUDE	anml:rodents	63	Marmota monax
+LN156723.1	1	2380	2380	EXCLUDE	anml:crustaceans	46	Procambarus clarkii
+LN158038.1	1	2358	2358	EXCLUDE	anml:rodents	84	Marmota monax
+LN159412.1	1	2335	2335	EXCLUDE	anml:rodents	45	Marmota monax
+LN160209.1	1	2322	2322	EXCLUDE	anml:primates	85	Homo sapiens
+LN160470.1	1	2317	2317	EXCLUDE	anml:amphibians	56	Geotrypetes seraphini
+LN162104.1	1	2291	2291	EXCLUDE	anml:primates	84	Homo sapiens
+LN162340.1	1	2288	2288	EXCLUDE	anml:primates	88	Homo sapiens
+LN163711.1	1	2266	2266	EXCLUDE	anml:rodents	52	Marmota monax
+LN163737.1	1	2265	2265	EXCLUDE	anml:fishes	46	Petromyzon marinus
+LN167985.1	1	2199	2199	EXCLUDE	plnt:plants	11	n/a
+LN168216.1	1	2196	2196	EXCLUDE	plnt:plants	16	n/a
+LN168796.1	1	2187	2187	EXCLUDE	anml:molluscs	32	Haliotis rufescens
+LN168889.1	1	2186	2186	EXCLUDE	plnt:plants	11	n/a
+LN170065.1	1	2168	2168	EXCLUDE	anml:reptiles	66	Gekko japonicus
+LN170704.1	1	2158	2158	EXCLUDE	anml:primates	100	Homo sapiens
+LN175475.1	1	2088	2088	EXCLUDE	anml:fishes	23	Erpetoichthys calabaricus
+LN178607.1	1	2044	2044	EXCLUDE	anml:amphibians	39	Xenopus tropicalis
+LN179769.1	1	2029	2029	EXCLUDE	plnt:plants	12	n/a
+LN182246.1	1	1997	1997	EXCLUDE	anml:primates	38	Lemur catta
+LN182978.1	1	1987	1987	EXCLUDE	anml:mammals	52	Echinops telfairi
+LN184394.1	1	1968	1968	EXCLUDE	anml:primates	100	Homo sapiens
+LN184632.1	1	1965	1965	EXCLUDE	anml:primates	74	Lemur catta
+LN185753.1	1	1951	1951	EXCLUDE	anml:fishes	31	Carcharodon carcharias
+LN185981.1	1	1948	1948	EXCLUDE	plnt:plants	13	n/a
+LN186383.1	1	1943	1943	EXCLUDE	anml:primates	100	Homo sapiens
+LN187239.1	1	1931	1931	EXCLUDE	anml:reptiles	35	Dermochelys coriacea
+LN188970.1	1	1910	1910	EXCLUDE	anml:amphibians	52	Geotrypetes seraphini
+LN189579.1	1	1902	1902	EXCLUDE	anml:rodents	95	Marmota monax
+LN191699.1	1	1876	1876	EXCLUDE	anml:fishes	39	Salmo salar
+LN192193.1	1	1870	1870	EXCLUDE	plnt:plants	12	n/a
+LN194463.1	1	1842	1842	EXCLUDE	anml:crustaceans	31	Procambarus clarkii
+LN195382.1	1	1831	1831	EXCLUDE	anml:primates	99	Homo sapiens
+LN195494.1	1	1830	1830	EXCLUDE	anml:primates	99	Homo sapiens
+LN196458.1	1	1819	1819	EXCLUDE	anml:fishes	54	Petromyzon marinus
+LN196630.1	1	1817	1817	EXCLUDE	anml:primates	100	Homo sapiens
+LN197211.1	1	1810	1810	EXCLUDE	anml:fishes	26	Salmo salar
+LN197273.1	1	1809	1809	EXCLUDE	anml:mammals	55	Echinops telfairi
+LN198973.1	1	1790	1790	EXCLUDE	anml:fishes	28	Carcharodon carcharias
+LN200853.1	1	1769	1769	EXCLUDE	plnt:plants	11	n/a
+LN201069.1	1000	1766	1766	TRIM	plnt:plants	66	n/a
+LN201544.1	1	1761	1761	EXCLUDE	anml:primates	100	Homo sapiens
+LN201595.1	1	1760	1760	EXCLUDE	anml:amphibians	72	Geotrypetes seraphini
+LN201686.1	1	1759	1759	EXCLUDE	anml:mammals	21	n/a
+LN202968.1	1	1745	1745	EXCLUDE	plnt:plants	14	n/a
+LN203398.1	1	1740	1740	EXCLUDE	anml:primates	100	Homo sapiens
+LN204465.1	1	1728	1728	EXCLUDE	anml:primates	98	Homo sapiens
+LN207343.1	1	1697	1697	EXCLUDE	anml:primates	100	Homo sapiens
+LN209153.1	1	1678	1678	EXCLUDE	anml:fishes	31	Erpetoichthys calabaricus
+LN209249.1	1	1677	1677	EXCLUDE	anml:primates	100	Homo sapiens
+LN209364.1	1	1676	1676	EXCLUDE	anml:amphibians	67	Geotrypetes seraphini
+LN212147.1	1	1648	1648	EXCLUDE	plnt:plants	11	n/a
+LN212240.1	1	1647	1647	EXCLUDE	plnt:plants	19	n/a
+LN213971.1	1	1630	1630	EXCLUDE	anml:primates	55	Homo sapiens
+LN214238.1	1	1627	1627	EXCLUDE	plnt:plants	17	n/a
+LN215830.1	1	1612	1612	EXCLUDE	plnt:plants	25	n/a
+LN216609.1	1	1604	1604	EXCLUDE	anml:primates	99	Homo sapiens
+LN216685.1	1	1603	1603	EXCLUDE	anml:mammals	24	n/a
+LN216833.1	1	1602	1602	EXCLUDE	anml:fishes	27	n/a
+LN216892.1	1	1601	1601	EXCLUDE	anml:primates	73	Homo sapiens
+LN218239.1	1	1589	1589	EXCLUDE	anml:primates	100	Homo sapiens
+LN218648.1	1	1585	1585	EXCLUDE	anml:reptiles	69	Thamnophis elegans
+LN218829.1	1	1584	1584	EXCLUDE	anml:molluscs	75	Nautilus pompilius
+LN219140.1	1	1581	1581	EXCLUDE	anml:primates	100	Homo sapiens
+LN219237.1	1	1580	1580	EXCLUDE	plnt:plants	45	Phalaenopsis equestris
+LN220763.1	1	1565	1565	EXCLUDE	anml:fishes	31	n/a
+LN222539.1	1	1548	1548	EXCLUDE	anml:reptiles	35	Thamnophis elegans
+LN222652.1	1	1547	1547	EXCLUDE	anml:molluscs	74	Octopus sinensis
+LN222781.1	1	1546	1546	EXCLUDE	anml:molluscs	77	Octopus sinensis
+LN222790.1	1	1546	1546	EXCLUDE	anml:fishes	29	Erpetoichthys calabaricus
+LN224533.1	1	1530	1530	EXCLUDE	anml:fishes	67	Salmo salar
+LN224741.1	1	1528	1528	EXCLUDE	plnt:plants	12	n/a
+LN226909.1	1	1508	1508	EXCLUDE	plnt:plants	16	n/a
+LN227462.1	1	1503	1503	EXCLUDE	virs:prokaryotic viruses	11	n/a
+LN227739.1	1	1500	1500	EXCLUDE	anml:reptiles	55	Gekko japonicus
+LN228441.1	1	1494	1494	EXCLUDE	anml:rodents	93	Marmota monax
+LN228817.1	1	1491	1491	EXCLUDE	anml:primates	100	Homo sapiens
+LN229268.1	1	1487	1487	EXCLUDE	anml:rodents	95	Marmota monax
+LN229820.1	1	1482	1482	EXCLUDE	plnt:plants	11	n/a
+LN230377.1	1	1477	1477	EXCLUDE	plnt:plants	12	n/a
+LN230906.1	1	1473	1473	EXCLUDE	anml:rodents	85	Marmota monax
+LN232756.1	1	1456	1456	EXCLUDE	anml:primates	58	Homo sapiens
+LN232813.1	1	1455	1455	EXCLUDE	anml:primates	99	Homo sapiens
+LN233835.1	1	1446	1446	EXCLUDE	plnt:plants	11	n/a
+LN234745.1	1	1439	1439	EXCLUDE	plnt:plants	16	n/a
+LN235533.1	1	1432	1432	EXCLUDE	anml:primates	92	Homo sapiens
+LN236290.1	1	1426	1426	EXCLUDE	anml:primates	98	Homo sapiens
+LN238411.1	1	1409	1409	EXCLUDE	plnt:plants	11	n/a
+LN239388.1	1	1401	1401	EXCLUDE	plnt:plants	16	n/a
+LN240866.1	1	1389	1389	EXCLUDE	anml:primates	100	Homo sapiens
+LN241162.1	1	1387	1387	EXCLUDE	plnt:plants	15	n/a
+LN241935.1	1	1381	1381	EXCLUDE	anml:primates	80	Lemur catta
+LN241966.1	1	1381	1381	EXCLUDE	anml:primates	99	Homo sapiens
+LN242155.1	1	1379	1379	EXCLUDE	anml:primates	100	Homo sapiens
+LN242229.1	1	1379	1379	EXCLUDE	anml:reptiles	20	Sceloporus undulatus
+LN243055.1	1	1372	1372	EXCLUDE	anml:rodents	96	Marmota monax
+LN243435.1	1	1369	1369	EXCLUDE	anml:rodents	32	Marmota monax
+LN243999.1	1	1365	1365	EXCLUDE	anml:fishes	61	Erpetoichthys calabaricus
+LN245465.1	1	1354	1354	EXCLUDE	anml:mammals	20	n/a
+LN246035.1	1	1350	1350	EXCLUDE	anml:primates	100	Homo sapiens
+LN246305.1	1	1347	1347	EXCLUDE	plnt:plants	11	n/a
+LN246454.1	1	1346	1346	EXCLUDE	anml:primates	95	Lemur catta
+LN247283.1	1	682	1340	TRIM	plnt:plants	33	n/a
+LN247507.1	1	1338	1338	EXCLUDE	anml:primates	97	Homo sapiens
+LN247950.1	1	1335	1335	EXCLUDE	anml:primates	100	Homo sapiens
+LN247986.1	1	1335	1335	EXCLUDE	plnt:plants	19	n/a
+LN249178.1	1	1326	1326	EXCLUDE	plnt:plants	24	n/a
+LN250676.1	1	1315	1315	EXCLUDE	anml:primates	23	n/a
+LN251226.1	1	1311	1311	EXCLUDE	anml:primates	100	Homo sapiens
+LN251322.1	1	1310	1310	EXCLUDE	anml:primates	100	Homo sapiens
+LN253111.1	1	1298	1298	EXCLUDE	plnt:plants	16	n/a
+LN253135.1	1	1298	1298	EXCLUDE	anml:primates	36	Homo sapiens
+LN253181.1	1	1297	1297	EXCLUDE	anml:amphibians	95	Geotrypetes seraphini
+LN253787.1	1	1293	1293	EXCLUDE	anml:primates	79	Homo sapiens
+LN254523.1	1	1288	1288	EXCLUDE	plnt:plants	11	n/a
+LN255224.1	1	1283	1283	EXCLUDE	anml:primates	62	Homo sapiens
+LN255537.1	1	1281	1281	EXCLUDE	anml:mammals	22	n/a
+LN256144.1	1	1277	1277	EXCLUDE	anml:fishes	24	n/a
+LN256266.1	1	1276	1276	EXCLUDE	plnt:plants	17	n/a
+LN256913.1	1	1271	1271	EXCLUDE	anml:rodents	94	Marmota monax
+LN257336.1	1	1268	1268	EXCLUDE	anml:fishes	27	n/a
+LN257930.1	1	1264	1264	EXCLUDE	anml:primates	99	Homo sapiens
+LN258144.1	1	1262	1262	EXCLUDE	anml:primates	100	Homo sapiens
+LN258322.1	1	1261	1261	EXCLUDE	anml:reptiles	22	n/a
+LN258454.1	1	1260	1260	EXCLUDE	virs:prokaryotic viruses	12	n/a
+LN258484.1	1	1260	1260	EXCLUDE	anml:mammals	96	Echinops telfairi
+LN259199.1	1	1255	1255	EXCLUDE	plnt:plants	17	n/a
+LN259596.1	1	1252	1252	EXCLUDE	anml:rodents	100	Oryctolagus cuniculus
+LN259802.1	1	1250	1250	EXCLUDE	plnt:plants	17	n/a
+LN260645.1	1	1245	1245	EXCLUDE	plnt:plants	20	n/a
+LN260809.1	1	1244	1244	EXCLUDE	virs:prokaryotic viruses	11	n/a
+LN261293.1	1	1241	1241	EXCLUDE	anml:fishes	45	Astyanax mexicanus
+LN261304.1	1	1240	1240	EXCLUDE	anml:rodents	55	Marmota monax
+LN263322.1	1	1227	1227	EXCLUDE	anml:fishes	31	n/a
+LN263818.1	1	1224	1224	EXCLUDE	anml:primates	70	Homo sapiens
+LN263830.1	1	1224	1224	EXCLUDE	plnt:plants	20	n/a
+LN264023.1	1	1223	1223	EXCLUDE	plnt:plants	35	n/a
+LN264141.1	1	1222	1222	EXCLUDE	plnt:plants	19	n/a
+LN264647.1	1	1219	1219	EXCLUDE	anml:mammals	24	n/a
+LN266057.1	1	1209	1209	EXCLUDE	anml:primates	98	Homo sapiens
+LN267007.1	1	1203	1203	EXCLUDE	anml:primates	29	Homo sapiens
+LN267871.1	1	1198	1198	EXCLUDE	anml:primates	85	Lemur catta
+LN268280.1	1	1195	1195	EXCLUDE	anml:rodents	80	Marmota monax
+LN268497.1	1	1194	1194	EXCLUDE	plnt:plants	13	n/a
+LN269474.1	1	1188	1188	EXCLUDE	plnt:plants	23	n/a
+LN269489.1	1	1188	1188	EXCLUDE	plnt:plants	20	n/a
+LN270108.1	1	1184	1184	EXCLUDE	plnt:plants	25	n/a
+LN270406.1	1	1182	1182	EXCLUDE	anml:primates	100	Homo sapiens
+LN270430.1	1	1182	1182	EXCLUDE	plnt:plants	14	n/a
+LN270635.1	1	1181	1181	EXCLUDE	anml:fishes	22	n/a
+LN270760.1	1	1180	1180	EXCLUDE	anml:reptiles	27	Pantherophis guttatus
+LN273102.1	1	1166	1166	EXCLUDE	plnt:plants	16	n/a
+LN273612.1	1	1163	1163	EXCLUDE	anml:mammals	29	n/a
+LN273650.1	1	1163	1163	EXCLUDE	anml:mammals	31	n/a
+LN274686.1	1	1157	1157	EXCLUDE	anml:amphibians	52	Geotrypetes seraphini
+LN275144.1	1	1154	1154	EXCLUDE	anml:primates	99	Homo sapiens
+LN275469.1	1	1152	1152	EXCLUDE	anml:primates	39	Homo sapiens
+LN275591.1	1	1151	1151	EXCLUDE	plnt:plants	42	n/a
+LN276109.1	1	1148	1148	EXCLUDE	anml:fishes	27	n/a
+LN276550.1	1	1146	1146	EXCLUDE	plnt:plants	17	n/a
+LN277842.1	1	1139	1139	EXCLUDE	plnt:plants	24	n/a
+LN278024.1	1	1138	1138	EXCLUDE	anml:primates	100	Homo sapiens
+LN278305.1	1	1136	1136	EXCLUDE	plnt:plants	23	n/a
+LN278313.1	1	1136	1136	EXCLUDE	virs:prokaryotic viruses	12	n/a
+LN279512.1	1	1130	1130	EXCLUDE	anml:molluscs	86	Nautilus pompilius
+LN280294.1	1	1125	1125	EXCLUDE	anml:primates	37	Carlito syrichta
+LN280755.1	1	1123	1123	EXCLUDE	anml:reptiles	22	n/a
+LN281042.1	1	1121	1121	EXCLUDE	anml:rodents	36	n/a
+LN281545.1	1	1118	1118	EXCLUDE	plnt:plants	12	n/a
+LN281618.1	1	1118	1118	EXCLUDE	anml:mammals	27	n/a
+LN281718.1	1	1117	1117	EXCLUDE	anml:rodents	33	n/a
+LN282174.1	1	1114	1114	EXCLUDE	anml:reptiles	22	n/a
+LN282565.1	1	1112	1112	EXCLUDE	plnt:plants	14	n/a
+LN283305.1	1	1108	1108	EXCLUDE	anml:mammals	25	n/a
+LN284978.1	1	1099	1099	EXCLUDE	anml:rodents	23	n/a
+LN285103.1	1	1098	1098	EXCLUDE	anml:primates	100	Homo sapiens
+LN285715.1	1	1095	1095	EXCLUDE	plnt:plants	17	n/a
+LN285803.1	1	1095	1095	EXCLUDE	anml:primates	99	Homo sapiens
+LN286077.1	1	1093	1093	EXCLUDE	plnt:plants	15	n/a
+LN286117.1	1	1093	1093	EXCLUDE	plnt:plants	12	n/a
+LN286890.1	1	1089	1089	EXCLUDE	anml:reptiles	62	Pantherophis guttatus
+LN287046.1	1	1088	1088	EXCLUDE	anml:mammals	29	n/a
+LN287118.1	1	1087	1087	EXCLUDE	anml:fishes	25	n/a
+LN287443.1	1	1086	1086	EXCLUDE	plnt:plants	23	n/a
+LN287775.1	1	1084	1084	EXCLUDE	anml:mammals	22	n/a
+LN288246.1	1	1081	1081	EXCLUDE	plnt:plants	19	n/a
+LN288434.1	1	1080	1080	EXCLUDE	anml:primates	98	Homo sapiens
+LN288443.1	1	1080	1080	EXCLUDE	plnt:plants	22	n/a
+LN288590.1	1	1080	1080	EXCLUDE	anml:fishes	76	Carcharodon carcharias
+LN288714.1	1	1079	1079	EXCLUDE	anml:mammals	47	Felis catus
+LN288830.1	1	1078	1078	EXCLUDE	plnt:plants	14	n/a
+LN289367.1	1	1076	1076	EXCLUDE	anml:primates	99	Homo sapiens
+LN289518.1	1	1075	1075	EXCLUDE	anml:mammals	27	n/a
+LN290237.1	1	1071	1071	EXCLUDE	anml:reptiles	23	n/a
+LN290600.1	1	1069	1069	EXCLUDE	anml:primates	31	Homo sapiens
+LN290665.1	1	1068	1068	EXCLUDE	anml:fishes	27	n/a
+LN290830.1	1	1067	1067	EXCLUDE	anml:rodents	34	Marmota monax
+LN291512.1	1	1064	1064	EXCLUDE	anml:fishes	61	Erpetoichthys calabaricus
+LN291792.1	1	1062	1062	EXCLUDE	anml:mammals	96	Elephas maximus
+LN293911.1	1	1050	1050	EXCLUDE	plnt:plants	14	n/a
+LN294782.1	1	1046	1046	EXCLUDE	anml:mammals	22	n/a
+LN297601.1	1	1031	1031	EXCLUDE	anml:molluscs	89	Haliotis rubra
+LN298178.1	1	1028	1028	EXCLUDE	anml:molluscs	71	Octopus sinensis
+LN298533.1	1	1026	1026	EXCLUDE	virs:prokaryotic viruses	24	n/a
+LN298983.1	1	1024	1024	EXCLUDE	anml:mammals	21	n/a
+LN299065.1	1	1023	1023	EXCLUDE	anml:amphibians	24	n/a
+LN300194.1	1	1017	1017	EXCLUDE	anml:rodents	95	Marmota monax
+LN300466.1	1	1016	1016	EXCLUDE	plnt:plants	18	n/a
+LN301098.1	1	1013	1013	EXCLUDE	plnt:plants	22	n/a
+LN301727.1	1	1010	1010	EXCLUDE	anml:mammals	31	n/a
+LN301781.1	1	1009	1009	EXCLUDE	anml:mammals	94	Elephas maximus
+LN302076.1	1	1008	1008	EXCLUDE	anml:mammals	25	n/a
+LN302331.1	1	1007	1007	EXCLUDE	plnt:plants	14	n/a
+LN302582.1	1	1005	1005	EXCLUDE	anml:crustaceans	58	Procambarus clarkii
+LN302955.1	1	1003	1003	EXCLUDE	anml:mammals	97	Echinops telfairi
+LN303281.1	1	1002	1002	EXCLUDE	anml:primates	100	Homo sapiens
+LN303581.1	1	1000	1000	EXCLUDE	anml:rodents	31	Marmota monax
+LN303827.1	1	999	999	EXCLUDE	anml:reptiles	23	n/a
+LN303900.1	1	998	998	EXCLUDE	anml:fishes	26	n/a
+LN304127.1	1	997	997	EXCLUDE	anml:primates	100	Homo sapiens
+LN304518.1	1	995	995	EXCLUDE	anml:primates	100	Homo sapiens
+LN305080.1	1	993	993	EXCLUDE	anml:primates	100	Homo sapiens
+LN305355.1	1	991	991	EXCLUDE	anml:crustaceans	98	Procambarus clarkii
+LN305853.1	1	989	989	EXCLUDE	anml:primates	100	Homo sapiens
+LN305858.1	1	989	989	EXCLUDE	anml:primates	98	Homo sapiens
+LN305877.1	1	989	989	EXCLUDE	anml:rodents	94	Marmota monax
+LN306010.1	1	988	988	EXCLUDE	anml:primates	100	Homo sapiens
+LN306854.1	1	984	984	EXCLUDE	plnt:plants	12	n/a
+LN307590.1	1	980	980	EXCLUDE	anml:primates	97	Homo sapiens
+LN308689.1	1	975	975	EXCLUDE	anml:crustaceans	72	Procambarus clarkii
+LN308737.1	1	975	975	EXCLUDE	plnt:plants	29	n/a
+LN308844.1	1	974	974	EXCLUDE	anml:fishes	45	n/a
+LN310741.1	1	965	965	EXCLUDE	anml:primates	69	Homo sapiens
+LN311240.1	1	963	963	EXCLUDE	anml:fishes	23	n/a
+LN311258.1	1	963	963	EXCLUDE	anml:fishes	93	Petromyzon marinus
+LN311484.1	1	962	962	EXCLUDE	anml:fishes	53	n/a
+LN316995.1	1	936	936	EXCLUDE	anml:primates	100	Homo sapiens
+LN318231.1	1	931	931	EXCLUDE	plnt:plants	12	n/a
+LN320241.1	1	922	922	EXCLUDE	anml:primates	73	Homo sapiens
+LN321089.1	1	918	918	EXCLUDE	plnt:plants	13	n/a
+LN321620.1	1	916	916	EXCLUDE	anml:reptiles	26	n/a
+LN322511.1	1	912	912	EXCLUDE	anml:primates	99	Homo sapiens
+LN323638.1	1	907	907	EXCLUDE	anml:primates	99	Homo sapiens
+LN324151.1	1	905	905	EXCLUDE	anml:primates	53	Homo sapiens
+LN325216.1	1	901	901	EXCLUDE	anml:primates	27	Homo sapiens
+LN325222.1	1	901	901	EXCLUDE	anml:mammals	80	Elephas maximus
+LN327017.1	1	893	893	EXCLUDE	anml:primates	100	Homo sapiens
+LN327269.1	1	892	892	EXCLUDE	anml:rodents	98	Nannospalax galili
+LN327699.1	1	890	890	EXCLUDE	anml:fishes	96	Carcharodon carcharias
+LN327701.1	1	890	890	EXCLUDE	anml:primates	100	Carlito syrichta
+LN327790.1	1	890	890	EXCLUDE	anml:fishes	20	n/a
+LN327985.1	1	889	889	EXCLUDE	anml:molluscs	92	Octopus sinensis
+LN329668.1	1	882	882	EXCLUDE	anml:rodents	21	n/a
+LN330027.1	1	880	880	EXCLUDE	anml:primates	98	Homo sapiens
+LN330824.1	1	877	877	EXCLUDE	anml:fishes	100	Carcharodon carcharias
+LN331819.1	1	873	873	EXCLUDE	plnt:plants	11	n/a
+LN334163.1	1	864	864	EXCLUDE	anml:primates	98	Homo sapiens
+LN334570.1	1	863	863	EXCLUDE	anml:fishes	40	n/a
+LN334942.1	1	861	861	EXCLUDE	anml:mammals	39	n/a
+LN335022.1	1	861	861	EXCLUDE	anml:fishes	96	Erpetoichthys calabaricus
+LN335658.1	1	859	859	EXCLUDE	plnt:plants	33	n/a
+LN336080.1	1	857	857	EXCLUDE	anml:amphibians	29	n/a
+LN336598.1	1	855	855	EXCLUDE	anml:primates	100	Homo sapiens
+LN337153.1	1	853	853	EXCLUDE	plnt:plants	14	n/a
+LN338354.1	1	848	848	EXCLUDE	anml:primates	100	Homo sapiens
+LN340111.1	1	842	842	EXCLUDE	anml:primates	100	Homo sapiens
+LN340262.1	1	841	841	EXCLUDE	plnt:plants	14	n/a
+LN342144.1	1	834	834	EXCLUDE	plnt:plants	17	n/a
+LN342209.1	1	834	834	EXCLUDE	anml:primates	99	Homo sapiens
+LN342306.1	1	834	834	EXCLUDE	anml:primates	100	Homo sapiens
+LN342453.1	1	833	833	EXCLUDE	plnt:plants	14	n/a
+LN343005.1	1	831	831	EXCLUDE	anml:primates	99	Homo sapiens
+LN343653.1	1	829	829	EXCLUDE	anml:primates	100	Homo sapiens
+LN344163.1	1	827	827	EXCLUDE	anml:fishes	79	Erpetoichthys calabaricus
+LN344598.1	1	825	825	EXCLUDE	anml:fishes	100	Erpetoichthys calabaricus
+LN344642.1	1	825	825	EXCLUDE	anml:mammals	27	n/a
+LN344917.1	1	824	824	EXCLUDE	anml:primates	54	Homo sapiens
+LN345126.1	1	823	823	EXCLUDE	plnt:plants	12	n/a
+LN345607.1	1	822	822	EXCLUDE	plnt:plants	21	n/a
+LN345707.1	1	821	821	EXCLUDE	plnt:plants	13	n/a
+LN346658.1	1	818	818	EXCLUDE	anml:primates	99	Homo sapiens
+LN346704.1	1	818	818	EXCLUDE	anml:primates	99	Homo sapiens
+LN346920.1	1	817	817	EXCLUDE	anml:primates	63	Homo sapiens
+LN348566.1	1	811	811	EXCLUDE	plnt:plants	11	n/a
+LN348776.1	1	811	811	EXCLUDE	anml:primates	100	Homo sapiens
+LN349149.1	1	809	809	EXCLUDE	anml:fishes	29	n/a
+LN349564.1	1	808	808	EXCLUDE	anml:amphibians	31	n/a
+LN349660.1	1	807	807	EXCLUDE	plnt:plants	12	n/a
+LN349720.1	1	807	807	EXCLUDE	anml:mammals	44	n/a
+LN350151.1	1	806	806	EXCLUDE	plnt:plants	19	n/a
+LN350318.1	1	805	805	EXCLUDE	plnt:plants	20	n/a
+LN350813.1	1	804	804	EXCLUDE	virs:prokaryotic viruses	15	n/a
+LN351544.1	1	801	801	EXCLUDE	plnt:plants	20	n/a
+LN351645.1	1	801	801	EXCLUDE	anml:primates	100	Homo sapiens
+LN351809.1	1	800	800	EXCLUDE	anml:rodents	82	Marmota monax
+LN352066.1	1	799	799	EXCLUDE	anml:primates	99	Homo sapiens
+LN352088.1	1	799	799	EXCLUDE	anml:crustaceans	84	Procambarus clarkii
+LN352203.1	1	799	799	EXCLUDE	anml:mammals	58	Tursiops truncatus
+LN352206.1	1	799	799	EXCLUDE	anml:primates	100	Homo sapiens
+LN352392.1	1	798	798	EXCLUDE	anml:primates	100	Homo sapiens
+LN352878.1	1	797	797	EXCLUDE	anml:mammals	34	n/a
+LN353497.1	1	795	795	EXCLUDE	anml:nematodes	100	Onchocerca volvulus
+LN353905.1	1	793	793	EXCLUDE	anml:primates	100	Carlito syrichta
+LN355117.1	1	789	789	EXCLUDE	anml:rodents	97	Marmota monax
+LN355222.1	1	789	789	EXCLUDE	anml:primates	100	Homo sapiens
+LN356362.1	1	785	785	EXCLUDE	anml:reptiles	25	n/a
+LN356424.1	1	785	785	EXCLUDE	anml:fishes	26	n/a
+LN357027.1	1	783	783	EXCLUDE	anml:primates	100	Homo sapiens
+LN357282.1	1	782	782	EXCLUDE	anml:rodents	79	Oryctolagus cuniculus
+LN357517.1	1	782	782	EXCLUDE	plnt:plants	15	n/a
+LN357930.1	1	780	780	EXCLUDE	anml:primates	100	Homo sapiens
+LN358281.1	1	779	779	EXCLUDE	anml:primates	100	Homo sapiens
+LN358364.1	1	779	779	EXCLUDE	anml:primates	100	Homo sapiens
+LN358422.1	1	779	779	EXCLUDE	anml:amphibians	26	n/a
+LN358577.1	1	778	778	EXCLUDE	anml:fishes	21	n/a
+LN358661.1	1	778	778	EXCLUDE	anml:rodents	86	Nannospalax galili
+LN358859.1	1	777	777	EXCLUDE	plnt:plants	29	n/a
+LN358894.1	1	777	777	EXCLUDE	plnt:plants	18	n/a
+LN359140.1	1	776	776	EXCLUDE	plnt:plants	17	n/a
+LN359619.1	1	775	775	EXCLUDE	anml:amphibians	49	n/a
+LN359886.1	1	774	774	EXCLUDE	anml:primates	97	Homo sapiens
+LN360282.1	1	773	773	EXCLUDE	anml:primates	100	Homo sapiens
+LN360528.1	1	772	772	EXCLUDE	virs:prokaryotic viruses	14	n/a
+LN360752.1	1	772	772	EXCLUDE	virs:prokaryotic viruses	12	n/a
+LN360976.1	1	771	771	EXCLUDE	anml:primates	100	Homo sapiens
+LN361138.1	1	770	770	EXCLUDE	plnt:plants	17	n/a
+LN362028.1	1	767	767	EXCLUDE	anml:fishes	25	n/a
+LN362201.1	1	767	767	EXCLUDE	plnt:plants	18	n/a
+LN362607.1	1	766	766	EXCLUDE	plnt:plants	22	n/a
+LN363958.1	1	762	762	EXCLUDE	anml:rodents	94	Marmota monax
+LN364156.1	1	761	761	EXCLUDE	plnt:plants	27	n/a
+LN364209.1	1	761	761	EXCLUDE	anml:primates	100	Homo sapiens
+LN364842.1	1	759	759	EXCLUDE	anml:primates	100	Homo sapiens
+LN364845.1	1	759	759	EXCLUDE	anml:rodents	28	n/a
+LN365368.1	1	757	757	EXCLUDE	plnt:plants	33	n/a
+LN365440.1	1	757	757	EXCLUDE	anml:mammals	42	n/a
+LN365525.1	1	757	757	EXCLUDE	anml:reptiles	21	n/a
+LN365598.1	1	757	757	EXCLUDE	anml:primates	75	Homo sapiens
+LN366829.1	1	753	753	EXCLUDE	anml:mammals	38	n/a
+LN366955.1	1	753	753	EXCLUDE	virs:prokaryotic viruses	17	n/a
+LN367346.1	1	752	752	EXCLUDE	anml:rodents	89	Marmota monax
+LN367651.1	1	751	751	EXCLUDE	anml:fishes	34	n/a
+LN367784.1	1	750	750	EXCLUDE	anml:fishes	96	Erpetoichthys calabaricus
+LN368054.1	1	750	750	EXCLUDE	anml:mammals	24	n/a
+LN368158.1	1	749	749	EXCLUDE	anml:primates	61	Homo sapiens
+LN368741.1	1	748	748	EXCLUDE	anml:primates	92	Lemur catta
+LN368873.1	1	747	747	EXCLUDE	anml:reptiles	22	n/a
+LN369091.1	1	747	747	EXCLUDE	anml:fishes	47	n/a
+LN369262.1	1	746	746	EXCLUDE	anml:fishes	25	n/a
+LN370211.1	1	744	744	EXCLUDE	plnt:plants	14	n/a
+LN370294.1	1	743	743	EXCLUDE	anml:primates	99	Homo sapiens
+LN370581.1	1	742	742	EXCLUDE	virs:prokaryotic viruses	16	n/a
+LN370697.1	1	742	742	EXCLUDE	anml:primates	61	Homo sapiens
+LN370935.1	1	742	742	EXCLUDE	plnt:plants	15	n/a
+LN370971.1	1	741	741	EXCLUDE	anml:primates	21	n/a
+LN371035.1	1	741	741	EXCLUDE	anml:primates	47	Homo sapiens
+LN371422.1	1	740	740	EXCLUDE	anml:primates	100	Homo sapiens
+LN372092.1	1	738	738	EXCLUDE	plnt:plants	15	n/a
+LN372112.1	1	738	738	EXCLUDE	anml:mammals	20	n/a
+LN372642.1	1	737	737	EXCLUDE	plnt:plants	26	n/a
+LN372660.1	1	737	737	EXCLUDE	anml:fishes	59	n/a
+LN373269.1	1	735	735	EXCLUDE	anml:primates	100	Homo sapiens
+LN373430.1	1	735	735	EXCLUDE	anml:primates	98	Homo sapiens
+LN373743.1	1	734	734	EXCLUDE	anml:primates	99	Carlito syrichta
+LN373919.1	1	734	734	EXCLUDE	anml:rodents	26	n/a
+LN375408.1	1	730	730	EXCLUDE	anml:primates	100	Homo sapiens
+LN375764.1	1	729	729	EXCLUDE	anml:primates	21	n/a
+LN375796.1	1	729	729	EXCLUDE	anml:amphibians	37	Xenopus laevis
+LN376594.1	1	727	727	EXCLUDE	anml:mammals	21	n/a
+LN376662.1	1	726	726	EXCLUDE	anml:primates	100	Carlito syrichta
+LN377472.1	1	724	724	EXCLUDE	anml:primates	100	Homo sapiens
+LN377515.1	1	724	724	EXCLUDE	plnt:plants	23	n/a
+LN377883.1	1	723	723	EXCLUDE	anml:fishes	36	Erpetoichthys calabaricus
+LN377982.1	1	723	723	EXCLUDE	plnt:plants	41	n/a
+LN378226.1	1	722	722	EXCLUDE	anml:rodents	38	n/a
+LN378517.1	647	722	722	TRIM	virs:prokaryotic viruses	77	n/a
+LN378522.1	1	722	722	EXCLUDE	plnt:plants	17	n/a
+LN378896.1	1	721	721	EXCLUDE	plnt:plants	16	n/a
+LN379015.1	1	720	720	EXCLUDE	plnt:plants	18	n/a
+LN379039.1	1	720	720	EXCLUDE	plnt:plants	17	n/a
+LN379601.1	1	719	719	EXCLUDE	anml:reptiles	20	n/a
+LN379765.1	1	718	718	EXCLUDE	anml:primates	100	Homo sapiens
+LN380127.1	1	718	718	EXCLUDE	anml:primates	99	Homo sapiens
+LN380563.1	1	717	717	EXCLUDE	anml:mammals	32	n/a
+LN380575.1	1	717	717	EXCLUDE	anml:primates	98	Homo sapiens
+LN380953.1	1	716	716	EXCLUDE	anml:reptiles	23	n/a
+LN381125.1	1	715	715	EXCLUDE	plnt:plants	21	n/a
+LN381264.1	1	715	715	EXCLUDE	anml:fishes	23	n/a
+LN381874.1	1	714	714	EXCLUDE	plnt:plants	25	n/a
+LN381939.1	1	713	713	EXCLUDE	virs:prokaryotic viruses	17	n/a
+LN382116.1	1	713	713	EXCLUDE	anml:fishes	45	n/a
+LN382551.1	1	712	712	EXCLUDE	anml:primates	100	Homo sapiens
+LN382648.1	1	712	712	EXCLUDE	anml:reptiles	22	n/a
+LN382836.1	1	711	711	EXCLUDE	plnt:plants	21	n/a
+LN383005.1	1	711	711	EXCLUDE	anml:fishes	23	n/a
+LN383299.1	1	710	710	EXCLUDE	plnt:plants	22	n/a
+LN383455.1	1	710	710	EXCLUDE	plnt:plants	19	n/a
+LN383658.1	1	709	709	EXCLUDE	anml:rodents	23	n/a
+LN383775.1	1	709	709	EXCLUDE	anml:reptiles	28	n/a
+LN384201.1	1	708	708	EXCLUDE	anml:fishes	38	n/a
+LN384533.1	1	707	707	EXCLUDE	plnt:plants	12	n/a
+LN384578.1	1	707	707	EXCLUDE	anml:primates	99	Homo sapiens
+LN384849.1	1	706	706	EXCLUDE	anml:mammals	66	n/a
+LN385261.1	1	705	705	EXCLUDE	anml:mammals	22	n/a
+LN385496.1	1	705	705	EXCLUDE	anml:mammals	40	n/a
+LN386023.1	1	703	703	EXCLUDE	plnt:plants	14	n/a
+LN386311.1	1	703	703	EXCLUDE	anml:mammals	55	n/a
+LN386463.1	1	702	702	EXCLUDE	plnt:plants	21	n/a
+LN386706.1	1	702	702	EXCLUDE	plnt:plants	41	n/a
+LN386980.1	1	701	701	EXCLUDE	plnt:plants	44	n/a
+LN386997.1	1	701	701	EXCLUDE	anml:primates	99	Homo sapiens
+LN387856.1	1	699	699	EXCLUDE	anml:fishes	21	n/a
+LN387991.1	1	699	699	EXCLUDE	plnt:plants	21	n/a
+LN388129.1	1	698	698	EXCLUDE	virs:prokaryotic viruses	22	n/a
+LN389011.1	1	696	696	EXCLUDE	anml:amphibians	22	n/a
+LN389217.1	1	696	696	EXCLUDE	anml:mammals	93	Elephas maximus
+LN389223.1	1	696	696	EXCLUDE	plnt:plants	22	n/a
+LN389449.1	1	695	695	EXCLUDE	anml:fishes	21	n/a
+LN389778.1	1	695	695	EXCLUDE	plnt:plants	20	n/a
+LN390233.1	1	694	694	EXCLUDE	anml:primates	97	Homo sapiens
+LN390266.1	1	693	693	EXCLUDE	anml:primates	20	n/a
+LN390436.1	1	693	693	EXCLUDE	anml:fishes	24	n/a
+LN390901.1	1	692	692	EXCLUDE	anml:primates	100	Homo sapiens
+LN391314.1	1	691	691	EXCLUDE	anml:fishes	27	n/a
+LN391354.1	1	691	691	EXCLUDE	anml:mammals	40	n/a
+LN391629.1	1	690	690	EXCLUDE	anml:primates	55	Homo sapiens
+LN392162.1	1	689	689	EXCLUDE	plnt:plants	20	n/a
+LN393078.1	1	687	687	EXCLUDE	plnt:plants	23	n/a
+LN393575.1	1	686	686	EXCLUDE	plnt:plants	24	n/a
+LN393584.1	1	686	686	EXCLUDE	plnt:plants	26	n/a
+LN393754.1	1	686	686	EXCLUDE	plnt:plants	19	n/a
+LN393811.1	1	685	685	EXCLUDE	anml:fishes	22	n/a
+LN394006.1	1	685	685	EXCLUDE	anml:fishes	21	n/a
+LN394134.1	1	685	685	EXCLUDE	plnt:plants	23	n/a
+LN394369.1	1	684	684	EXCLUDE	plnt:plants	26	n/a
+LN394375.1	1	684	684	EXCLUDE	anml:reptiles	20	n/a
+LN394664.1	1	683	683	EXCLUDE	plnt:plants	20	n/a
+LN394695.1	1	683	683	EXCLUDE	plnt:plants	35	n/a
+LN395113.1	1	683	683	EXCLUDE	anml:primates	100	Homo sapiens
+LN395148.1	1	682	682	EXCLUDE	virs:prokaryotic viruses	16	n/a
+LN395359.1	1	682	682	EXCLUDE	anml:primates	100	Homo sapiens
+LN395589.1	1	682	682	EXCLUDE	anml:amphibians	38	n/a
+LN395712.1	1	681	681	EXCLUDE	virs:prokaryotic viruses	25	n/a
+LN395981.1	1	681	681	EXCLUDE	anml:amphibians	62	n/a
+LN396242.1	1	680	680	EXCLUDE	plnt:plants	14	n/a
+LN396274.1	1	680	680	EXCLUDE	anml:rodents	22	n/a
+LN396296.1	1	680	680	EXCLUDE	anml:reptiles	20	n/a
+LN396403.1	1	680	680	EXCLUDE	plnt:plants	25	n/a
+LN396469.1	1	680	680	EXCLUDE	virs:prokaryotic viruses	21	n/a
+LN396635.1	1	679	679	EXCLUDE	anml:fishes	23	n/a
+LN396643.1	1	679	679	EXCLUDE	plnt:plants	24	n/a
+LN397081.1	1	678	678	EXCLUDE	anml:fishes	28	n/a
+LN397303.1	1	678	678	EXCLUDE	plnt:plants	17	n/a
+LN397306.1	1	678	678	EXCLUDE	anml:mammals	35	n/a
+LN397403.1	1	678	678	EXCLUDE	plnt:plants	18	n/a
+LN397422.1	1	677	677	EXCLUDE	anml:reptiles	24	n/a
+LN397485.1	1	677	677	EXCLUDE	plnt:plants	23	n/a
+LN397543.1	1	677	677	EXCLUDE	virs:prokaryotic viruses	18	n/a
+LN397623.1	1	677	677	EXCLUDE	anml:primates	99	Homo sapiens
+LN397651.1	1	677	677	EXCLUDE	anml:rodents	27	n/a
+LN397669.1	1	677	677	EXCLUDE	anml:primates	100	Homo sapiens
+LN397862.1	1	676	676	EXCLUDE	anml:reptiles	22	n/a
+LN398111.1	1	676	676	EXCLUDE	plnt:plants	19	n/a
+LN398252.1	1	676	676	EXCLUDE	anml:mammals	25	n/a
+LN398274.1	1	676	676	EXCLUDE	anml:fishes	22	n/a
+LN398462.1	1	675	675	EXCLUDE	anml:fishes	24	n/a
+LN398540.1	1	675	675	EXCLUDE	anml:mammals	24	n/a
+LN398578.1	1	675	675	EXCLUDE	anml:primates	24	Homo sapiens
+LN398698.1	1	675	675	EXCLUDE	anml:fishes	29	n/a
+LN398910.1	1	674	674	EXCLUDE	anml:reptiles	21	n/a
+LN399043.1	1	674	674	EXCLUDE	plnt:plants	20	n/a
+LN399128.1	1	674	674	EXCLUDE	anml:fishes	49	n/a
+LN399317.1	1	673	673	EXCLUDE	anml:fishes	28	n/a
+LN399538.1	1	673	673	EXCLUDE	anml:primates	100	Macaca fascicularis
+LN399628.1	1	673	673	EXCLUDE	anml:primates	100	Homo sapiens
+LN399756.1	1	672	672	EXCLUDE	anml:reptiles	30	n/a
+LN399788.1	1	672	672	EXCLUDE	anml:mammals	23	n/a
+LN399973.1	1	672	672	EXCLUDE	anml:primates	40	Homo sapiens
+LN400169.1	1	672	672	EXCLUDE	anml:reptiles	49	n/a
+LN400377.1	1	671	671	EXCLUDE	plnt:plants	24	n/a
+LN400384.1	1	671	671	EXCLUDE	anml:amphibians	22	n/a
+LN400423.1	1	671	671	EXCLUDE	plnt:plants	34	n/a
+LN400444.1	1	671	671	EXCLUDE	anml:reptiles	22	n/a
+LN400562.1	1	671	671	EXCLUDE	plnt:plants	25	n/a
+LN400636.1	1	671	671	EXCLUDE	anml:mammals	27	n/a
+LN400747.1	1	670	670	EXCLUDE	plnt:plants	19	n/a
+LN400863.1	1	670	670	EXCLUDE	anml:mammals	28	n/a
+LN401048.1	1	670	670	EXCLUDE	anml:mammals	23	n/a
+LN401110.1	1	670	670	EXCLUDE	anml:fishes	23	n/a
+LN401353.1	1	669	669	EXCLUDE	plnt:plants	20	n/a
+LN401558.1	1	669	669	EXCLUDE	anml:primates	98	Homo sapiens
+LN401640.1	1	669	669	EXCLUDE	anml:primates	64	Carlito syrichta
+LN401803.1	1	668	668	EXCLUDE	anml:fishes	24	n/a
+LN401810.1	1	668	668	EXCLUDE	anml:mammals	26	n/a
+LN401979.1	1	668	668	EXCLUDE	plnt:plants	19	n/a
+LN402097.1	1	668	668	EXCLUDE	anml:rodents	28	n/a
+LN402172.1	1	668	668	EXCLUDE	anml:primates	99	Homo sapiens
+LN402280.1	1	667	667	EXCLUDE	anml:mammals	22	n/a
+LN402289.1	1	667	667	EXCLUDE	plnt:plants	22	n/a
+LN402413.1	1	667	667	EXCLUDE	anml:mammals	20	n/a
+LN402431.1	1	667	667	EXCLUDE	anml:rodents	23	n/a
+LN402442.1	1	667	667	EXCLUDE	anml:rodents	33	n/a
+LN402566.1	1	667	667	EXCLUDE	anml:rodents	27	n/a
+LN402997.1	1	666	666	EXCLUDE	plnt:plants	22	n/a
+LN403041.1	1	666	666	EXCLUDE	virs:prokaryotic viruses	21	n/a
+LN403068.1	1	666	666	EXCLUDE	anml:mammals	22	n/a
+LN403087.1	1	666	666	EXCLUDE	anml:mammals	23	n/a
+LN403108.1	1	666	666	EXCLUDE	anml:fishes	39	n/a
+LN403174.1	1	665	665	EXCLUDE	anml:primates	100	Homo sapiens
+LN403239.1	1	665	665	EXCLUDE	anml:primates	21	n/a
+LN403445.1	1	665	665	EXCLUDE	anml:rodents	75	n/a
+LN403474.1	1	665	665	EXCLUDE	anml:primates	22	n/a
+LN403534.1	1	665	665	EXCLUDE	anml:primates	23	n/a
+LN403595.1	1	665	665	EXCLUDE	anml:primates	100	Homo sapiens
+LN403615.1	1	665	665	EXCLUDE	plnt:plants	21	n/a
+LN404034.1	1	664	664	EXCLUDE	anml:primates	100	Homo sapiens
+LN404069.1	1	664	664	EXCLUDE	anml:primates	30	n/a
+LN404091.1	1	664	664	EXCLUDE	anml:rodents	33	n/a
+LN404186.1	1	663	663	EXCLUDE	anml:mammals	24	n/a
+LN404198.1	1	663	663	EXCLUDE	anml:primates	99	Homo sapiens
+LN404322.1	1	663	663	EXCLUDE	anml:fishes	21	n/a
+LN404396.1	1	663	663	EXCLUDE	anml:mammals	23	n/a
+LN404657.1	1	662	662	EXCLUDE	anml:fishes	52	n/a
+LN404659.1	1	662	662	EXCLUDE	anml:rodents	48	n/a
+LN404723.1	1	662	662	EXCLUDE	anml:rodents	22	n/a
+LN404772.1	1	662	662	EXCLUDE	anml:mammals	24	n/a
+LN404830.1	1	662	662	EXCLUDE	virs:prokaryotic viruses	26	n/a
+LN405083.1	1	661	661	EXCLUDE	virs:prokaryotic viruses	17	n/a
+LN405120.1	1	661	661	EXCLUDE	anml:fishes	64	n/a
+LN405181.1	1	661	661	EXCLUDE	anml:reptiles	33	n/a
+LN405328.1	1	661	661	EXCLUDE	anml:mammals	23	n/a
+LN405414.1	1	661	661	EXCLUDE	plnt:plants	23	n/a
+LN405573.1	1	660	660	EXCLUDE	anml:mammals	25	n/a
+LN405619.1	1	660	660	EXCLUDE	anml:mammals	25	n/a
+LN405723.1	1	660	660	EXCLUDE	anml:mammals	23	n/a
+LN405725.1	1	660	660	EXCLUDE	plnt:plants	23	n/a
+LN405776.1	1	660	660	EXCLUDE	anml:amphibians	21	n/a
+LN405824.1	1	660	660	EXCLUDE	plnt:plants	22	n/a
+LN405871.1	1	660	660	EXCLUDE	plnt:plants	17	n/a
+LN405977.1	1	660	660	EXCLUDE	plnt:plants	20	n/a
+LN406011.1	1	659	659	EXCLUDE	plnt:plants	14	n/a
+LN406142.1	1	659	659	EXCLUDE	anml:amphibians	28	n/a
+LN406366.1	1	659	659	EXCLUDE	anml:primates	99	Homo sapiens
+LN406401.1	1	659	659	EXCLUDE	anml:rodents	20	n/a
+LN406468.1	1	659	659	EXCLUDE	anml:primates	98	Homo sapiens
+LN406619.1	1	658	658	EXCLUDE	anml:reptiles	34	n/a
+LN406681.1	1	658	658	EXCLUDE	anml:primates	78	Homo sapiens
+LN406698.1	1	658	658	EXCLUDE	plnt:plants	22	n/a
+LN406704.1	1	658	658	EXCLUDE	anml:primates	68	Homo sapiens
+LN406801.1	1	658	658	EXCLUDE	anml:nematodes	90	Loa loa
+LN406946.1	1	658	658	EXCLUDE	plnt:plants	26	n/a
+LN406991.1	1	657	657	EXCLUDE	plnt:plants	21	n/a
+LN407101.1	1	657	657	EXCLUDE	anml:fishes	52	n/a
+LN407234.1	1	657	657	EXCLUDE	plnt:plants	37	n/a
+LN407380.1	1	657	657	EXCLUDE	anml:primates	21	n/a
+LN407388.1	1	657	657	EXCLUDE	anml:fishes	26	n/a
+LN407393.1	1	657	657	EXCLUDE	anml:primates	100	Homo sapiens
+LN407401.1	1	657	657	EXCLUDE	anml:reptiles	22	n/a
+LN407591.1	1	656	656	EXCLUDE	plnt:plants	51	n/a
+LN407614.1	1	656	656	EXCLUDE	plnt:plants	21	n/a
+LN408016.1	1	655	655	EXCLUDE	plnt:plants	22	n/a
+LN408224.1	1	655	655	EXCLUDE	virs:prokaryotic viruses	21	n/a
+LN408443.1	1	654	654	EXCLUDE	anml:amphibians	24	n/a
+LN408458.1	1	654	654	EXCLUDE	plnt:plants	24	n/a
+LN408881.1	1	654	654	EXCLUDE	plnt:plants	23	n/a
+LN408948.1	1	653	653	EXCLUDE	anml:primates	100	Homo sapiens
+LN409071.1	1	653	653	EXCLUDE	anml:mammals	21	n/a
+LN409135.1	1	653	653	EXCLUDE	anml:primates	100	Homo sapiens
+LN409138.1	1	653	653	EXCLUDE	anml:mammals	24	n/a
+LN409191.1	1	653	653	EXCLUDE	anml:mammals	32	n/a
+LN409357.1	1	653	653	EXCLUDE	virs:prokaryotic viruses	16	n/a
+LN409669.1	1	652	652	EXCLUDE	anml:amphibians	46	n/a
+LN409718.1	1	652	652	EXCLUDE	anml:primates	24	n/a
+LN409766.1	1	652	652	EXCLUDE	anml:mammals	25	n/a
+LN409767.1	1	652	652	EXCLUDE	anml:mammals	24	n/a
+LN409791.1	1	652	652	EXCLUDE	plnt:plants	22	n/a
+LN409826.1	1	652	652	EXCLUDE	virs:prokaryotic viruses	33	n/a
+LN409892.1	1	651	651	EXCLUDE	anml:primates	100	Homo sapiens
+LN409903.1	1	651	651	EXCLUDE	plnt:plants	29	n/a
+LN410118.1	1	651	651	EXCLUDE	anml:mammals	25	n/a
+LN410179.1	1	651	651	EXCLUDE	anml:fishes	33	n/a
+LN410537.1	1	650	650	EXCLUDE	anml:fishes	21	n/a
+LN410565.1	1	650	650	EXCLUDE	virs:prokaryotic viruses	19	n/a
+LN410669.1	1	650	650	EXCLUDE	anml:mammals	24	n/a
+LN410705.1	1	650	650	EXCLUDE	anml:primates	99	Homo sapiens
+LN410724.1	1	650	650	EXCLUDE	anml:rodents	94	Marmota monax
+LN410749.1	1	650	650	EXCLUDE	virs:prokaryotic viruses	18	n/a
+LN410764.1	1	650	650	EXCLUDE	anml:fishes	22	n/a
+LN410925.1	1	649	649	EXCLUDE	anml:primates	100	Homo sapiens
+LN410941.1	1	649	649	EXCLUDE	anml:primates	100	Homo sapiens
+LN410948.1	1	649	649	EXCLUDE	anml:reptiles	29	n/a
+LN411000.1	1	649	649	EXCLUDE	anml:mammals	22	n/a
+LN411451.1	1	648	648	EXCLUDE	anml:amphibians	22	n/a
+LN411455.1	1	648	648	EXCLUDE	plnt:plants	26	n/a
+LN411459.1	1	648	648	EXCLUDE	plnt:plants	27	n/a
+LN411478.1	1	648	648	EXCLUDE	anml:rodents	30	n/a
+LN411687.1	1	648	648	EXCLUDE	anml:rodents	25	n/a
+LN411713.1	1	648	648	EXCLUDE	anml:amphibians	24	n/a
+LN411810.1	1	647	647	EXCLUDE	anml:mammals	27	n/a
+LN411914.1	1	647	647	EXCLUDE	anml:fishes	20	n/a
+LN411964.1	1	647	647	EXCLUDE	plnt:plants	18	n/a
+LN411965.1	1	647	647	EXCLUDE	plnt:plants	61	n/a
+LN412248.1	1	646	646	EXCLUDE	virs:prokaryotic viruses	22	n/a
+LN412264.1	1	646	646	EXCLUDE	anml:amphibians	30	n/a
+LN412307.1	1	646	646	EXCLUDE	anml:fishes	24	n/a
+LN412384.1	1	646	646	EXCLUDE	anml:rodents	24	n/a
+LN412766.1	1	645	645	EXCLUDE	anml:primates	22	n/a
+LN412801.1	1	645	645	EXCLUDE	anml:fishes	30	n/a
+LN412937.1	1	645	645	EXCLUDE	anml:rodents	24	n/a
+LN412993.1	1	645	645	EXCLUDE	plnt:plants	28	n/a
+LN413012.1	1	645	645	EXCLUDE	anml:reptiles	22	n/a
+LN413094.1	1	645	645	EXCLUDE	plnt:plants	28	n/a
+LN413141.1	1	645	645	EXCLUDE	plnt:plants	28	n/a
+LN413220.1	1	645	645	EXCLUDE	anml:mammals	28	n/a
+LN413393.1	1	644	644	EXCLUDE	anml:reptiles	28	n/a
+LN413433.1	1	644	644	EXCLUDE	anml:mammals	31	n/a
+LN413438.1	1	644	644	EXCLUDE	anml:mammals	25	n/a
+LN413572.1	1	644	644	EXCLUDE	anml:reptiles	30	n/a
+LN413582.1	1	644	644	EXCLUDE	plnt:plants	39	n/a
+LN413709.1	1	644	644	EXCLUDE	anml:primates	100	Homo sapiens
+LN414122.1	1	643	643	EXCLUDE	plnt:plants	22	n/a
+LN414224.1	1	642	642	EXCLUDE	anml:reptiles	25	n/a
+LN414249.1	1	642	642	EXCLUDE	virs:prokaryotic viruses	17	n/a
+LN414428.1	1	642	642	EXCLUDE	anml:mammals	25	n/a
+LN414481.1	1	642	642	EXCLUDE	plnt:plants	27	n/a
+LN414597.1	1	642	642	EXCLUDE	virs:prokaryotic viruses	18	n/a
+LN414633.1	1	642	642	EXCLUDE	plnt:plants	25	n/a
+LN414646.1	1	642	642	EXCLUDE	anml:primates	100	Homo sapiens
+LN414684.1	1	642	642	EXCLUDE	anml:mammals	20	n/a
+LN414692.1	1	642	642	EXCLUDE	anml:reptiles	28	n/a
+LN414799.1	1	641	641	EXCLUDE	anml:reptiles	27	n/a
+LN414823.1	1	641	641	EXCLUDE	anml:primates	26	n/a
+LN414836.1	1	641	641	EXCLUDE	anml:mammals	35	n/a
+LN415123.1	1	641	641	EXCLUDE	anml:reptiles	23	n/a
+LN415169.1	1	641	641	EXCLUDE	anml:fishes	25	n/a
+LN415267.1	1	640	640	EXCLUDE	anml:amphibians	22	n/a
+LN415291.1	1	640	640	EXCLUDE	anml:reptiles	33	n/a
+LN415411.1	1	640	640	EXCLUDE	anml:reptiles	29	n/a
+LN415458.1	1	640	640	EXCLUDE	plnt:plants	23	n/a
+LN415472.1	1	640	640	EXCLUDE	anml:reptiles	22	n/a
+LN415508.1	1	640	640	EXCLUDE	anml:mammals	20	n/a
+LN415579.1	1	640	640	EXCLUDE	anml:mammals	30	n/a
+LN415605.1	1	640	640	EXCLUDE	plnt:plants	31	n/a
+LN415726.1	1	639	639	EXCLUDE	anml:fishes	29	n/a
+LN415762.1	1	639	639	EXCLUDE	anml:fishes	26	n/a
+LN415915.1	1	639	639	EXCLUDE	anml:reptiles	49	n/a
+LN416009.1	1	639	639	EXCLUDE	plnt:plants	27	n/a
+LN416046.1	1	639	639	EXCLUDE	anml:mammals	38	n/a
+LN416170.1	1	639	639	EXCLUDE	anml:mammals	31	n/a
+LN416193.1	1	638	638	EXCLUDE	virs:prokaryotic viruses	26	n/a
+LN416265.1	1	638	638	EXCLUDE	virs:prokaryotic viruses	29	n/a
+LN416432.1	1	638	638	EXCLUDE	anml:primates	100	Homo sapiens
+LN416444.1	1	638	638	EXCLUDE	anml:fishes	29	n/a
+LN416688.1	1	638	638	EXCLUDE	anml:mammals	32	n/a
+LN416762.1	1	637	637	EXCLUDE	plnt:plants	26	n/a
+LN416839.1	1	637	637	EXCLUDE	plnt:plants	31	n/a
+LN417024.1	1	637	637	EXCLUDE	anml:primates	26	n/a
+LN417042.1	1	637	637	EXCLUDE	plnt:plants	22	n/a
+LN417053.1	1	637	637	EXCLUDE	plnt:plants	45	n/a
+LN417141.1	1	637	637	EXCLUDE	anml:reptiles	21	n/a
+LN417203.1	1	637	637	EXCLUDE	anml:fishes	25	n/a
+LN417214.1	1	637	637	EXCLUDE	anml:mammals	26	n/a
+LN417226.1	1	636	636	EXCLUDE	anml:mammals	23	n/a
+LN417250.1	1	636	636	EXCLUDE	plnt:plants	25	n/a
+LN417269.1	1	636	636	EXCLUDE	anml:primates	66	Homo sapiens
+LN417316.1	1	636	636	EXCLUDE	plnt:plants	23	n/a
+LN417450.1	1	636	636	EXCLUDE	plnt:plants	24	n/a
+LN417464.1	1	636	636	EXCLUDE	anml:fishes	21	n/a
+LN417610.1	1	636	636	EXCLUDE	anml:rodents	26	n/a
+LN417637.1	1	636	636	EXCLUDE	anml:rodents	26	n/a
+LN417804.1	1	635	635	EXCLUDE	plnt:plants	55	n/a
+LN417897.1	1	635	635	EXCLUDE	anml:fishes	69	n/a
+LN417904.1	1	635	635	EXCLUDE	anml:reptiles	28	n/a
+LN417932.1	1	635	635	EXCLUDE	anml:mammals	98	Elephas maximus
+LN418011.1	1	635	635	EXCLUDE	plnt:plants	26	n/a
+LN418081.1	1	635	635	EXCLUDE	plnt:plants	30	n/a
+LN418262.1	1	634	634	EXCLUDE	anml:rodents	24	n/a
+LN418361.1	1	634	634	EXCLUDE	anml:rodents	27	n/a
+LN418414.1	1	634	634	EXCLUDE	anml:molluscs	100	Octopus sinensis
+LN418442.1	1	634	634	EXCLUDE	anml:molluscs	72	Octopus sinensis
+LN418596.1	1	634	634	EXCLUDE	anml:reptiles	24	n/a
+LN418635.1	1	634	634	EXCLUDE	plnt:plants	25	n/a
+LN418677.1	1	634	634	EXCLUDE	anml:fishes	26	n/a
+LN418685.1	1	634	634	EXCLUDE	anml:mammals	21	n/a
+LN418692.1	1	634	634	EXCLUDE	plnt:plants	24	n/a
+LN418780.1	1	633	633	EXCLUDE	plnt:plants	23	n/a
+LN418799.1	1	633	633	EXCLUDE	anml:primates	100	Homo sapiens
+LN418807.1	1	633	633	EXCLUDE	anml:primates	98	Homo sapiens
+LN418916.1	1	633	633	EXCLUDE	anml:primates	100	Homo sapiens
+LN418963.1	1	633	633	EXCLUDE	anml:fishes	22	n/a
+LN419210.1	1	632	632	EXCLUDE	anml:primates	22	n/a
+LN419304.1	1	632	632	EXCLUDE	anml:fishes	27	n/a
+LN419386.1	1	632	632	EXCLUDE	plnt:plants	26	n/a
+LN419403.1	1	632	632	EXCLUDE	anml:fishes	28	n/a
+LN419437.1	1	632	632	EXCLUDE	anml:reptiles	25	n/a
+LN419552.1	1	632	632	EXCLUDE	anml:rodents	22	n/a
+LN419702.1	1	631	631	EXCLUDE	plnt:plants	19	n/a
+LN419710.1	1	631	631	EXCLUDE	anml:reptiles	29	n/a
+LN419777.1	1	631	631	EXCLUDE	plnt:plants	55	n/a
+LN419804.1	1	631	631	EXCLUDE	anml:rodents	25	n/a
+LN419957.1	1	631	631	EXCLUDE	anml:mammals	21	n/a
+LN420072.1	1	631	631	EXCLUDE	anml:primates	96	Homo sapiens
+LN420096.1	1	631	631	EXCLUDE	anml:primates	100	Homo sapiens
+LN420181.1	1	630	630	EXCLUDE	plnt:plants	28	n/a
+LN420268.1	1	630	630	EXCLUDE	anml:fishes	26	n/a
+LN420292.1	1	630	630	EXCLUDE	anml:mammals	50	n/a
+LN420366.1	1	630	630	EXCLUDE	virs:prokaryotic viruses	25	n/a
+LN420439.1	1	630	630	EXCLUDE	anml:reptiles	24	n/a
+LN420447.1	1	630	630	EXCLUDE	anml:mammals	31	n/a
+LN420555.1	1	630	630	EXCLUDE	anml:fishes	28	n/a
+LN420569.1	1	630	630	EXCLUDE	anml:mammals	24	n/a
+LN420608.1	1	630	630	EXCLUDE	anml:reptiles	25	n/a
+LN420669.1	1	630	630	EXCLUDE	virs:prokaryotic viruses	20	n/a
+LN420824.1	1	629	629	EXCLUDE	plnt:plants	21	n/a
+LN420849.1	1	629	629	EXCLUDE	plnt:plants	57	n/a
+LN421176.1	1	628	628	EXCLUDE	plnt:plants	23	n/a
+LN421227.1	1	628	628	EXCLUDE	plnt:plants	28	n/a
+LN421365.1	1	628	628	EXCLUDE	plnt:plants	30	n/a
+LN421432.1	1	628	628	EXCLUDE	plnt:plants	21	n/a
+LN421503.1	1	628	628	EXCLUDE	anml:primates	24	n/a
+LN421506.1	1	628	628	EXCLUDE	plnt:plants	29	n/a
+LN421616.1	1	628	628	EXCLUDE	anml:fishes	27	n/a
+LN421667.1	1	627	627	EXCLUDE	anml:mammals	25	n/a
+LN421691.1	1	627	627	EXCLUDE	anml:reptiles	36	n/a
+LN421746.1	1	627	627	EXCLUDE	anml:mammals	26	n/a
+LN421849.1	1	627	627	EXCLUDE	anml:reptiles	31	n/a
+LN421862.1	1	627	627	EXCLUDE	anml:rodents	32	n/a
+LN421917.1	1	627	627	EXCLUDE	anml:fishes	27	n/a
+LN421963.1	1	627	627	EXCLUDE	anml:amphibians	27	n/a
+LN422078.1	1	627	627	EXCLUDE	plnt:plants	32	n/a
+LN422092.1	1	627	627	EXCLUDE	anml:mammals	32	n/a
+LN422117.1	1	626	626	EXCLUDE	plnt:plants	27	n/a
+LN422129.1	1	626	626	EXCLUDE	anml:fishes	30	n/a
+LN422188.1	1	626	626	EXCLUDE	anml:primates	100	Homo sapiens
+LN422210.1	1	626	626	EXCLUDE	anml:primates	30	n/a
+LN422280.1	1	626	626	EXCLUDE	anml:reptiles	28	n/a
+LN422493.1	1	626	626	EXCLUDE	plnt:plants	42	n/a
+LN422678.1	1	625	625	EXCLUDE	anml:amphibians	24	n/a
+LN422742.1	1	625	625	EXCLUDE	anml:mammals	28	n/a
+LN422940.1	1	625	625	EXCLUDE	virs:prokaryotic viruses	21	n/a
+LN422972.1	1	625	625	EXCLUDE	anml:mammals	30	n/a
+LN423111.1	1	624	624	EXCLUDE	anml:mammals	29	n/a
+LN423627.1	1	623	623	EXCLUDE	anml:mammals	24	n/a
+LN423755.1	1	623	623	EXCLUDE	anml:mammals	26	n/a
+LN423960.1	1	622	622	EXCLUDE	plnt:plants	28	n/a
+LN424002.1	1	622	622	EXCLUDE	anml:fishes	21	n/a
+LN424011.1	1	622	622	EXCLUDE	plnt:plants	26	n/a
+LN424106.1	1	622	622	EXCLUDE	plnt:plants	30	n/a
+LN424137.1	1	622	622	EXCLUDE	plnt:plants	28	n/a
+LN424300.1	1	622	622	EXCLUDE	plnt:plants	24	n/a
+LN424460.1	1	621	621	EXCLUDE	anml:mammals	25	n/a
+LN424794.1	1	621	621	EXCLUDE	plnt:plants	22	n/a
+LN425040.1	1	620	620	EXCLUDE	anml:mammals	30	n/a
+LN425120.1	1	620	620	EXCLUDE	anml:primates	28	n/a
+LN425164.1	1	620	620	EXCLUDE	virs:prokaryotic viruses	24	n/a
+LN425286.1	1	620	620	EXCLUDE	anml:mammals	31	n/a
+LN425341.1	1	620	620	EXCLUDE	anml:mammals	29	n/a
+LN425430.1	1	619	619	EXCLUDE	anml:amphibians	24	n/a
+LN425577.1	1	619	619	EXCLUDE	plnt:plants	20	n/a
+LN425704.1	1	619	619	EXCLUDE	plnt:plants	20	n/a
+LN425763.1	1	619	619	EXCLUDE	anml:mammals	28	n/a
+LN425787.1	1	619	619	EXCLUDE	anml:reptiles	27	n/a
+LN425914.1	1	618	618	EXCLUDE	anml:reptiles	34	n/a
+LN426171.1	1	618	618	EXCLUDE	anml:reptiles	29	n/a
+LN426272.1	1	618	618	EXCLUDE	anml:fishes	27	n/a
+LN426503.1	1	617	617	EXCLUDE	plnt:plants	32	n/a
+LN426571.1	1	617	617	EXCLUDE	anml:mammals	30	n/a
+LN426623.1	1	617	617	EXCLUDE	plnt:plants	25	n/a
+LN426831.1	1	616	616	EXCLUDE	plnt:plants	28	n/a
+LN426955.1	1	616	616	EXCLUDE	anml:rodents	31	n/a
+LN427110.1	1	616	616	EXCLUDE	anml:primates	67	Carlito syrichta
+LN427225.1	1	615	615	EXCLUDE	anml:primates	77	Homo sapiens
+LN427386.1	1	615	615	EXCLUDE	anml:primates	100	Homo sapiens
+LN427564.1	1	615	615	EXCLUDE	plnt:plants	27	n/a
+LN427671.1	1	614	614	EXCLUDE	plnt:plants	14	n/a
+LN427756.1	1	614	614	EXCLUDE	plnt:plants	28	n/a
+LN427793.1	1	614	614	EXCLUDE	anml:mammals	25	n/a
+LN428008.1	1	614	614	EXCLUDE	anml:mammals	26	n/a
+LN428041.1	1	614	614	EXCLUDE	anml:primates	32	n/a
+LN428101.1	1	613	613	EXCLUDE	plnt:plants	30	n/a
+LN428154.1	1	613	613	EXCLUDE	plnt:plants	26	n/a
+LN428686.1	1	612	612	EXCLUDE	anml:primates	28	n/a
+LN428689.1	1	612	612	EXCLUDE	anml:primates	100	Homo sapiens
+LN428856.1	1	612	612	EXCLUDE	plnt:plants	28	n/a
+LN429249.1	1	611	611	EXCLUDE	plnt:plants	27	n/a
+LN429256.1	1	611	611	EXCLUDE	anml:primates	34	Homo sapiens
+LN429380.1	1	611	611	EXCLUDE	plnt:plants	27	n/a
+LN429527.1	1	610	610	EXCLUDE	anml:fishes	96	Carcharodon carcharias
+LN429534.1	1	610	610	EXCLUDE	anml:reptiles	26	n/a
+LN429564.1	1	610	610	EXCLUDE	plnt:plants	25	n/a
+LN429628.1	1	610	610	EXCLUDE	plnt:plants	11	n/a
+LN429685.1	1	610	610	EXCLUDE	anml:primates	98	Homo sapiens
+LN430100.1	1	609	609	EXCLUDE	anml:primates	100	Homo sapiens
+LN430129.1	1	609	609	EXCLUDE	anml:mammals	24	n/a
+LN430367.1	1	608	608	EXCLUDE	plnt:plants	33	n/a
+LN430383.1	1	608	608	EXCLUDE	plnt:plants	33	n/a
+LN430439.1	1	608	608	EXCLUDE	anml:primates	98	Homo sapiens
+LN430443.1	1	608	608	EXCLUDE	anml:fishes	24	n/a
+LN430613.1	1	608	608	EXCLUDE	anml:reptiles	22	n/a
+LN430614.1	1	608	608	EXCLUDE	plnt:plants	43	n/a
+LN431490.1	1	606	606	EXCLUDE	anml:reptiles	30	n/a
+LN431578.1	1	606	606	EXCLUDE	anml:primates	100	Homo sapiens
+LN431590.1	1	606	606	EXCLUDE	plnt:plants	26	n/a
+LN431734.1	1	605	605	EXCLUDE	plnt:plants	28	n/a
+LN432815.1	1	603	603	EXCLUDE	anml:fishes	95	Branchiostoma belcheri
+LN433053.1	1	602	602	EXCLUDE	anml:fishes	22	n/a
+LN433328.1	1	602	602	EXCLUDE	anml:mammals	27	n/a
+LN433392.1	1	602	602	EXCLUDE	anml:primates	100	Homo sapiens
+LN433415.1	1	602	602	EXCLUDE	anml:mammals	26	n/a
+LN433545.1	1	601	601	EXCLUDE	anml:mammals	23	n/a
+LN433552.1	1	601	601	EXCLUDE	anml:primates	100	Homo sapiens
+LN433581.1	1	601	601	EXCLUDE	plnt:plants	55	n/a
+LN433856.1	1	601	601	EXCLUDE	plnt:plants	29	n/a
+LN433879.1	1	601	601	EXCLUDE	anml:fishes	21	n/a
+LN434849.1	1	598	598	EXCLUDE	anml:reptiles	26	n/a
+LN435279.1	1	597	597	EXCLUDE	anml:primates	100	Homo sapiens
+LN435428.1	1	597	597	EXCLUDE	anml:rodents	23	n/a
+LN435762.1	1	596	596	EXCLUDE	anml:fishes	26	n/a
+LN436024.1	1	596	596	EXCLUDE	anml:mammals	26	n/a
+LN436785.1	1	594	594	EXCLUDE	anml:fishes	58	n/a
+LN437879.1	1	591	591	EXCLUDE	anml:mammals	29	n/a
+LN438365.1	1	590	590	EXCLUDE	plnt:plants	26	n/a
+LN438862.1	1	589	589	EXCLUDE	plnt:plants	26	n/a
+LN439895.1	1	587	587	EXCLUDE	anml:mammals	95	Ornithorhynchus anatinus
+LN439983.1	1	586	586	EXCLUDE	anml:primates	100	Homo sapiens
+LN440131.1	1	586	586	EXCLUDE	anml:reptiles	47	n/a
+LN440192.1	1	586	586	EXCLUDE	anml:fishes	28	n/a
+LN440791.1	1	584	584	EXCLUDE	anml:mammals	23	n/a
+LN441491.1	1	583	583	EXCLUDE	anml:reptiles	27	n/a
+LN441710.1	1	582	582	EXCLUDE	anml:amphibians	27	n/a
+LN442544.1	1	580	580	EXCLUDE	anml:mammals	28	n/a
+LN442803.1	1	580	580	EXCLUDE	anml:mammals	97	Elephas maximus
+LN443221.1	1	579	579	EXCLUDE	anml:primates	100	Homo sapiens
+LN444618.1	1	576	576	EXCLUDE	anml:mammals	96	Elephas maximus
+LN444752.1	1	575	575	EXCLUDE	anml:reptiles	100	Pantherophis guttatus
+LN446346.1	1	572	572	EXCLUDE	anml:fishes	95	Erpetoichthys calabaricus
+LN446725.1	1	571	571	EXCLUDE	anml:fishes	100	Periophthalmus magnuspinnatus
+LN447453.1	1	569	569	EXCLUDE	anml:mammals	92	Elephas maximus
+LN449952.1	1	564	564	EXCLUDE	plnt:plants	11	n/a
+LN450326.1	1	563	563	EXCLUDE	anml:molluscs	100	Haliotis rufescens
+LN451292.1	1	561	561	EXCLUDE	anml:primates	100	Homo sapiens
+LN453940.1	1	555	555	EXCLUDE	anml:fishes	93	Salmo salar
+LN458032.1	1	546	546	EXCLUDE	anml:primates	100	Homo sapiens
+LN458045.1	1	546	546	EXCLUDE	plnt:plants	29	n/a
+LN459103.1	1	544	544	EXCLUDE	anml:primates	100	Homo sapiens
+LN459865.1	1	543	543	EXCLUDE	anml:primates	100	Homo sapiens
+LN460215.1	1	542	542	EXCLUDE	anml:primates	100	Homo sapiens
+LN460602.1	1	541	541	EXCLUDE	anml:rodents	92	Marmota monax
+LN461753.1	1	539	539	EXCLUDE	anml:primates	100	Homo sapiens
+LN462036.1	1	538	538	EXCLUDE	anml:primates	100	Homo sapiens
+LN462065.1	1	538	538	EXCLUDE	anml:fishes	97	Salmo salar
+LN462139.1	1	538	538	EXCLUDE	anml:primates	100	Homo sapiens
+LN462860.1	1	537	537	EXCLUDE	anml:primates	95	Homo sapiens
+LN466900.1	1	528	528	EXCLUDE	anml:primates	100	Homo sapiens
+LN469149.1	1	524	524	EXCLUDE	anml:fishes	98	Erpetoichthys calabaricus
+LN470826.1	1	521	521	EXCLUDE	anml:primates	100	Homo sapiens
+LN472486.1	1	518	518	EXCLUDE	anml:primates	100	Homo sapiens
+LN472725.1	1	517	517	EXCLUDE	anml:primates	92	Lemur catta
+LN473893.1	1	515	515	EXCLUDE	anml:nematodes	86	Onchocerca volvulus
+LN474204.1	1	514	514	EXCLUDE	anml:mammals	100	Myotis myotis
+LN475315.1	1	512	512	EXCLUDE	anml:primates	100	Homo sapiens
+LN477624.1	1	508	508	EXCLUDE	anml:fishes	84	Petromyzon marinus
+LN477838.1	1	508	508	EXCLUDE	plnt:plants	11	n/a
+LN477858.1	1	508	508	EXCLUDE	anml:primates	100	Homo sapiens
+LN478119.1	1	507	507	EXCLUDE	anml:primates	100	Homo sapiens
+LN479683.1	1	504	504	EXCLUDE	anml:primates	100	Homo sapiens
+LN480140.1	1	504	504	EXCLUDE	anml:mammals	81	Canis lupus
+LN480377.1	1	503	503	EXCLUDE	anml:fishes	100	Petromyzon marinus
+LN481846.1	1	500	500	EXCLUDE	anml:primates	99	Homo sapiens

@@ -1,0 +1,258 @@
+QEWY01001585.1	1023025	1023980	1209818	FIX	plnt:plants	29	Aegilops tauschii
+QEWY01004069.1	4317	5114	729786	FIX	plnt:plants	41	n/a
+QEWY01000159.1	444365	446582	461215	FIX	prst:alveolates	35	Cladocopium goreaui
+QEWY01000964.1	1	222707	222707	EXCLUDE	virs:prokaryotic viruses	73	Erskinevirus asesino
+QEWY01001182.1	81666	82454	185497	FIX	prok:firmicutes	40	n/a
+QEWY01001902.1	1	108800	108800	EXCLUDE	prok:firmicutes	100	Streptococcus alactolyticus
+QEWY01002098.1	1	94690	94690	EXCLUDE	prok:firmicutes	99	Streptococcus alactolyticus
+QEWY01002323.1	1	73917	73917	EXCLUDE	prok:firmicutes	100	Streptococcus sp. UBA3373
+QEWY01002639.1	1	57095	57095	EXCLUDE	prok:firmicutes	99	Streptococcus alactolyticus
+QEWY01002771.1	1	49403	49403	EXCLUDE	prok:firmicutes	98	Streptococcus alactolyticus
+QEWY01003093.1	14983	16999	39454	FIX	prst:alveolates	45	Paramecium sexaurelia
+QEWY01003099.1	1	38404	38404	EXCLUDE	prok:firmicutes	100	Streptococcus alactolyticus
+QEWY01004071.1	1	19507	19507	EXCLUDE	prok:g-proteobacteria	95	Vulcaniibacterium thermophilum
+QEWY01004087.1	1	18288	18288	EXCLUDE	prok:g-proteobacteria	98	Vulcaniibacterium thermophilum
+QEWY01004149.1	1	15352	15352	EXCLUDE	prok:g-proteobacteria	96	Vulcaniibacterium thermophilum
+QEWY01000010.1	1	13284	13284	EXCLUDE	prok:firmicutes	98	Streptococcus alactolyticus
+QEWY01000048.1	1	11824	11824	EXCLUDE	prok:firmicutes	39	Streptococcus sp. UBA3373
+QEWY01000055.1	1	11662	11662	EXCLUDE	prok:g-proteobacteria	99	Vulcaniibacterium thermophilum
+QEWY01000065.1	1	11506	11506	EXCLUDE	prok:firmicutes	100	Streptococcus alactolyticus
+QEWY01000071.1	1	11339	11339	EXCLUDE	prok:firmicutes	100	Streptococcus sp. UBA3373
+QEWY01000082.1	1	10982	10982	EXCLUDE	prok:firmicutes	90	Streptococcus sp. UBA632
+QEWY01000090.1	1	10831	10831	EXCLUDE	prok:firmicutes	95	Ligilactobacillus murinus
+QEWY01000095.1	1	10628	10628	EXCLUDE	virs:prokaryotic viruses	76	Streptococcus phage Javan220
+QEWY01000108.1	1	10072	10072	EXCLUDE	prok:g-proteobacteria	100	Vulcaniibacterium thermophilum
+QEWY01000131.1	1	9540	9540	EXCLUDE	prok:firmicutes	100	Streptococcus sp. UBA3373
+QEWY01000151.1	1	9088	9088	EXCLUDE	prok:g-proteobacteria	100	Vulcaniibacterium thermophilum
+QEWY01000178.1	1	8585	8585	EXCLUDE	virs:prokaryotic viruses	84	Streptococcus phage Javan220
+QEWY01000184.1	1	8486	8486	EXCLUDE	virs:prokaryotic viruses	82	Streptococcus phage Javan220
+QEWY01000210.1	1	8163	8163	EXCLUDE	prok:g-proteobacteria	100	Vulcaniibacterium thermophilum
+QEWY01000250.1	1	7649	7649	EXCLUDE	prok:g-proteobacteria	100	Vulcaniibacterium thermophilum
+QEWY01000326.1	1	6736	6736	EXCLUDE	prok:firmicutes	91	Leuconostoc gelidum
+QEWY01000335.1	1	6596	6596	EXCLUDE	prok:g-proteobacteria	98	Vulcaniibacterium thermophilum
+QEWY01000338.1	1	1078	1078	EXCLUDE	prok:firmicutes	99	Weissella confusa
+QEWY01000382.1	1	6108	6108	EXCLUDE	prok:g-proteobacteria	100	Vulcaniibacterium thermophilum
+QEWY01000383.1	1	4672	4672	EXCLUDE	virs:prokaryotic viruses	86	Streptococcus phage Javan224
+QEWY01000408.1	1	5901	5901	EXCLUDE	prok:g-proteobacteria	100	Vulcaniibacterium thermophilum
+QEWY01000415.1	1	5857	5857	EXCLUDE	prok:g-proteobacteria	68	Vulcaniibacterium thermophilum
+QEWY01000423.1	1	5796	5796	EXCLUDE	prok:g-proteobacteria	100	Vulcaniibacterium thermophilum
+QEWY01000438.1	1	5597	5597	EXCLUDE	prok:g-proteobacteria	95	Vulcaniibacterium thermophilum
+QEWY01000450.1	1	5457	5457	EXCLUDE	prok:g-proteobacteria	100	Vulcaniibacterium thermophilum
+QEWY01000495.1	1	5244	5244	EXCLUDE	prok:g-proteobacteria	100	Vulcaniibacterium thermophilum
+QEWY01000528.1	1	5016	5016	EXCLUDE	virs:prokaryotic viruses	98	Streptococcus alactolyticus
+QEWY01000538.1	1	4980	4980	EXCLUDE	virs:prokaryotic viruses	98	Goslarvirus goslar
+QEWY01000589.1	1	4584	4584	EXCLUDE	prok:g-proteobacteria	100	Vulcaniibacterium thermophilum
+QEWY01000591.1	1	4730	4730	EXCLUDE	virs:prokaryotic viruses	92	Weissella phage WC29P3
+QEWY01000594.1	1	4612	4612	EXCLUDE	prok:firmicutes	87	Weissella thailandensis
+QEWY01000600.1	1	4573	4573	EXCLUDE	prok:firmicutes	100	Streptococcus alactolyticus
+QEWY01000644.1	1	4131	4131	EXCLUDE	anml:crustaceans	95	Homarus americanus
+QEWY01000647.1	1	4323	4323	EXCLUDE	prok:firmicutes	47	Lactococcus insecticola
+QEWY01000697.1	1	4137	4137	EXCLUDE	prok:firmicutes	69	Weissella confusa
+QEWY01000762.1	1	3918	3918	EXCLUDE	virs:prokaryotic viruses	90	Streptococcus alactolyticus
+QEWY01000768.1	1	3902	3902	EXCLUDE	prok:firmicutes	100	Streptococcus sp. UBA3373
+QEWY01000771.1	1	3894	3894	EXCLUDE	anml:crustaceans	93	Hyalella azteca
+QEWY01000775.1	1	3882	3882	EXCLUDE	virs:prokaryotic viruses	66	Streptococcus vicugnae
+QEWY01000777.1	1	3879	3879	EXCLUDE	anml:crustaceans	100	Hyalella azteca
+QEWY01000784.1	1	3865	3865	EXCLUDE	prok:firmicutes	100	Streptococcus sp. UBA3373
+QEWY01000795.1	1	3827	3827	EXCLUDE	virs:prokaryotic viruses	41	Weissella phage WC29P3
+QEWY01000801.1	1	3796	3796	EXCLUDE	prok:firmicutes	82	Weissella thailandensis
+QEWY01000813.1	1	3782	3782	EXCLUDE	prok:firmicutes	48	Leuconostoc carnosum
+QEWY01000818.1	1	3750	3750	EXCLUDE	prok:firmicutes	100	Streptococcus alactolyticus
+QEWY01000865.1	1	3599	3599	EXCLUDE	prok:firmicutes	100	Streptococcus alactolyticus
+QEWY01000872.1	1	3576	3576	EXCLUDE	prok:a-proteobacteria	100	Aureimonas psammosilenae
+QEWY01000904.1	1	3426	3426	EXCLUDE	virs:prokaryotic viruses	87	Weissella oryzae
+QEWY01000908.1	1	3422	3422	EXCLUDE	prok:firmicutes	100	Streptococcus sp. UBA3373
+QEWY01000971.1	1	3214	3214	EXCLUDE	prok:g-proteobacteria	100	Vulcaniibacterium thermophilum
+QEWY01000990.1	1	3169	3169	EXCLUDE	prok:firmicutes	87	Limosilactobacillus mucosae
+QEWY01001002.1	1	3144	3144	EXCLUDE	virs:prokaryotic viruses	83	Streptococcus alactolyticus
+QEWY01001024.1	1	3089	3089	EXCLUDE	prok:firmicutes	82	Fructobacillus tropaeoli
+QEWY01001027.1	1	3075	3075	EXCLUDE	prok:firmicutes	88	Weissella confusa
+QEWY01001053.1	1	3015	3015	EXCLUDE	prok:firmicutes	91	Leuconostoc rapi
+QEWY01001083.1	1	2943	2943	EXCLUDE	anml:crustaceans	93	Procambarus clarkii
+QEWY01001114.1	1	2906	2906	EXCLUDE	prok:firmicutes	88	Candidatus Enterococcus stercoripullorum
+QEWY01001116.1	1	2903	2903	EXCLUDE	prok:firmicutes	73	Streptococcus alactolyticus
+QEWY01001129.1	1	2890	2890	EXCLUDE	virs:prokaryotic viruses	100	Jerseyvirus LSPA1
+QEWY01001131.1	1	2882	2882	EXCLUDE	prok:firmicutes	87	Weissella confusa
+QEWY01001198.1	1	2638	2638	EXCLUDE	prok:firmicutes	45	Weissella cibaria
+QEWY01001199.1	1	2770	2770	EXCLUDE	prok:g-proteobacteria	98	Vulcaniibacterium thermophilum
+QEWY01001248.1	1	2697	2697	EXCLUDE	prok:firmicutes	26	Weissella confusa
+QEWY01001249.1	1	2696	2696	EXCLUDE	virs:prokaryotic viruses	100	Escherichia phage vB_EcoS_SCS44
+QEWY01001262.1	1	2676	2676	EXCLUDE	prok:firmicutes	53	Weissella cibaria
+QEWY01001271.1	1	2654	2654	EXCLUDE	prok:firmicutes	63	Weissella confusa
+QEWY01001310.1	1	2598	2598	EXCLUDE	virs:prokaryotic viruses	100	Goslarvirus goslar
+QEWY01001311.1	1	2597	2597	EXCLUDE	prok:g-proteobacteria	100	Vulcaniibacterium thermophilum
+QEWY01001340.1	1	2464	2464	EXCLUDE	prok:firmicutes	35	Weissella cibaria
+QEWY01001354.1	1	2548	2548	EXCLUDE	prok:g-proteobacteria	75	Vulcaniibacterium thermophilum
+QEWY01001360.1	1	2539	2539	EXCLUDE	prok:a-proteobacteria	94	Aureimonas psammosilenae
+QEWY01001362.1	1	2537	2537	EXCLUDE	prok:firmicutes	62	Weissella confusa
+QEWY01001372.1	1	2528	2528	EXCLUDE	prok:firmicutes	39	Weissella hellenica
+QEWY01001376.1	1	2522	2522	EXCLUDE	prok:a-proteobacteria	100	Aureimonas psammosilenae
+QEWY01001448.1	1	2430	2430	EXCLUDE	prok:g-proteobacteria	100	Vulcaniibacterium thermophilum
+QEWY01001479.1	1	2394	2394	EXCLUDE	anml:fishes	72	Danio rerio
+QEWY01001507.1	1	2352	2352	EXCLUDE	prok:firmicutes	100	Streptococcus alactolyticus
+QEWY01001516.1	1	2354	2354	EXCLUDE	prok:firmicutes	90	Enterococcus diestrammenae
+QEWY01001606.1	1	2253	2253	EXCLUDE	prok:g-proteobacteria	100	Vulcaniibacterium thermophilum
+QEWY01001642.1	1	2141	2141	EXCLUDE	prok:firmicutes	91	Weissella cibaria
+QEWY01001643.1	1	3100	3100	EXCLUDE	prok:firmicutes	56	Weissella cibaria
+QEWY01001652.1	1	2207	2207	EXCLUDE	prok:g-proteobacteria	100	Vulcaniibacterium thermophilum
+QEWY01001665.1	1	2177	2177	EXCLUDE	virs:prokaryotic viruses	100	Weissella phage WC27P1
+QEWY01001683.1	1	2178	2178	EXCLUDE	prok:firmicutes	56	Enterococcus malodoratus
+QEWY01001692.1	1	2170	2170	EXCLUDE	prok:firmicutes	77	Tetragenococcus koreensis
+QEWY01001716.1	1	2143	2143	EXCLUDE	prok:firmicutes	86	Weissella confusa
+QEWY01001760.1	1	2113	2113	EXCLUDE	prok:g-proteobacteria	100	Vulcaniibacterium thermophilum
+QEWY01001782.1	1	2084	2084	EXCLUDE	prok:firmicutes	98	Weissella cibaria
+QEWY01001788.1	1	2074	2074	EXCLUDE	anml:fishes	98	Carcharodon carcharias
+QEWY01001819.1	1	2046	2046	EXCLUDE	virs:prokaryotic viruses	94	Weissella phage WCP30
+QEWY01001837.1	1	2034	2034	EXCLUDE	anml:crustaceans	69	Procambarus clarkii
+QEWY01001843.1	1	2026	2026	EXCLUDE	prok:firmicutes	98	Streptococcus catagoni
+QEWY01001862.1	1	2006	2006	EXCLUDE	prok:firmicutes	96	Weissella thailandensis
+QEWY01001870.1	1	1997	1997	EXCLUDE	virs:prokaryotic viruses	62	Weissella phage WC27P1
+QEWY01001889.1	1	1977	1977	EXCLUDE	prok:firmicutes	70	Weissella cibaria
+QEWY01001892.1	1	1977	1977	EXCLUDE	prok:firmicutes	100	Lactococcus taiwanensis
+QEWY01001898.1	1	1967	1967	EXCLUDE	plnt:plants	100	Hevea brasiliensis
+QEWY01001919.1	1	1947	1947	EXCLUDE	prok:a-proteobacteria	100	Aureimonas psammosilenae
+QEWY01001924.1	1	1944	1944	EXCLUDE	prok:firmicutes	81	Weissella cibaria
+QEWY01001927.1	1	1940	1940	EXCLUDE	prok:firmicutes	62	Weissella confusa
+QEWY01001931.1	1	1931	1931	EXCLUDE	virs:prokaryotic viruses	100	Goslarvirus goslar
+QEWY01001935.1	1	1930	1930	EXCLUDE	prok:a-proteobacteria	100	Aureimonas psammosilenae
+QEWY01001944.1	1	1919	1919	EXCLUDE	virs:prokaryotic viruses	100	Escherichia phage SZH-1
+QEWY01001948.1	1	1916	1916	EXCLUDE	prok:a-proteobacteria	100	Aureimonas psammosilenae
+QEWY01001950.1	1	1913	1913	EXCLUDE	prok:firmicutes	100	Lactococcus taiwanensis
+QEWY01001956.1	1	1910	1910	EXCLUDE	prok:firmicutes	100	Lactococcus taiwanensis
+QEWY01001960.1	1	1895	1895	EXCLUDE	virs:prokaryotic viruses	88	Weissella phage WC29P3
+QEWY01001974.1	1	1883	1883	EXCLUDE	prok:firmicutes	100	Secundilactobacillus silagincola
+QEWY01002008.1	1	1832	1832	EXCLUDE	virs:prokaryotic viruses	94	Lactococcus phage bIL309
+QEWY01002009.1	1	1832	1832	EXCLUDE	virs:prokaryotic viruses	100	Escherichia phage 26
+QEWY01002013.1	1	1826	1826	EXCLUDE	prok:firmicutes	64	Weissella bombi
+QEWY01002029.1	1	1807	1807	EXCLUDE	virs:prokaryotic viruses	87	Goslarvirus goslar
+QEWY01002033.1	1	1805	1805	EXCLUDE	prok:firmicutes	90	Weissella sagaensis
+QEWY01002049.1	1	1782	1782	EXCLUDE	prok:firmicutes	100	Lactococcus taiwanensis
+QEWY01002053.1	1	1784	1784	EXCLUDE	prok:firmicutes	67	Weissella cibaria
+QEWY01002059.1	1	1729	1729	EXCLUDE	virs:prokaryotic viruses	98	Goslarvirus goslar
+QEWY01002099.1	1	1737	1737	EXCLUDE	prok:firmicutes	21	Weissella cibaria
+QEWY01002100.1	1	1736	1736	EXCLUDE	prok:firmicutes	100	Streptococcus alactolyticus
+QEWY01002108.1	1	1729	1729	EXCLUDE	prok:firmicutes	96	Weissella confusa
+QEWY01002110.1	1	1733	1733	EXCLUDE	prok:firmicutes	100	Lactococcus taiwanensis
+QEWY01002112.1	1	1724	1724	EXCLUDE	prok:firmicutes	100	Vagococcus fluvialis
+QEWY01002129.1	1	1717	1717	EXCLUDE	prok:firmicutes	97	Weissella hellenica
+QEWY01002131.1	1	1715	1715	EXCLUDE	virs:prokaryotic viruses	100	Escherichia phage vB_EcoS-UTI89UKE1
+QEWY01002137.1	1	1706	1706	EXCLUDE	virs:prokaryotic viruses	92	Goslarvirus goslar
+QEWY01002172.1	1	1679	1679	EXCLUDE	plnt:plants	100	Oryza sativa
+QEWY01002196.1	1	1662	1662	EXCLUDE	prok:firmicutes	95	Lentilactobacillus parabuchneri
+QEWY01002216.1	1	1649	1649	EXCLUDE	prok:firmicutes	100	Streptococcus alactolyticus
+QEWY01002220.1	1	1649	1649	EXCLUDE	prok:firmicutes	100	Streptococcus alactolyticus
+QEWY01002235.1	1	1636	1636	EXCLUDE	virs:prokaryotic viruses	100	Streptococcus sp. UBA3373
+QEWY01002244.1	1	1633	1633	EXCLUDE	virs:prokaryotic viruses	100	Escherichia phage ST20
+QEWY01002265.1	1	1616	1616	EXCLUDE	prok:firmicutes	88	Streptococcus plurextorum
+QEWY01002268.1	1	1614	1614	EXCLUDE	prok:firmicutes	78	Weissella cibaria
+QEWY01002283.1	1	1607	1607	EXCLUDE	virs:prokaryotic viruses	98	Escherichia phage vB_EcoS-phiEc3
+QEWY01002315.1	1	1577	1577	EXCLUDE	virs:prokaryotic viruses	100	Goslarvirus goslar
+QEWY01002320.1	1	1582	1582	EXCLUDE	prok:firmicutes	84	Weissella koreensis
+QEWY01002331.1	1	1571	1571	EXCLUDE	prok:firmicutes	55	Leuconostoc lactis
+QEWY01002361.1	1	1538	1538	EXCLUDE	prok:firmicutes	100	Lactococcus taiwanensis
+QEWY01002364.1	1	1552	1552	EXCLUDE	prok:firmicutes	68	Weissella cibaria
+QEWY01002370.1	1	1550	1550	EXCLUDE	virs:prokaryotic viruses	100	Weissella phage WC27P1
+QEWY01002371.1	1	1540	1540	EXCLUDE	prok:firmicutes	100	Lactococcus taiwanensis
+QEWY01002384.1	1	2307	2307	EXCLUDE	prst:alveolates	16	n/a
+QEWY01002393.1	1	1536	1536	EXCLUDE	prok:firmicutes	88	Weissella cibaria
+QEWY01002398.1	1	1531	1531	EXCLUDE	prok:a-proteobacteria	100	Aureimonas psammosilenae
+QEWY01002400.1	1	1531	1531	EXCLUDE	prok:firmicutes	100	Lactococcus taiwanensis
+QEWY01002435.1	1	1504	1504	EXCLUDE	prok:g-proteobacteria	80	Vulcaniibacterium thermophilum
+QEWY01002436.1	1	1504	1504	EXCLUDE	prok:firmicutes	78	Paucilactobacillus oligofermentans
+QEWY01002464.1	1	1491	1491	EXCLUDE	virs:prokaryotic viruses	100	Goslarvirus goslar
+QEWY01002471.1	1	1486	1486	EXCLUDE	virs:prokaryotic viruses	100	Goslarvirus goslar
+QEWY01002473.1	1	1486	1486	EXCLUDE	prok:firmicutes	77	Streptococcus hyovaginalis
+QEWY01002474.1	1	1486	1486	EXCLUDE	virs:prokaryotic viruses	100	Goslarvirus goslar
+QEWY01002490.1	1	1478	1478	EXCLUDE	prok:b-proteobacteria	100	Cupriavidus gilardii
+QEWY01002495.1	1	1474	1474	EXCLUDE	prok:firmicutes	100	Lactococcus taiwanensis
+QEWY01002523.1	1	1446	1446	EXCLUDE	prok:firmicutes	100	Lactococcus taiwanensis
+QEWY01002536.1	1	1448	1448	EXCLUDE	prok:firmicutes	57	Weissella cibaria
+QEWY01002537.1	1	1448	1448	EXCLUDE	prok:firmicutes	100	Lactococcus taiwanensis
+QEWY01002544.1	1	1445	1445	EXCLUDE	virs:prokaryotic viruses	54	Weissella phage WC29P2
+QEWY01002545.1	1	1445	1445	EXCLUDE	prok:firmicutes	47	Weissella cibaria
+QEWY01002569.1	1	1432	1432	EXCLUDE	virs:prokaryotic viruses	84	Weissella phage WC29P2
+QEWY01002581.1	1	1406	1406	EXCLUDE	prok:firmicutes	100	Lactococcus taiwanensis
+QEWY01002615.1	1	1410	1410	EXCLUDE	prok:firmicutes	100	Weissella cibaria
+QEWY01002631.1	1	1405	1405	EXCLUDE	prok:g-proteobacteria	100	Vulcaniibacterium thermophilum
+QEWY01002645.1	1	1399	1399	EXCLUDE	virs:prokaryotic viruses	31	Weissella phage WCP30
+QEWY01002654.1	1	1393	1393	EXCLUDE	prok:g-proteobacteria	100	Vulcaniibacterium thermophilum
+QEWY01002663.1	1	1390	1390	EXCLUDE	prok:firmicutes	96	Leuconostoc rapi
+QEWY01002671.1	1	1386	1386	EXCLUDE	virs:prokaryotic viruses	33	Aureimonas psammosilenae
+QEWY01002684.1	1	1380	1380	EXCLUDE	prok:firmicutes	81	Weissella cibaria
+QEWY01002687.1	1	1379	1379	EXCLUDE	prok:firmicutes	93	Weissella cibaria
+QEWY01002690.1	1	1378	1378	EXCLUDE	prok:firmicutes	100	Fructobacillus tropaeoli
+QEWY01002694.1	1	1378	1378	EXCLUDE	virs:prokaryotic viruses	51	Weissella phage WC27P1
+QEWY01002702.1	1	1392	1392	EXCLUDE	prok:a-proteobacteria	88	Aureimonas psammosilenae
+QEWY01002708.1	1	1375	1375	EXCLUDE	prok:firmicutes	58	Leuconostoc lactis
+QEWY01002739.1	1	1364	1364	EXCLUDE	prok:firmicutes	56	Leuconostoc kimchii
+QEWY01002753.1	1	1358	1358	EXCLUDE	anml:crustaceans	98	Penaeus monodon
+QEWY01002758.1	1	1357	1357	EXCLUDE	virs:prokaryotic viruses	38	Streptococcus alactolyticus
+QEWY01002803.1	1	1332	1332	EXCLUDE	prok:firmicutes	98	Weissella confusa
+QEWY01002807.1	1	1331	1331	EXCLUDE	virs:prokaryotic viruses	76	Streptococcus alactolyticus
+QEWY01002814.1	1	1327	1327	EXCLUDE	prok:b-proteobacteria	57	Schlegelella thermodepolymerans
+QEWY01002862.1	1	1299	1299	EXCLUDE	prok:firmicutes	100	Streptococcus alactolyticus
+QEWY01002865.1	1	1311	1311	EXCLUDE	prok:firmicutes	66	Weissella soli
+QEWY01002905.1	1	1293	1293	EXCLUDE	anml:crustaceans	38	Penaeus japonicus
+QEWY01002931.1	1	1284	1284	EXCLUDE	prok:firmicutes	97	Weissella bombi
+QEWY01002962.1	1	1270	1270	EXCLUDE	prok:firmicutes	100	Streptococcus sp. UBA632
+QEWY01002964.1	1	1149	1149	EXCLUDE	prok:firmicutes	84	Lactococcus taiwanensis
+QEWY01002991.1	1	1263	1263	EXCLUDE	prok:g-proteobacteria	54	Pseudoxanthomonas kaohsiungensis
+QEWY01002996.1	1	1261	1261	EXCLUDE	prok:firmicutes	96	Weissella cibaria
+QEWY01003011.1	1	1253	1253	EXCLUDE	prok:g-proteobacteria	96	Vulcaniibacterium thermophilum
+QEWY01003019.1	1	1251	1251	EXCLUDE	prok:g-proteobacteria	97	Vulcaniibacterium thermophilum
+QEWY01003033.1	1	1249	1249	EXCLUDE	prok:firmicutes	100	Weissella confusa
+QEWY01003059.1	1	1243	1243	EXCLUDE	prok:firmicutes	72	Weissella confusa
+QEWY01003082.1	1	1238	1238	EXCLUDE	virs:prokaryotic viruses	100	Goslarvirus goslar
+QEWY01003134.1	1	1989	1989	EXCLUDE	anml:mammals	77	Felis catus
+QEWY01003167.1	1	1208	1208	EXCLUDE	prok:firmicutes	92	Streptococcus sp.
+QEWY01003170.1	1	1207	1207	EXCLUDE	prok:firmicutes	100	Lactococcus taiwanensis
+QEWY01003188.1	1	1198	1198	EXCLUDE	prok:firmicutes	22	Weissella cibaria
+QEWY01003205.1	1	1198	1198	EXCLUDE	prok:firmicutes	85	Weissella cibaria
+QEWY01003230.1	1	1190	1190	EXCLUDE	prok:b-proteobacteria	100	Cupriavidus gilardii
+QEWY01003281.1	1	1173	1173	EXCLUDE	prok:firmicutes	100	Leuconostoc lactis
+QEWY01003286.1	1	1168	1168	EXCLUDE	virs:prokaryotic viruses	100	Goslarvirus goslar
+QEWY01003291.1	1	1167	1167	EXCLUDE	anml:crustaceans	44	Penaeus japonicus
+QEWY01003298.1	1	1164	1164	EXCLUDE	prok:firmicutes	29	Weissella confusa
+QEWY01003329.1	1	1153	1153	EXCLUDE	prok:firmicutes	98	Leuconostoc pseudomesenteroides
+QEWY01003331.1	1	1153	1153	EXCLUDE	prok:g-proteobacteria	100	Luteimonas weifangensis
+QEWY01003333.1	1	1150	1150	EXCLUDE	virs:prokaryotic viruses	88	Streptococcus alactolyticus
+QEWY01003350.1	1	1149	1149	EXCLUDE	prok:firmicutes	100	Weissella cibaria
+QEWY01003437.1	1	1127	1127	EXCLUDE	prok:firmicutes	97	Streptococcus gallinaceus
+QEWY01003443.1	1	1125	1125	EXCLUDE	virs:prokaryotic viruses	92	Aureimonas psammosilenae
+QEWY01003467.1	1	1121	1121	EXCLUDE	virs:prokaryotic viruses	100	Goslarvirus goslar
+QEWY01003470.1	1	1119	1119	EXCLUDE	prok:firmicutes	100	Weissella confusa
+QEWY01003479.1	1	1118	1118	EXCLUDE	virs:prokaryotic viruses	100	Streptococcus phage Javan264
+QEWY01003506.1	1	1112	1112	EXCLUDE	prok:firmicutes	100	Weissella confusa
+QEWY01003523.1	1	1108	1108	EXCLUDE	virs:prokaryotic viruses	100	Kagunavirus K1G
+QEWY01003544.1	1	1105	1105	EXCLUDE	prok:firmicutes	96	Weissella muntiaci
+QEWY01003567.1	1	1890	1890	EXCLUDE	anml:crustaceans	70	Penaeus japonicus
+QEWY01003577.1	1	1093	1093	EXCLUDE	prok:firmicutes	93	Weissella ceti
+QEWY01003582.1	1	1091	1091	EXCLUDE	prok:firmicutes	28	Weissella cibaria
+QEWY01003586.1	1	1090	1090	EXCLUDE	prok:a-proteobacteria	100	Aureimonas psammosilenae
+QEWY01003637.1	1	1079	1079	EXCLUDE	virs:prokaryotic viruses	37	Weissella phage WC29P3
+QEWY01003653.1	1	1077	1077	EXCLUDE	prok:firmicutes	100	Lactococcus taiwanensis
+QEWY01003675.1	1	1070	1070	EXCLUDE	prok:firmicutes	97	Enterococcus avium
+QEWY01003691.1	1	1068	1068	EXCLUDE	virs:prokaryotic viruses	68	Weissella phage WC29P3
+QEWY01003695.1	1	1066	1066	EXCLUDE	anml:insects	100	Cephus cinctus
+QEWY01003734.1	1	1059	1059	EXCLUDE	prok:a-proteobacteria	100	Aureimonas psammosilenae
+QEWY01003754.1	1	1055	1055	EXCLUDE	prok:firmicutes	98	Weissella halotolerans
+QEWY01003776.1	1	1049	1049	EXCLUDE	prok:a-proteobacteria	80	Aureimonas psammosilenae
+QEWY01003779.1	1	1048	1048	EXCLUDE	prok:g-proteobacteria	100	Vulcaniibacterium thermophilum
+QEWY01003811.1	1	1043	1043	EXCLUDE	virs:prokaryotic viruses	90	Streptococcus phage Javan207
+QEWY01003832.1	1	1038	1038	EXCLUDE	prok:firmicutes	98	Weissella cibaria
+QEWY01003841.1	1	1035	1035	EXCLUDE	prok:firmicutes	100	Streptococcus sp. UBA3373
+QEWY01003842.1	1	1036	1036	EXCLUDE	virs:prokaryotic viruses	65	Streptococcus satellite phage Javan217
+QEWY01003852.1	1	1034	1034	EXCLUDE	prok:firmicutes	76	Weissella cibaria
+QEWY01003857.1	1	1037	1037	EXCLUDE	prok:firmicutes	50	Weissella cibaria
+QEWY01003866.1	1	1031	1031	EXCLUDE	anml:fishes	95	Pangasianodon hypophthalmus
+QEWY01003867.1	1	1032	1032	EXCLUDE	anml:crustaceans	90	Portunus trituberculatus
+QEWY01003870.1	1	1031	1031	EXCLUDE	prok:firmicutes	100	Leuconostoc rapi
+QEWY01003878.1	1	1030	1030	EXCLUDE	prok:firmicutes	94	Periweissella fabaria
+QEWY01003901.1	1	1028	1028	EXCLUDE	prok:firmicutes	96	Weissella paramesenteroides
+QEWY01003912.1	1	1041	1041	EXCLUDE	prok:firmicutes	100	Lactococcus taiwanensis
+QEWY01003935.1	1	1021	1021	EXCLUDE	prok:g-proteobacteria	78	Vulcaniibacterium thermophilum
+QEWY01003939.1	1	1019	1019	EXCLUDE	anml:fishes	100	Anguilla anguilla
+QEWY01003976.1	1	1010	1010	EXCLUDE	prok:g-proteobacteria	100	Citrobacter tructae
+QEWY01003993.1	1	1007	1007	EXCLUDE	virs:prokaryotic viruses	91	Weissella phage WC29P3
+QEWY01003997.1	1	1005	1005	EXCLUDE	virs:prokaryotic viruses	100	Goslarvirus goslar
+QEWY01004018.1	1	1002	1002	EXCLUDE	prok:b-proteobacteria	100	Cupriavidus gilardii

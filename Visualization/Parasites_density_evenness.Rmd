@@ -1,0 +1,93 @@
+---
+title: "Parasites_reads_evenness"
+author: "Yuejiao"
+date: "2025-04-02"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(ggridges)
+library(ggplot2)
+library(ggpubr)
+```
+
+## Load the data
+
+```{r}
+raw_parasites <- read_tsv("~/Downloads/All Krakenkmer=1 Hits - All Raw Results.tsv") %>% 
+  mutate(db = "Raw",
+         nreads = ifelse(nReads < 1000, "<1000",">=1000")) %>% 
+  select(db,nreads,covPosRelEntropy1000) %>% 
+  filter(!is.na(covPosRelEntropy1000))
+decon_parasites <- read_tsv("~/Downloads/All Krakenkmer=1 Hits - Decontaminated_all.tsv") %>% 
+  mutate(db = "Decontamination",
+         nreads = ifelse(nReads < 1000, "<1000",">=1000")) %>% 
+  select(db,nreads,covPosRelEntropy1000) %>% 
+  filter(!is.na(covPosRelEntropy1000))
+```
+
+## Including Plots
+
+
+```{r}
+density_decon <- ggplot(decon_parasites, aes(x=covPosRelEntropy1000, fill=nreads)) +
+  geom_density(alpha=0.4) +
+  scale_fill_manual(values=c("#FFCAB1", "#69A2B0")) +
+  theme_classic() +
+  scale_x_continuous(limits = c(0, 1), expand = c(0, 0))+
+  scale_y_continuous(limits = c(0, 4), expand = c(0, 0)) +
+  labs(x = "Coverage evenness entropy 1000", 
+       y = "Density",
+       fill = "Number of reads") +
+  geom_vline(xintercept = 0.8, colour="#e3716e", linetype = "dashed") +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        text = element_text(size=12))
+
+density_raw <- ggplot(raw_parasites, aes(x=covPosRelEntropy1000, fill=nreads)) +
+  geom_density(alpha=0.4) +
+  scale_fill_manual(values=c("#FFCAB1", "#69A2B0")) + 
+  theme_classic() +
+  scale_x_continuous(limits = c(0, 1), expand = c(0, 0))+
+  scale_y_continuous(limits = c(0, 4), expand = c(0, 0)) +
+  labs(x = "Coverage evenness entropy 1000", 
+       y = "Density",
+       fill = "Number of reads") +
+  geom_vline(xintercept = 0.8, colour="#e3716e", linetype = "dashed") +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        text = element_text(size=12))
+
+ggarrange(density_raw, density_decon, labels = c("A", "B"),
+          common.legend = TRUE, legend = "bottom")
+ggsave("~/Downloads/density_raw_decon.pdf", width = 7, height = 3)
+```
+
+```{r}
+df_parasites <- bind_rows(decon_parasites,raw_parasites) %>% 
+  mutate(group = interaction(db, nreads, sep = " | "))
+
+# # Create interaction variable for y-axis
+# df$group <- interaction(df$db, df$nReads, sep = " | ")
+
+# ggridges plot
+ggplot(df_parasites, aes(x = covPosRelEntropy1000, y = group, fill = nreads)) +
+  geom_density_ridges(scale = 0.95,alpha = 0.7) +
+  geom_vline(xintercept = 0.8, colour="#e3716e", linetype = "dashed") +
+  theme_classic()+
+  scale_x_continuous(limits = c(0, 1), expand = c(0, 0))+
+  scale_y_discrete(expand = c(0,0))+
+  # scale_y_continuous(expand = "Decontamination | <1000") + 
+  scale_fill_manual(values=c("#999999", "#E69F00")) + 
+  # theme(axis.title.y = element_blank()) +
+  labs(x = "Coverage evenness entropy 1000", 
+       y = NULL,
+       fill = "Number of reads") +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        text = element_text(size=12))
+ggsave("~/Downloads/density_raw_decon_1panel.pdf", width = 7, height = 3)
+```
+

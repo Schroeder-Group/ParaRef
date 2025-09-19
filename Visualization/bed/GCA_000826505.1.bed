@@ -1,0 +1,941 @@
+CDFJ01000103.1	1	66	66	EXCLUDE	prok:a-proteobacteria	93	n/a
+CDFJ01000418.1	1	67	67	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01000599.1	1	118	118	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01000703.1	1	95	95	EXCLUDE	prok:a-proteobacteria	94	n/a
+CDFJ01001132.1	1	69	69	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01001498.1	1	82	82	EXCLUDE	virs:prokaryotic viruses	69	n/a
+CDFJ01001628.1	1	64	64	EXCLUDE	virs:prokaryotic viruses	90	n/a
+CDFJ01001721.1	1	82	82	EXCLUDE	virs:prokaryotic viruses	76	n/a
+CDFJ01001833.1	1	80	80	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01002255.1	1	75	75	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01002262.1	1	70	70	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01002654.1	1	70	70	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01002675.1	1	70	70	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01002690.1	1	87	87	EXCLUDE	prok:a-proteobacteria	91	n/a
+CDFJ01003453.1	1	168	168	EXCLUDE	virs:viruses	54	Tokyovirus A1
+CDFJ01003460.1	1	65	65	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01003514.1	1	127	127	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01003633.1	1	91	91	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01003793.1	1	94	94	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01003883.1	1	159	159	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01004017.1	1	70	70	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01004052.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Sphingomonas turrisvirgatae
+CDFJ01004066.1	1	99	99	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01004224.1	1	72	72	EXCLUDE	prok:a-proteobacteria	93	n/a
+CDFJ01004326.1	1	67	67	EXCLUDE	virs:prokaryotic viruses	83	n/a
+CDFJ01004476.1	1	81	81	EXCLUDE	virs:eukaryotic viruses	83	n/a
+CDFJ01004559.1	1	78	78	EXCLUDE	virs:eukaryotic viruses	71	n/a
+CDFJ01004571.1	1	70	70	EXCLUDE	prok:a-proteobacteria	95	n/a
+CDFJ01004590.1	1	72	72	EXCLUDE	virs:prokaryotic viruses	77	n/a
+CDFJ01004624.1	1	64	64	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01005206.1	1	95	95	EXCLUDE	virs:prokaryotic viruses	94	n/a
+CDFJ01005249.1	1	73	73	EXCLUDE	prok:a-proteobacteria	94	n/a
+CDFJ01005324.1	1	75	75	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01005335.1	1	84	84	EXCLUDE	prok:a-proteobacteria	97	n/a
+CDFJ01005678.1	1	84	84	EXCLUDE	virs:prokaryotic viruses	67	n/a
+CDFJ01006006.1	1	147	147	EXCLUDE	prok:a-proteobacteria	94	n/a
+CDFJ01006314.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01006332.1	1	85	85	EXCLUDE	virs:prokaryotic viruses	70	n/a
+CDFJ01006533.1	1	90	90	EXCLUDE	virs:eukaryotic viruses	68	n/a
+CDFJ01006691.1	1	127	127	EXCLUDE	prok:a-proteobacteria	92	Candidatus Paracaedibacter symbiosus
+CDFJ01006786.1	1	67	67	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01006802.1	1	95	95	EXCLUDE	virs:prokaryotic viruses	60	n/a
+CDFJ01007183.1	1	111	111	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01007780.1	1	85	85	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01007882.1	1	89	89	EXCLUDE	virs:eukaryotic viruses	62	n/a
+CDFJ01007948.1	1	96	96	EXCLUDE	prok:a-proteobacteria	97	n/a
+CDFJ01008300.1	1	69	69	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01008389.1	1	118	118	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01008454.1	1	71	71	EXCLUDE	prok:a-proteobacteria	78	n/a
+CDFJ01008469.1	1	67	67	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01008489.1	1	111	111	EXCLUDE	virs:viruses	97	Tokyovirus A1
+CDFJ01008642.1	1	76	76	EXCLUDE	prok:a-proteobacteria	78	n/a
+CDFJ01008848.1	1	78	78	EXCLUDE	virs:viruses	96	Tokyovirus A1
+CDFJ01008882.1	1	69	69	EXCLUDE	prok:a-proteobacteria	100	n/a
+CDFJ01009194.1	1	98	98	EXCLUDE	virs:prokaryotic viruses	60	n/a
+CDFJ01009220.1	1	114	114	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01009285.1	1	67	67	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01009376.1	1	71	71	EXCLUDE	prok:a-proteobacteria	92	n/a
+CDFJ01009462.1	1	67	67	EXCLUDE	prok:a-proteobacteria	92	n/a
+CDFJ01009472.1	1	88	88	EXCLUDE	virs:eukaryotic viruses	97	n/a
+CDFJ01009495.1	1	113	113	EXCLUDE	virs:eukaryotic viruses	96	n/a
+CDFJ01009609.1	1	72	72	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01009612.1	1	68	68	EXCLUDE	virs:prokaryotic viruses	86	n/a
+CDFJ01009678.1	1	72	72	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01009989.1	1	83	83	EXCLUDE	prok:a-proteobacteria	97	n/a
+CDFJ01010254.1	1	123	123	EXCLUDE	virs:prokaryotic viruses	45	n/a
+CDFJ01010421.1	1	71	71	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01010515.1	1	127	127	EXCLUDE	prok:a-proteobacteria	81	n/a
+CDFJ01011019.1	1	90	90	EXCLUDE	virs:prokaryotic viruses	62	n/a
+CDFJ01011200.1	1	91	91	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01011219.1	1	96	96	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01011247.1	1	66	66	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01011566.1	1	73	73	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01011623.1	1	69	69	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01012042.1	1	64	64	EXCLUDE	prok:a-proteobacteria	96	n/a
+CDFJ01012056.1	1	74	74	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01012392.1	1	127	127	EXCLUDE	prok:a-proteobacteria	77	Candidatus Paracaedibacter symbiosus
+CDFJ01012575.1	1	72	72	EXCLUDE	prok:a-proteobacteria	81	n/a
+CDFJ01012688.1	1	74	74	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01012971.1	1	73	73	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01013444.1	1	72	72	EXCLUDE	virs:prokaryotic viruses	77	n/a
+CDFJ01013448.1	1	69	69	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01014041.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01014237.1	1	79	79	EXCLUDE	virs:prokaryotic viruses	74	n/a
+CDFJ01014291.1	1	76	76	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01014633.1	1	77	77	EXCLUDE	virs:prokaryotic viruses	74	n/a
+CDFJ01014682.1	1	69	69	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01014940.1	1	94	94	EXCLUDE	prok:a-proteobacteria	97	Candidatus Paracaedibacter symbiosus
+CDFJ01015072.1	1	76	76	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01015403.1	1	70	70	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01015609.1	1	109	109	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01016154.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01016224.1	1	65	65	EXCLUDE	prok:a-proteobacteria	93	n/a
+CDFJ01016307.1	1	65	65	EXCLUDE	virs:eukaryotic viruses	90	n/a
+CDFJ01016343.1	1	64	64	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01016720.1	1	116	116	EXCLUDE	virs:eukaryotic viruses	64	n/a
+CDFJ01016943.1	1	69	69	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01017038.1	1	85	85	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01017040.1	1	79	79	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01017477.1	1	139	139	EXCLUDE	prok:a-proteobacteria	100	Methylobacterium variabile
+CDFJ01017481.1	1	71	71	EXCLUDE	prok:a-proteobacteria	91	n/a
+CDFJ01017495.1	1	71	71	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01017588.1	1	127	127	EXCLUDE	prok:a-proteobacteria	97	n/a
+CDFJ01017668.1	1	198	198	EXCLUDE	virs:prokaryotic viruses	38	n/a
+CDFJ01017979.1	1	65	65	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01018539.1	1	79	79	EXCLUDE	virs:prokaryotic viruses	84	n/a
+CDFJ01019192.1	1	67	67	EXCLUDE	virs:prokaryotic viruses	83	n/a
+CDFJ01019586.1	1	65	65	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01019942.1	1	94	94	EXCLUDE	virs:prokaryotic viruses	79	n/a
+CDFJ01020572.1	1	83	83	EXCLUDE	prok:a-proteobacteria	81	n/a
+CDFJ01021239.1	1	124	124	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01021605.1	1	74	74	EXCLUDE	virs:prokaryotic viruses	75	n/a
+CDFJ01021730.1	1	105	105	EXCLUDE	prok:a-proteobacteria	91	n/a
+CDFJ01021779.1	1	99	99	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01022269.1	1	84	84	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01022602.1	1	103	103	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01022629.1	1	64	64	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01023117.1	1	69	69	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01023152.1	1	64	64	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01023485.1	1	83	83	EXCLUDE	virs:prokaryotic viruses	68	n/a
+CDFJ01023775.1	1	73	73	EXCLUDE	virs:eukaryotic viruses	87	n/a
+CDFJ01024014.1	1	72	72	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01024365.1	1	71	71	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01024469.1	1	91	91	EXCLUDE	virs:prokaryotic viruses	90	n/a
+CDFJ01024582.1	1	72	72	EXCLUDE	prok:a-proteobacteria	93	n/a
+CDFJ01024619.1	1	84	84	EXCLUDE	prok:a-proteobacteria	100	n/a
+CDFJ01025050.1	1	127	127	EXCLUDE	prok:a-proteobacteria	98	Candidatus Paracaedibacter symbiosus
+CDFJ01025284.1	1	100	100	EXCLUDE	virs:eukaryotic viruses	75	n/a
+CDFJ01025319.1	1	76	76	EXCLUDE	virs:prokaryotic viruses	90	n/a
+CDFJ01025484.1	1	81	81	EXCLUDE	prok:a-proteobacteria	100	n/a
+CDFJ01025564.1	1	86	86	EXCLUDE	prok:a-proteobacteria	97	Candidatus Paracaedibacter symbiosus
+CDFJ01025736.1	1	69	69	EXCLUDE	virs:prokaryotic viruses	82	n/a
+CDFJ01025965.1	1	66	66	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01025966.1	1	66	66	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01026049.1	1	67	67	EXCLUDE	virs:prokaryotic viruses	86	n/a
+CDFJ01026281.1	1	76	76	EXCLUDE	virs:eukaryotic viruses	75	n/a
+CDFJ01026787.1	1	76	76	EXCLUDE	virs:prokaryotic viruses	75	n/a
+CDFJ01026825.1	1	73	73	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01026892.1	1	67	67	EXCLUDE	prok:a-proteobacteria	95	n/a
+CDFJ01027250.1	1	96	96	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01027332.1	1	80	80	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01027420.1	1	84	84	EXCLUDE	virs:prokaryotic viruses	85	n/a
+CDFJ01027625.1	1	116	116	EXCLUDE	virs:viruses	85	n/a
+CDFJ01027728.1	1	127	127	EXCLUDE	virs:prokaryotic viruses	44	n/a
+CDFJ01027888.1	1	169	169	EXCLUDE	virs:viruses	87	Tokyovirus A1
+CDFJ01027959.1	1	201	201	EXCLUDE	virs:viruses	63	Tokyovirus A1
+CDFJ01028128.1	1	137	137	EXCLUDE	virs:viruses	84	Tokyovirus A1
+CDFJ01028289.1	1	67	67	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01028397.1	1	71	71	EXCLUDE	prok:a-proteobacteria	81	n/a
+CDFJ01028503.1	1	64	64	EXCLUDE	prok:a-proteobacteria	93	n/a
+CDFJ01028927.1	1	73	73	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01029023.1	1	77	77	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01029122.1	1	83	83	EXCLUDE	virs:prokaryotic viruses	69	n/a
+CDFJ01029376.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01029601.1	1	97	97	EXCLUDE	virs:prokaryotic viruses	58	n/a
+CDFJ01029860.1	1	80	80	EXCLUDE	virs:prokaryotic viruses	82	n/a
+CDFJ01029889.1	1	89	89	EXCLUDE	virs:viruses	70	n/a
+CDFJ01029896.1	1	70	70	EXCLUDE	prok:a-proteobacteria	92	n/a
+CDFJ01030028.1	1	67	67	EXCLUDE	prok:a-proteobacteria	95	n/a
+CDFJ01030030.1	1	73	73	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01030252.1	1	70	70	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01030754.1	1	66	66	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01030832.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01030964.1	1	65	65	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01031410.1	1	159	159	EXCLUDE	prok:a-proteobacteria	97	Candidatus Paracaedibacter symbiosus
+CDFJ01031617.1	1	65	65	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01031977.1	1	93	93	EXCLUDE	virs:eukaryotic viruses	84	n/a
+CDFJ01032138.1	1	77	77	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01032498.1	1	82	82	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01032560.1	1	70	70	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01033068.1	1	95	95	EXCLUDE	virs:prokaryotic viruses	65	n/a
+CDFJ01033216.1	1	120	120	EXCLUDE	prok:a-proteobacteria	81	n/a
+CDFJ01033701.1	1	70	70	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01034227.1	1	75	75	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01034329.1	1	73	73	EXCLUDE	virs:prokaryotic viruses	76	n/a
+CDFJ01034385.1	1	75	75	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01034821.1	1	67	67	EXCLUDE	virs:prokaryotic viruses	83	n/a
+CDFJ01035423.1	1	67	67	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01035527.1	1	73	73	EXCLUDE	virs:prokaryotic viruses	89	n/a
+CDFJ01035839.1	1	69	69	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01035974.1	1	88	88	EXCLUDE	virs:prokaryotic viruses	65	n/a
+CDFJ01036064.1	1	112	112	EXCLUDE	prok:a-proteobacteria	79	n/a
+CDFJ01036192.1	1	92	92	EXCLUDE	prok:a-proteobacteria	100	n/a
+CDFJ01036307.1	1	69	69	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01036597.1	1	93	93	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01036745.1	1	64	64	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01037113.1	1	76	76	EXCLUDE	virs:viruses	77	n/a
+CDFJ01037269.1	1	71	71	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01037328.1	1	70	70	EXCLUDE	prok:a-proteobacteria	92	n/a
+CDFJ01037332.1	1	75	75	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01037338.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01037892.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01038045.1	1	112	112	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01038075.1	1	96	96	EXCLUDE	prok:a-proteobacteria	96	n/a
+CDFJ01038255.1	1	76	76	EXCLUDE	virs:prokaryotic viruses	82	n/a
+CDFJ01038528.1	1	115	115	EXCLUDE	virs:eukaryotic viruses	64	n/a
+CDFJ01038627.1	1	76	76	EXCLUDE	prok:a-proteobacteria	78	n/a
+CDFJ01038695.1	1	64	64	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01039243.1	1	82	82	EXCLUDE	virs:eukaryotic viruses	70	n/a
+CDFJ01039349.1	1	127	127	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01039554.1	1	80	80	EXCLUDE	virs:prokaryotic viruses	70	n/a
+CDFJ01040402.1	1	70	70	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01040414.1	1	127	127	EXCLUDE	prok:a-proteobacteria	96	Candidatus Paracaedibacter symbiosus
+CDFJ01040519.1	1	65	65	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01040578.1	1	92	92	EXCLUDE	virs:eukaryotic viruses	61	n/a
+CDFJ01040654.1	1	67	67	EXCLUDE	virs:prokaryotic viruses	83	n/a
+CDFJ01040793.1	1	1476	1476	EXCLUDE	prok:a-proteobacteria	100	Methylobacterium symbioticum
+CDFJ01040856.1	1	81	81	EXCLUDE	virs:prokaryotic viruses	79	n/a
+CDFJ01041164.1	1	71	71	EXCLUDE	virs:prokaryotic viruses	78	n/a
+CDFJ01041713.1	1	109	109	EXCLUDE	virs:eukaryotic viruses	65	n/a
+CDFJ01042340.1	1	87	87	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01042407.1	1	70	70	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01042443.1	1	67	67	EXCLUDE	virs:prokaryotic viruses	83	n/a
+CDFJ01042985.1	1	67	67	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01043014.1	1	94	94	EXCLUDE	prok:a-proteobacteria	81	n/a
+CDFJ01043569.1	1	74	74	EXCLUDE	prok:a-proteobacteria	100	n/a
+CDFJ01044337.1	1	97	97	EXCLUDE	virs:prokaryotic viruses	76	n/a
+CDFJ01044549.1	1	127	127	EXCLUDE	prok:a-proteobacteria	98	Candidatus Paracaedibacter symbiosus
+CDFJ01044554.1	1	79	79	EXCLUDE	prok:a-proteobacteria	81	n/a
+CDFJ01044799.1	1	72	72	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01045149.1	1	64	64	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01045229.1	1	96	96	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01045309.1	1	127	127	EXCLUDE	virs:eukaryotic viruses	90	Pandoravirus macleodensis
+CDFJ01045409.1	1	72	72	EXCLUDE	virs:prokaryotic viruses	77	n/a
+CDFJ01045740.1	1	73	73	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01045785.1	1	67	67	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01046167.1	1	127	127	EXCLUDE	virs:eukaryotic viruses	91	Mollivirus kamchatka
+CDFJ01046216.1	1	90	90	EXCLUDE	virs:prokaryotic viruses	90	n/a
+CDFJ01046269.1	1	68	68	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01046679.1	1	95	95	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01046792.1	1	82	82	EXCLUDE	virs:prokaryotic viruses	84	n/a
+CDFJ01046864.1	1	72	72	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01047099.1	1	178	178	EXCLUDE	virs:prokaryotic viruses	33	n/a
+CDFJ01047508.1	1	83	83	EXCLUDE	virs:prokaryotic viruses	68	n/a
+CDFJ01047546.1	1	72	72	EXCLUDE	virs:prokaryotic viruses	81	n/a
+CDFJ01047699.1	1	78	78	EXCLUDE	prok:a-proteobacteria	94	n/a
+CDFJ01047722.1	1	89	89	EXCLUDE	prok:a-proteobacteria	93	Candidatus Paracaedibacter symbiosus
+CDFJ01047872.1	1	66	66	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01048073.1	1	107	107	EXCLUDE	virs:prokaryotic viruses	76	n/a
+CDFJ01048138.1	1	69	69	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01048508.1	1	79	79	EXCLUDE	virs:prokaryotic viruses	72	n/a
+CDFJ01048594.1	1	73	73	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01048715.1	1	82	82	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01048757.1	1	70	70	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01048842.1	1	70	70	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01048859.1	1	127	127	EXCLUDE	prok:a-proteobacteria	97	n/a
+CDFJ01048871.1	1	87	87	EXCLUDE	virs:viruses	100	Tokyovirus A1
+CDFJ01049092.1	1	76	76	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01049158.1	1	76	76	EXCLUDE	virs:viruses	100	Tokyovirus A1
+CDFJ01049455.1	1	99	99	EXCLUDE	virs:prokaryotic viruses	62	n/a
+CDFJ01049496.1	1	70	70	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01049685.1	1	68	68	EXCLUDE	virs:prokaryotic viruses	95	n/a
+CDFJ01049713.1	1	85	85	EXCLUDE	prok:a-proteobacteria	81	n/a
+CDFJ01049744.1	1	64	64	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01050294.1	1	66	66	EXCLUDE	prok:a-proteobacteria	96	n/a
+CDFJ01050586.1	1	88	88	EXCLUDE	virs:prokaryotic viruses	64	n/a
+CDFJ01050740.1	1	97	97	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01050799.1	1	111	111	EXCLUDE	virs:viruses	53	n/a
+CDFJ01050836.1	1	67	67	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01050895.1	1	92	92	EXCLUDE	virs:prokaryotic viruses	61	n/a
+CDFJ01051022.1	1	72	72	EXCLUDE	prok:a-proteobacteria	81	n/a
+CDFJ01051331.1	1	103	103	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01051365.1	1	64	64	EXCLUDE	prok:a-proteobacteria	96	n/a
+CDFJ01051385.1	1	86	86	EXCLUDE	prok:a-proteobacteria	91	n/a
+CDFJ01051595.1	1	127	127	EXCLUDE	virs:viruses	94	n/a
+CDFJ01051727.1	1	127	127	EXCLUDE	prok:a-proteobacteria	86	Candidatus Paracaedibacter symbiosus
+CDFJ01051824.1	1	88	88	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01052047.1	1	149	149	EXCLUDE	virs:prokaryotic viruses	38	n/a
+CDFJ01052123.1	1	66	66	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01052274.1	1	80	80	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01052410.1	1	65	65	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01052533.1	1	79	79	EXCLUDE	virs:prokaryotic viruses	70	n/a
+CDFJ01052549.1	1	74	74	EXCLUDE	virs:viruses	75	n/a
+CDFJ01052603.1	1	73	73	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01052643.1	1	122	122	EXCLUDE	virs:prokaryotic viruses	68	n/a
+CDFJ01052736.1	1	74	74	EXCLUDE	prok:a-proteobacteria	91	n/a
+CDFJ01052818.1	1	93	93	EXCLUDE	virs:eukaryotic viruses	98	n/a
+CDFJ01052953.1	1	68	68	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01053208.1	1	69	69	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01053219.1	1	67	67	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01053286.1	1	71	71	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01053495.1	1	85	85	EXCLUDE	virs:prokaryotic viruses	74	n/a
+CDFJ01054381.1	1	80	80	EXCLUDE	prok:a-proteobacteria	98	Candidatus Paracaedibacter symbiosus
+CDFJ01054655.1	1	79	79	EXCLUDE	prok:a-proteobacteria	96	n/a
+CDFJ01055001.1	1	90	90	EXCLUDE	virs:prokaryotic viruses	63	n/a
+CDFJ01055035.1	1	74	74	EXCLUDE	prok:a-proteobacteria	91	n/a
+CDFJ01055517.1	1	98	98	EXCLUDE	prok:a-proteobacteria	97	n/a
+CDFJ01055588.1	1	74	74	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01055687.1	1	74	74	EXCLUDE	virs:prokaryotic viruses	75	n/a
+CDFJ01055738.1	1	92	92	EXCLUDE	virs:prokaryotic viruses	65	n/a
+CDFJ01055967.1	1	78	78	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01056009.1	1	64	64	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01056011.1	1	127	127	EXCLUDE	virs:viruses	91	Tokyovirus A1
+CDFJ01056031.1	1	80	80	EXCLUDE	virs:prokaryotic viruses	70	n/a
+CDFJ01056247.1	1	73	73	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01056403.1	1	88	88	EXCLUDE	virs:eukaryotic viruses	79	n/a
+CDFJ01056512.1	1	83	83	EXCLUDE	virs:prokaryotic viruses	71	n/a
+CDFJ01056797.1	1	127	127	EXCLUDE	virs:viruses	100	Tokyovirus A1
+CDFJ01056825.1	1	88	88	EXCLUDE	virs:prokaryotic viruses	68	n/a
+CDFJ01056991.1	1	64	64	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01057007.1	1	67	67	EXCLUDE	virs:eukaryotic viruses	86	n/a
+CDFJ01057078.1	1	70	70	EXCLUDE	virs:prokaryotic viruses	82	n/a
+CDFJ01057177.1	1	70	70	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01057287.1	1	127	127	EXCLUDE	prok:a-proteobacteria	96	Candidatus Paracaedibacter symbiosus
+CDFJ01057349.1	1	76	76	EXCLUDE	virs:prokaryotic viruses	82	n/a
+CDFJ01057528.1	1	134	134	EXCLUDE	virs:viruses	91	Tokyovirus A1
+CDFJ01057880.1	1	74	74	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01057959.1	1	67	67	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01058432.1	1	72	72	EXCLUDE	prok:a-proteobacteria	81	n/a
+CDFJ01058500.1	1	68	68	EXCLUDE	virs:eukaryotic viruses	83	n/a
+CDFJ01059116.1	1	74	74	EXCLUDE	prok:a-proteobacteria	79	n/a
+CDFJ01059277.1	1	79	79	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01059435.1	1	68	68	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01059688.1	1	122	122	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01059695.1	1	74	74	EXCLUDE	prok:a-proteobacteria	79	n/a
+CDFJ01059854.1	1	72	72	EXCLUDE	prok:a-proteobacteria	91	n/a
+CDFJ01060129.1	1	127	127	EXCLUDE	prok:a-proteobacteria	79	n/a
+CDFJ01061023.1	1	137	137	EXCLUDE	virs:eukaryotic viruses	55	n/a
+CDFJ01061119.1	1	97	97	EXCLUDE	virs:prokaryotic viruses	59	n/a
+CDFJ01061124.1	1	162	162	EXCLUDE	virs:prokaryotic viruses	72	n/a
+CDFJ01061541.1	1	78	78	EXCLUDE	prok:a-proteobacteria	93	n/a
+CDFJ01061882.1	1	205	205	EXCLUDE	prok:a-proteobacteria	82	Candidatus Paracaedibacter symbiosus
+CDFJ01062787.1	1	74	74	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01062836.1	1	127	127	EXCLUDE	virs:prokaryotic viruses	44	n/a
+CDFJ01062889.1	1	88	88	EXCLUDE	virs:prokaryotic viruses	64	n/a
+CDFJ01062923.1	1	103	103	EXCLUDE	virs:prokaryotic viruses	72	n/a
+CDFJ01062987.1	1	83	83	EXCLUDE	virs:prokaryotic viruses	68	n/a
+CDFJ01063211.1	1	67	67	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01063330.1	1	124	124	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01063388.1	1	183	183	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01063655.1	1	127	127	EXCLUDE	virs:viruses	93	Tokyovirus A1
+CDFJ01063659.1	1	109	109	EXCLUDE	virs:prokaryotic viruses	52	n/a
+CDFJ01063822.1	1	68	68	EXCLUDE	virs:prokaryotic viruses	83	n/a
+CDFJ01064027.1	1	127	127	EXCLUDE	prok:a-proteobacteria	97	n/a
+CDFJ01064286.1	1	65	65	EXCLUDE	prok:a-proteobacteria	93	n/a
+CDFJ01064469.1	1	74	74	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01064539.1	1	80	80	EXCLUDE	virs:prokaryotic viruses	70	n/a
+CDFJ01064801.1	1	127	127	EXCLUDE	virs:eukaryotic viruses	72	Pandoravirus japonicus
+CDFJ01064857.1	1	82	82	EXCLUDE	prok:a-proteobacteria	81	n/a
+CDFJ01064958.1	1	76	76	EXCLUDE	virs:eukaryotic viruses	77	n/a
+CDFJ01065121.1	1	74	74	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01065779.1	1	98	98	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01065836.1	1	82	82	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01066100.1	1	84	84	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01066443.1	1	75	75	EXCLUDE	virs:viruses	96	Tokyovirus A1
+CDFJ01066590.1	1	85	85	EXCLUDE	prok:a-proteobacteria	92	n/a
+CDFJ01066601.1	1	71	71	EXCLUDE	prok:a-proteobacteria	78	n/a
+CDFJ01066607.1	1	76	76	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01067112.1	1	99	99	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01067402.1	1	70	70	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01067692.1	1	70	70	EXCLUDE	virs:eukaryotic viruses	92	n/a
+CDFJ01067751.1	1	70	70	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01067770.1	1	98	98	EXCLUDE	virs:prokaryotic viruses	63	n/a
+CDFJ01067829.1	1	184	184	EXCLUDE	prok:a-proteobacteria	91	Candidatus Paracaedibacter symbiosus
+CDFJ01068131.1	1	67	67	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01068295.1	1	64	64	EXCLUDE	prok:a-proteobacteria	93	n/a
+CDFJ01068391.1	1	71	71	EXCLUDE	virs:prokaryotic viruses	84	n/a
+CDFJ01068405.1	1	75	75	EXCLUDE	virs:prokaryotic viruses	78	n/a
+CDFJ01068576.1	1	73	73	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01068665.1	1	82	82	EXCLUDE	virs:prokaryotic viruses	75	n/a
+CDFJ01068774.1	1	75	75	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01068786.1	1	77	77	EXCLUDE	prok:a-proteobacteria	81	n/a
+CDFJ01068811.1	1	91	91	EXCLUDE	virs:eukaryotic viruses	76	n/a
+CDFJ01068886.1	1	70	70	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01068926.1	1	75	75	EXCLUDE	virs:prokaryotic viruses	88	n/a
+CDFJ01068985.1	1	84	84	EXCLUDE	virs:eukaryotic viruses	67	n/a
+CDFJ01069078.1	1	71	71	EXCLUDE	prok:a-proteobacteria	78	n/a
+CDFJ01069297.1	1	76	76	EXCLUDE	prok:a-proteobacteria	98	Candidatus Paracaedibacter symbiosus
+CDFJ01069555.1	1	78	78	EXCLUDE	virs:prokaryotic viruses	73	n/a
+CDFJ01069758.1	1	70	70	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01070406.1	1	74	74	EXCLUDE	prok:a-proteobacteria	79	n/a
+CDFJ01070526.1	1	89	89	EXCLUDE	virs:prokaryotic viruses	62	n/a
+CDFJ01070638.1	1	85	85	EXCLUDE	virs:prokaryotic viruses	65	n/a
+CDFJ01070834.1	1	75	75	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01071058.1	1	68	68	EXCLUDE	prok:a-proteobacteria	92	n/a
+CDFJ01071489.1	1	89	89	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01071527.1	1	69	69	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01071830.1	1	76	76	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01071831.1	1	92	92	EXCLUDE	virs:prokaryotic viruses	63	n/a
+CDFJ01072259.1	1	195	195	EXCLUDE	virs:eukaryotic viruses	50	n/a
+CDFJ01072340.1	1	73	73	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01072695.1	1	76	76	EXCLUDE	virs:prokaryotic viruses	75	n/a
+CDFJ01072706.1	1	94	94	EXCLUDE	virs:viruses	76	n/a
+CDFJ01072898.1	1	73	73	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01073100.1	1	88	88	EXCLUDE	virs:prokaryotic viruses	69	n/a
+CDFJ01073172.1	1	86	86	EXCLUDE	virs:prokaryotic viruses	97	n/a
+CDFJ01073207.1	1	81	81	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01073730.1	1	65	65	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01074072.1	1	72	72	EXCLUDE	virs:prokaryotic viruses	77	n/a
+CDFJ01074237.1	1	123	123	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01074330.1	1	73	73	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01074436.1	1	127	127	EXCLUDE	virs:viruses	98	Tokyovirus A1
+CDFJ01074569.1	1	118	118	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01074747.1	1	66	66	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01074895.1	1	78	78	EXCLUDE	virs:prokaryotic viruses	71	n/a
+CDFJ01074950.1	1	87	87	EXCLUDE	virs:prokaryotic viruses	65	n/a
+CDFJ01075121.1	1	78	78	EXCLUDE	prok:a-proteobacteria	100	n/a
+CDFJ01075165.1	1	79	79	EXCLUDE	virs:viruses	70	n/a
+CDFJ01075212.1	1	110	110	EXCLUDE	virs:prokaryotic viruses	63	n/a
+CDFJ01075308.1	1	74	74	EXCLUDE	virs:prokaryotic viruses	87	n/a
+CDFJ01075391.1	1	127	127	EXCLUDE	prok:a-proteobacteria	97	n/a
+CDFJ01075577.1	1	99	99	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01075739.1	1	98	98	EXCLUDE	virs:eukaryotic viruses	59	n/a
+CDFJ01075771.1	1	90	90	EXCLUDE	virs:prokaryotic viruses	66	n/a
+CDFJ01075840.1	1	86	86	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01075874.1	1	65	65	EXCLUDE	prok:a-proteobacteria	100	n/a
+CDFJ01076112.1	1	100	100	EXCLUDE	virs:prokaryotic viruses	60	n/a
+CDFJ01076156.1	1	64	64	EXCLUDE	prok:a-proteobacteria	96	n/a
+CDFJ01076481.1	1	66	66	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01076539.1	1	237	237	EXCLUDE	virs:eukaryotic viruses	45	Pandoravirus japonicus
+CDFJ01076543.1	1	76	76	EXCLUDE	prok:a-proteobacteria	92	n/a
+CDFJ01076720.1	1	81	81	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01076944.1	1	100	100	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01076963.1	1	77	77	EXCLUDE	prok:a-proteobacteria	93	n/a
+CDFJ01077036.1	1	67	67	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01077495.1	1	88	88	EXCLUDE	virs:prokaryotic viruses	64	n/a
+CDFJ01077554.1	1	195	195	EXCLUDE	virs:eukaryotic viruses	35	Pandoravirus japonicus
+CDFJ01077998.1	1	83	83	EXCLUDE	virs:prokaryotic viruses	69	n/a
+CDFJ01078438.1	1	64	64	EXCLUDE	prok:a-proteobacteria	100	n/a
+CDFJ01078518.1	1	64	64	EXCLUDE	prok:a-proteobacteria	96	n/a
+CDFJ01079136.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01079487.1	1	71	71	EXCLUDE	prok:a-proteobacteria	78	n/a
+CDFJ01079648.1	1	127	127	EXCLUDE	virs:viruses	100	Tokyovirus A1
+CDFJ01079676.1	1	76	76	EXCLUDE	virs:prokaryotic viruses	86	n/a
+CDFJ01079962.1	1	81	81	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01080002.1	1	69	69	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01080301.1	1	69	69	EXCLUDE	prok:a-proteobacteria	100	n/a
+CDFJ01080801.1	1	199	199	EXCLUDE	virs:viruses	65	n/a
+CDFJ01081034.1	1	65	65	EXCLUDE	virs:viruses	90	n/a
+CDFJ01081293.1	1	85	85	EXCLUDE	virs:eukaryotic viruses	100	Pandoravirus japonicus
+CDFJ01081404.1	1	64	64	EXCLUDE	virs:prokaryotic viruses	87	n/a
+CDFJ01081523.1	1	67	67	EXCLUDE	prok:a-proteobacteria	92	n/a
+CDFJ01081560.1	1	81	81	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01081703.1	1	149	149	EXCLUDE	virs:eukaryotic viruses	58	n/a
+CDFJ01081925.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01082061.1	1	147	147	EXCLUDE	prok:a-proteobacteria	98	Candidatus Paracaedibacter symbiosus
+CDFJ01082439.1	1	65	65	EXCLUDE	prok:a-proteobacteria	93	n/a
+CDFJ01082474.1	1	69	69	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01082575.1	1	107	107	EXCLUDE	virs:prokaryotic viruses	76	n/a
+CDFJ01083074.1	1	82	82	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01083299.1	1	76	76	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01083346.1	1	83	83	EXCLUDE	virs:prokaryotic viruses	69	n/a
+CDFJ01083350.1	1	132	132	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01083401.1	1	66	66	EXCLUDE	prok:a-proteobacteria	100	n/a
+CDFJ01083567.1	1	95	95	EXCLUDE	virs:prokaryotic viruses	66	n/a
+CDFJ01083823.1	1	99	99	EXCLUDE	virs:prokaryotic viruses	57	n/a
+CDFJ01083850.1	1	157	157	EXCLUDE	prok:a-proteobacteria	98	Candidatus Paracaedibacter symbiosus
+CDFJ01084087.1	1	118	118	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01085186.1	1	80	80	EXCLUDE	virs:prokaryotic viruses	70	n/a
+CDFJ01085545.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01085916.1	1	71	71	EXCLUDE	virs:prokaryotic viruses	91	n/a
+CDFJ01086157.1	1	67	67	EXCLUDE	prok:a-proteobacteria	92	n/a
+CDFJ01086538.1	1	127	127	EXCLUDE	virs:prokaryotic viruses	58	n/a
+CDFJ01086821.1	1	127	127	EXCLUDE	virs:eukaryotic viruses	74	n/a
+CDFJ01087017.1	1	78	78	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01087138.1	1	158	158	EXCLUDE	virs:prokaryotic viruses	73	n/a
+CDFJ01087409.1	1	68	68	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01087423.1	1	150	150	EXCLUDE	virs:prokaryotic viruses	54	n/a
+CDFJ01087831.1	1	65	65	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01087903.1	1	127	127	EXCLUDE	prok:a-proteobacteria	98	Candidatus Paracaedibacter symbiosus
+CDFJ01087913.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01088423.1	1	85	85	EXCLUDE	virs:prokaryotic viruses	65	n/a
+CDFJ01088660.1	1	90	90	EXCLUDE	virs:eukaryotic viruses	72	n/a
+CDFJ01088738.1	1	89	89	EXCLUDE	virs:prokaryotic viruses	65	n/a
+CDFJ01089171.1	1	68	68	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01089205.1	1	85	85	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01089522.1	1	66	66	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01089750.1	1	79	79	EXCLUDE	virs:prokaryotic viruses	79	n/a
+CDFJ01089822.1	1	72	72	EXCLUDE	virs:prokaryotic viruses	77	n/a
+CDFJ01090011.1	1	126	126	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01090305.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01090862.1	1	86	86	EXCLUDE	virs:eukaryotic viruses	73	n/a
+CDFJ01091208.1	1	71	71	EXCLUDE	prok:a-proteobacteria	81	n/a
+CDFJ01091547.1	1	172	172	EXCLUDE	prok:a-proteobacteria	95	n/a
+CDFJ01091626.1	1	70	70	EXCLUDE	prok:a-proteobacteria	92	n/a
+CDFJ01091771.1	1	74	74	EXCLUDE	prok:a-proteobacteria	81	n/a
+CDFJ01092183.1	1	127	127	EXCLUDE	virs:viruses	81	Tokyovirus A1
+CDFJ01092248.1	1	67	67	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01092647.1	1	127	127	EXCLUDE	virs:viruses	77	Candidatus Paracaedibacter symbiosus
+CDFJ01092814.1	1	87	87	EXCLUDE	virs:eukaryotic viruses	97	n/a
+CDFJ01092821.1	1	69	69	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01092990.1	1	70	70	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01093014.1	1	135	135	EXCLUDE	virs:prokaryotic viruses	78	n/a
+CDFJ01093198.1	1	115	115	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01093206.1	1	69	69	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01093494.1	1	93	93	EXCLUDE	virs:viruses	100	n/a
+CDFJ01093770.1	1	70	70	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01093871.1	1	106	106	EXCLUDE	prok:a-proteobacteria	100	n/a
+CDFJ01094187.1	1	85	85	EXCLUDE	virs:prokaryotic viruses	65	n/a
+CDFJ01094246.1	1	307	307	EXCLUDE	virs:viruses	37	Tokyovirus A1
+CDFJ01094274.1	1	76	76	EXCLUDE	virs:prokaryotic viruses	75	n/a
+CDFJ01094431.1	1	79	79	EXCLUDE	virs:prokaryotic viruses	72	n/a
+CDFJ01094605.1	1	75	75	EXCLUDE	virs:prokaryotic viruses	80	n/a
+CDFJ01094873.1	1	76	76	EXCLUDE	prok:a-proteobacteria	81	n/a
+CDFJ01094887.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01095171.1	1	96	96	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01095201.1	1	69	69	EXCLUDE	virs:prokaryotic viruses	82	n/a
+CDFJ01095301.1	1	101	101	EXCLUDE	virs:prokaryotic viruses	62	n/a
+CDFJ01095696.1	1	105	105	EXCLUDE	virs:prokaryotic viruses	63	n/a
+CDFJ01095903.1	1	82	82	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01096552.1	1	83	83	EXCLUDE	prok:a-proteobacteria	93	n/a
+CDFJ01096863.1	1	84	84	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01097349.1	1	72	72	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01097904.1	1	78	78	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01098097.1	1	126	126	EXCLUDE	prok:a-proteobacteria	92	n/a
+CDFJ01098143.1	1	72	72	EXCLUDE	prok:a-proteobacteria	93	n/a
+CDFJ01098221.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Phenylobacterium sp.
+CDFJ01098279.1	1	76	76	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01098382.1	1	70	70	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01098449.1	1	134	134	EXCLUDE	virs:prokaryotic viruses	43	n/a
+CDFJ01098506.1	1	122	122	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01098769.1	1	77	77	EXCLUDE	virs:prokaryotic viruses	81	n/a
+CDFJ01098848.1	1	66	66	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01099755.1	1	75	75	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01100350.1	1	81	81	EXCLUDE	virs:prokaryotic viruses	92	n/a
+CDFJ01100387.1	1	92	92	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01100476.1	1	69	69	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01100594.1	1	91	91	EXCLUDE	virs:eukaryotic viruses	65	n/a
+CDFJ01100877.1	1	106	106	EXCLUDE	prok:a-proteobacteria	98	Aureimonas pseudogalii
+CDFJ01101042.1	1	71	71	EXCLUDE	prok:a-proteobacteria	81	n/a
+CDFJ01101436.1	1	140	140	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01101919.1	1	69	69	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01102020.1	1	69	69	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01102052.1	1	67	67	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01102370.1	1	77	77	EXCLUDE	virs:prokaryotic viruses	81	n/a
+CDFJ01102473.1	1	98	98	EXCLUDE	virs:eukaryotic viruses	100	Pandoravirus neocaledonia
+CDFJ01102923.1	1	106	106	EXCLUDE	prok:a-proteobacteria	96	Candidatus Paracaedibacter symbiosus
+CDFJ01102956.1	1	72	72	EXCLUDE	prok:a-proteobacteria	81	n/a
+CDFJ01103118.1	1	82	82	EXCLUDE	virs:eukaryotic viruses	78	n/a
+CDFJ01103215.1	1	75	75	EXCLUDE	virs:prokaryotic viruses	76	n/a
+CDFJ01103282.1	1	71	71	EXCLUDE	prok:a-proteobacteria	91	n/a
+CDFJ01104088.1	1	83	83	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01104207.1	1	85	85	EXCLUDE	virs:prokaryotic viruses	65	n/a
+CDFJ01104342.1	1	86	86	EXCLUDE	virs:prokaryotic viruses	69	n/a
+CDFJ01104454.1	1	131	131	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01104555.1	1	75	75	EXCLUDE	prok:a-proteobacteria	96	Candidatus Paracaedibacter symbiosus
+CDFJ01104673.1	1	106	106	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01105001.1	1	90	90	EXCLUDE	virs:prokaryotic viruses	62	n/a
+CDFJ01105087.1	1	109	109	EXCLUDE	virs:prokaryotic viruses	65	n/a
+CDFJ01105492.1	1	99	99	EXCLUDE	prok:a-proteobacteria	98	n/a
+CDFJ01105616.1	1	85	85	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01105844.1	1	87	87	EXCLUDE	virs:eukaryotic viruses	66	n/a
+CDFJ01105969.1	1	126	126	EXCLUDE	virs:prokaryotic viruses	79	n/a
+CDFJ01106127.1	1	115	115	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01106239.1	1	70	70	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01106430.1	1	81	81	EXCLUDE	virs:prokaryotic viruses	88	n/a
+CDFJ01106447.1	1	75	75	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01106468.1	1	127	127	EXCLUDE	prok:a-proteobacteria	97	Candidatus Paracaedibacter symbiosus
+CDFJ01106657.1	1	97	97	EXCLUDE	virs:eukaryotic viruses	64	n/a
+CDFJ01106850.1	1	174	174	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01107040.1	1	705	705	EXCLUDE	prok:a-proteobacteria	100	Methylobacterium symbioticum
+CDFJ01107295.1	1	89	89	EXCLUDE	virs:prokaryotic viruses	68	n/a
+CDFJ01107415.1	1	127	127	EXCLUDE	prok:a-proteobacteria	98	n/a
+CDFJ01108028.1	1	72	72	EXCLUDE	virs:prokaryotic viruses	77	n/a
+CDFJ01108036.1	1	114	114	EXCLUDE	virs:eukaryotic viruses	96	Mollivirus kamchatka
+CDFJ01108110.1	1	127	127	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01108485.1	1	65	65	EXCLUDE	prok:a-proteobacteria	93	n/a
+CDFJ01108764.1	1	70	70	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01108863.1	1	76	76	EXCLUDE	virs:prokaryotic viruses	78	n/a
+CDFJ01109016.1	1	73	73	EXCLUDE	virs:prokaryotic viruses	76	n/a
+CDFJ01109165.1	1	73	73	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01109338.1	1	65	65	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01109542.1	1	77	77	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01109557.1	1	94	94	EXCLUDE	virs:eukaryotic viruses	65	n/a
+CDFJ01109558.1	1	64	64	EXCLUDE	virs:eukaryotic viruses	96	n/a
+CDFJ01109775.1	1	127	127	EXCLUDE	virs:eukaryotic viruses	45	n/a
+CDFJ01109777.1	1	69	69	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01109872.1	1	91	91	EXCLUDE	virs:eukaryotic viruses	68	n/a
+CDFJ01110435.1	1	95	95	EXCLUDE	virs:viruses	81	n/a
+CDFJ01110568.1	1	77	77	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01110654.1	1	70	70	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01110757.1	1	100	100	EXCLUDE	virs:prokaryotic viruses	57	n/a
+CDFJ01110763.1	1	65	65	EXCLUDE	virs:eukaryotic viruses	96	n/a
+CDFJ01110867.1	1	238	238	EXCLUDE	virs:prokaryotic viruses	27	n/a
+CDFJ01110929.1	1	70	70	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01111501.1	1	82	82	EXCLUDE	virs:prokaryotic viruses	73	n/a
+CDFJ01111684.1	1	88	88	EXCLUDE	virs:prokaryotic viruses	67	n/a
+CDFJ01111924.1	1	126	126	EXCLUDE	virs:prokaryotic viruses	57	n/a
+CDFJ01111990.1	1	169	169	EXCLUDE	prok:a-proteobacteria	100	Microvirga thermotolerans
+CDFJ01111999.1	1	76	76	EXCLUDE	virs:prokaryotic viruses	78	n/a
+CDFJ01112284.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01112372.1	1	93	93	EXCLUDE	virs:viruses	100	Tokyovirus A1
+CDFJ01112373.1	1	127	127	EXCLUDE	virs:viruses	97	Tokyovirus A1
+CDFJ01112729.1	1	76	76	EXCLUDE	prok:a-proteobacteria	81	n/a
+CDFJ01112954.1	1	67	67	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01113133.1	1	116	116	EXCLUDE	virs:prokaryotic viruses	61	n/a
+CDFJ01113279.1	1	74	74	EXCLUDE	virs:prokaryotic viruses	79	n/a
+CDFJ01113816.1	1	81	81	EXCLUDE	virs:prokaryotic viruses	69	n/a
+CDFJ01113832.1	1	82	82	EXCLUDE	virs:prokaryotic viruses	71	n/a
+CDFJ01114039.1	1	93	93	EXCLUDE	prok:a-proteobacteria	81	n/a
+CDFJ01114099.1	1	80	80	EXCLUDE	virs:prokaryotic viruses	77	n/a
+CDFJ01114363.1	1	70	70	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01114567.1	1	69	69	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01114586.1	1	76	76	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01114592.1	1	82	82	EXCLUDE	virs:prokaryotic viruses	75	n/a
+CDFJ01114816.1	1	88	88	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01114956.1	1	89	89	EXCLUDE	virs:eukaryotic viruses	62	n/a
+CDFJ01115281.1	1	85	85	EXCLUDE	virs:prokaryotic viruses	65	n/a
+CDFJ01115861.1	1	65	65	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01115895.1	1	75	75	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01116032.1	1	167	167	EXCLUDE	virs:eukaryotic viruses	86	Pandoravirus kuranda
+CDFJ01116112.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01116202.1	1	69	69	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01116292.1	1	94	94	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01116546.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01116743.1	1	85	85	EXCLUDE	virs:prokaryotic viruses	65	n/a
+CDFJ01117162.1	1	117	117	EXCLUDE	virs:prokaryotic viruses	69	n/a
+CDFJ01117363.1	1	99	99	EXCLUDE	virs:prokaryotic viruses	60	n/a
+CDFJ01117907.1	1	91	91	EXCLUDE	virs:prokaryotic viruses	64	n/a
+CDFJ01117913.1	1	97	97	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01117935.1	1	76	76	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01118175.1	1	127	127	EXCLUDE	virs:prokaryotic viruses	60	n/a
+CDFJ01118448.1	1	80	80	EXCLUDE	virs:prokaryotic viruses	78	n/a
+CDFJ01118735.1	1	64	64	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01118753.1	1	71	71	EXCLUDE	prok:a-proteobacteria	78	n/a
+CDFJ01118965.1	1	70	70	EXCLUDE	virs:eukaryotic viruses	80	n/a
+CDFJ01119112.1	1	127	127	EXCLUDE	prok:a-proteobacteria	97	Candidatus Paracaedibacter symbiosus
+CDFJ01119147.1	1	90	90	EXCLUDE	virs:prokaryotic viruses	65	n/a
+CDFJ01119443.1	1	66	66	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01119455.1	1	110	110	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01120137.1	1	71	71	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01120242.1	1	69	69	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01120289.1	1	78	78	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01120430.1	1	64	64	EXCLUDE	virs:eukaryotic viruses	96	n/a
+CDFJ01121423.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01121425.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01121428.1	1	64	64	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01121475.1	1	68	68	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01121481.1	1	153	153	EXCLUDE	prok:a-proteobacteria	98	Candidatus Paracaedibacter symbiosus
+CDFJ01121501.1	1	79	79	EXCLUDE	virs:prokaryotic viruses	70	n/a
+CDFJ01121640.1	1	66	66	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01121932.1	1	71	71	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01122028.1	1	76	76	EXCLUDE	prok:a-proteobacteria	100	n/a
+CDFJ01122580.1	1	127	127	EXCLUDE	prok:a-proteobacteria	97	Candidatus Paracaedibacter symbiosus
+CDFJ01122759.1	1	127	127	EXCLUDE	virs:prokaryotic viruses	77	n/a
+CDFJ01123479.1	1	86	86	EXCLUDE	virs:prokaryotic viruses	83	n/a
+CDFJ01123689.1	1	75	75	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01123957.1	1	127	127	EXCLUDE	virs:viruses	68	Candidatus Paracaedibacter symbiosus
+CDFJ01123969.1	1	113	113	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01124028.1	1	65	65	EXCLUDE	prok:a-proteobacteria	96	n/a
+CDFJ01124435.1	1	67	67	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01124482.1	1	80	80	EXCLUDE	prok:a-proteobacteria	93	n/a
+CDFJ01124544.1	1	77	77	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01124748.1	1	124	124	EXCLUDE	virs:prokaryotic viruses	58	n/a
+CDFJ01125006.1	1	69	69	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01125365.1	1	71	71	EXCLUDE	prok:a-proteobacteria	92	n/a
+CDFJ01125373.1	1	93	93	EXCLUDE	virs:prokaryotic viruses	72	n/a
+CDFJ01125789.1	1	66	66	EXCLUDE	prok:a-proteobacteria	93	n/a
+CDFJ01126141.1	1	73	73	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01126179.1	1	583	583	EXCLUDE	prok:a-proteobacteria	100	Methylobacterium symbioticum
+CDFJ01126412.1	1	77	77	EXCLUDE	virs:prokaryotic viruses	80	n/a
+CDFJ01126693.1	1	105	105	EXCLUDE	virs:prokaryotic viruses	55	n/a
+CDFJ01126766.1	1	75	75	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01126839.1	1	127	127	EXCLUDE	virs:prokaryotic viruses	49	n/a
+CDFJ01126970.1	1	75	75	EXCLUDE	virs:prokaryotic viruses	76	n/a
+CDFJ01126998.1	1	72	72	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01127292.1	1	98	98	EXCLUDE	virs:prokaryotic viruses	70	n/a
+CDFJ01127345.1	1	77	77	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01127473.1	1	133	133	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01127522.1	1	110	110	EXCLUDE	prok:a-proteobacteria	97	n/a
+CDFJ01127542.1	1	88	88	EXCLUDE	virs:eukaryotic viruses	65	n/a
+CDFJ01127862.1	1	192	192	EXCLUDE	virs:eukaryotic viruses	53	Pandoravirus japonicus
+CDFJ01127917.1	1	73	73	EXCLUDE	virs:prokaryotic viruses	78	n/a
+CDFJ01128005.1	1	72	72	EXCLUDE	prok:a-proteobacteria	95	n/a
+CDFJ01128164.1	1	121	121	EXCLUDE	virs:prokaryotic viruses	46	n/a
+CDFJ01128551.1	1	87	87	EXCLUDE	prok:a-proteobacteria	79	n/a
+CDFJ01128654.1	1	177	177	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01128731.1	1	64	64	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01129114.1	1	65	65	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01129247.1	1	68	68	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01129284.1	1	66	66	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01129644.1	1	71	71	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01129956.1	1	84	84	EXCLUDE	virs:eukaryotic viruses	67	n/a
+CDFJ01129963.1	1	66	66	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01129991.1	1	67	67	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01130433.1	1	64	64	EXCLUDE	virs:prokaryotic viruses	100	n/a
+CDFJ01130473.1	1	69	69	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01130512.1	1	78	78	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01131336.1	1	69	69	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01131380.1	1	75	75	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01131480.1	1	95	95	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01131506.1	1	98	98	EXCLUDE	virs:prokaryotic viruses	72	n/a
+CDFJ01131665.1	1	83	83	EXCLUDE	prok:a-proteobacteria	93	n/a
+CDFJ01131667.1	1	127	127	EXCLUDE	prok:a-proteobacteria	86	Candidatus Paracaedibacter symbiosus
+CDFJ01131753.1	1	85	85	EXCLUDE	virs:prokaryotic viruses	70	n/a
+CDFJ01132137.1	1	127	127	EXCLUDE	prok:a-proteobacteria	98	Candidatus Paracaedibacter symbiosus
+CDFJ01132761.1	1	89	89	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01132970.1	1	73	73	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01133025.1	1	87	87	EXCLUDE	prok:a-proteobacteria	81	n/a
+CDFJ01133068.1	1	76	76	EXCLUDE	prok:a-proteobacteria	78	n/a
+CDFJ01133166.1	1	78	78	EXCLUDE	prok:a-proteobacteria	94	n/a
+CDFJ01133657.1	1	91	91	EXCLUDE	virs:prokaryotic viruses	62	n/a
+CDFJ01133757.1	1	101	101	EXCLUDE	virs:prokaryotic viruses	72	n/a
+CDFJ01133784.1	1	82	82	EXCLUDE	prok:a-proteobacteria	97	Candidatus Paracaedibacter symbiosus
+CDFJ01133844.1	1	80	80	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01134040.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	n/a
+CDFJ01134497.1	1	90	90	EXCLUDE	virs:viruses	97	Tokyovirus A1
+CDFJ01134831.1	1	117	117	EXCLUDE	prok:a-proteobacteria	80	Candidatus Paracaedibacter symbiosus
+CDFJ01135800.1	1	96	96	EXCLUDE	virs:eukaryotic viruses	58	n/a
+CDFJ01136096.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01136108.1	1	74	74	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01136111.1	1	85	85	EXCLUDE	virs:eukaryotic viruses	68	n/a
+CDFJ01136142.1	1	66	66	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01136396.1	1	66	66	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01136793.1	1	76	76	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01137580.1	1	67	67	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01137602.1	1	102	102	EXCLUDE	virs:prokaryotic viruses	62	n/a
+CDFJ01137749.1	1	71	71	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01138285.1	1	85	85	EXCLUDE	prok:a-proteobacteria	91	n/a
+CDFJ01138377.1	1	70	70	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01138503.1	1	87	87	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01138712.1	1	69	69	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01138879.1	1	83	83	EXCLUDE	virs:prokaryotic viruses	69	n/a
+CDFJ01139330.1	1	77	77	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01139641.1	1	94	94	EXCLUDE	virs:prokaryotic viruses	61	n/a
+CDFJ01139657.1	1	73	73	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01140245.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01140258.1	1	65	65	EXCLUDE	prok:a-proteobacteria	96	n/a
+CDFJ01140283.1	1	74	74	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01140306.1	1	82	82	EXCLUDE	virs:prokaryotic viruses	69	n/a
+CDFJ01140813.1	1	132	132	EXCLUDE	virs:eukaryotic viruses	75	n/a
+CDFJ01141195.1	1	68	68	EXCLUDE	prok:a-proteobacteria	95	n/a
+CDFJ01141672.1	1	79	79	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01141764.1	1	81	81	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01141895.1	1	102	102	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01142047.1	1	72	72	EXCLUDE	virs:eukaryotic viruses	81	n/a
+CDFJ01142061.1	1	131	131	EXCLUDE	virs:prokaryotic viruses	43	n/a
+CDFJ01142074.1	1	126	126	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01142281.1	1	82	82	EXCLUDE	virs:prokaryotic viruses	69	n/a
+CDFJ01142741.1	1	76	76	EXCLUDE	virs:prokaryotic viruses	77	n/a
+CDFJ01142787.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01142799.1	1	99	99	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01142902.1	1	78	78	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01144184.1	1	69	69	EXCLUDE	virs:viruses	98	Tokyovirus A1
+CDFJ01144273.1	1	110	110	EXCLUDE	virs:prokaryotic viruses	62	n/a
+CDFJ01144278.1	1	70	70	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01144365.1	1	72	72	EXCLUDE	prok:a-proteobacteria	93	n/a
+CDFJ01144973.1	1	112	112	EXCLUDE	prok:a-proteobacteria	94	n/a
+CDFJ01145182.1	1	70	70	EXCLUDE	virs:prokaryotic viruses	90	n/a
+CDFJ01145183.1	1	68	68	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01145345.1	1	77	77	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01145508.1	1	86	86	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01145724.1	1	79	79	EXCLUDE	virs:prokaryotic viruses	83	n/a
+CDFJ01145794.1	1	82	82	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01145859.1	1	68	68	EXCLUDE	prok:a-proteobacteria	92	n/a
+CDFJ01146170.1	1	78	78	EXCLUDE	virs:prokaryotic viruses	71	n/a
+CDFJ01146635.1	1	91	91	EXCLUDE	virs:prokaryotic viruses	79	n/a
+CDFJ01146681.1	1	64	64	EXCLUDE	prok:a-proteobacteria	96	n/a
+CDFJ01146749.1	1	72	72	EXCLUDE	virs:viruses	100	Tokyovirus A1
+CDFJ01146874.1	1	70	70	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01146875.1	1	102	102	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01147103.1	1	91	91	EXCLUDE	prok:a-proteobacteria	79	n/a
+CDFJ01147318.1	1	81	81	EXCLUDE	virs:prokaryotic viruses	72	n/a
+CDFJ01147505.1	1	77	77	EXCLUDE	prok:a-proteobacteria	98	n/a
+CDFJ01147630.1	1	170	170	EXCLUDE	prok:a-proteobacteria	98	Candidatus Paracaedibacter symbiosus
+CDFJ01147657.1	1	90	90	EXCLUDE	virs:prokaryotic viruses	63	n/a
+CDFJ01147717.1	1	86	86	EXCLUDE	prok:a-proteobacteria	79	n/a
+CDFJ01148119.1	1	98	98	EXCLUDE	virs:eukaryotic viruses	58	n/a
+CDFJ01148149.1	1	100	100	EXCLUDE	virs:prokaryotic viruses	71	n/a
+CDFJ01149194.1	1	77	77	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01149540.1	1	75	75	EXCLUDE	virs:eukaryotic viruses	80	n/a
+CDFJ01149581.1	1	269	269	EXCLUDE	virs:viruses	73	Candidatus Paracaedibacter symbiosus
+CDFJ01149884.1	1	71	71	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01150131.1	1	69	69	EXCLUDE	virs:prokaryotic viruses	82	n/a
+CDFJ01150352.1	1	126	126	EXCLUDE	virs:prokaryotic viruses	65	n/a
+CDFJ01150371.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01150955.1	1	79	79	EXCLUDE	virs:prokaryotic viruses	75	n/a
+CDFJ01151033.1	1	72	72	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01151076.1	1	81	81	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01151116.1	1	73	73	EXCLUDE	prok:a-proteobacteria	91	n/a
+CDFJ01151377.1	1	89	89	EXCLUDE	virs:prokaryotic viruses	74	n/a
+CDFJ01151424.1	1	84	84	EXCLUDE	virs:prokaryotic viruses	79	n/a
+CDFJ01151491.1	1	73	73	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01151657.1	1	67	67	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01151811.1	1	73	73	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01152182.1	1	109	109	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01152187.1	1	77	77	EXCLUDE	virs:prokaryotic viruses	74	n/a
+CDFJ01152307.1	1	127	127	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01152357.1	1	70	70	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01152890.1	1	70	70	EXCLUDE	prok:a-proteobacteria	98	n/a
+CDFJ01153378.1	1	78	78	EXCLUDE	virs:prokaryotic viruses	71	n/a
+CDFJ01153395.1	1	65	65	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01153743.1	1	97	97	EXCLUDE	virs:viruses	64	n/a
+CDFJ01153757.1	1	80	80	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01154212.1	1	68	68	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01154262.1	1	77	77	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01154348.1	1	117	117	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01154910.1	1	77	77	EXCLUDE	virs:prokaryotic viruses	74	n/a
+CDFJ01155093.1	1	92	92	EXCLUDE	virs:prokaryotic viruses	67	n/a
+CDFJ01155198.1	1	70	70	EXCLUDE	virs:prokaryotic viruses	80	n/a
+CDFJ01155353.1	1	79	79	EXCLUDE	virs:viruses	100	Tokyovirus A1
+CDFJ01155556.1	1	91	91	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01155600.1	1	80	80	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01155613.1	1	74	74	EXCLUDE	prok:a-proteobacteria	79	n/a
+CDFJ01155625.1	1	88	88	EXCLUDE	virs:prokaryotic viruses	65	n/a
+CDFJ01156162.1	1	67	67	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01156254.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01156398.1	1	178	178	EXCLUDE	prok:a-proteobacteria	98	Candidatus Paracaedibacter symbiosus
+CDFJ01156529.1	1	97	97	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01156557.1	1	104	104	EXCLUDE	prok:a-proteobacteria	100	n/a
+CDFJ01156607.1	1	76	76	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01156804.1	1	127	127	EXCLUDE	virs:viruses	76	Tokyovirus A1
+CDFJ01156991.1	1	91	91	EXCLUDE	virs:eukaryotic viruses	100	Pandoravirus neocaledonia
+CDFJ01157396.1	1	83	83	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01157416.1	1	79	79	EXCLUDE	virs:prokaryotic viruses	74	n/a
+CDFJ01157457.1	1	91	91	EXCLUDE	virs:prokaryotic viruses	65	n/a
+CDFJ01157682.1	1	78	78	EXCLUDE	prok:a-proteobacteria	93	n/a
+CDFJ01158015.1	1	67	67	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01158182.1	1	470	470	EXCLUDE	prok:a-proteobacteria	100	Methylobacterium symbioticum
+CDFJ01158616.1	1	72	72	EXCLUDE	prok:a-proteobacteria	81	n/a
+CDFJ01158946.1	1	69	69	EXCLUDE	virs:prokaryotic viruses	86	n/a
+CDFJ01158964.1	1	82	82	EXCLUDE	prok:a-proteobacteria	97	Candidatus Paracaedibacter symbiosus
+CDFJ01158981.1	1	67	67	EXCLUDE	prok:a-proteobacteria	95	n/a
+CDFJ01159175.1	1	98	98	EXCLUDE	virs:prokaryotic viruses	59	n/a
+CDFJ01159248.1	1	127	127	EXCLUDE	virs:prokaryotic viruses	59	n/a
+CDFJ01159288.1	1	70	70	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01159414.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01159469.1	1	81	81	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01159531.1	1	99	99	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01159793.1	1	69	69	EXCLUDE	prok:a-proteobacteria	92	n/a
+CDFJ01159813.1	1	117	117	EXCLUDE	virs:eukaryotic viruses	48	n/a
+CDFJ01159856.1	1	85	85	EXCLUDE	virs:prokaryotic viruses	72	n/a
+CDFJ01160250.1	1	96	96	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01160395.1	1	74	74	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01160437.1	1	69	69	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01160879.1	1	66	66	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01161079.1	1	73	73	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01161240.1	1	77	77	EXCLUDE	virs:eukaryotic viruses	74	n/a
+CDFJ01161854.1	1	97	97	EXCLUDE	virs:prokaryotic viruses	58	n/a
+CDFJ01162111.1	1	65	65	EXCLUDE	prok:a-proteobacteria	93	n/a
+CDFJ01162218.1	1	86	86	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01162227.1	1	88	88	EXCLUDE	virs:prokaryotic viruses	69	n/a
+CDFJ01162338.1	1	67	67	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01162363.1	1	66	66	EXCLUDE	prok:a-proteobacteria	96	n/a
+CDFJ01162484.1	1	75	75	EXCLUDE	virs:prokaryotic viruses	76	n/a
+CDFJ01162510.1	1	66	66	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01162522.1	1	86	86	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01162649.1	1	244	244	EXCLUDE	virs:viruses	88	Tokyovirus A1
+CDFJ01162807.1	1	90	90	EXCLUDE	virs:prokaryotic viruses	72	n/a
+CDFJ01162925.1	1	70	70	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01163185.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01163362.1	1	94	94	EXCLUDE	prok:a-proteobacteria	92	n/a
+CDFJ01163592.1	1	88	88	EXCLUDE	virs:prokaryotic viruses	65	n/a
+CDFJ01163736.1	1	79	79	EXCLUDE	virs:eukaryotic viruses	89	n/a
+CDFJ01164083.1	1	91	91	EXCLUDE	virs:prokaryotic viruses	92	n/a
+CDFJ01164567.1	1	95	95	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01164612.1	1	70	70	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01164641.1	1	77	77	EXCLUDE	virs:prokaryotic viruses	81	n/a
+CDFJ01164856.1	1	71	71	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01164911.1	1	64	64	EXCLUDE	virs:prokaryotic viruses	93	n/a
+CDFJ01165381.1	1	83	83	EXCLUDE	virs:prokaryotic viruses	79	n/a
+CDFJ01165546.1	1	94	94	EXCLUDE	virs:prokaryotic viruses	63	n/a
+CDFJ01165598.1	1	69	69	EXCLUDE	virs:prokaryotic viruses	82	n/a
+CDFJ01165602.1	1	92	92	EXCLUDE	prok:a-proteobacteria	89	n/a
+CDFJ01165735.1	1	124	124	EXCLUDE	virs:prokaryotic viruses	57	n/a
+CDFJ01166038.1	1	74	74	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01166039.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01166126.1	1	64	64	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01166610.1	1	77	77	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01167263.1	1	76	76	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01167363.1	1	127	127	EXCLUDE	prok:a-proteobacteria	98	Candidatus Paracaedibacter symbiosus
+CDFJ01167429.1	1	82	82	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01167595.1	1	66	66	EXCLUDE	virs:prokaryotic viruses	87	n/a
+CDFJ01167660.1	1	74	74	EXCLUDE	virs:prokaryotic viruses	75	n/a
+CDFJ01168043.1	1	85	85	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01168294.1	1	68	68	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01168793.1	1	71	71	EXCLUDE	prok:a-proteobacteria	78	n/a
+CDFJ01169206.1	1	76	76	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01169293.1	1	76	76	EXCLUDE	prok:a-proteobacteria	81	n/a
+CDFJ01169536.1	1	89	89	EXCLUDE	virs:prokaryotic viruses	64	n/a
+CDFJ01169630.1	1	85	85	EXCLUDE	virs:prokaryotic viruses	67	n/a
+CDFJ01169638.1	1	115	115	EXCLUDE	virs:eukaryotic viruses	69	n/a
+CDFJ01169719.1	1	75	75	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01170240.1	1	71	71	EXCLUDE	prok:a-proteobacteria	81	n/a
+CDFJ01170246.1	1	66	66	EXCLUDE	virs:eukaryotic viruses	87	n/a
+CDFJ01170307.1	1	90	90	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01170331.1	1	85	85	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01170599.1	1	121	121	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01170694.1	1	121	121	EXCLUDE	virs:prokaryotic viruses	63	n/a
+CDFJ01170978.1	1	70	70	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01171028.1	1	78	78	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01171041.1	1	94	94	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01171187.1	1	75	75	EXCLUDE	virs:prokaryotic viruses	76	n/a
+CDFJ01171203.1	1	89	89	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01171464.1	1	127	127	EXCLUDE	virs:viruses	98	Tokyovirus A1
+CDFJ01171825.1	1	72	72	EXCLUDE	virs:prokaryotic viruses	80	n/a
+CDFJ01171963.1	1	64	64	EXCLUDE	prok:a-proteobacteria	87	n/a
+CDFJ01172183.1	1	90	90	EXCLUDE	prok:a-proteobacteria	88	n/a
+CDFJ01172311.1	1	95	95	EXCLUDE	virs:viruses	62	n/a
+CDFJ01172323.1	1	245	245	EXCLUDE	virs:viruses	78	Tokyovirus A1
+CDFJ01172415.1	1	71	71	EXCLUDE	prok:a-proteobacteria	91	n/a
+CDFJ01172560.1	1	84	84	EXCLUDE	virs:prokaryotic viruses	72	n/a
+CDFJ01172565.1	1	123	123	EXCLUDE	virs:prokaryotic viruses	52	n/a
+CDFJ01172709.1	1	79	79	EXCLUDE	prok:a-proteobacteria	100	Rickettsia endosymbiont of Cardiosporidium cionae
+CDFJ01172733.1	1	84	84	EXCLUDE	prok:a-proteobacteria	86	n/a
+CDFJ01172751.1	1	70	70	EXCLUDE	prok:a-proteobacteria	85	n/a
+CDFJ01172768.1	1	105	105	EXCLUDE	virs:prokaryotic viruses	60	n/a
+CDFJ01172804.1	1	118	118	EXCLUDE	virs:prokaryotic viruses	80	n/a
+CDFJ01172966.1	1	74	74	EXCLUDE	virs:eukaryotic viruses	85	n/a
+CDFJ01172975.1	1	70	70	EXCLUDE	virs:prokaryotic viruses	80	n/a
+CDFJ01173185.1	1	66	66	EXCLUDE	prok:a-proteobacteria	84	n/a
+CDFJ01173216.1	1	82	82	EXCLUDE	prok:a-proteobacteria	82	n/a
+CDFJ01173296.1	1	68	68	EXCLUDE	prok:a-proteobacteria	95	n/a
+CDFJ01173535.1	1	81	81	EXCLUDE	virs:prokaryotic viruses	69	n/a
+CDFJ01173588.1	1	73	73	EXCLUDE	prok:a-proteobacteria	80	n/a
+CDFJ01173609.1	1	64	64	EXCLUDE	prok:a-proteobacteria	96	n/a
+CDFJ01174400.1	1	127	127	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01174492.1	1	71	71	EXCLUDE	prok:a-proteobacteria	78	n/a
+CDFJ01174561.1	1	83	83	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01174585.1	1	80	80	EXCLUDE	prok:a-proteobacteria	100	Candidatus Paracaedibacter symbiosus
+CDFJ01174599.1	1	64	64	EXCLUDE	prok:a-proteobacteria	90	n/a
+CDFJ01174734.1	1	83	83	EXCLUDE	prok:a-proteobacteria	92	n/a
+CDFJ01175328.1	1	77	77	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01175564.1	1	166	166	EXCLUDE	virs:viruses	65	Tokyovirus A1
+CDFJ01176610.1	299	390	390	TRIM	prok:a-proteobacteria	100	Methylobacterium frigidaeris
+CDFJ01176856.1	1	603	603	EXCLUDE	virs:eukaryotic viruses	83	Pandoravirus salinus
+CDFJ01176857.1	1	603	603	EXCLUDE	virs:eukaryotic viruses	83	Pandoravirus salinus
+CDFJ01180754.1	1	589	589	EXCLUDE	virs:eukaryotic viruses	76	Pandoravirus neocaledonia
+CDFJ01180756.1	1	544	544	EXCLUDE	virs:eukaryotic viruses	50	Pandoravirus kuranda
+CDFJ01182425.1	1	661	661	EXCLUDE	virs:eukaryotic viruses	40	Pandoravirus japonicus
+CDFJ01183658.1	1	430	430	EXCLUDE	prok:a-proteobacteria	83	n/a
+CDFJ01183830.1	1	3276	3276	EXCLUDE	virs:eukaryotic viruses	21	Mollivirus sibericum
+CDFJ01185181.1	1	1399	1399	EXCLUDE	virs:eukaryotic viruses	35	Pandoravirus salinus
+CDFJ01185227.1	1	4108	4108	EXCLUDE	virs:eukaryotic viruses	50	Pandoravirus quercus
+CDFJ01188096.1	1	599	599	EXCLUDE	virs:eukaryotic viruses	65	Pandoravirus japonicus
+CDFJ01190636.1	1	1786	1786	EXCLUDE	virs:eukaryotic viruses	32	Mollivirus sibericum
+CDFJ01192234.1	1	3113	3113	EXCLUDE	virs:eukaryotic viruses	46	Pandoravirus quercus
+CDFJ01195057.1	1	1998	1998	EXCLUDE	virs:eukaryotic viruses	31	Pandoravirus salinus
+CDFJ01210437.1	1	1050	1050	EXCLUDE	prok:a-proteobacteria	34	Candidatus Paracaedibacter symbiosus
+CDFJ01210848.1	1	3975	3975	EXCLUDE	prok:a-proteobacteria	27	Candidatus Paracaedibacter symbiosus
+CDFJ01211948.1	1	1063	1063	EXCLUDE	prok:a-proteobacteria	26	Candidatus Paracaedibacter symbiosus
+CDFJ01212409.1	1	1300	1300	EXCLUDE	prok:a-proteobacteria	59	Candidatus Paracaedibacter symbiosus
+CDFJ01212421.1	2406	3345	3345	TRIM	prok:cyanobacteria	98	Nodosilinea sp. WJT8-NPBG4
+CDFJ01213235.1	1	971	971	EXCLUDE	prok:a-proteobacteria	97	Candidatus Paracaedibacter symbiosus
+CDFJ01213685.1	1	1605	6974	TRIM	prok:a-proteobacteria	44	Rhizobium hainanense
+CDFJ01214684.1	1	1697	1697	EXCLUDE	prok:a-proteobacteria	47	Candidatus Paracaedibacter symbiosus
+CDFJ01214688.1	1	627	627	EXCLUDE	virs:viruses	26	Tokyovirus A1
+CDFJ01218248.1	1674	2332	2332	TRIM	prok:b-proteobacteria	31	Aquincola sp.
+CDFJ01222595.1	7854	8952	11834	FIX	anml:fishes	42	Astyanax mexicanus
+CDFJ01223929.1	3118	3912	3912	TRIM	prok:a-proteobacteria	100	Mesorhizobium ephedrae
+CDFJ01223930.1	1	863	4109	TRIM	prok:a-proteobacteria	96	Mesorhizobium ephedrae

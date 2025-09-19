@@ -1,0 +1,23 @@
+JYDH01000002.1	905	1455	1041176	FIX	plnt:plants	48	n/a
+JYDH01000720.1	1	1226	1226	EXCLUDE	virs:eukaryotic viruses	97	Hepatitis B virus
+JYDH01000721.1	1	1225	1225	EXCLUDE	prst:algae	100	Pythium insidiosum
+JYDH01000750.1	1	1144	1144	EXCLUDE	virs:prokaryotic viruses	25	n/a
+JYDH01000757.1	1	1132	1132	EXCLUDE	prst:algae	100	Pythium insidiosum
+JYDH01000788.1	1	1065	1065	EXCLUDE	prst:algae	100	Pythium insidiosum
+JYDH01001099.1	1	723	723	EXCLUDE	anml:rodents	100	Mus musculus
+JYDH01001262.1	1	641	641	EXCLUDE	plnt:plants	97	Carica papaya
+JYDH01001480.1	1	564	564	EXCLUDE	prst:algae	98	Globisporangium echinulatum
+JYDH01001503.1	1	557	557	EXCLUDE	prst:algae	100	Pythium insidiosum
+JYDH01002005.1	1	467	467	EXCLUDE	anml:rodents	100	Mus musculus
+JYDH01002718.1	1	407	407	EXCLUDE	anml:rodents	93	Mus musculus
+JYDH01003560.1	1	356	356	EXCLUDE	anml:fishes	91	Chanos chanos
+JYDH01003700.1	1	348	348	EXCLUDE	anml:rodents	98	Mus musculus
+JYDH01003721.1	1	347	347	EXCLUDE	anml:fishes	100	Chanos chanos
+JYDH01004230.1	1	323	323	EXCLUDE	anml:crustaceans	100	Penaeus monodon
+JYDH01004302.1	1	318	318	EXCLUDE	anml:crustaceans	100	Penaeus monodon
+JYDH01004313.1	1	318	318	EXCLUDE	anml:fishes	100	Chanos chanos
+JYDH01004395.1	1	314	314	EXCLUDE	anml:crustaceans	100	Penaeus monodon
+JYDH01005003.1	1	287	287	EXCLUDE	anml:rodents	95	Mus musculus
+JYDH01005199.1	1	279	279	EXCLUDE	anml:fishes	84	Chanos chanos
+JYDH01005626.1	1	263	263	EXCLUDE	virs:eukaryotic viruses	100	ticpantry virus 5
+JYDH01006140.1	1	247	247	EXCLUDE	anml:fishes	87	Chanos chanos

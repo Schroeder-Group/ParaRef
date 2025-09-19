@@ -1,0 +1,99 @@
+AUUS01000003.1	1	249	249	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA4356
+AUUS01000030.1	1	260	260	EXCLUDE	prok:a-proteobacteria	100	Sphingomonas ginsenosidivorax
+AUUS01000087.1	1	290	290	EXCLUDE	prok:a-proteobacteria	100	Sphingomonas elodea
+AUUS01000116.1	1	307	307	EXCLUDE	prok:CFB group bacteria	98	Prevotella sp. UBA3713
+AUUS01000136.1	1	318	318	EXCLUDE	prok:a-proteobacteria	100	Sphingomonas echinoides
+AUUS01000150.1	1	326	326	EXCLUDE	prok:CFB group bacteria	98	Prevotella sp. UBA3713
+AUUS01000165.1	1	332	332	EXCLUDE	prok:CFB group bacteria	97	Prevotella sp. UBA2711
+AUUS01000166.1	1	332	332	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+AUUS01000197.1	1	346	346	EXCLUDE	prok:CFB group bacteria	97	Prevotella sp. UBA2711
+AUUS01000209.1	1	351	351	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA3713
+AUUS01000301.1	1	398	398	EXCLUDE	prok:a-proteobacteria	100	Sphingomonas echinoides
+AUUS01000306.1	1	400	400	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+AUUS01000354.1	1	420	420	EXCLUDE	prok:a-proteobacteria	100	Sphingomonas echinoides
+AUUS01000381.1	1	435	435	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA3713
+AUUS01000387.1	1	210	210	EXCLUDE	prok:a-proteobacteria	100	Sphingomonas echinoides
+AUUS01000425.1	1	452	452	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA3713
+AUUS01000434.1	1	456	456	EXCLUDE	prok:a-proteobacteria	100	Sphingomonas echinoides
+AUUS01000447.1	1	462	462	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA3713
+AUUS01000452.1	1	467	467	EXCLUDE	prok:a-proteobacteria	100	Sphingomonas qomolangmaensis
+AUUS01000525.1	1	504	504	EXCLUDE	prok:CFB group bacteria	96	Prevotella sp. UBA2743
+AUUS01000535.1	1	508	508	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA3713
+AUUS01000556.1	1	515	515	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2754
+AUUS01000558.1	1	516	516	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2455
+AUUS01000575.1	1	522	522	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2754
+AUUS01000683.1	1	564	564	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+AUUS01000732.1	1	583	583	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA3713
+AUUS01000752.1	1	590	590	EXCLUDE	prok:a-proteobacteria	100	Sphingomonas prati
+AUUS01000789.1	1	603	603	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA3713
+AUUS01000848.1	1	624	624	EXCLUDE	prst:alveolates	100	Isotricha sp. YL-2021b
+AUUS01000915.1	1	652	652	EXCLUDE	prok:CFB group bacteria	98	Prevotella sp. UBA3713
+AUUS01000970.1	1	677	677	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA3713
+AUUS01000975.1	1	678	678	EXCLUDE	prok:CFB group bacteria	98	Prevotella sp. UBA2711
+AUUS01001009.1	1	692	692	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA3713
+AUUS01001024.1	1	696	696	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+AUUS01001048.1	1	707	707	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA3713
+AUUS01001066.1	1	715	715	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+AUUS01001086.1	1	726	726	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA3713
+AUUS01001151.1	1	753	753	EXCLUDE	prok:a-proteobacteria	98	Sphingomonas echinoides
+AUUS01001228.1	1	794	794	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+AUUS01001241.1	1	800	800	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+AUUS01001367.1	1	860	860	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA3713
+AUUS01001411.1	1	876	876	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+AUUS01001427.1	1	883	883	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+KE547070.1	1	909	909	EXCLUDE	prok:a-proteobacteria	98	Sphingomonas echinoides
+AUUS01001523.1	1	925	925	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+AUUS01001588.1	1	957	957	EXCLUDE	prok:CFB group bacteria	100	Filimonas sp.
+KE547079.1	1	965	965	EXCLUDE	prok:b-proteobacteria	100	Ralstonia pickettii
+KE547080.1	1	965	965	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA3713
+AUUS01001673.1	1	1006	1006	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA3713
+AUUS01001797.1	1	1065	1065	EXCLUDE	prok:CFB group bacteria	96	Prevotella sp. UBA2711
+AUUS01001811.1	1	1071	1071	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA3713
+AUUS01001863.1	1	1096	1096	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+AUUS01001906.1	1	1118	1118	EXCLUDE	prok:a-proteobacteria	100	Sphingobium xenophagum
+AUUS01001908.1	1	1120	1120	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2754
+AUUS01001939.1	1	1136	1136	EXCLUDE	prok:a-proteobacteria	100	Sphingomonas echinoides
+AUUS01001991.1	1	1174	1174	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+AUUS01002138.1	1	1279	1279	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+AUUS01002149.1	1	1290	1290	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+AUUS01002162.1	1	1299	1299	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA3713
+AUUS01002360.1	1	1449	1449	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA3713
+AUUS01002431.1	1	1512	1512	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+AUUS01002589.1	1	1689	1689	EXCLUDE	anml:insects	33	n/a
+KE547174.1	1	1730	1730	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+AUUS01002660.1	1	1768	1768	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+AUUS01002719.1	1	1827	1827	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+AUUS01002721.1	1	1828	1828	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+AUUS01002881.1	1	2026	2026	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+AUUS01002888.1	1	2028	2028	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+AUUS01002926.1	1	2071	2071	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA3713
+AUUS01003110.1	1	2232	2232	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+AUUS01003123.1	1	2246	2246	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+AUUS01003164.1	1	2283	2283	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+AUUS01003167.1	1	2286	2286	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+AUUS01003356.1	707	1226	2475	FIX	virs:prokaryotic viruses	50	n/a
+AUUS01003425.1	1	2557	2557	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2711
+KE547371.1	1	2682	2682	EXCLUDE	prok:CFB group bacteria	98	Prevotella sp. UBA3713
+KE547453.1	1	3089	3089	EXCLUDE	prok:CFB group bacteria	88	Prevotella sp. UBA2711
+AUUS01003978.1	1370	2202	3294	FIX	prst:alveolates	26	n/a
+KE547761.1	1	5518	5518	EXCLUDE	prok:CFB group bacteria	93	Prevotella sp. UBA2711
+KE548303.1	11084	13097	13097	TRIM	prok:CFB group bacteria	63	Prevotella sp. UBA4296
+KE548724.1	25143	25687	25687	TRIM	plnt:plants	73	n/a
+KE548956.1	16438	17009	37253	FIX	fung:budding yeasts	26	n/a
+KE548976.1	1	4669	38297	TRIM	prok:CFB group bacteria	64	Prevotella sp. UBA2754
+AUUS01011069.1	1	246	246	EXCLUDE	prok:CFB group bacteria	100	Prevotella sp. UBA2811
+KE550010.1	62512	63077	102133	FIX	prok:g-proteobacteria	55	n/a
+KE550329.1	20064	20862	32888	FIX	plnt:plants	27	n/a
+KE550887.1	61166	64372	66726	FIX	prok:CFB group bacteria	62	Prevotella sp. UBA3713
+KE552231.1	1455	2005	34339	FIX	prok:CFB group bacteria	29	n/a
+KE553419.1	6559	7738	7738	TRIM	fung:ascomycetes	15	n/a
+KE553665.1	7705	8996	16326	FIX	prok:CFB group bacteria	47	Prevotella sp. UBA2711
+KE554058.1	45107	50812	97189	FIX	prok:CFB group bacteria	61	Prevotella sp. UBA3713
+KE554609.1	22542	23109	92330	FIX	prok:CFB group bacteria	42	n/a
+KE554738.1	14159	14777	17513	FIX	prst:alveolates	62	n/a
+KE554995.1	9112	9359	67102	FIX	prok:CFB group bacteria	85	Prevotella sp. UBA3712
+KE555420.1	83917	84538	85379	FIX	prok:CFB group bacteria	30	n/a
+KE555509.1	64217	66549	79656	FIX	prok:CFB group bacteria	67	Prevotella sp. UBA2711
+KE556528.1	14645	17089	27024	FIX	prok:CFB group bacteria	62	Prevotella sp. UBA2711
+KE556615.1	1	2841	27701	TRIM	prok:CFB group bacteria	71	Prevotella sp. UBA2711
+KE556966.1	21074	21825	34862	FIX	prok:firmicutes	30	n/a

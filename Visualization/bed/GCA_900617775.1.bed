@@ -1,0 +1,155 @@
+UYRU01007659.1	1	2099	2099	EXCLUDE	anml:fishes	72	Hippocampus zosterae
+UYRU01009868.1	1	1789	1789	EXCLUDE	anml:fishes	91	Petromyzon marinus
+UYRU01012268.1	1	1537	1537	EXCLUDE	anml:molluscs	65	Nautilus pompilius
+UYRU01014288.1	1	1377	1377	EXCLUDE	anml:fishes	95	Petromyzon marinus
+UYRU01015557.1	1	1288	1288	EXCLUDE	anml:crustaceans	76	Hyalella azteca
+UYRU01016589.1	1	1225	1225	EXCLUDE	anml:molluscs	93	Octopus sinensis
+UYRU01017222.1	1	1189	1189	EXCLUDE	anml:molluscs	94	Biomphalaria glabrata
+UYRU01018459.1	1	1122	1122	EXCLUDE	anml:fishes	79	Periophthalmus magnuspinnatus
+UYRU01018513.1	1	1119	1119	EXCLUDE	anml:fishes	80	Anguilla anguilla
+UYRU01022027.1	1	961	961	EXCLUDE	anml:molluscs	83	Octopus sinensis
+UYRU01024286.1	1	879	879	EXCLUDE	anml:fishes	100	Petromyzon marinus
+UYRU01024682.1	1	866	866	EXCLUDE	anml:fishes	93	Thalassophryne amazonica
+UYRU01026730.1	1	803	803	EXCLUDE	anml:fishes	92	Petromyzon marinus
+UYRU01029763.1	1	718	718	EXCLUDE	anml:fishes	76	Gambusia affinis
+UYRU01029778.1	1	718	718	EXCLUDE	anml:fishes	96	Gouania willdenowi
+UYRU01031359.1	1	678	678	EXCLUDE	anml:fishes	87	Petromyzon marinus
+UYRU01031547.1	1	674	674	EXCLUDE	anml:fishes	81	Gouania willdenowi
+UYRU01032098.1	1	661	661	EXCLUDE	anml:fishes	100	Petromyzon marinus
+UYRU01034701.1	1	608	608	EXCLUDE	anml:fishes	89	n/a
+UYRU01034832.1	1	605	605	EXCLUDE	anml:fishes	81	Anguilla anguilla
+UYRU01035001.1	1	602	602	EXCLUDE	anml:fishes	100	Periophthalmus magnuspinnatus
+UYRU01039692.1	1	526	526	EXCLUDE	anml:fishes	100	Petromyzon marinus
+UYRU01040094.1	1	521	521	EXCLUDE	anml:fishes	100	Petromyzon marinus
+UYRU01057037.1	1	8301	8301	EXCLUDE	anml:fishes	30	Petromyzon marinus
+UYRU01057111.1	1	105	8277	TRIM	virs:prokaryotic viruses	61	n/a
+UYRU01059607.1	1	7540	7540	EXCLUDE	anml:fishes	26	Petromyzon marinus
+UYRU01060996.1	1	7190	7190	EXCLUDE	anml:fishes	31	Petromyzon marinus
+UYRU01064355.1	1	6437	6437	EXCLUDE	anml:fishes	23	Petromyzon marinus
+UYRU01065484.1	1	6208	6208	EXCLUDE	anml:fishes	20	Erpetoichthys calabaricus
+UYRU01065571.1	1	6192	6192	EXCLUDE	anml:fishes	22	Gouania willdenowi
+UYRU01065903.1	1	6130	6130	EXCLUDE	anml:fishes	27	Petromyzon marinus
+UYRU01068689.1	1	5623	5623	EXCLUDE	anml:fishes	25	Petromyzon marinus
+UYRU01070002.1	1	5401	5401	EXCLUDE	anml:fishes	36	Petromyzon marinus
+UYRU01070741.1	1	5276	5276	EXCLUDE	anml:fishes	39	Petromyzon marinus
+UYRU01073833.1	1	4832	4832	EXCLUDE	anml:molluscs	23	Octopus sinensis
+UYRU01074084.1	1	4799	4799	EXCLUDE	anml:fishes	20	Petromyzon marinus
+UYRU01074268.1	1	4775	4775	EXCLUDE	anml:fishes	26	Takifugu rubripes
+UYRU01077809.1	1	4346	4346	EXCLUDE	anml:molluscs	44	Octopus sinensis
+UYRU01080201.1	1	4080	4080	EXCLUDE	anml:fishes	55	Petromyzon marinus
+UYRU01083568.1	1	3727	3727	EXCLUDE	anml:fishes	39	Petromyzon marinus
+UYRU01085038.1	1	3588	3588	EXCLUDE	anml:fishes	32	Gambusia affinis
+UYRU01087974.1	1	3323	3323	EXCLUDE	anml:fishes	64	Petromyzon marinus
+UYRU01089476.1	1	3194	3194	EXCLUDE	anml:fishes	24	Anguilla anguilla
+UYRU01090439.1	1	3113	3113	EXCLUDE	anml:fishes	53	Gouania willdenowi
+UYRU01093692.1	1	2859	2859	EXCLUDE	anml:fishes	60	Gouania willdenowi
+UYRU01096099.1	1	2683	2683	EXCLUDE	anml:fishes	30	Brienomyrus brachyistius
+UYRU01096115.1	1	2683	2683	EXCLUDE	anml:fishes	38	Petromyzon marinus
+UYRU01096264.1	1	2672	2672	EXCLUDE	anml:fishes	54	Petromyzon marinus
+UYRU01098172.1	1	2542	2542	EXCLUDE	anml:molluscs	33	Octopus sinensis
+UYRU01098212.1	1	2540	2540	EXCLUDE	anml:fishes	44	Petromyzon marinus
+UYRU01098871.1	1	2493	2493	EXCLUDE	anml:fishes	44	Takifugu rubripes
+UYRU01099063.1	1	2482	2482	EXCLUDE	anml:fishes	22	Anguilla anguilla
+UYRU01099428.1	1	2459	2459	EXCLUDE	anml:fishes	36	Petromyzon marinus
+UYRU01099830.1	1	2431	2431	EXCLUDE	anml:fishes	53	Petromyzon marinus
+UYRU01100050.1	1	2416	2416	EXCLUDE	anml:molluscs	21	Octopus sinensis
+UYRU01100528.1	1	2386	2386	EXCLUDE	anml:fishes	25	Gouania willdenowi
+UYRU01101335.1	1	2334	2334	EXCLUDE	anml:molluscs	24	Octopus sinensis
+UYRU01101416.1	1	2329	2329	EXCLUDE	anml:fishes	20	Petromyzon marinus
+UYRU01101503.1	1	2324	2324	EXCLUDE	anml:fishes	28	Petromyzon marinus
+UYRU01104158.1	1	2160	2160	EXCLUDE	anml:fishes	20	Petromyzon marinus
+UYRU01104697.1	1	2127	2127	EXCLUDE	anml:fishes	55	Petromyzon marinus
+UYRU01105669.1	1	2068	2068	EXCLUDE	anml:fishes	25	Petromyzon marinus
+UYRU01105688.1	1	2067	2067	EXCLUDE	anml:fishes	52	Petromyzon marinus
+UYRU01106304.1	1	2032	2032	EXCLUDE	anml:fishes	38	Petromyzon marinus
+UYRU01106878.1	1	1998	1998	EXCLUDE	anml:fishes	32	Petromyzon marinus
+UYRU01107267.1	1	1976	1976	EXCLUDE	anml:fishes	36	Petromyzon marinus
+UYRU01107801.1	1	1946	1946	EXCLUDE	anml:fishes	40	Petromyzon marinus
+UYRU01108631.1	1	1899	1899	EXCLUDE	anml:crustaceans	22	Hyalella azteca
+UYRU01108773.1	1	1891	1891	EXCLUDE	anml:fishes	37	Petromyzon marinus
+UYRU01110845.1	1	1778	1778	EXCLUDE	anml:fishes	52	Takifugu rubripes
+UYRU01111546.1	1	1742	1742	EXCLUDE	anml:fishes	65	Petromyzon marinus
+UYRU01111614.1	1	1738	1738	EXCLUDE	anml:fishes	77	Petromyzon marinus
+UYRU01111686.1	1	1735	1735	EXCLUDE	anml:molluscs	23	Nautilus pompilius
+UYRU01111887.1	1	1724	1724	EXCLUDE	anml:fishes	47	Petromyzon marinus
+UYRU01111921.1	1	1723	1723	EXCLUDE	anml:molluscs	22	Octopus sinensis
+UYRU01111924.1	1	1722	1722	EXCLUDE	anml:fishes	40	Periophthalmus magnuspinnatus
+UYRU01112121.1	1	1712	1712	EXCLUDE	anml:fishes	28	Petromyzon marinus
+UYRU01112726.1	1	1680	1680	EXCLUDE	anml:fishes	28	Petromyzon marinus
+UYRU01113453.1	1	1642	1642	EXCLUDE	anml:fishes	27	n/a
+UYRU01113551.1	1	1635	1635	EXCLUDE	anml:fishes	55	Petromyzon marinus
+UYRU01113560.1	1	1635	1635	EXCLUDE	anml:molluscs	27	Nautilus pompilius
+UYRU01114808.1	1	1571	1571	EXCLUDE	anml:fishes	54	Gouania willdenowi
+UYRU01115395.1	1	1541	1541	EXCLUDE	anml:fishes	52	Petromyzon marinus
+UYRU01116644.1	1	1478	1478	EXCLUDE	anml:fishes	39	Petromyzon marinus
+UYRU01118354.1	1	1393	1393	EXCLUDE	anml:fishes	21	n/a
+UYRU01120849.1	1	1281	1281	EXCLUDE	anml:fishes	27	Petromyzon marinus
+UYRU01121515.1	1	1251	1251	EXCLUDE	anml:fishes	66	Petromyzon marinus
+UYRU01122334.1	1	1214	1214	EXCLUDE	anml:fishes	86	Petromyzon marinus
+UYRU01122979.1	1	1188	1188	EXCLUDE	anml:fishes	32	Petromyzon marinus
+UYRU01124251.1	1	1135	1135	EXCLUDE	anml:fishes	38	Petromyzon marinus
+UYRU01124507.1	1	1123	1123	EXCLUDE	anml:fishes	39	Gouania willdenowi
+UYRU01125273.1	1	1090	1090	EXCLUDE	anml:fishes	50	Hippocampus zosterae
+UYRU01125486.1	1	1082	1082	EXCLUDE	anml:fishes	44	Petromyzon marinus
+UYRU01125699.1	1	1072	1072	EXCLUDE	virs:prokaryotic viruses	11	n/a
+UYRU01125722.1	1	1071	1071	EXCLUDE	anml:fishes	49	Petromyzon marinus
+UYRU01126235.1	1	1048	1048	EXCLUDE	anml:fishes	75	Gouania willdenowi
+UYRU01126605.1	1	1032	1032	EXCLUDE	anml:fishes	28	Takifugu rubripes
+UYRU01126697.1	1	1029	1029	EXCLUDE	anml:fishes	60	Petromyzon marinus
+UYRU01126963.1	1	1017	1017	EXCLUDE	anml:fishes	30	Petromyzon marinus
+UYRU01128241.1	1	963	963	EXCLUDE	anml:fishes	75	Petromyzon marinus
+UYRU01128524.1	1	950	950	EXCLUDE	anml:fishes	43	Anguilla anguilla
+UYRU01128571.1	1	948	948	EXCLUDE	anml:fishes	70	Petromyzon marinus
+UYRU01128575.1	1	948	948	EXCLUDE	anml:fishes	70	Gouania willdenowi
+UYRU01128846.1	1	936	936	EXCLUDE	anml:fishes	29	n/a
+UYRU01128871.1	1	935	935	EXCLUDE	anml:fishes	40	Petromyzon marinus
+UYRU01129820.1	1	897	897	EXCLUDE	anml:fishes	25	n/a
+UYRU01130526.1	1	870	870	EXCLUDE	anml:fishes	46	Petromyzon marinus
+UYRU01130905.1	1	855	855	EXCLUDE	anml:fishes	30	n/a
+UYRU01130974.1	1	853	853	EXCLUDE	anml:fishes	22	n/a
+UYRU01132024.1	1	812	812	EXCLUDE	virs:prokaryotic viruses	13	n/a
+UYRU01132059.1	1	811	811	EXCLUDE	virs:prokaryotic viruses	13	n/a
+UYRU01132500.1	1	795	795	EXCLUDE	anml:fishes	20	n/a
+UYRU01132967.1	1	779	779	EXCLUDE	virs:prokaryotic viruses	14	n/a
+UYRU01133378.1	1	765	765	EXCLUDE	anml:fishes	22	Petromyzon marinus
+UYRU01133611.1	1	758	758	EXCLUDE	anml:fishes	78	Petromyzon marinus
+UYRU01133839.1	1	750	750	EXCLUDE	anml:fishes	47	Periophthalmus magnuspinnatus
+UYRU01134084.1	1	743	743	EXCLUDE	anml:fishes	24	n/a
+UYRU01134243.1	1	738	738	EXCLUDE	anml:fishes	65	Petromyzon marinus
+UYRU01134257.1	1	738	738	EXCLUDE	anml:fishes	27	n/a
+UYRU01134634.1	1	726	726	EXCLUDE	anml:fishes	35	Petromyzon marinus
+UYRU01134769.1	1	722	722	EXCLUDE	anml:fishes	62	n/a
+UYRU01134771.1	1	722	722	EXCLUDE	anml:fishes	77	Petromyzon marinus
+UYRU01134868.1	1	719	719	EXCLUDE	anml:fishes	58	Petromyzon marinus
+UYRU01135112.1	1	712	712	EXCLUDE	anml:fishes	31	Gouania willdenowi
+UYRU01135175.1	1	709	709	EXCLUDE	anml:fishes	70	n/a
+UYRU01135196.1	1	709	709	EXCLUDE	anml:fishes	35	Gadus morhua
+UYRU01135823.1	1	692	692	EXCLUDE	virs:prokaryotic viruses	19	n/a
+UYRU01136608.1	1	671	671	EXCLUDE	anml:fishes	69	Petromyzon marinus
+UYRU01136612.1	1	671	671	EXCLUDE	anml:fishes	37	n/a
+UYRU01136630.1	1	670	670	EXCLUDE	anml:fishes	28	Petromyzon marinus
+UYRU01136662.1	1	670	670	EXCLUDE	anml:fishes	29	n/a
+UYRU01136808.1	1	666	666	EXCLUDE	anml:fishes	22	n/a
+UYRU01137339.1	1	652	652	EXCLUDE	virs:prokaryotic viruses	25	n/a
+UYRU01137364.1	1	652	652	EXCLUDE	anml:fishes	26	n/a
+UYRU01137535.1	1	647	647	EXCLUDE	anml:fishes	25	n/a
+UYRU01137729.1	1	642	642	EXCLUDE	anml:fishes	22	n/a
+UYRU01138114.1	1	632	632	EXCLUDE	anml:fishes	41	Petromyzon marinus
+UYRU01138317.1	1	626	626	EXCLUDE	anml:fishes	60	Gouania willdenowi
+UYRU01138365.1	1	625	625	EXCLUDE	virs:prokaryotic viruses	16	n/a
+UYRU01138517.1	1	620	620	EXCLUDE	anml:fishes	26	n/a
+UYRU01138634.1	1	617	617	EXCLUDE	anml:fishes	51	Petromyzon marinus
+UYRU01138748.1	1	613	613	EXCLUDE	anml:fishes	46	n/a
+UYRU01138859.1	1	610	610	EXCLUDE	anml:fishes	31	Petromyzon marinus
+UYRU01138917.1	1	608	608	EXCLUDE	anml:fishes	68	n/a
+UYRU01139000.1	1	606	606	EXCLUDE	anml:fishes	27	n/a
+UYRU01139250.1	1	598	598	EXCLUDE	anml:fishes	35	Petromyzon marinus
+UYRU01139552.1	1	587	587	EXCLUDE	virs:prokaryotic viruses	26	n/a
+UYRU01139556.1	1	587	587	EXCLUDE	virs:prokaryotic viruses	30	n/a
+UYRU01139628.1	1	583	583	EXCLUDE	anml:fishes	38	Petromyzon marinus
+UYRU01139643.1	1	583	583	EXCLUDE	anml:fishes	28	n/a
+UYRU01139862.1	1	574	574	EXCLUDE	anml:fishes	31	n/a
+UYRU01139923.1	1	569	569	EXCLUDE	virs:prokaryotic viruses	32	n/a
+UYRU01139977.1	1	565	565	EXCLUDE	anml:fishes	32	n/a
+UYRU01140057.1	1	558	558	EXCLUDE	anml:fishes	34	n/a
+UYRU01140229.1	1	531	531	EXCLUDE	anml:fishes	31	n/a

@@ -1,0 +1,1341 @@
+---
+title: "Parasites_overlap_fcx_cont"
+author: "Yuejiao"
+date: "2025-04-02"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(ggridges)
+library(ggplot2)
+library(ggpubr)
+library(scales)
+library(ComplexHeatmap)
+library(VennDiagram)
+library(RColorBrewer)
+
+```
+
+## Overlap between fcs-gx and conterminator
+```{r}
+overlap_fcs_cont <- read_tsv("Overlap_fcs_cont - Fig S2.tsv")
+uniq_fcs <- overlap_fcs_cont %>% 
+  filter(`fcs+cont` > 0,
+         # uniqCon == 0,
+         # Overlap == 0,
+         fcs > 0)
+
+uniq_con <- overlap_fcs_cont %>% 
+  filter(`fcs+cont` > 0,
+         # uniFCS == 0,
+         # Overlap == 0,
+         conter > 0)
+
+# overlap_con_fcs <- overlap_fcs_cont %>% 
+#   filter(`fcs+cont` > 0,
+#          !Accession%in%c(uniq_fcs$Accession,uniq_con$Accession))
+
+
+species_overlap <- list(`FCS-gx` = uniq_fcs$Accession,
+                        Conterminater = uniq_con$Accession)
+
+myCol=brewer.pal(3, "Pastel2")
+VennDiagram <- venn.diagram(x = species_overlap, 
+                            filename = NULL,
+                            fill = myCol[1:2])
+
+cowplot::plot_grid(VennDiagram)
+ggsave("Venn_species.pdf", height = 3, width = 7)
+
+
+# len_con <- sum(overlap_fcs_cont$uniqCon)
+# len_fcs <- sum(overlap_fcs_cont$uniFCS)
+# len_overlap <- sum(overlap_fcs_cont$Overlap)
+# 
+# length_overlap <- draw.pairwise.venn(
+#   area1 = len_con+len_overlap,
+#   area2 = len_fcs+len_overlap,
+#   cross.area = len_overlap,
+#   category = c("Contermintor","FCS-gx"),
+#   fill = myCol[1:2],
+# )
+# cowplot::plot_grid(length_overlap)
+# ggsave("Venn_length.pdf", height = 3, width = 7)
+
+length_overlap2 <- list(Conterminater = seq(1,365285331),
+                        `FCS-gx` = c(seq(1,183796176),seq(-163194073,-1)))
+
+VennDiagram_length <- venn.diagram(x = length_overlap2, 
+                            filename = NULL,
+                            fill = myCol[1:2])
+
+cowplot::plot_grid(VennDiagram_length)
+ggsave("Venn_length_final.pdf", height = 3, width = 7)
+```
+
+
+```{r}
+overlap_fcs_cont <- read_tsv("~/Downloads/Overlap_fcs_cont - overlap_plotr.tsv")
+```
+
+## Including Plots
+
+```{r}
+ggplot(overlap_fcs_cont, 
+       aes(x = `Total fcs_gx contamination (bp)`, 
+           y = Conterminator_Contamination)) +
+  geom_point() +
+  geom_abline(slope = 1, intercept = 0, linetype = "dashed", color = "#e3716e") + 
+  scale_x_continuous(trans = pseudo_log_trans(base = 10)) +
+  scale_y_continuous(trans = pseudo_log_trans(base = 10)) +
+  # scale_x_continuous(trans = pseudo_log_trans(base = 10), expand = c(0, 0)) +
+  # scale_y_continuous(trans = pseudo_log_trans(base = 10), expand = c(0, 0)) +
+  annotation_logticks(sides = "bl") +
+  theme_bw()
+```
+### Venn diagram
+#### number of species detected contamination
+```{r}
+
+uniq_fcs <- overlap_fcs_cont %>% 
+  filter(`fcs+cont` > 0,
+         # uniqCon == 0,
+         # Overlap == 0,
+         fcs > 0)
+
+uniq_con <- overlap_fcs_cont %>% 
+  filter(`fcs+cont` > 0,
+         # uniFCS == 0,
+         # Overlap == 0,
+         conter > 0)
+
+# overlap_con_fcs <- overlap_fcs_cont %>% 
+#   filter(`fcs+cont` > 0,
+#          !Accession%in%c(uniq_fcs$Accession,uniq_con$Accession))
+
+
+species_overlap <- list(`FCS-gx` = uniq_fcs$Accession,
+                        Conterminater = uniq_con$Accession)
+library(VennDiagram)
+library(RColorBrewer)
+myCol=brewer.pal(3, "Pastel2")
+VennDiagram <- venn.diagram(x = species_overlap, 
+                            filename = NULL,
+                            fill = myCol[1:2])
+
+cowplot::plot_grid(VennDiagram)
+ggsave("~/Downloads/Venn_species.pdf", height = 3, width = 7)
+
+```
+```{r}
+plot(euler(species_overlap))
+```
+```{r}
+len_con <- sum(overlap_fcs_cont$uniqCon)
+len_fcs <- sum(overlap_fcs_cont$uniFCS)
+len_overlap <- sum(overlap_fcs_cont$Overlap)
+
+length_overlap <- draw.pairwise.venn(
+  area1 = len_con+len_overlap,
+  area2 = len_fcs+len_overlap,
+  cross.area = len_overlap,
+  category = c("Contermintor","FCS-gx"),
+  fill = myCol[1:2],
+)
+cowplot::plot_grid(length_overlap)
+ggsave("~/Downloads/Venn_length.pdf", height = 3, width = 7)
+```
+
+
+### heatmap
+
+```{r}
+overlap_fcs_cont_mat <- overlap_fcs_cont %>% 
+  filter(`Total contamination (bp)` > 0,
+         `Total contamination (bp)` >= Conterminator_Contamination) %>% 
+  mutate(Uniq_Fcs = log10(`Total contamination (bp)` - Conterminator_Contamination +1),
+         Uniq_Con = log10(`Total contamination (bp)` - `Total fcs_gx contamination (bp)` +1),
+         Overlap = log10(`Total contamination (bp)` - Uniq_Con - Uniq_Fcs) +1) %>% 
+  select(`NCBI/VEuPathDB Accession ID`, Overlap, Uniq_Fcs, Uniq_Con) %>% 
+  column_to_rownames("NCBI/VEuPathDB Accession ID") %>% 
+  as.matrix(.)
+
+  heatmap_overlap <- Heatmap(as.matrix(overlap_fcs_cont_mat),
+                         name = "logBp",
+                         cluster_rows = T,
+                         cluster_columns = FALSE,
+                         # col = color_scale_diverging,
+                         border = TRUE,
+                         row_title = NULL,
+                         column_names_rot = 80,
+                         # column_names_gp = gpar(fontface = "italic"),
+                         show_row_names = FALSE)
+
+pdf("/Users/hsf378/Downloads/Heatmap_overlap.pdf", width = 11, height = 20)
+draw(heatmap_overlap,
+     # annotation_legend_list = list(legend_TP,legend_FP),
+     show_heatmap_legend = T,
+     annotation_legend_side = "right")
+dev.off()
+
+```
+
+### Supplementary 
+#### heatmap
+```{r}
+raw_simu <- read_tsv("~/Downloads/Parasite Simulation Pathopipe - Raw.priority.tsv") %>% 
+  filter(nReads >= 1000) %>% 
+  mutate(Database = "Raw",
+         Authenticated = ifelse(covPosRelEntropy1000 >= 0.80, "TP", "FP"),
+         logReads = ifelse(Authenticated == "TP", log10(1 + nReads), -log10(1 + nReads))) %>% 
+  rename(.,Sample = sampleId) %>% 
+  select(logReads, Database, Sample, taxNameSpecies)
+
+table(raw_simu$taxNameSpecies)
+
+decon_simu <- read_tsv("~/Downloads/Parasite Simulation Pathopipe - Decontaminated.priority.tsv") %>% 
+  filter(nReads >= 1000) %>% 
+  mutate(Database = "Decontaminated",
+         Authenticated = ifelse(covPosRelEntropy1000 >= 0.80, "TP", "FP"),
+         logReads = ifelse(Authenticated == "TP", log10(1 + nReads), -log10(1 + nReads))) %>% 
+  rename(.,Sample = sampleId) %>% 
+  select(logReads, Database, Sample, taxNameSpecies)
+
+table(decon_simu$taxNameSpecies)
+
+all_sim <- bind_rows(raw_simu,decon_simu) %>% 
+  complete(Database, Sample, taxNameSpecies, fill = list(logReads = 0)) 
+
+raw_simu_wide <- all_sim %>% 
+  filter(Database == "Raw") %>% 
+  pivot_wider(., id_cols = "Sample", 
+              names_from = "taxNameSpecies", 
+              values_from = "logReads") %>% 
+  column_to_rownames("Sample") 
+
+decon_simu_wide <- all_sim %>% 
+  filter(Database == "Decontaminated") %>% 
+  pivot_wider(., id_cols = "Sample", 
+              names_from = "taxNameSpecies", 
+              values_from = "logReads") %>% 
+  column_to_rownames("Sample") 
+
+# max(decon_simu$logReads)
+# min(decon_simu$logReads)
+# max(raw_simu$logReads)
+# min(raw_simu$logReads)
+
+color_scale_diverging <- colorRamp2(c(-6, -3, 0, 3, 6),
+                                    c("#d73027","#fee090","grey", "#91bfdb", "#4575b4"))
+
+desired_order <- c(paste0("Rep",1:10,"_0"),
+                   paste0("Rep",1:10,"_100"),
+                   paste0("Rep",1:10,"_1000"),
+                   paste0("Rep",1:10,"_10000"),
+                   paste0("Rep",1:10,"_100000"))
+
+heatmap_raw_sim <- Heatmap(as.matrix(raw_simu_wide),
+                       name = "logReads Raw",
+                       cluster_rows = FALSE,
+                       cluster_columns = T,
+                       show_column_dend = FALSE,
+                       col = color_scale_diverging,
+                       border = TRUE,
+                       row_order = desired_order,
+                       row_title = NULL,
+                       column_names_rot = 80,
+                       column_names_gp = gpar(fontface = "italic"),
+                       show_row_names = T)
+
+ht_raw_sim <- draw(heatmap_raw_sim)
+column_order_raw_sim <- column_order(ht_raw_sim)
+decon_simu_wide <- decon_simu_wide[, column_order_raw_sim]
+
+
+heatmap_decon_sim <- Heatmap(as.matrix(decon_simu_wide),
+                         name = "logReads Decontaminated",
+                         cluster_rows = FALSE,
+                         cluster_columns = FALSE,
+                         col = color_scale_diverging,
+                         border = TRUE,
+                         row_order = desired_order,
+                         row_title = NULL,
+                         column_names_rot = 80,
+                         column_names_gp = gpar(fontface = "italic"),
+                         show_row_names = T)
+
+
+pdf("~/Downloads/Heatmap_simulation.pdf", width = 20, height = 11)
+draw(heatmap_raw_sim + heatmap_decon_sim,
+     annotation_legend_list = list(legend_TP,legend_FP),
+     show_heatmap_legend = FALSE,
+     annotation_legend_side = "right")
+dev.off()
+```
+### check the annotation, separated the four species to the rest of cotanmination
+```{r}
+color_scale_diverging <- colorRamp2(c(-6, -3, 0, 3, 6),
+                                    c("#d73027","#fee090","grey", "#91bfdb", "#4575b4"))
+
+desired_order <- c(paste0("Rep",1:10,"_0"),
+                   paste0("Rep",1:10,"_100"),
+                   paste0("Rep",1:10,"_1000"),
+                   paste0("Rep",1:10,"_10000"),
+                   paste0("Rep",1:10,"_100000"))
+
+raw_simu <- read_tsv("~/Downloads/Parasite Simulation Pathopipe - Raw.priority.tsv") %>% 
+  # filter(nReads >= 1000) %>% 
+  mutate(Database = "Raw",
+         read_count = ifelse(nReads >= 1000,">=1000","<1000"),
+         Authenticated = ifelse(covPosRelEntropy1000 >= 0.80, "TP", "FP"),
+         logReads = ifelse(Authenticated == "TP", log10(1 + nReads), -log10(1 + nReads))) %>% 
+  rename(.,Sample = sampleId) %>% 
+  select(logReads, Database, Sample, taxNameSpecies)
+
+decon_simu <- read_tsv("~/Downloads/Parasite Simulation Pathopipe - Decontaminated.priority.tsv") %>% 
+  # filter(nReads >= 1000) %>% 
+  mutate(Database = "Decontaminated",
+         read_count = ifelse(nReads >= 1000,">=1000","<1000"),
+         Authenticated = ifelse(covPosRelEntropy1000 >= 0.80, "TP", "FP"),
+         logReads = ifelse(Authenticated == "TP", log10(1 + nReads), -log10(1 + nReads))) %>% 
+  rename(.,Sample = sampleId) %>% 
+  select(logReads, Database, Sample, taxNameSpecies)
+
+all_sim <- bind_rows(raw_simu,decon_simu) %>% 
+  complete(Database, Sample, taxNameSpecies, fill = list(logReads = 0)) 
+
+raw_simu_wide <- all_sim %>% 
+  filter(Database == "Raw") %>% 
+  pivot_wider(., id_cols = "Sample", 
+              names_from = "taxNameSpecies", 
+              values_from = "logReads") %>% 
+  column_to_rownames("Sample") 
+target_raw_simu_wide <- raw_simu_wide %>% 
+  select(c("Baylisascaris_ailuri","Blastocystis_sp._subtype_7",
+           "Trichomonas_vaginalis","Trichuris_trichiura"))
+untarget_raw_simu_wide <- raw_simu_wide %>% 
+  select(-c("Baylisascaris_ailuri","Blastocystis_sp._subtype_7",
+           "Trichomonas_vaginalis","Trichuris_trichiura"))
+decon_simu_wide <- all_sim %>% 
+  filter(Database == "Decontaminated") %>% 
+  pivot_wider(., id_cols = "Sample", 
+              names_from = "taxNameSpecies", 
+              values_from = "logReads") %>% 
+  column_to_rownames("Sample") 
+
+target_decon_simu_wide <- decon_simu_wide %>% 
+  select(c("Baylisascaris_ailuri","Blastocystis_sp._subtype_7",
+           "Trichomonas_vaginalis","Trichuris_trichiura"))
+untarget_decon_simu_wide <- decon_simu_wide %>% 
+  select(-c("Baylisascaris_ailuri","Blastocystis_sp._subtype_7",
+           "Trichomonas_vaginalis","Trichuris_trichiura"))
+
+heatmap_untarget_raw_sim <- Heatmap(untarget_raw_simu_wide %>% as.matrix(.),
+                       name = "logReads Raw",
+                       cluster_rows = FALSE,
+                       cluster_columns = T,
+                       show_column_dend = FALSE,
+                       col = color_scale_diverging,
+                       border = TRUE,
+                       row_split = factor(rep(paste0("rep",1:5),10)),
+                       row_gap = unit(3, "mm"),
+                       row_title = NULL,
+                       row_order = desired_order,
+                       column_names_rot = 80,
+                       column_names_gp = gpar(fontface = "italic"),
+                       show_row_names = T,
+                       # Add asterisk overlay for cells with logReads >= 2.
+                       cell_fun = function(j, i, x, y, width, height, fill) {
+                         # retrieve the cell value from the matrix
+                         value <- as.matrix(untarget_raw_simu_wide)[i, j]
+                         if (!is.na(value) && abs(value) >= 3) {
+                           grid.text("*", x = x, y = y, gp = gpar(fontsize = 16, col = "black"))
+                         }
+                       })
+
+ht_untarget_raw_sim <- draw(heatmap_untarget_raw_sim)
+column_order_untarget_raw_sim <- column_order(ht_untarget_raw_sim)
+untarget_decon_simu_wide <- untarget_decon_simu_wide[, column_order_untarget_raw_sim]
+
+
+heatmap_untarget_decon_sim <- Heatmap(untarget_decon_simu_wide %>% as.matrix(.),
+                         name = "logReads Decontaminated",
+                         cluster_rows = FALSE,
+                         cluster_columns = FALSE,
+                         col = color_scale_diverging,
+                         border = TRUE,
+                         row_split = factor(rep(paste0("rep",1:5),10)),
+                         row_gap = unit(3, "mm"),
+                         row_title = NULL,
+                         row_order = desired_order,
+                         column_names_rot = 80,
+                         column_names_gp = gpar(fontface = "italic"),
+                         show_row_names = T,
+                         # Add asterisk overlay for cells with logReads >= 2.
+                        cell_fun = function(j, i, x, y, width, height, fill) {
+                         # retrieve the cell value from the matrix
+                         value <- as.matrix(untarget_decon_simu_wide)[i, j]
+                         if (!is.na(value) && abs(value) >= 3) {
+                           grid.text("*", x = x, y = y, gp = gpar(fontsize = 16, col = "black"))
+                         }
+                       })
+
+heatmap_target_raw_sim <- Heatmap(target_raw_simu_wide %>% as.matrix(.),
+                       name = "logReads Raw",
+                       cluster_rows = FALSE,
+                       cluster_columns = T,
+                       show_column_dend = FALSE,
+                       col = color_scale_diverging,
+                       border = TRUE,
+                       row_split = factor(rep(paste0("rep",1:5),10)),
+                       row_gap = unit(3, "mm"),
+                       row_title = NULL,
+                       row_order = desired_order,
+                       column_names_rot = 80,
+                       column_names_gp = gpar(fontface = "italic"),
+                       show_row_names = T,
+                       # Add asterisk overlay for cells with logReads >= 2.
+                       cell_fun = function(j, i, x, y, width, height, fill) {
+                         # retrieve the cell value from the matrix
+                         value <- as.matrix(target_raw_simu_wide)[i, j]
+                         if (!is.na(value) && abs(value) >= 3) {
+                           grid.text("*", x = x, y = y, gp = gpar(fontsize = 16, col = "black"))
+                         }
+                       })
+
+ht_target_raw_sim <- draw(heatmap_target_raw_sim)
+column_order_target_raw_sim <- column_order(ht_target_raw_sim)
+target_decon_simu_wide <- target_decon_simu_wide[, column_order_target_raw_sim]
+
+
+heatmap_target_decon_sim <- Heatmap(target_decon_simu_wide %>% as.matrix(.),
+                         name = "logReads Decontaminated",
+                         cluster_rows = FALSE,
+                         cluster_columns = FALSE,
+                         col = color_scale_diverging,
+                         border = TRUE,
+                         row_split = factor(rep(paste0("rep",1:5),10)),
+                         row_gap = unit(3, "mm"),
+                         row_title = NULL,
+                         row_order = desired_order,
+                         column_names_rot = 80,
+                         column_names_gp = gpar(fontface = "italic"),
+                         show_row_names = T,
+                         # Add asterisk overlay for cells with logReads >= 2.
+                        cell_fun = function(j, i, x, y, width, height, fill) {
+                         # retrieve the cell value from the matrix
+                         value <- as.matrix(target_decon_simu_wide)[i, j]
+                         if (!is.na(value) && abs(value) >= 3) {
+                           grid.text("*", x = x, y = y, gp = gpar(fontsize = 16, col = "black"))
+                         }
+                       })
+
+
+
+pdf("~/Downloads/Heatmap_simulation_unfilter1000_split.pdf", width = 20, height = 11)
+draw(heatmap_target_raw_sim + heatmap_untarget_raw_sim +heatmap_target_decon_sim +heatmap_untarget_decon_sim,
+     annotation_legend_list = list(legend_TP,legend_FP),
+     show_heatmap_legend = FALSE,
+     annotation_legend_side = "right")
+dev.off()
+```
+```{r}
+# library(colorspace)
+# library(colourpicker)
+# color_scale_diverging <- colorRamp2(c(0, 3, 6),
+#                                     c("grey","#fee090","#d73027"))
+# color_scale_diverging <- colorRamp2(c(0, 2, 4, 6), c("#EEEEEE","#F6DED8","#FF9C9C","#FF0000"))
+# color_scale_diverging <- colorRamp2(c(0, 1, 2, 3, 4, 5), c("white","#FCF7F7","#F6DED8","#fcae91","#fb6a4a","#cb181d"))
+# color_scale_diverging <- colorRamp2(c(0, 1, 2, 3, 4, 5), c("white","#FEF0DE","#FFFFCC","#FED976", "#FEB24C", "#FD8D3C"))
+# # color_scale_diverging <- colorRamp2(c(0, 1, 2, 3, 4, 5), c("white","#F8F7F7","#D7D3D1","#AEA7A2", "#7C7169", "#5D4F45"))
+# 
+# "white","#FFFCF4","#FEF0DE","#FED976", "#FEB24C", "#FD8D3C"
+# "#FDF8E6","#F5F5DC","#D9D2C1","#C4B5A2","#B2A590"
+color_scale_diverging <- colorRamp2(c(0, 1, 2, 3, 4, 5), c("white","#FFFCF1","#F7E29C","#EBC160","#CEA442","#B18723"))
+# brewer.pal(11,"YlOrRd")
+# "#5D4F45"
+# "#FFFFCC" "#FFEDA0" "#FED976" "#FEB24C" "#FD8D3C" "#FC4E2A" "#E31A1C" "#BD0026" "#800026"
+desired_order <- c(paste0("Rep",1:10,"_0"),
+                   paste0("Rep",1:10,"_100"),
+                   paste0("Rep",1:10,"_1000"),
+                   paste0("Rep",1:10,"_10000"),
+                   paste0("Rep",1:10,"_100000"))
+
+# raw_simu <- read_tsv("~/Downloads/Parasite Simulation Pathopipe - Raw.priority.tsv") %>% 
+target_papasites_taxa <- read.table("~/Downloads/parasites_targets.txt", header = T)
+#raw_simu <- read_tsv("~/Downloads/Parasite Simulation Pathopipe - Raw.AllHits.tsv") %>% 
+raw_simu <- read_tsv("~/Downloads/Simulation_K100_Priority - Raw_K100_Priority.tsv") %>% 
+  filter(taxNameSpecies %in% target_papasites_taxa$taxNameSpecies) %>%
+  mutate(Database = "Raw",
+         logReads = log10(1 + nReads)) %>% 
+  rename(.,Sample = sampleId) %>% 
+  select(logReads, Database, Sample, taxNameSpecies)
+
+# decon_simu <- read_tsv("~/Downloads/Parasite Simulation Pathopipe - Decontaminated_AllHits.tsv") %>% 
+decon_simu <- read_tsv("~/Downloads/Simulation_K100_Priority - Decontaminated_K100_Priority.tsv") %>% 
+  filter(taxNameSpecies %in% target_papasites_taxa$taxNameSpecies) %>%
+  mutate(Database = "Decontaminated",
+         logReads = log10(1 + nReads)) %>% 
+  rename(.,Sample = sampleId) %>% 
+  select(logReads, Database, Sample, taxNameSpecies)
+
+all_sim <- bind_rows(raw_simu,decon_simu) %>% 
+  complete(Database, Sample, taxNameSpecies, fill = list(logReads = 0)) 
+
+raw_simu_wide <- all_sim %>% 
+  filter(Database == "Raw") %>% 
+  pivot_wider(., id_cols = "Sample", 
+              names_from = "taxNameSpecies", 
+              values_from = "logReads") %>% 
+  column_to_rownames("Sample") 
+target_raw_simu_wide <- raw_simu_wide %>% 
+  select(c("Baylisascaris_ailuri","Blastocystis_sp._subtype_7",
+           "Trichomonas_vaginalis","Trichuris_trichiura"))
+untarget_raw_simu_wide <- raw_simu_wide %>% 
+  select(-c("Baylisascaris_ailuri","Blastocystis_sp._subtype_7",
+           "Trichomonas_vaginalis","Trichuris_trichiura"))
+decon_simu_wide <- all_sim %>% 
+  filter(Database == "Decontaminated") %>% 
+  pivot_wider(., id_cols = "Sample", 
+              names_from = "taxNameSpecies", 
+              values_from = "logReads") %>% 
+  column_to_rownames("Sample") 
+
+target_decon_simu_wide <- decon_simu_wide %>% 
+  select(c("Baylisascaris_ailuri","Blastocystis_sp._subtype_7",
+           "Trichomonas_vaginalis","Trichuris_trichiura"))
+untarget_decon_simu_wide <- decon_simu_wide %>% 
+  select(-c("Baylisascaris_ailuri","Blastocystis_sp._subtype_7",
+           "Trichomonas_vaginalis","Trichuris_trichiura"))
+
+heatmap_untarget_raw_sim <- Heatmap(untarget_raw_simu_wide %>% as.matrix(.),
+                       name = "logReads Raw",
+                       cluster_rows = FALSE,
+                       cluster_columns = T,
+                       show_column_dend = FALSE,
+                       col = color_scale_diverging,
+                       border = TRUE,
+                       row_split = factor(rep(paste0("rep",1:5),10)),
+                       row_gap = unit(3, "mm"),
+                       row_title = NULL,
+                       row_order = desired_order,
+                       column_names_rot = 80,
+                       column_names_gp = gpar(fontface = "italic"),
+                       show_row_names = T)
+
+ht_untarget_raw_sim <- draw(heatmap_untarget_raw_sim)
+column_order_untarget_raw_sim <- column_order(ht_untarget_raw_sim)
+untarget_decon_simu_wide <- untarget_decon_simu_wide[, column_order_untarget_raw_sim]
+
+
+heatmap_untarget_decon_sim <- Heatmap(untarget_decon_simu_wide %>% as.matrix(.),
+                         name = "logReads Decontaminated",
+                         cluster_rows = FALSE,
+                         cluster_columns = FALSE,
+                         col = color_scale_diverging,
+                         border = TRUE,
+                         row_split = factor(rep(paste0("rep",1:5),10)),
+                         row_gap = unit(3, "mm"),
+                         row_title = NULL,
+                         row_order = desired_order,
+                         column_names_rot = 80,
+                         column_names_gp = gpar(fontface = "italic"),
+                         show_row_names = T)
+
+heatmap_target_raw_sim <- Heatmap(target_raw_simu_wide %>% as.matrix(.),
+                       name = "logReads Raw",
+                       cluster_rows = FALSE,
+                       cluster_columns = T,
+                       show_column_dend = FALSE,
+                       col = color_scale_diverging,
+                       border = TRUE,
+                       row_split = factor(rep(paste0("rep",1:5),10)),
+                       row_gap = unit(3, "mm"),
+                       row_title = NULL,
+                       row_order = desired_order,
+                       column_names_rot = 80,
+                       column_names_gp = gpar(fontface = "italic"),
+                       show_row_names = T)
+
+ht_target_raw_sim <- draw(heatmap_target_raw_sim)
+column_order_target_raw_sim <- column_order(ht_target_raw_sim)
+target_decon_simu_wide <- target_decon_simu_wide[, column_order_target_raw_sim]
+
+
+heatmap_target_decon_sim <- Heatmap(target_decon_simu_wide %>% as.matrix(.),
+                         name = "logReads Decontaminated",
+                         cluster_rows = FALSE,
+                         cluster_columns = FALSE,
+                         col = color_scale_diverging,
+                         border = TRUE,
+                         row_split = factor(rep(paste0("rep",1:5),10)),
+                         row_gap = unit(3, "mm"),
+                         row_title = NULL,
+                         row_order = desired_order,
+                         column_names_rot = 80,
+                         column_names_gp = gpar(fontface = "italic"),
+                         show_row_names = T)
+
+legend_FP <- Legend(at = c(0,1,2,3,4,5), 
+                 col_fun = color_scale_diverging, 
+                 labels = c("0","10","100","1,000","10,000","100,000"), 
+                 title = "Number of Reads")
+
+pdf("~/Desktop/Heatmap_simulation_unfilter1000_split2.pdf", width = 20, height = 11)
+draw(heatmap_target_raw_sim + heatmap_untarget_raw_sim +heatmap_target_decon_sim + heatmap_untarget_decon_sim,
+     annotation_legend_list = list(legend_FP),
+     show_heatmap_legend = FALSE,
+     annotation_legend_side = "right")
+dev.off()
+```
+#### bar plot
+
+```{r}
+bar_parasites <- read_tsv("~/Downloads/Parasite Simulation Pathopipe - supplementaryFig.tsv")
+bar_parasites %>% 
+  filter(DB == "Decontaminated") %>% 
+  select(Taxon, `100`, `1000`, `10000`, `100000`) %>% 
+  pivot_longer(cols = c( `100`, `1000`, `10000`, `100000`),
+               names_to = "Number of simulated reads",
+               values_to = "nReads") %>% 
+  group_by(Taxon,`Number of simulated reads`) %>% 
+  summarise(mean_nReads = mean(nReads),
+            sd_nReads = sd(nReads),
+            .groups = "drop") %>% 
+ ggplot(aes(x = Taxon, y = mean_nReads, fill = `Number of simulated reads`)) +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.8), width = 0.7) +
+  geom_errorbar(aes(ymin = mean_nReads - sd_nReads, ymax = mean_nReads + sd_nReads),
+                position = position_dodge(width = 0.8), width = 0.2) +
+  # scale_y_log10(breaks = c(1, 10, 100, 1000, 10000, 100000),
+  #               labels = c("0", "10", "100", "1,000", "10,000", "100,000")) +
+  scale_y_log10(
+    breaks = scales::trans_breaks("log10", function(x) 10^x),
+    labels = scales::trans_format("log10", scales::math_format(10^.x)),
+    expand = c(0, 0)
+  ) +
+  scale_fill_manual(values=c(color_scale_diverging(c(2, 3, 4, 5)))) +
+  labs(y = "Mean Read Counts", x = NULL, fill = "Number of simulated reads") +
+  theme_classic() +
+  annotation_logticks(sides = 'l') +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        text = element_text(size=12))
+  
+ggsave("~/Downloads/TP_reads.pdf",width = 10, height = 10)
+  
+```
+##### simulation FP reads
+
+```{r}
+bar_parasites %>% 
+  select(Taxon, DB, FP_100000) %>% 
+  group_by(Taxon,DB) %>% 
+  summarise(mean_nReads = mean(FP_100000),
+            sd_nReads = sd(FP_100000),
+            .groups = "drop") %>% 
+  mutate(DB = factor(DB, levels = c("Raw", "Decontaminated")),
+         logmnReads = log10(mean_nReads+0.000001)) %>% 
+ ggplot(aes(x = Taxon, y = mean_nReads, fill = DB)) +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.8), width = 0.7) +
+  geom_errorbar(aes(ymin = mean_nReads - sd_nReads, ymax = mean_nReads + sd_nReads),
+                position = position_dodge(width = 0.8), width = 0.2) +
+  # scale_y_log10(breaks = c(0.1, 1, 10, 100, 1000, 10000, 100000),
+  #               labels = c("0", "1", "10", "100", "1,000", "10,000", "100,000")) +
+  #  scale_y_continuous(
+  #   trans  = pseudo_log_trans(base = 10),
+  #   breaks = c(0, 10, 100, 1e3, 1e4,1e5),
+  #   labels = c("0", "10", "100", "1000", "10000","100000"), 
+  #   expand = c(0,0)
+  # ) + 
+  # annotation_logticks(sides = 'l') +
+  # scale_y_log10(
+  #   breaks = scales::trans_breaks("log10", function(x) 10^x),
+  #   labels = scales::trans_format("log10", scales::math_format(10^.x)),
+  #   expand = c(0, 0)
+  # ) +
+  scale_fill_manual(values=c( "#E69F00","#999999")) +
+  labs(y = "Mean Read Counts", x = NULL, fill = "Database") +
+  theme_classic() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        text = element_text(size=12))
+ggsave("~/Downloads/FP_reads_parasites_unlog.pdf",width = 10, height = 10)
+# ggsave("~/Downloads/FP_reads_parasites.pdf",width = 10, height = 10)
+```
+
+
+
+```{r}
+bar_parasites %>% 
+  select(Taxon, DB, FP_100000) %>% 
+  group_by(Taxon,DB) %>% 
+  summarise(mean_nReads = mean(FP_100000),
+            sd_nReads = sd(FP_100000),
+            .groups = "drop") %>% 
+  mutate(DB = factor(DB, levels = c("Raw", "Decontaminated")),
+         logmnReads = log10(mean_nReads)) 
+```
+
+
+```{r}
+# install.packages("ggplot2")
+# install.packages("scales")
+library(ggplot2)
+library(scales)
+
+# your data
+df <- data.frame(
+  category = c("A","B","C"),
+  value    = c(0, 0.4, 12080)
+)
+
+ggplot(df, aes(x = category, y = value)) +
+  geom_col(fill = "#619CFF", width = .6) +
+  # pseudo-log handles zero gracefully
+  scale_y_continuous(
+    trans  = pseudo_log_trans(base = 10),
+    breaks = c(0, 1, 10, 100, 1e3, 1e4),
+    labels = c("0", "1", "10", "10²", "10³", "10⁴")
+  ) +
+  annotation_logticks(sides = "l") +
+  labs(
+    y = "Value (≈ log₁₀ scale)",
+    x = NULL,
+    title = "Categories on a log-like scale (zero included)"
+  ) +
+  theme_minimal(base_size = 14) +
+  theme(
+    panel.grid.minor = element_blank(),
+    axis.text.x      = element_text(face = "bold")
+  )
+
+print(scales::trans_breaks("log10", function(x) 10^x))
+```
+
+### density plot
+
+```{r}
+decon_simu_parasites <- read_tsv("~/Downloads/Parasite Simulation Pathopipe - Decontaminated.priority.tsv") %>% 
+  mutate(db = "Decontamination",
+         nreads = ifelse(nReads < 1000, "<1000",">=1000")) %>% 
+  select(db,sampleId,nReads,nreads,covPosRelEntropy1000,taxNameSpecies) %>% 
+  filter(!is.na(covPosRelEntropy1000))
+
+simu_parasites <- read_tsv("~/Downloads/Parasite Simulation Pathopipe - Raw.priority.tsv") %>% 
+  mutate(db = "Raw",
+         nreads = ifelse(nReads < 1000, "<1000",">=1000")) %>% 
+  select(db,sampleId,nReads,nreads,covPosRelEntropy1000,taxNameSpecies) %>% 
+  filter(!is.na(covPosRelEntropy1000))
+
+density_decon_simu_rep0 <- ggplot(decon_simu_parasites %>% filter(sampleId %in% paste0("Rep",1:10,"_0")), 
+                                  aes(x=covPosRelEntropy1000, fill=nreads)) +
+  geom_density(alpha=0.4) +
+  scale_fill_manual(values=c("#999999", "#E69F00")) +
+  theme_classic() +
+  scale_x_continuous(limits = c(0, 1), expand = c(0, 0))+
+  scale_y_continuous(limits = c(0, 4), expand = c(0, 0)) +
+  labs(x = "Coverage evenness entropy 1000", 
+       y = "Density",
+       fill = "Number of reads") +
+  geom_vline(xintercept = 0.8, colour="#e3716e", linetype = "dashed") +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        text = element_text(size=12))
+
+density_raw_simu_rep0 <- ggplot(simu_parasites %>% filter(sampleId %in% paste0("Rep",1:10,"_0")),  aes(x=covPosRelEntropy1000, fill=nreads)) +
+  geom_density(alpha=0.4) +
+  scale_fill_manual(values=c("#999999", "#E69F00")) + 
+  theme_classic() +
+  scale_x_continuous(limits = c(0, 1), expand = c(0, 0))+
+  scale_y_continuous(limits = c(0, 4), expand = c(0, 0)) +
+  labs(x = "Coverage evenness entropy 1000", 
+       y = "Density",
+       fill = "Number of reads") +
+  geom_vline(xintercept = 0.8, colour="#e3716e", linetype = "dashed") +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        text = element_text(size=12))
+
+ggarrange(density_raw_simu_rep0, density_decon_simu_rep0, labels = c("A", "B"),
+          common.legend = TRUE, legend = "bottom")
+ggsave("~/Downloads/rep1_10_0_FP_density.pdf", width = 7, height = 3)
+```
+
+```{r}
+bind_rows(decon_simu_parasites %>% 
+  filter(taxNameSpecies == "Trichomonas_vaginalis") %>% 
+  separate(., sampleId, into = c("rep","nReads_simu")),
+  simu_parasites %>% 
+  filter(taxNameSpecies == "Trichomonas_vaginalis") %>% 
+  separate(., sampleId, into = c("rep","nReads_simu"))) %>% 
+  ggplot(.,aes(x=nReads_simu,
+               y=covPosRelEntropy1000, 
+               fill=db)) +
+  geom_boxplot() +
+  scale_fill_manual(values=c("#80A6E2", "#e3716e")) + 
+  theme_classic() +
+  # scale_x_continuous(limits = c(0, 1), expand = c(0, 0))+
+  # scale_y_continuous(limits = c(0, 4), expand = c(0, 0)) +
+  labs(y = "Coverage evenness entropy 1000", 
+       x = "Number of simulated reads",
+       fill = "Database") +
+  # geom_vline(xintercept = 0.8, colour="#e3716e", linetype = "dashed") +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        text = element_text(size=12))
+
+```
+
+```{r}
+bind_rows(decon_simu_parasites %>% 
+  filter(taxNameSpecies == "Trichomonas_vaginalis") %>% 
+  separate(., sampleId, into = c("rep","nReads_simu")),
+  simu_parasites %>% 
+  filter(taxNameSpecies == "Trichomonas_vaginalis") %>% 
+  separate(., sampleId, into = c("rep","nReads_simu"))) %>% 
+  select(db,nReads_simu,covPosRelEntropy1000) %>% 
+  group_by(db,nReads_simu) %>% 
+  summarise(mean = mean(covPosRelEntropy1000),
+            std = sd(covPosRelEntropy1000)) %>% 
+  ggplot(.,aes(x=nReads_simu,
+               y=mean, 
+               fill=db)) +
+  geom_bar(position = "dodge",stat = "identity")+
+  geom_errorbar(aes(ymin = mean - std, ymax = mean + std),
+                position = position_dodge(width = 0.9), width = 0.2) +
+  scale_fill_manual(values=c("#80A6E2", "#e3716e")) + 
+  theme_classic() +
+  labs(y = "Coverage evenness entropy 1000", 
+       x = "Number of simulated reads",
+       fill = "Database") +5
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        text = element_text(size=12))
+```
+
+```{r}
+tv_df <- bind_rows(decon_simu_parasites %>% 
+  filter(taxNameSpecies == "Trichomonas_vaginalis") %>% 
+  separate(., sampleId, into = c("rep","nReads_simu")),
+  simu_parasites %>% 
+  filter(taxNameSpecies == "Trichomonas_vaginalis") %>% 
+  separate(., sampleId, into = c("rep","nReads_simu"))) %>% 
+  select(db,nReads_simu,nReads,covPosRelEntropy1000,taxNameSpecies) %>% 
+  group_by(db,nReads_simu,taxNameSpecies) %>% 
+  summarise(mean_nReads = mean(nReads),
+            std_nReads = sd(nReads),
+            mean_covEntropy = mean(covPosRelEntropy1000),
+            std_covEntropy = sd(covPosRelEntropy1000)) 
+
+tt_df <- bind_rows(decon_simu_parasites %>% 
+  filter(taxNameSpecies == "Trichuris_trichiura") %>% 
+  separate(., sampleId, into = c("rep","nReads_simu")),
+  simu_parasites %>% 
+  filter(taxNameSpecies == "Trichuris_trichiura") %>% 
+  separate(., sampleId, into = c("rep","nReads_simu"))) %>% 
+  select(db,nReads_simu,nReads,covPosRelEntropy1000,taxNameSpecies) %>% 
+  group_by(db,nReads_simu,taxNameSpecies) %>% 
+  summarise(mean_nReads = mean(nReads),
+            std_nReads = sd(nReads),
+            mean_covEntropy = mean(covPosRelEntropy1000),
+            std_covEntropy = sd(covPosRelEntropy1000)) 
+
+ba_df <- bind_rows(decon_simu_parasites %>% 
+  filter(taxNameSpecies == "Baylisascaris_ailuri") %>% 
+  separate(., sampleId, into = c("rep","nReads_simu")),
+  simu_parasites %>% 
+  filter(taxNameSpecies == "Baylisascaris_ailuri") %>% 
+  separate(., sampleId, into = c("rep","nReads_simu"))) %>% 
+  select(db,nReads_simu,nReads,covPosRelEntropy1000,taxNameSpecies) %>% 
+  group_by(db,nReads_simu,taxNameSpecies) %>% 
+  summarise(mean_nReads = mean(nReads),
+            std_nReads = sd(nReads),
+            mean_covEntropy = mean(covPosRelEntropy1000),
+            std_covEntropy = sd(covPosRelEntropy1000)) 
+# bpp_df <- bind_rows(decon_simu_parasites %>% 
+#   filter(taxNameSpecies == "Trichuris_trichiura") %>% 
+#   separate(., sampleId, into = c("rep","nReads_simu")),
+#   simu_parasites %>% 
+#   filter(taxNameSpecies == "Trichuris_trichiura") %>% 
+#   separate(., sampleId, into = c("rep","nReads_simu"))) %>% 
+#   select(db,nReads_simu,nReads,covPosRelEntropy1000,taxNameSpecies) %>% 
+#   group_by(db,nReads_simu,taxNameSpecies) %>% 
+#   summarise(mean_nReads = mean(nReads),
+#             std_nReads = sd(nReads),
+#             mean_covEntropy = mean(covPosRelEntropy1000),
+#             std_covEntropy = sd(covPosRelEntropy1000)) 
+
+bpp_df <- bind_rows(read_tsv("~/Downloads/Parasite Simulation Pathopipe - Decontaminated.Blasto7.tsv") %>% 
+    filter(taxNameSpecies == "Blastocystis_sp._subtype_7") %>% 
+    separate(., sampleId, into = c("rep","nReads_simu")) %>% 
+    mutate(db = "Decontamination") %>% 
+  select(db,nReads_simu, nReads,covPosRelEntropy1000,taxNameSpecies),
+  read_tsv("~/Downloads/Parasite Simulation Pathopipe - Raw.Blasto7.tsv") %>%
+    filter(taxNameSpecies == "Blastocystis_sp._subtype_7") %>% 
+    separate(., sampleId, into = c("rep","nReads_simu")) %>% 
+    mutate(db = "Raw") %>% 
+    select(db,nReads_simu, nReads,covPosRelEntropy1000,taxNameSpecies)) %>% 
+  group_by(db,nReads_simu,taxNameSpecies) %>% 
+  summarise(mean_nReads = mean(nReads),
+            std_nReads = sd(nReads),
+            mean_covEntropy = mean(covPosRelEntropy1000),
+            std_covEntropy = sd(covPosRelEntropy1000)) 
+
+bind_rows(tv_df,tt_df,ba_df,bpp_df) %>% 
+  write_tsv("~/Downloads/Parasites_simulation_target_species_nreads_entropy.tsv")
+```
+
+
+```{r}
+bind_rows(
+  decon_simu_parasites %>% 
+    filter(taxNameSpecies == "Trichuris_trichiura") %>% 
+    separate(sampleId, into = c("rep", "nReads_simu")),
+  simu_parasites %>% 
+    filter(taxNameSpecies == "Trichuris_trichiura") %>% 
+    separate(sampleId, into = c("rep", "nReads_simu"))
+) %>% 
+  select(db, nReads_simu, covPosRelEntropy1000) %>% 
+  group_by(db, nReads_simu) %>% 
+  summarise(
+    mean = mean(covPosRelEntropy1000, na.rm = TRUE),
+    std = sd(covPosRelEntropy1000, na.rm = TRUE),
+    .groups = "drop"
+  ) %>%
+  complete(db, nReads_simu, fill = list(mean = NA, std = 0)) %>%
+  mutate(nReads_simu = factor(nReads_simu, levels = c("0", "100", "1000", "10000", "100000")),
+         db = factor(db, levels = c("Raw", "Decontamination"))) %>%
+  ggplot(aes(x = nReads_simu, y = mean, fill = db)) +
+  geom_bar(position = position_dodge(width = 0.9), stat = "identity", na.rm = TRUE) +
+  geom_errorbar(
+    aes(ymin = mean - std, ymax = mean + std),
+    position = position_dodge(width = 0.9),
+    width = 0.2,
+    na.rm = TRUE
+  ) +
+  scale_fill_manual(values = c("Decontamination" = "#80A6E2", 
+                               "Raw" = "#e3716e")) + 
+  theme_classic() +
+  labs(
+    y = "Coverage evenness entropy 1000", 
+    x = "Number of simulated reads",
+    fill = "Database"
+  ) +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    text = element_text(size = 12)
+  )
+
+```
+
+
+```{r}
+
+bind_rows(
+  decon_simu_parasites %>% 
+    filter(taxNameSpecies == "Baylisascaris_ailuri") %>% 
+    separate(sampleId, into = c("rep", "nReads_simu")),
+  simu_parasites %>% 
+    filter(taxNameSpecies == "Baylisascaris_ailuri") %>% 
+    separate(sampleId, into = c("rep", "nReads_simu"))
+) %>% 
+  select(db, nReads_simu, covPosRelEntropy1000) %>% 
+  group_by(db, nReads_simu) %>% 
+  summarise(
+    mean = mean(covPosRelEntropy1000, na.rm = TRUE),
+    std = sd(covPosRelEntropy1000, na.rm = TRUE),
+    .groups = "drop"
+  ) %>%
+  complete(db, nReads_simu, fill = list(mean = NA, std = 0)) %>%
+  mutate(nReads_simu = factor(nReads_simu, levels = c("0", "100", "1000", "10000", "100000")),
+         db = factor(db, levels = c("Raw", "Decontamination"))) %>%
+  ggplot(aes(x = nReads_simu, y = mean, fill = db)) +
+  geom_bar(position = position_dodge(width = 0.9), stat = "identity", na.rm = TRUE) +
+  geom_errorbar(
+    aes(ymin = mean - std, ymax = mean + std),
+    position = position_dodge(width = 0.9),
+    width = 0.2,
+    na.rm = TRUE
+  ) +
+  scale_fill_manual(values = c("Decontamination" = "#80A6E2", 
+                               "Raw" = "#e3716e")) + 
+  theme_classic() +
+  labs(
+    y = "Coverage evenness entropy 1000", 
+    x = "Number of simulated reads",
+    fill = "Database"
+  ) +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    text = element_text(size = 12)
+  )
+
+
+```
+
+```{r}
+bind_rows(read_tsv("~/Downloads/Parasite Simulation Pathopipe - Decontaminated.Blasto7.tsv") %>% 
+    filter(taxNameSpecies == "Blastocystis_sp._subtype_7") %>% 
+    separate(., sampleId, into = c("rep","nReads_simu")) %>% 
+    mutate(nReads_simu = as.integer(nReads_simu),
+          db = "Decontamination") %>% 
+  select(db,nReads_simu, covPosRelEntropy1000),
+  read_tsv("~/Downloads/Parasite Simulation Pathopipe - Raw.Blasto7.tsv") %>%
+    filter(taxNameSpecies == "Blastocystis_sp._subtype_7") %>% 
+    separate(., sampleId, into = c("rep","nReads_simu")) %>% 
+    mutate(nReads_simu = as.integer(nReads_simu),
+          db = "Raw") %>% 
+    select(db,nReads_simu, covPosRelEntropy1000)) %>% 
+  group_by(db, nReads_simu) %>% 
+  summarise(
+    mean = mean(covPosRelEntropy1000, na.rm = TRUE),
+    std = sd(covPosRelEntropy1000, na.rm = TRUE),
+    .groups = "drop"
+  ) %>%
+  complete(db, nReads_simu, fill = list(mean = NA, std = 0)) %>%
+  mutate(nReads_simu = factor(nReads_simu, levels = c("0", "100", "1000", "10000", "100000")),
+         db = factor(db, levels = c("Raw", "Decontamination"))) %>%
+  ggplot(aes(x = nReads_simu, y = mean, fill = db)) +
+  geom_bar(position = position_dodge(width = 0.9), stat = "identity", na.rm = TRUE) +
+  geom_errorbar(
+    aes(ymin = mean - std, ymax = mean + std),
+    position = position_dodge(width = 0.9),
+    width = 0.2,
+    na.rm = TRUE
+  ) +
+  scale_fill_manual(values = c("Decontamination" = "#80A6E2", 
+                               "Raw" = "#e3716e")) + 
+  theme_classic() +
+  labs(
+    y = "Coverage evenness entropy 1000", 
+    x = "Number of simulated reads",
+    fill = "Database"
+  ) +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    text = element_text(size = 12)
+  )
+```
+```{r}
+library(ggplot2)
+library(dplyr)
+
+# Example data
+df <- data.frame(
+  group = rep(c(0, 100, 1000, 10000), each = 100),
+  value = c(
+    rnorm(100, 0.51, 0.001),     # Group 0
+    rnorm(100, 0.509, 0.001),    # Group 100
+    rnorm(100, 0.511, 0.001),    # Group 1000
+    rnorm(100, 0.5092, 0.001)    # Group 10000
+  )
+)
+ggplot(df, aes(x = value, color = as.factor(group), fill = as.factor(group))) +
+  geom_density(alpha = 0.4) +
+  labs(x = "Density Value", y = "Density", fill = "Group", color = "Group") +
+  theme_minimal()
+```
+
+
+#### length vs depth/bread of coverage
+
+```{r}
+tr_len_cov_decon <- read_tsv("~/Downloads/Trichiura by contig - Decontaminated.tsv") %>% 
+  select(contigId,contigL,coverageAvg,coverageP) %>% 
+  mutate(db = "After Decontamination")
+tr_len_cov_raw <- read_tsv("~/Downloads/Trichiura by contig - Raw.tsv") %>% 
+  select(contigId,contigL,coverageAvg,coverageP) %>% 
+  mutate(db = "Before Decontamination")
+sum(read_tsv("~/Downloads/Trichiura by contig - Decontaminated.tsv")$nReads)
+```
+```{r}
+bind_rows(tr_len_cov_decon,tr_len_cov_raw) %>% 
+  mutate(logContigL = log(contigL, base = 10),
+         db = factor(db, levels = c("Raw","Decontamination"))) %>% 
+  ggplot(.,aes(x = logContigL, y = coverageP, color = db,fill = db)) +
+  geom_point(alpha = 0.5) +
+  facet_wrap(~ db) +
+  ### density plot of the length
+  # ggplot(.,aes(x = logContigL, fill = db)) +
+  # geom_density(alpha=0.4) +
+  scale_color_manual(values=c("#999999", "#E69F00")) +
+  scale_fill_manual(values=c("#999999", "#E69F00")) +
+  theme_classic() +
+  # # scale_x_continuous(limits = c(0, 1), expand = c(0, 0))+
+  # # scale_y_continuous(limits = c(0, 4), expand = c(0, 0)) +
+  labs(x = "log10(contig length)",
+       y = "breadth of coverage",
+       color = "Database",
+       fill = "Database") +
+  # # geom_vline(xintercept = 0.8, colour="#e3716e", linetype = "dashed") +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        text = element_text(size=12))
+```
+
+```{r}
+tr_p <- bind_rows(tr_len_cov_decon,tr_len_cov_raw) %>% 
+  # arrange(desc(coverageAvg)) %>% 
+  mutate(logContigL = log(contigL, base = 10),
+         db = factor(db, levels = c("Before Decontamination","After Decontamination"))) %>% 
+  ggplot(.,aes(x = logContigL, y = coverageAvg, color = db,fill = db)) +
+  geom_point(alpha = 0.7) +
+  facet_wrap(~ db) +
+  ### density plot of the length
+  # ggplot(.,aes(x = logContigL, fill = db)) +
+  # geom_density(alpha=0.4) +
+  scale_color_manual(values=c("#999999", "#E69F00")) +
+  scale_fill_manual(values=c("#999999", "#E69F00")) +
+  theme_bw() +
+  # # scale_x_continuous(limits = c(0, 1), expand = c(0, 0))+
+  # # scale_y_continuous(limits = c(0, 4), expand = c(0, 0)) +
+  labs(x = "log10(contig length)",
+       y = "Depth of coverage",
+       color = "Database",
+       fill = "Database") +
+  # # geom_vline(xintercept = 0.8, colour="#e3716e", linetype = "dashed") +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        text = element_text(size=12),
+        legend.position = "none",
+        strip.background = element_rect(fill = "white", color = NA), 
+        strip.text = element_text(color = "black"))
+
+```
+#### Ascaris_suum
+```{r}
+as_len_cov_decon <- read_tsv("~/Downloads/Ascaris by Contig - Ascaris.Decontaminated.tsv") %>% 
+  select(contigId,contigL,coverageAvg,coverageP,MT) %>% 
+  mutate(db = "After Decontamination")
+as_len_cov_raw <- read_tsv("~/Downloads/Ascaris by Contig - Ascaris.Raw.tsv") %>% 
+  select(contigId,contigL,coverageAvg,coverageP,MT) %>% 
+  mutate(db = "Before Decontamination")
+
+bind_rows(as_len_cov_decon,as_len_cov_raw) %>% 
+  mutate(logContigL = log(contigL, base = 10),
+         # db = factor(db, levels = c("Raw","Decontamination")),
+         Contig = ifelse(MT=="yes","MT","Nuclear")) %>% 
+  ggplot(.,aes(x = logContigL, y = coverageP, color = db,fill = db)) +
+  geom_point(aes(x = logContigL, y = coverageP, color = db,fill = db, shape = Contig),alpha = 0.7) +
+  facet_wrap(~ db) +
+  ### density plot of the length
+  # ggplot(.,aes(x = logContigL, fill = db)) +
+  # geom_density(alpha=0.4) +
+  scale_color_manual(values=c("#999999", "#E69F00")) +
+  scale_fill_manual(values=c("#999999", "#E69F00")) +
+  theme_bw() +
+  # # scale_x_continuous(limits = c(0, 1), expand = c(0, 0))+
+  # # scale_y_continuous(limits = c(0, 4), expand = c(0, 0)) +
+  labs(x = "log10(contig length)",
+       y = "breadth of coverage",
+       color = "Database",
+       fill = "Database") +
+  # # geom_vline(xintercept = 0.8, colour="#e3716e", linetype = "dashed") +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        text = element_text(size=12))
+
+
+as_p <- bind_rows(as_len_cov_decon,as_len_cov_raw) %>% 
+  mutate(logContigL = log(contigL, base = 10),
+         # db = factor(db, levels = c("Raw","Decontamination")),
+         db = factor(db, levels = c("Before Decontamination","After Decontamination")),
+         Contig = factor(ifelse(MT=="yes","MT","Nuclear"), levels = c("Nuclear","MT"))) %>% 
+  ggplot(.,aes(x = logContigL, y = coverageAvg, color = db,fill = db)) +
+  geom_point(aes(x = logContigL, y = coverageAvg, color = db,fill = db, shape = Contig),alpha = 0.7) +
+  facet_wrap(~ db) +
+  ### density plot of the length
+  # ggplot(.,aes(x = logContigL, fill = db)) +
+  # geom_density(alpha=0.4) +
+  scale_color_manual(values=c("#999999", "#E69F00")) +
+  scale_fill_manual(values=c("#999999", "#E69F00")) +
+  theme_bw() +
+  # # scale_x_continuous(limits = c(0, 1), expand = c(0, 0))+
+  # # scale_y_continuous(limits = c(0, 4), expand = c(0, 0)) +
+  labs(x = "log10(contig length)",
+       y = "depth of coverage",
+       color = "Database",
+       fill = "Database") +
+  # # geom_vline(xintercept = 0.8, colour="#e3716e", linetype = "dashed") +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        text = element_text(size=12),
+        legend.position = "none",
+        strip.background = element_rect(fill = "white", color = NA), 
+        strip.text = element_text(color = "black"))
+```
+
+
+```{r}
+tr2612_len_cov_decon <- read_tsv("~/Downloads/Trichuris 2612 - TrichurisDecontaminated.2612.tsv") %>% 
+  select(contigId,contigL,coverageAvg,coverageP,MT) %>% 
+  mutate(db = "After Decontamination")
+tr2612_len_cov_raw <- read_tsv("~/Downloads/Trichuris 2612 - TrichurisRaw.2612.tsv") %>% 
+  select(contigId,contigL,coverageAvg,coverageP,MT) %>% 
+  mutate(db = "Before Decontamination")
+tr2612_p <- bind_rows(tr2612_len_cov_decon,tr2612_len_cov_raw) %>% 
+  mutate(logContigL = log(contigL, base = 10),
+         # db = factor(db, levels = c("Raw","Decontamination")),
+         db = factor(db, levels = c("Before Decontamination","After Decontamination")),
+         Contig = factor(ifelse(MT=="yes","MT","Nuclear"), levels = c("Nuclear","MT"))) %>% 
+  ggplot(.,aes(x = logContigL, y = coverageAvg, color = db,fill = db)) +
+  geom_point(aes(x = logContigL, y = coverageAvg, color = db,fill = db, shape = Contig),alpha = 0.7) +
+  facet_wrap(~ db) +
+  ### density plot of the length
+  # ggplot(.,aes(x = logContigL, fill = db)) +
+  # geom_density(alpha=0.4) +
+  scale_color_manual(values=c("#999999", "#E69F00")) +
+  scale_fill_manual(values=c("#999999", "#E69F00")) +
+  theme_bw() +
+  # # scale_x_continuous(limits = c(0, 1), expand = c(0, 0))+
+  # # scale_y_continuous(limits = c(0, 4), expand = c(0, 0)) +
+  labs(x = "log10(contig length)",
+       y = "depth of coverage",
+       color = "Database",
+       fill = "Database") +
+  # # geom_vline(xintercept = 0.8, colour="#e3716e", linetype = "dashed") +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        text = element_text(size=12),
+        legend.position = "none",
+        strip.background = element_rect(fill = "white", color = NA), 
+        strip.text = element_text(color = "black"))
+# ggsave(plot = tr2612_p, filename = "depth_of_coverage_Tr2612.pdf", width = 4, height = 3)
+
+```
+#### edit distance plot
+```{r}
+tr_ed_decon <- read_tsv("Input/Trichuris_2604_Decontaminated.tsv") %>% 
+  mutate(db = "After Decontamination") %>% 
+  rename("editDist" = "Mismatch") %>% 
+  filter(taxNameSpecies == "Trichuris_trichiura")
+tr_ed_raw <- read_tsv("Input/Trichuris_2604_Raw.tsv") %>% 
+  mutate(db = "Before Decontamination") %>% 
+  rename("editDist" = "Mismatch") %>% 
+  filter(taxNameSpecies == "Trichuris_trichiura")
+
+tr_ed_total_sums <- bind_rows(tr_ed_decon, tr_ed_raw) %>%
+  group_by(db) %>%
+  summarize(sum_n = sum(n), .groups = "drop")
+
+tr_ed_df <- bind_rows(tr_ed_decon, tr_ed_raw) %>%
+  mutate(db = factor(db, levels = c("Before Decontamination", "After Decontamination"))) 
+tr_ed_p <- ggplot(tr_ed_df) +
+  geom_line(aes(x = Mismatch, y = n, color = db, linetype = db)) +
+  geom_point(aes(x = Mismatch, y = n, color = db, shape = db)) +
+  scale_color_manual(values = c('#999999', '#E69F00'), name = NULL) +
+  scale_shape_manual(values = c(16, 17),name = NULL) +
+  scale_linetype_manual(values = c("solid","dashed"), name = NULL)+
+  theme_bw() +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    text = element_text(size=12),
+    legend.position = c(0.95, .95), # Move legend to bottom-right
+    legend.justification = c(.95, .95) # Align legend to bottom-right
+  ) +
+  xlab("Number of Mismatches") +
+  ylab("Number of reads") +
+  scale_x_continuous(limits = c(0, 7), breaks = 0:7)+
+  # Add annotations in the bottom-left corner
+  annotate("text", x = 0, y = 5000, label = paste(format(tr_ed_total_sums$sum_n[2],big.mark = ","), " reads"), hjust = 0, vjust = 0, color = '#999999') +
+  annotate("text", x = 0, y = 3000, label = paste(format(tr_ed_total_sums$sum_n[1],big.mark = ",")," reads"), hjust = 0, vjust = 0, color = '#E69F00')
+```
+
+```{r}
+tr2612_ed_decon <- read_tsv("Input/Trichuris_Hallstatt_Decontaminated_ED.tsv") %>% 
+  mutate(db = "After Decontamination") %>% 
+  rename("editDist" = "Mismatch") %>% 
+  filter(taxNameSpecies == "Trichuris_trichiura")
+tr2612_ed_raw <- read_tsv("Input/Trichuris_Hallstatt_Raw_ED.tsv") %>% 
+  mutate(db = "Before Decontamination") %>% 
+  rename("editDist" = "Mismatch") %>% 
+  filter(taxNameSpecies == "Trichuris_trichiura")
+
+tr2612_ed_total_sums <- bind_rows(tr2612_ed_decon, tr2612_ed_raw) %>%
+  group_by(db) %>%
+  summarize(sum_n = sum(n), .groups = "drop")
+
+tr2612_ed_df <- bind_rows(tr2612_ed_decon, tr2612_ed_raw) %>%
+  mutate(db = factor(db, levels = c("Before Decontamination", "After Decontamination"))) 
+tr2612_ed_p <- ggplot(tr2612_ed_df) +
+  geom_line(aes(x = Mismatch, y = n, color = db, linetype = db)) +
+  geom_point(aes(x = Mismatch, y = n, color = db, shape = db)) +
+  scale_color_manual(values = c('#999999', '#E69F00'), name = NULL) +
+  scale_shape_manual(values = c(16, 17),name = NULL) +
+  scale_linetype_manual(values = c("solid","dashed"), name = NULL)+
+  theme_bw() +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    text = element_text(size=12),
+    legend.position = c(0.95, 0.95), # Move legend to bottom-right
+    legend.justification = c(0.95, 0.95) # Align legend to bottom-right
+  ) +
+  xlab("Number of Mismatches") +
+  ylab("Number of reads") +
+  scale_x_continuous(limits = c(0, 7), breaks = 0:7) +
+  # Add annotations in the bottom-left corner
+  annotate("text", x = 0, y = 1000, label = paste(format(tr2612_ed_total_sums$sum_n[2],big.mark = ","), " reads"), hjust = 0, vjust = 0, color = '#999999') +
+  annotate("text", x = 0, y = 500, label = paste(format(tr2612_ed_total_sums$sum_n[1],big.mark = ",")," reads"), hjust = 0, vjust = 0, color = '#E69F00')
+
+```
+
+```{r}
+as_ed_decon <- read_tsv("Input/Ascaris_Hallstatt_Decontaminated_ED.tsv") %>%
+  mutate(db = "After Decontamination") %>% 
+  rename("editDist" = "Mismatch") %>% 
+  filter(taxNameSpecies == "Ascaris_suum")
+as_ed_raw <- read_tsv("Input/Ascaris_Hallstatt_Raw_ED.tsv") %>% 
+  mutate(db = "Before Decontamination") %>% 
+  rename("editDist" = "Mismatch") %>% 
+  filter(taxNameSpecies == "Ascaris_suum")
+
+as_ed_total_sums <- bind_rows(as_ed_decon, as_ed_raw) %>%
+  group_by(db) %>%
+  summarize(sum_n = sum(n), .groups = "drop")
+
+as_ed_df <- bind_rows(as_ed_decon, as_ed_raw) %>%
+  mutate(db = factor(db, levels = c("Before Decontamination", "After Decontamination"))) 
+as_ed_p <- ggplot(as_ed_df) +
+  geom_line(aes(x = Mismatch, y = n, color = db, linetype = db)) +
+  geom_point(aes(x = Mismatch, y = n, color = db, shape = db)) +
+  scale_color_manual(values = c('#999999', '#E69F00'), name = NULL) +
+  scale_shape_manual(values = c(16, 17),name = NULL) +
+  scale_linetype_manual(values = c("solid","dashed"), name = NULL)+
+  theme_bw() +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    text = element_text(size=12),
+    legend.position = c(0.95, 0.95), # Move legend to bottom-right
+    legend.justification = c(0.95, 0.95) # Align legend to bottom-right
+  ) +
+  xlab("Number of Mismatches") +
+  ylab("Number of reads") +
+  scale_x_continuous(limits = c(0, 7), breaks = 0:7) +
+  # Add annotations in the bottom-left corner
+  annotate("text", x = 0, y = 2500, label = paste(format(as_ed_total_sums$sum_n[2],big.mark = ","), " reads"), hjust = 0, vjust = 0, color = '#999999') +
+  annotate("text", x = 0, y = 1500, label = paste(format(as_ed_total_sums$sum_n[1],big.mark = ",")," reads"), hjust = 0, vjust = 0, color = '#E69F00')
+```
+```{r}
+ggarrange(as_ed_p,  
+          tr_ed_p,  
+          tr2612_ed_p,
+          ncol = 1,
+          labels = c("a", "b", "c"))
+ggsave("Supp_Figure5A.pdf", width = 7, height = 15)
+
+ggarrange(as_p,  
+          tr_p,  
+          tr2612_p,
+          ncol = 1)
+ggsave("Supp_Figure5B.pdf", width = 7, height = 15.7)
+```
+

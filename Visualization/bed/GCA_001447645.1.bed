@@ -1,0 +1,30 @@
+JYDV01000088.1	23587	24698	172077	FIX	plnt:plants	34	n/a
+JYDV01000425.1	1	1472	1472	EXCLUDE	virs:prokaryotic viruses	22	n/a
+JYDV01000624.1	1	949	949	EXCLUDE	anml:rodents	96	Mus musculus
+JYDV01000927.1	1	654	654	EXCLUDE	anml:rodents	75	Mus musculus
+JYDV01000950.1	1	642	642	EXCLUDE	anml:rodents	64	Mus musculus
+JYDV01000956.1	1	640	640	EXCLUDE	virs:eukaryotic viruses	55	n/a
+JYDV01001336.1	1	508	508	EXCLUDE	prok:CFB group bacteria	100	Hydrotalea sp. AMD
+JYDV01001341.1	1	507	507	EXCLUDE	prok:CFB group bacteria	100	Hydrotalea sp. AMD
+JYDV01001363.1	1	499	499	EXCLUDE	prok:CFB group bacteria	100	Hydrotalea sp. AMD
+JYDV01001735.1	1	458	458	EXCLUDE	anml:rodents	68	Mus musculus
+JYDV01001877.1	1	445	445	EXCLUDE	prok:CFB group bacteria	100	Hydrotalea sp. AMD
+JYDV01002244.1	1	417	417	EXCLUDE	prok:CFB group bacteria	100	Hydrotalea sp. AMD
+JYDV01002414.1	1	404	404	EXCLUDE	anml:mammals	85	Canis lupus
+JYDV01002647.1	1	389	389	EXCLUDE	prok:a-proteobacteria	100	Mesorhizobium silamurunense
+JYDV01002708.1	1	385	385	EXCLUDE	anml:rodents	100	Mus musculus
+JYDV01002712.1	1	385	385	EXCLUDE	virs:prokaryotic viruses	21	n/a
+JYDV01002787.1	1	380	380	EXCLUDE	virs:eukaryotic viruses	60	n/a
+JYDV01002844.1	1	377	377	EXCLUDE	virs:prokaryotic viruses	45	n/a
+JYDV01002915.1	1	373	373	EXCLUDE	virs:prokaryotic viruses	48	n/a
+JYDV01002994.1	1	368	368	EXCLUDE	anml:rodents	100	Mus musculus
+JYDV01003114.1	1	360	360	EXCLUDE	anml:rodents	100	Mus musculus
+JYDV01003300.1	1	349	349	EXCLUDE	anml:rodents	83	Mus musculus
+JYDV01003389.1	1	344	344	EXCLUDE	anml:rodents	98	Mus musculus
+JYDV01003671.1	1	327	327	EXCLUDE	anml:rodents	100	Mus musculus
+JYDV01003768.1	1	322	322	EXCLUDE	virs:prokaryotic viruses	50	n/a
+JYDV01003857.1	1	316	316	EXCLUDE	anml:rodents	96	Mus musculus
+JYDV01003919.1	1	311	311	EXCLUDE	anml:rodents	98	Mus musculus
+JYDV01004188.1	1	298	298	EXCLUDE	anml:rodents	100	Mus musculus
+JYDV01004929.1	1	264	264	EXCLUDE	virs:prokaryotic viruses	32	n/a
+JYDV01005959.1	1	222	222	EXCLUDE	anml:rodents	98	Mus musculus

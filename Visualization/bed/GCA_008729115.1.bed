@@ -1,0 +1,10 @@
+SNRZ01000060.1	1	424977	424977	EXCLUDE	prok:a-proteobacteria	98	Wolbachia endosymbiont of Dirofilaria (Dirofilaria) immitis
+SNRZ01000108.1	1	239829	239829	EXCLUDE	prok:a-proteobacteria	98	Wolbachia endosymbiont of Dirofilaria (Dirofilaria) immitis
+SNRZ01000191.1	1	101140	101140	EXCLUDE	prok:a-proteobacteria	100	Wolbachia endosymbiont of Dirofilaria (Dirofilaria) immitis
+SNRZ01000310.1	1	31873	31873	EXCLUDE	prok:a-proteobacteria	97	Wolbachia endosymbiont of Dirofilaria (Dirofilaria) immitis
+SNRZ01000353.1	1	26517	26517	EXCLUDE	prok:a-proteobacteria	100	Wolbachia endosymbiont of Dirofilaria (Dirofilaria) immitis
+SNRZ01000408.1	1	22328	22328	EXCLUDE	prok:a-proteobacteria	96	Wolbachia endosymbiont of Dirofilaria (Dirofilaria) immitis
+SNRZ01000427.1	3750	6193	21699	FIX	fung:chytrids	50	Neocallimastix sp. JGI-2020a
+SNRZ01000461.1	1	1626	20354	TRIM	fung:fungi	18	n/a
+SNRZ01000670.1	1200	1994	13903	FIX	fung:budding yeasts	67	Alloascoidea hylecoeti
+SNRZ01000698.1	10890	11397	12615	FIX	prok:firmicutes	81	n/a

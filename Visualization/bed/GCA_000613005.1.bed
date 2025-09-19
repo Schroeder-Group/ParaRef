@@ -1,0 +1,148 @@
+HG805940.1	1	122212	122212	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG806103.1	1	62236	62236	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG806148.1	1	57338	57338	EXCLUDE	prok:firmicutes	98	Enterococcus avium
+HG806199.1	1	51682	51682	EXCLUDE	prok:firmicutes	92	Enterococcus avium
+HG806221.1	1	48931	48931	EXCLUDE	prok:firmicutes	100	Enterococcus avium
+HG806248.1	1	46215	46215	EXCLUDE	prok:g-proteobacteria	98	Escherichia coli
+HG806257.1	1	45417	45417	EXCLUDE	prok:g-proteobacteria	100	Escherichia sp.
+HG806322.1	1	39754	39754	EXCLUDE	prok:firmicutes	97	Enterococcus avium
+HG806352.1	1	37415	37415	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG806403.1	1	34093	34093	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG806414.1	1	32730	32730	EXCLUDE	prok:firmicutes	100	Enterococcus avium
+HG806438.1	1	31249	31249	EXCLUDE	prok:firmicutes	100	Enterococcus avium
+HG806470.1	1	29369	29369	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG806471.1	1	29291	29291	EXCLUDE	prok:firmicutes	100	Streptococcus gallolyticus
+HG806488.1	1	28142	28142	EXCLUDE	prok:g-proteobacteria	100	Escherichia sp.
+HG806491.1	1	27896	27896	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG806494.1	1	27801	27801	EXCLUDE	prok:g-proteobacteria	100	Shigella dysenteriae 1
+HG806503.1	1	26969	26969	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG806537.1	1	25020	25020	EXCLUDE	prok:firmicutes	100	Enterococcus avium
+HG806540.1	1	24842	24842	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG806548.1	1	24641	24641	EXCLUDE	prok:firmicutes	100	Enterococcus avium
+HG806575.1	1	23275	23275	EXCLUDE	prok:g-proteobacteria	96	Shigella flexneri 2a
+HG806590.1	1	22544	22544	EXCLUDE	prok:firmicutes	98	Enterococcus avium
+HG806591.1	1	22530	22530	EXCLUDE	prok:firmicutes	100	Enterococcus avium
+HG806609.1	1	21765	21765	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG806640.1	1	20617	20617	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG806647.1	1	20197	20197	EXCLUDE	prok:firmicutes	100	Enterococcus avium
+HG806650.1	1	20139	20139	EXCLUDE	prok:firmicutes	100	Enterococcus avium
+HG806652.1	1	20076	20076	EXCLUDE	prok:firmicutes	100	Enterococcus avium
+HG806655.1	1	20001	20001	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG806676.1	1	18985	18985	EXCLUDE	prok:g-proteobacteria	96	Escherichia fergusonii
+HG806704.1	1	18103	18103	EXCLUDE	prok:firmicutes	100	Enterococcus avium
+HG806712.1	1	17929	17929	EXCLUDE	prok:g-proteobacteria	100	Escherichia ruysiae
+HG806715.1	1	17835	17835	EXCLUDE	prok:firmicutes	100	Enterococcus avium
+HG806723.1	1	17587	17587	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG806735.1	1	17258	17258	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG806754.1	1	16690	16690	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG806762.1	1	16364	16364	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG806773.1	1	16135	16135	EXCLUDE	prok:g-proteobacteria	95	Escherichia sp.
+HG806780.1	1	15894	15894	EXCLUDE	prok:firmicutes	100	Enterococcus avium
+HG806782.1	1	15858	15858	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG806792.1	1	15500	15500	EXCLUDE	prok:firmicutes	100	Enterococcus avium
+HG806808.1	1	15128	15128	EXCLUDE	prok:firmicutes	99	Enterococcus avium
+HG806819.1	1	14871	14871	EXCLUDE	prok:g-proteobacteria	100	Shigella dysenteriae 1
+HG806847.1	1	14501	14501	EXCLUDE	prok:firmicutes	71	Enterococcus avium
+HG806874.1	1	13853	13853	EXCLUDE	virs:prokaryotic viruses	79	Enterobacteria phage phiP27
+HG806893.1	1	13585	13585	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG806896.1	1	13575	13575	EXCLUDE	prok:firmicutes	100	Enterococcus avium
+HG806911.1	1	13301	13301	EXCLUDE	virs:prokaryotic viruses	75	Escherichia phage Ayreon
+HG806933.1	1	12880	12880	EXCLUDE	prok:firmicutes	95	Enterococcus avium
+HG806937.1	1	12802	12802	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG806945.1	1	12692	12692	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG806954.1	1	12572	12572	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG806959.1	1	12401	12401	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG806966.1	1	12287	12287	EXCLUDE	prok:g-proteobacteria	100	Escherichia sp.
+HG806995.1	1	11861	11861	EXCLUDE	prok:g-proteobacteria	100	Escherichia sp.
+HG807003.1	1	11716	11716	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG807015.1	1	11574	11574	EXCLUDE	prok:g-proteobacteria	97	Escherichia coli
+HG807035.1	1	11128	11128	EXCLUDE	prok:firmicutes	100	Enterococcus avium
+HG807072.1	1	10553	10553	EXCLUDE	prok:g-proteobacteria	100	Escherichia sp.
+HG807090.1	1	10315	10315	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG807097.1	1	10265	10265	EXCLUDE	prok:firmicutes	96	Enterococcus avium
+HG807099.1	1	10211	10211	EXCLUDE	prok:firmicutes	100	Enterococcus avium
+HG807116.1	1	10042	10042	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG807121.1	1	9970	9970	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG807125.1	1	9928	9928	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG807131.1	1	9889	9889	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG807141.1	1	9767	9767	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG807171.1	1	9351	9351	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG807181.1	1	9254	9254	EXCLUDE	prok:firmicutes	66	Enterococcus avium
+HG807188.1	1	9081	9081	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG807220.1	1	8812	8812	EXCLUDE	prok:firmicutes	100	Enterococcus avium
+HG807240.1	1	8613	8613	EXCLUDE	prok:g-proteobacteria	100	Escherichia sp.
+HG807241.1	1	8606	8606	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG807267.1	1	8324	8324	EXCLUDE	prok:g-proteobacteria	100	Escherichia sp.
+HG807269.1	1	8293	8293	EXCLUDE	prok:g-proteobacteria	100	Salmonella enterica subsp. enterica
+HG807272.1	1	8252	8252	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG807292.1	1	7986	7986	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG807306.1	1	7792	7792	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG807312.1	1	7749	7749	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG807324.1	1	7622	7622	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG807329.1	1	7578	7578	EXCLUDE	prok:g-proteobacteria	100	Escherichia ruysiae
+HG807331.1	1	7555	7555	EXCLUDE	prok:firmicutes	94	Enterococcus avium
+HG807343.1	1	7376	7376	EXCLUDE	prok:g-proteobacteria	100	Escherichia sp.
+HG807368.1	1	7175	7175	EXCLUDE	prok:g-proteobacteria	100	Salmonella enterica subsp. enterica serovar Paratyphi B
+HG807372.1	1	7125	7125	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG807393.1	1	6969	6969	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG807397.1	1	6945	6945	EXCLUDE	prok:firmicutes	83	Enterococcus avium
+HG807407.1	1	6876	6876	EXCLUDE	prok:firmicutes	100	Streptococcus sp. LMAG:39
+HG807408.1	1	6876	6876	EXCLUDE	prok:firmicutes	100	Enterococcus avium
+HG807413.1	1	6830	6830	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG807431.1	1	6683	6683	EXCLUDE	prok:firmicutes	100	Enterococcus avium
+HG807435.1	1	6655	6655	EXCLUDE	prok:g-proteobacteria	97	Shigella sonnei
+HG807459.1	1	6413	6413	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG807466.1	1	6353	6353	EXCLUDE	prok:firmicutes	100	Enterococcus avium
+HG807469.1	1	6295	6295	EXCLUDE	prok:firmicutes	100	Enterococcus hulanensis
+HG807483.1	1	6218	6218	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG807495.1	1	6128	6128	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG807497.1	1	6107	6107	EXCLUDE	prok:g-proteobacteria	86	Escherichia albertii
+HG807531.1	1	5867	5867	EXCLUDE	prok:firmicutes	100	Enterococcus avium
+HG807537.1	1	5792	5792	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG807562.1	1	5669	5669	EXCLUDE	prok:g-proteobacteria	100	Shigella sonnei
+HG807586.1	1	5490	5490	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG807606.1	1	5313	5313	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli
+HG807652.1	1	5025	5025	EXCLUDE	prok:g-proteobacteria	100	Escherichia fergusonii
+HG807667.1	1	4901	4901	EXCLUDE	prok:firmicutes	67	Enterococcus avium
+HG807678.1	1	4832	4832	EXCLUDE	prok:firmicutes	100	Enterococcus avium
+HG807691.1	1	4789	4789	EXCLUDE	prok:CFB group bacteria	100	Prevotella copri
+HG807710.1	1	4693	4693	EXCLUDE	prok:g-proteobacteria	41	Shigella sp. MO17
+HG807726.1	1	4625	4625	EXCLUDE	virs:prokaryotic viruses	100	Escherichia ruysiae
+HG807736.1	1	4576	4576	EXCLUDE	prok:firmicutes	100	Faecalibacterium longum
+HG807748.1	1	4509	4509	EXCLUDE	virs:prokaryotic viruses	75	Succinatimonas sp.
+HG807755.1	1	4488	4488	EXCLUDE	prok:g-proteobacteria	100	Shigella flexneri 5a str. M90T
+HG807798.1	1	4291	4291	EXCLUDE	prok:g-proteobacteria	100	Pluralibacter sp.
+HG807866.1	1	4046	4046	EXCLUDE	prok:firmicutes	100	Enterococcus avium
+HG807892.1	1	3937	3937	EXCLUDE	prok:firmicutes	100	Faecalibacterium sp. LMAG:44
+HG807952.1	1	3758	3758	EXCLUDE	prok:g-proteobacteria	97	Escherichia coli ED1a
+HG807988.1	1	3642	3642	EXCLUDE	virs:prokaryotic viruses	71	Burzaovirus intestinihominis
+HG808059.1	1	3443	3443	EXCLUDE	prok:firmicutes	64	Enterococcus avium
+HG808088.1	1	3366	3366	EXCLUDE	prok:firmicutes	100	Streptococcus sp. LMAG:39
+HG808119.1	1	3261	3261	EXCLUDE	prok:firmicutes	80	Enterococcus raffinosus
+HG808127.1	1	3243	3243	EXCLUDE	prok:firmicutes	92	Eubacterium sp. UNK.MGS-25
+HG808189.1	1	3055	3055	EXCLUDE	prok:firmicutes	100	Enterococcus avium
+HG808199.1	1	3018	3018	EXCLUDE	prok:g-proteobacteria	62	Succinatimonas sp.
+HG808340.1	1	2654	2654	EXCLUDE	prok:firmicutes	64	Phocea massiliensis
+HG808348.1	1	2625	2625	EXCLUDE	prok:g-proteobacteria	100	Salmonella enterica subsp. enterica serovar Wien
+HG808398.1	1	2515	2515	EXCLUDE	prok:g-proteobacteria	76	Shigella flexneri 4c
+HG808472.1	1	2340	2340	EXCLUDE	prok:firmicutes	47	Ruminococcus sp. Zagget11
+HG808571.1	1	2172	2172	EXCLUDE	prok:firmicutes	100	Vescimonas coprocola
+HG808601.1	1	2112	2112	EXCLUDE	prok:g-proteobacteria	96	Succinivibrio dextrinosolvens
+HG808613.1	1	2094	2094	EXCLUDE	prok:firmicutes	100	Vescimonas coprocola
+HG808646.1	1	2052	2052	EXCLUDE	prok:firmicutes	100	Vescimonas coprocola
+HG808808.1	1	1821	1821	EXCLUDE	prok:firmicutes	94	Dialister succinatiphilus
+HG808843.1	1	1767	1767	EXCLUDE	prok:g-proteobacteria	100	Shigella sonnei
+HG809117.1	1	1430	1430	EXCLUDE	prok:firmicutes	93	Faecalibacillus faecis
+HG809210.1	1	1329	1329	EXCLUDE	prok:firmicutes	79	Oscillibacter sp. ER4
+HG809231.1	1	1307	1307	EXCLUDE	prok:firmicutes	98	Catenibacterium mitsuokai
+HG809356.1	1	1183	1183	EXCLUDE	prok:firmicutes	100	Faecalibacillus intestinalis
+HG809401.1	1	1123	1123	EXCLUDE	prok:firmicutes	96	Streptococcus gallolyticus
+HG809410.1	1	1116	1116	EXCLUDE	prok:firmicutes	100	Faecalibacillus faecis
+HG809417.1	1	1112	1112	EXCLUDE	prok:g-proteobacteria	100	Salmonella enterica subsp. enterica serovar Infantis
+HG809444.1	1	1081	1081	EXCLUDE	prok:firmicutes	100	Faecalibacillus faecis
+HG809454.1	1	1071	1071	EXCLUDE	prok:firmicutes	49	[Clostridium] scindens
+HG809618.1	1	890	890	EXCLUDE	prok:firmicutes	86	Vescimonas coprocola
+HG809776.1	1	693	693	EXCLUDE	prok:firmicutes	100	Clostridium ammoniilyticum
+HG809790.1	1	676	676	EXCLUDE	prok:g-proteobacteria	100	Escherichia coli O157:H7 str. Sakai
+HG809920.1	1	356	356	EXCLUDE	prok:firmicutes	81	Candidatus Egerieimonas intestinavium
+HG809928.1	1	322	322	EXCLUDE	prok:firmicutes	35	Faecalibacterium sp. LMAG:44

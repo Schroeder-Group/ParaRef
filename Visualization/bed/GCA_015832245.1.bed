@@ -1,0 +1,55 @@
+SBJO01000122.1	1	2665	17012	TRIM	anml:rodents	18	n/a
+SBJO01000518.1	1	4472	4472	EXCLUDE	anml:rotifers	58	Macrotrachela quadricornifera
+SBJO01000598.1	1	3534	3534	EXCLUDE	anml:rotifers	69	Rotaria macrura
+SBJO01000602.1	1	3518	3518	EXCLUDE	anml:rotifers	90	Macrotrachela quadricornifera
+SBJO01000605.1	1	3488	3488	EXCLUDE	anml:rotifers	86	Adineta vaga
+SBJO01000614.1	1	3405	3405	EXCLUDE	anml:rotifers	70	Macrotrachela quadricornifera
+SBJO01000616.1	1	3383	3383	EXCLUDE	anml:rotifers	73	Macrotrachela quadricornifera
+SBJO01000618.1	1	3366	3366	EXCLUDE	anml:rotifers	50	Rotaria magnacalcarata
+SBJO01000649.1	1	3025	3025	EXCLUDE	anml:rotifers	100	Rotaria sp. Silwood1
+SBJO01000694.1	1	2734	2734	EXCLUDE	anml:rotifers	100	Macrotrachela quadricornifera
+SBJO01000719.1	1	2582	2582	EXCLUDE	anml:rotifers	55	Macrotrachela quadricornifera
+SBJO01000734.1	1	2521	2521	EXCLUDE	anml:rotifers	52	Macrotrachela quadricornifera
+SBJO01000737.1	1	2504	2504	EXCLUDE	anml:rotifers	100	Rotaria socialis
+SBJO01000773.1	1	2288	2288	EXCLUDE	anml:rotifers	66	Rotaria sp. Silwood2
+SBJO01000784.1	1	2191	2191	EXCLUDE	anml:rotifers	66	Rotaria sp. Silwood2
+SBJO01000785.1	1	2186	2186	EXCLUDE	anml:rotifers	75	Rotaria sp. Silwood2
+SBJO01000800.1	1	2086	2086	EXCLUDE	anml:rotifers	66	Rotaria sp. Silwood2
+SBJO01000807.1	1	2055	2055	EXCLUDE	anml:rotifers	100	Macrotrachela quadricornifera
+SBJO01000816.1	1	2014	2014	EXCLUDE	anml:rotifers	100	Adineta ricciae
+SBJO01000843.1	1	1885	1885	EXCLUDE	anml:rotifers	60	Rotaria sp. Silwood1
+SBJO01000851.1	1	1851	1851	EXCLUDE	anml:rotifers	79	Rotaria magnacalcarata
+SBJO01000852.1	1	1848	1848	EXCLUDE	anml:rotifers	85	Rotaria sp. Silwood2
+SBJO01000876.1	1	1768	1768	EXCLUDE	anml:rotifers	100	Macrotrachela quadricornifera
+SBJO01000879.1	1	1755	1755	EXCLUDE	prok:CFB group bacteria	97	Chryseobacterium mucoviscidosis
+SBJO01000910.1	1	1614	1614	EXCLUDE	anml:rotifers	100	Rotaria sordida
+SBJO01000911.1	1	1613	1613	EXCLUDE	anml:rotifers	97	Macrotrachela quadricornifera
+SBJO01000915.1	1	1604	1604	EXCLUDE	anml:rotifers	77	Rotaria sp. Silwood1
+SBJO01000954.1	1	1499	1499	EXCLUDE	anml:rotifers	83	Rotaria sp. Silwood1
+SBJO01000967.1	1	1474	1474	EXCLUDE	anml:rotifers	88	Macrotrachela quadricornifera
+SBJO01001054.1	1	1244	1244	EXCLUDE	anml:rotifers	98	Rotaria sp. Silwood2
+SBJO01001058.1	1	1238	1238	EXCLUDE	anml:rotifers	100	Rotaria sp. Silwood2
+SBJO01001082.1	1	1191	1191	EXCLUDE	anml:rotifers	95	Macrotrachela quadricornifera
+SBJO01001117.1	1	1106	1106	EXCLUDE	anml:rotifers	78	Rotaria sp. Silwood2
+SBJO01001140.1	1	1063	1063	EXCLUDE	anml:rotifers	87	Rotaria socialis
+SBJO01001153.1	1	1049	1049	EXCLUDE	anml:rotifers	58	Rotaria sp. Silwood2
+SBJO01001196.1	1	975	975	EXCLUDE	anml:rotifers	96	Rotaria macrura
+SBJO01001243.1	1	911	911	EXCLUDE	anml:rotifers	97	Adineta vaga
+SBJO01001253.1	1	901	901	EXCLUDE	anml:rotifers	86	Rotaria socialis
+SBJO01001258.1	1	893	893	EXCLUDE	prst:alveolates	100	Euplotes woodruffi
+SBJO01001291.1	1	854	854	EXCLUDE	anml:rotifers	76	Rotaria socialis
+SBJO01001304.1	1	834	834	EXCLUDE	anml:rotifers	95	Macrotrachela quadricornifera
+SBJO01001370.1	1	771	771	EXCLUDE	anml:rotifers	59	Rotaria sp. Silwood1
+SBJO01001416.1	1	727	727	EXCLUDE	anml:rotifers	75	Rotaria sp. Silwood1
+SBJO01001445.1	1	700	700	EXCLUDE	anml:rotifers	96	Macrotrachela quadricornifera
+SBJO01001484.1	1	670	670	EXCLUDE	anml:rotifers	100	Rotaria sordida
+SBJO01001534.1	1	625	625	EXCLUDE	anml:rotifers	86	Macrotrachela quadricornifera
+SBJO01001549.1	1	616	616	EXCLUDE	anml:rotifers	96	Rotaria sordida
+SBJO01001565.1	1	604	604	EXCLUDE	anml:rotifers	91	Rotaria magnacalcarata
+SBJO01001566.1	1	604	604	EXCLUDE	anml:rotifers	100	Rotaria macrura
+SBJO01001622.1	1	565	565	EXCLUDE	anml:rotifers	97	Rotaria sp. Silwood1
+SBJO01001645.1	1	547	547	EXCLUDE	anml:rotifers	72	Rotaria sordida
+SBJO01001665.1	1	533	533	EXCLUDE	anml:rotifers	100	Rotaria magnacalcarata
+SBJO01001699.1	1	519	519	EXCLUDE	anml:rotifers	93	Macrotrachela quadricornifera
+SBJO01001705.1	1	516	516	EXCLUDE	anml:rotifers	69	Rotaria sp. Silwood1
+SBJO01001743.1	1	504	504	EXCLUDE	anml:rotifers	88	Adineta vaga

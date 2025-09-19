@@ -1,0 +1,12 @@
+SWDT01000086.1	433554	434367	434367	TRIM	fung:ascomycetes	31	n/a
+SWDT01000771.1	1	4672	4672	EXCLUDE	prok:a-proteobacteria	85	Brucella anthropi
+SWDT01000777.1	1	3082	3082	EXCLUDE	prok:a-proteobacteria	98	Brucella anthropi
+SWDT01000807.1	1	9048	9048	EXCLUDE	prok:a-proteobacteria	100	Brucella cytisi
+SWDT01000877.1	1	7565	7565	EXCLUDE	prok:a-proteobacteria	100	Brucella anthropi
+SWDT01000010.1	1001015	1003449	1084844	FIX	plnt:plants	34	Papaver somniferum
+SWDT01000028.1	1	811	297783	TRIM	plnt:plants	79	Arachis hypogaea
+SWDT01000045.1	4023	7257	443128	FIX	prst:alveolates	53	Paramecium sonneborni
+SWDT01000489.1	8552	10655	40256	FIX	fung:fungi	41	Gigaspora margarita
+SWDT01000060.1	1	2522	477057	TRIM	plnt:plants	47	Arachis hypogaea
+SWDT01000585.1	1	12589	12589	EXCLUDE	prok:a-proteobacteria	51	Brucella anthropi
+SWDT01000603.1	1	7635	7635	EXCLUDE	prok:a-proteobacteria	100	Brucella tritici

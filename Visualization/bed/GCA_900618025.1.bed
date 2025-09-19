@@ -1,0 +1,1187 @@
+UZAG01000001.1	1	40538	40538	EXCLUDE	virs:prokaryotic viruses	32	Bordetella phage BMP-1
+UZAG01000125.1	1	6836	6836	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01000489.1	1	4268	4268	EXCLUDE	anml:insects	44	Ericerus pela
+UZAG01000528.1	1	4147	4147	EXCLUDE	anml:insects	30	Ericerus pela
+UZAG01000531.1	1	4139	4139	EXCLUDE	anml:insects	66	Ericerus pela
+UZAG01000533.1	1	4135	4135	EXCLUDE	prok:b-proteobacteria	78	Variovorax guangxiensis
+UZAG01000635.1	1	3858	3858	EXCLUDE	prok:g-proteobacteria	98	Pseudomonas allii
+UZAG01000637.1	1	3856	3856	EXCLUDE	prok:b-proteobacteria	19	Variovorax beijingensis
+UZAG01000689.1	1	3742	3742	EXCLUDE	prok:b-proteobacteria	77	Massilia violaceinigra
+UZAG01000746.1	1	3603	3603	EXCLUDE	anml:insects	94	Aedes aegypti
+UZAG01001058.1	1	3143	3143	EXCLUDE	prok:b-proteobacteria	55	Variovorax beijingensis
+UZAG01001120.1	1	3064	3064	EXCLUDE	anml:insects	100	Aedes aegypti
+UZAG01001147.1	1	3030	3030	EXCLUDE	anml:insects	100	Aedes albopictus
+UZAG01001196.1	1	2966	2966	EXCLUDE	anml:insects	62	Ericerus pela
+UZAG01001269.1	1	2879	2879	EXCLUDE	anml:insects	100	Ericerus pela
+UZAG01001427.1	1	2711	2711	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01001471.1	1	2668	2668	EXCLUDE	anml:insects	57	Ericerus pela
+UZAG01001681.1	1	2474	2474	EXCLUDE	prok:b-proteobacteria	19	Hydrogenophaga sp.
+UZAG01001720.1	1	2443	2443	EXCLUDE	anml:insects	39	Ericerus pela
+UZAG01001774.1	1	2401	2401	EXCLUDE	anml:rodents	100	Mus musculus
+UZAG01001815.1	1	2373	2373	EXCLUDE	prok:b-proteobacteria	76	Variovorax ginsengisoli
+UZAG01001867.1	1	2335	2335	EXCLUDE	anml:insects	100	Aedes albopictus
+UZAG01001868.1	1	2335	2335	EXCLUDE	anml:insects	83	Ericerus pela
+UZAG01001960.1	1	2274	2274	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01002050.1	1	2223	2223	EXCLUDE	prok:b-proteobacteria	80	Aromatoleum toluclasticum
+UZAG01002139.1	1	2160	2160	EXCLUDE	plnt:plants	98	Quercus robur
+UZAG01002214.1	1	2115	2115	EXCLUDE	prok:b-proteobacteria	95	Variovorax guangxiensis
+UZAG01002256.1	1	2076	2076	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01002286.1	1	2066	2066	EXCLUDE	anml:insects	84	Ericerus pela
+UZAG01002308.1	1	2058	2058	EXCLUDE	prok:g-proteobacteria	56	Pseudomonas cremoris
+UZAG01002367.1	1	2024	2024	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01002383.1	1	2015	2015	EXCLUDE	prok:b-proteobacteria	60	Pseudacidovorax sp.
+UZAG01002394.1	1	2011	2011	EXCLUDE	prok:b-proteobacteria	100	Pseudacidovorax sp.
+UZAG01002469.1	1	1977	1977	EXCLUDE	prok:b-proteobacteria	28	Variovorax boronicumulans
+UZAG01002489.1	1	1965	1965	EXCLUDE	prok:b-proteobacteria	80	Paraburkholderia podalyriae
+UZAG01002555.1	1	1937	1937	EXCLUDE	anml:insects	77	Ericerus pela
+UZAG01002589.1	1	1920	1920	EXCLUDE	anml:insects	35	Culex quinquefasciatus
+UZAG01002595.1	1	1918	1918	EXCLUDE	prok:g-proteobacteria	70	Acinetobacter ihumii
+UZAG01002658.1	1	1888	1888	EXCLUDE	prok:b-proteobacteria	71	Pseudacidovorax sp.
+UZAG01002784.1	1	1833	1833	EXCLUDE	prok:b-proteobacteria	71	Variovorax guangxiensis
+UZAG01002801.1	1	1829	1829	EXCLUDE	anml:insects	100	Aedes albopictus
+UZAG01002829.1	1	1819	1819	EXCLUDE	virs:prokaryotic viruses	100	Stenotrophomonas phage phiSHP3
+UZAG01002949.1	1	1772	1772	EXCLUDE	prok:b-proteobacteria	40	Ramlibacter monticola
+UZAG01002980.1	1	1760	1760	EXCLUDE	prok:b-proteobacteria	95	Variovorax sp. 67-131
+UZAG01003045.1	1	1736	1736	EXCLUDE	prok:b-proteobacteria	78	Variovorax gossypii
+UZAG01003054.1	1	1734	1734	EXCLUDE	prok:b-proteobacteria	43	Variovorax gossypii
+UZAG01003067.1	1	1730	1730	EXCLUDE	prok:b-proteobacteria	98	Variovorax gossypii
+UZAG01003223.1	1	1673	1673	EXCLUDE	prok:g-proteobacteria	43	Thermomonas alba
+UZAG01003332.1	1	1631	1631	EXCLUDE	anml:insects	100	Ericerus pela
+UZAG01003346.1	1	1626	1626	EXCLUDE	prok:g-proteobacteria	37	Halomonas cerina
+UZAG01003391.1	1	1614	1614	EXCLUDE	anml:insects	98	Aedes aegypti
+UZAG01003423.1	1	1604	1604	EXCLUDE	virs:prokaryotic viruses	55	Stenotrophomonas sp. UBA3236
+UZAG01003539.1	1	1568	1568	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01003590.1	1	1554	1554	EXCLUDE	plnt:plants	100	Citrus sinensis
+UZAG01003603.1	1	1550	1550	EXCLUDE	prok:b-proteobacteria	56	Acidovorax sp. SCN 65-28
+UZAG01003620.1	1	1544	1544	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01003680.1	1	1522	1522	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01003702.1	1	1513	1513	EXCLUDE	prok:b-proteobacteria	35	Variovorax gossypii
+UZAG01003720.1	1	1508	1508	EXCLUDE	prok:b-proteobacteria	84	Variovorax boronicumulans
+UZAG01003777.1	1	1489	1489	EXCLUDE	prok:b-proteobacteria	22	Variovorax boronicumulans
+UZAG01003790.1	1	1484	1484	EXCLUDE	prok:b-proteobacteria	66	Rhodoferax sp. OV413
+UZAG01003803.1	1	1480	1480	EXCLUDE	prok:high GC Gram+	100	Gardnerella vaginalis
+UZAG01003829.1	1	1473	1473	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01003834.1	1	1471	1471	EXCLUDE	prok:g-proteobacteria	56	Acinetobacter piscicola
+UZAG01003895.1	1	1455	1455	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01003912.1	1	1450	1450	EXCLUDE	virs:prokaryotic viruses	100	Gardnerella phage vB_Gva_AB1
+UZAG01003919.1	1	1448	1448	EXCLUDE	prok:b-proteobacteria	98	Variovorax boronicumulans
+UZAG01003926.1	1	1446	1446	EXCLUDE	prok:b-proteobacteria	66	Aromatoleum toluclasticum
+UZAG01003937.1	1	1441	1441	EXCLUDE	prok:b-proteobacteria	48	Variovorax boronicumulans
+UZAG01003992.1	1	1424	1424	EXCLUDE	prok:b-proteobacteria	92	Aromatoleum toluclasticum
+UZAG01003997.1	1	1423	1423	EXCLUDE	prok:b-proteobacteria	84	Variovorax sp. 67-131
+UZAG01004050.1	1	1409	1409	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01004174.1	1	1377	1377	EXCLUDE	virs:prokaryotic viruses	100	Gardnerella phage vB_Gva_AB1
+UZAG01004179.1	1	1377	1377	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01004195.1	1	1373	1373	EXCLUDE	prok:b-proteobacteria	100	Schlegelella koreensis
+UZAG01004228.1	1	1367	1367	EXCLUDE	prok:b-proteobacteria	94	Variovorax soli
+UZAG01004232.1	1	1366	1366	EXCLUDE	prok:b-proteobacteria	56	Xenophilus azovorans
+UZAG01004292.1	1	1352	1352	EXCLUDE	anml:insects	97	Aedes aegypti
+UZAG01004332.1	1	1343	1343	EXCLUDE	virs:prokaryotic viruses	83	Stenotrophomonas phage phiSHP3
+UZAG01004354.1	1	1339	1339	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01004384.1	1	1334	1334	EXCLUDE	prok:high GC Gram+	95	Varibaculum prostatecancerukia
+UZAG01004415.1	1	1327	1327	EXCLUDE	virs:prokaryotic viruses	98	Stenotrophomonas phage phiSHP3
+UZAG01004477.1	1	1314	1314	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01004544.1	1	1300	1300	EXCLUDE	anml:insects	91	Rhagoletis zephyria
+UZAG01004565.1	1	1295	1295	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01004573.1	1	1293	1293	EXCLUDE	anml:insects	96	Aedes albopictus
+UZAG01004623.1	1	1284	1284	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01004651.1	1	1279	1279	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01004654.1	1	1279	1279	EXCLUDE	prok:b-proteobacteria	78	Cupriavidus oxalaticus
+UZAG01004755.1	1	1258	1258	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter baylyi
+UZAG01004801.1	1	1251	1251	EXCLUDE	anml:insects	98	Ericerus pela
+UZAG01004813.1	1	1248	1248	EXCLUDE	prok:b-proteobacteria	97	Variovorax sp. 67-131
+UZAG01004839.1	1	1243	1243	EXCLUDE	prok:b-proteobacteria	31	Hydrogenophaga flava
+UZAG01004869.1	1	1238	1238	EXCLUDE	prok:g-proteobacteria	45	Pseudomonas extremaustralis
+UZAG01004907.1	1	1232	1232	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01004923.1	1	1229	1229	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01004988.1	1	1218	1218	EXCLUDE	prok:b-proteobacteria	100	Variovorax soli
+UZAG01005011.1	1	1214	1214	EXCLUDE	prok:b-proteobacteria	70	Variovorax guangxiensis
+UZAG01005021.1	1	1212	1212	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01005026.1	1	1212	1212	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01005054.1	1	1206	1206	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01005087.1	1	1201	1201	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01005090.1	1	1200	1200	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01005093.1	1	1199	1199	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01005105.1	1	1198	1198	EXCLUDE	prok:b-proteobacteria	43	Variovorax guangxiensis
+UZAG01005146.1	1	1191	1191	EXCLUDE	prok:b-proteobacteria	68	Paraburkholderia heleia
+UZAG01005162.1	1	1188	1188	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01005178.1	1	1185	1185	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter rongchengensis
+UZAG01005195.1	1	1181	1181	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01005241.1	1	1173	1173	EXCLUDE	anml:insects	97	Aedes aegypti
+UZAG01005309.1	1	1161	1161	EXCLUDE	prok:b-proteobacteria	89	Variovorax boronicumulans
+UZAG01005312.1	1	1160	1160	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter lwoffii
+UZAG01005337.1	1	1156	1156	EXCLUDE	prok:firmicutes	100	Gemella sp.
+UZAG01005357.1	1	1153	1153	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01005405.1	1	1145	1145	EXCLUDE	prok:b-proteobacteria	98	Variovorax guangxiensis
+UZAG01005432.1	1	1140	1140	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01005490.1	1	1133	1133	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01005532.1	1	1127	1127	EXCLUDE	prok:b-proteobacteria	67	Caballeronia cordobensis
+UZAG01005550.1	1	1124	1124	EXCLUDE	prok:b-proteobacteria	53	Acidovorax sp. 35-64-16
+UZAG01005559.1	1	1122	1122	EXCLUDE	prok:b-proteobacteria	51	Variovorax guangxiensis
+UZAG01005581.1	1	1120	1120	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01005644.1	1	1112	1112	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01005681.1	1	1107	1107	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01005711.1	1	1101	1101	EXCLUDE	prok:b-proteobacteria	66	Variovorax gossypii
+UZAG01005735.1	1	1098	1098	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01005779.1	1	1092	1092	EXCLUDE	prok:b-proteobacteria	85	Variovorax boronicumulans
+UZAG01005815.1	1	1087	1087	EXCLUDE	anml:insects	94	Ericerus pela
+UZAG01005847.1	1	1083	1083	EXCLUDE	prok:b-proteobacteria	52	Variovorax sp.
+UZAG01005869.1	1	1080	1080	EXCLUDE	prok:b-proteobacteria	97	Aquabacterium pictum
+UZAG01005872.1	1	1080	1080	EXCLUDE	prok:g-proteobacteria	60	Acinetobacter populi
+UZAG01005917.1	1	1073	1073	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01005955.1	1	1069	1069	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01006003.1	1	1060	1060	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter beijerinckii
+UZAG01006020.1	1	1058	1058	EXCLUDE	prok:a-proteobacteria	100	Enhydrobacter sp. UBA4563
+UZAG01006036.1	1	1054	1054	EXCLUDE	prok:firmicutes	100	Gemella sp.
+UZAG01006052.1	1	1052	1052	EXCLUDE	prok:b-proteobacteria	95	Variovorax boronicumulans
+UZAG01006060.1	1	1052	1052	EXCLUDE	prok:high GC Gram+	100	Gardnerella vaginalis
+UZAG01006063.1	1	1052	1052	EXCLUDE	prok:b-proteobacteria	100	Schlegelella koreensis
+UZAG01006070.1	1	1051	1051	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01006094.1	1	1047	1047	EXCLUDE	prok:b-proteobacteria	98	Variovorax sp.
+UZAG01006111.1	1	1043	1043	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01006114.1	1	1042	1042	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01006144.1	1	1040	1040	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01006162.1	1	1036	1036	EXCLUDE	virs:prokaryotic viruses	57	Gardnerella phage vB_Gva_AB1
+UZAG01006163.1	1	1036	1036	EXCLUDE	prok:b-proteobacteria	100	Hydrogenophaga crocea
+UZAG01006173.1	1	1035	1035	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01006181.1	1	1033	1033	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01006183.1	1	1033	1033	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01006188.1	1	1033	1033	EXCLUDE	prok:g-proteobacteria	100	Stenotrophomonas sp. UBA5023
+UZAG01006224.1	1	1029	1029	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01006247.1	1	1025	1025	EXCLUDE	prok:b-proteobacteria	72	Variovorax guangxiensis
+UZAG01006284.1	1	1019	1019	EXCLUDE	prok:b-proteobacteria	55	Variovorax guangxiensis
+UZAG01006288.1	1	1018	1018	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01006315.1	1	1014	1014	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01006426.1	1	1001	1001	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01006428.1	1	1001	1001	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01006437.1	1	1000	1000	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01006461.1	1	997	997	EXCLUDE	prok:b-proteobacteria	86	Variovorax boronicumulans
+UZAG01006490.1	1	993	993	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01006495.1	1	992	992	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01006539.1	1	986	986	EXCLUDE	prok:cyanobacteria	100	Stigonema ocellatum
+UZAG01006569.1	1	981	981	EXCLUDE	prok:b-proteobacteria	93	Variovorax boronicumulans
+UZAG01006570.1	1	981	981	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01006604.1	1	976	976	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01006607.1	1	976	976	EXCLUDE	anml:insects	95	Aedes albopictus
+UZAG01006610.1	1	976	976	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01006618.1	1	975	975	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01006619.1	1	975	975	EXCLUDE	prok:b-proteobacteria	100	Variovorax ginsengisoli
+UZAG01006626.1	1	974	974	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01006637.1	1	973	973	EXCLUDE	prok:b-proteobacteria	96	Variovorax gossypii
+UZAG01006639.1	1	973	973	EXCLUDE	prok:high GC Gram+	72	Gardnerella swidsinskii
+UZAG01006642.1	1	972	972	EXCLUDE	prok:b-proteobacteria	100	Acidovorax sp. 35-64-16
+UZAG01006776.1	1	957	957	EXCLUDE	virs:prokaryotic viruses	97	Stenotrophomonas phage phiSHP3
+UZAG01006781.1	1	957	957	EXCLUDE	prok:b-proteobacteria	100	Pseudacidovorax sp.
+UZAG01006790.1	1	955	955	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01006805.1	1	954	954	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01006816.1	1	952	952	EXCLUDE	prok:b-proteobacteria	85	Acidovorax temperans
+UZAG01006839.1	1	950	950	EXCLUDE	virs:prokaryotic viruses	100	Gardnerella phage vB_Gva_AB1
+UZAG01006873.1	1	946	946	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01006882.1	1	945	945	EXCLUDE	plnt:plants	100	Mangifera indica
+UZAG01006920.1	1	941	941	EXCLUDE	plnt:plants	100	Potentilla anserina
+UZAG01006929.1	1	940	940	EXCLUDE	prok:b-proteobacteria	83	Variovorax guangxiensis
+UZAG01006934.1	1	939	939	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01006935.1	1	939	939	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01006946.1	1	938	938	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01006952.1	1	938	938	EXCLUDE	plnt:plants	100	Manihot esculenta
+UZAG01006959.1	1	937	937	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01006984.1	1	935	935	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01006988.1	1	934	934	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01006990.1	1	934	934	EXCLUDE	prok:b-proteobacteria	98	Variovorax gossypii
+UZAG01007017.1	1	931	931	EXCLUDE	prok:b-proteobacteria	96	Pseudacidovorax intermedius
+UZAG01007026.1	1	931	931	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01007051.1	1	928	928	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01007057.1	1	928	928	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01007071.1	1	926	926	EXCLUDE	anml:insects	100	Aedes albopictus
+UZAG01007074.1	1	926	926	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01007080.1	1	925	925	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01007112.1	1	922	922	EXCLUDE	virs:prokaryotic viruses	100	Gardnerella phage vB_Gva_AB1
+UZAG01007113.1	1	922	922	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01007114.1	1	922	922	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter pecorum
+UZAG01007116.1	1	922	922	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01007139.1	1	920	920	EXCLUDE	plnt:plants	98	Morus notabilis
+UZAG01007189.1	1	914	914	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01007196.1	1	914	914	EXCLUDE	prok:b-proteobacteria	100	Schlegelella koreensis
+UZAG01007197.1	1	914	914	EXCLUDE	virs:prokaryotic viruses	98	Gardnerella phage vB_Gva_AB1
+UZAG01007207.1	1	912	912	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01007254.1	1	908	908	EXCLUDE	prok:b-proteobacteria	96	Ottowia oryzae
+UZAG01007276.1	1	906	906	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01007312.1	1	903	903	EXCLUDE	prok:g-proteobacteria	100	Pseudomonas grimontii
+UZAG01007317.1	1	902	902	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01007354.1	1	899	899	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01007369.1	1	898	898	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01007383.1	1	897	897	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01007403.1	1	894	894	EXCLUDE	prok:g-proteobacteria	83	Rhodanobacter panaciterrae
+UZAG01007409.1	1	894	894	EXCLUDE	prok:b-proteobacteria	69	Variovorax ginsengisoli
+UZAG01007464.1	1	888	888	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01007467.1	1	888	888	EXCLUDE	prok:b-proteobacteria	81	Variovorax sp. 67-131
+UZAG01007476.1	1	887	887	EXCLUDE	virs:prokaryotic viruses	100	Gardnerella swidsinskii
+UZAG01007479.1	1	887	887	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01007480.1	1	886	886	EXCLUDE	anml:insects	100	Aedes albopictus
+UZAG01007507.1	1	884	884	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01007513.1	1	884	884	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01007523.1	1	882	882	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01007548.1	1	880	880	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01007550.1	1	880	880	EXCLUDE	prok:b-proteobacteria	98	Variovorax boronicumulans
+UZAG01007573.1	1	878	878	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01007580.1	1	877	877	EXCLUDE	prok:b-proteobacteria	94	Pelomonas sp.
+UZAG01007611.1	1	875	875	EXCLUDE	prok:b-proteobacteria	56	Noviherbaspirillum soli
+UZAG01007625.1	1	873	873	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01007637.1	1	872	872	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01007685.1	1	868	868	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01007696.1	1	868	868	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01007702.1	1	867	867	EXCLUDE	prok:b-proteobacteria	97	Variovorax beijingensis
+UZAG01007710.1	1	867	867	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01007711.1	1	867	867	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01007726.1	1	866	866	EXCLUDE	prok:a-proteobacteria	98	Bradyrhizobium mercantei
+UZAG01007727.1	1	866	866	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01007729.1	1	866	866	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01007762.1	1	863	863	EXCLUDE	prok:high GC Gram+	93	Gardnerella swidsinskii
+UZAG01007785.1	1	861	861	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01007794.1	1	860	860	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01007815.1	1	858	858	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter towneri
+UZAG01007818.1	1	858	858	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01007819.1	1	858	858	EXCLUDE	prok:b-proteobacteria	98	Variovorax boronicumulans
+UZAG01007826.1	1	857	857	EXCLUDE	prok:b-proteobacteria	91	Variovorax gossypii
+UZAG01007830.1	1	857	857	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01007838.1	1	856	856	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01007842.1	1	856	856	EXCLUDE	prok:g-proteobacteria	100	Pseudomonas sp. UBA2303
+UZAG01007856.1	1	855	855	EXCLUDE	prok:b-proteobacteria	98	Variovorax gossypii
+UZAG01007859.1	1	855	855	EXCLUDE	prok:b-proteobacteria	100	Duganella dendranthematis
+UZAG01007879.1	1	853	853	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01007881.1	1	853	853	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01007896.1	1	852	852	EXCLUDE	prok:b-proteobacteria	98	Variovorax gossypii
+UZAG01007899.1	1	852	852	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01007900.1	1	852	852	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01007903.1	1	851	851	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01007919.1	1	850	850	EXCLUDE	prok:b-proteobacteria	60	Ramlibacter agri
+UZAG01007940.1	1	848	848	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter kyonggiensis
+UZAG01007979.1	1	845	845	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01007986.1	1	844	844	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01008007.1	1	843	843	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01008026.1	1	841	841	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01008041.1	1	840	840	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01008043.1	1	840	840	EXCLUDE	prok:b-proteobacteria	98	Achromobacter ruhlandii
+UZAG01008046.1	1	840	840	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01008047.1	1	839	839	EXCLUDE	prok:b-proteobacteria	100	Alicycliphilus sp. UBA7619
+UZAG01008080.1	1	835	835	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01008115.1	1	833	833	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01008121.1	1	832	832	EXCLUDE	prok:b-proteobacteria	95	Variovorax beijingensis
+UZAG01008126.1	1	832	832	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01008162.1	1	829	829	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01008168.1	1	828	828	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01008169.1	1	828	828	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01008171.1	1	828	828	EXCLUDE	virs:prokaryotic viruses	100	Gardnerella phage vB_Gva_AB1
+UZAG01008178.1	1	827	827	EXCLUDE	virs:prokaryotic viruses	98	Stenotrophomonas phage phiSHP3
+UZAG01008190.1	1	827	827	EXCLUDE	prok:b-proteobacteria	85	Pararobbsia silviterrae
+UZAG01008209.1	1	825	825	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01008213.1	1	825	825	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01008217.1	1	825	825	EXCLUDE	prok:b-proteobacteria	98	Variovorax guangxiensis
+UZAG01008237.1	1	823	823	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01008246.1	1	823	823	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01008256.1	1	822	822	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01008260.1	1	821	821	EXCLUDE	prok:b-proteobacteria	98	Variovorax guangxiensis
+UZAG01008262.1	1	821	821	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01008267.1	1	821	821	EXCLUDE	prok:b-proteobacteria	54	Variovorax beijingensis
+UZAG01008271.1	1	821	821	EXCLUDE	prok:b-proteobacteria	57	Alicycliphilus sp. UBA7619
+UZAG01008298.1	1	819	819	EXCLUDE	prok:g-proteobacteria	100	Stenotrophomonas maltophilia
+UZAG01008328.1	1	817	817	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01008360.1	1	815	815	EXCLUDE	prok:b-proteobacteria	100	Caenimonas soli
+UZAG01008363.1	1	815	815	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01008365.1	1	814	814	EXCLUDE	prok:b-proteobacteria	98	Variovorax beijingensis
+UZAG01008373.1	1	814	814	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01008379.1	1	814	814	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01008382.1	1	813	813	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01008383.1	1	813	813	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01008384.1	1	813	813	EXCLUDE	anml:insects	100	Aedes aegypti
+UZAG01008392.1	1	812	812	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01008419.1	1	811	811	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01008429.1	1	809	809	EXCLUDE	prok:b-proteobacteria	100	Schlegelella koreensis
+UZAG01008437.1	1	809	809	EXCLUDE	prok:b-proteobacteria	69	Variovorax soli
+UZAG01008440.1	1	808	808	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01008441.1	1	808	808	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01008452.1	1	808	808	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01008453.1	1	807	807	EXCLUDE	virs:prokaryotic viruses	100	Stenotrophomonas phage phiSHP3
+UZAG01008455.1	1	807	807	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01008471.1	1	806	806	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01008484.1	1	804	804	EXCLUDE	prok:g-proteobacteria	69	Stutzerimonas azotifigens
+UZAG01008497.1	1	803	803	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01008507.1	1	802	802	EXCLUDE	prok:b-proteobacteria	58	Variovorax beijingensis
+UZAG01008518.1	1	801	801	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01008542.1	1	800	800	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01008567.1	1	798	798	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01008583.1	1	796	796	EXCLUDE	prok:g-proteobacteria	98	Stenotrophomonas rhizophila
+UZAG01008599.1	1	795	795	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01008609.1	1	794	794	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01008615.1	1	794	794	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01008636.1	1	792	792	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01008644.1	1	791	791	EXCLUDE	prok:b-proteobacteria	97	Variovorax boronicumulans
+UZAG01008647.1	1	791	791	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01008649.1	1	791	791	EXCLUDE	anml:insects	100	Ericerus pela
+UZAG01008666.1	1	790	790	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01008706.1	1	788	788	EXCLUDE	prok:firmicutes	100	Bacillus intermedius
+UZAG01008722.1	1	786	786	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01008737.1	1	785	785	EXCLUDE	prok:b-proteobacteria	97	Pseudacidovorax intermedius
+UZAG01008739.1	1	785	785	EXCLUDE	prok:a-proteobacteria	98	Sphingosinicella soli
+UZAG01008750.1	1	784	784	EXCLUDE	plnt:plants	100	Telopea speciosissima
+UZAG01008758.1	1	784	784	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01008772.1	1	783	783	EXCLUDE	prok:b-proteobacteria	79	Variovorax sp. 67-131
+UZAG01008813.1	1	780	780	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01008827.1	1	779	779	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01008831.1	1	778	778	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01008855.1	1	777	777	EXCLUDE	prok:b-proteobacteria	98	Variovorax beijingensis
+UZAG01008856.1	1	777	777	EXCLUDE	prok:b-proteobacteria	100	Xylophilus sp.
+UZAG01008866.1	1	776	776	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01008901.1	1	774	774	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01008913.1	1	773	773	EXCLUDE	prok:g-proteobacteria	96	Acinetobacter chengduensis
+UZAG01008919.1	1	772	772	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01008929.1	1	772	772	EXCLUDE	prok:b-proteobacteria	83	Thauera terpenica
+UZAG01008970.1	1	769	769	EXCLUDE	plnt:plants	43	Lactuca sativa
+UZAG01008991.1	1	767	767	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01009004.1	1	767	767	EXCLUDE	prok:b-proteobacteria	58	Ramlibacter pinisoli
+UZAG01009014.1	1	766	766	EXCLUDE	prok:b-proteobacteria	76	Variovorax boronicumulans
+UZAG01009041.1	1	764	764	EXCLUDE	anml:insects	91	Aedes aegypti
+UZAG01009043.1	1	764	764	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01009053.1	1	764	764	EXCLUDE	anml:insects	100	Aedes albopictus
+UZAG01009057.1	1	764	764	EXCLUDE	prok:g-proteobacteria	100	Stenotrophomonas geniculata
+UZAG01009072.1	1	762	762	EXCLUDE	prok:b-proteobacteria	80	Variovorax boronicumulans
+UZAG01009079.1	1	762	762	EXCLUDE	prok:CFB group bacteria	100	Chryseobacterium manosquense
+UZAG01009134.1	1	758	758	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01009141.1	1	758	758	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01009164.1	1	757	757	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01009166.1	1	756	756	EXCLUDE	prok:b-proteobacteria	80	Variovorax guangxiensis
+UZAG01009176.1	1	756	756	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter soli
+UZAG01009181.1	1	755	755	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01009187.1	1	755	755	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01009194.1	1	755	755	EXCLUDE	prok:b-proteobacteria	100	Pseudacidovorax sp.
+UZAG01009195.1	1	755	755	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01009198.1	1	754	754	EXCLUDE	prok:b-proteobacteria	98	Variovorax sp. 67-131
+UZAG01009213.1	1	754	754	EXCLUDE	prok:b-proteobacteria	89	Paraburkholderia fungorum
+UZAG01009219.1	1	753	753	EXCLUDE	prok:b-proteobacteria	95	Variovorax guangxiensis
+UZAG01009220.1	1	753	753	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01009226.1	1	753	753	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01009233.1	1	753	753	EXCLUDE	prok:b-proteobacteria	97	Variovorax sp. 67-131
+UZAG01009255.1	1	751	751	EXCLUDE	prok:b-proteobacteria	74	Noviherbaspirillum soli
+UZAG01009258.1	1	751	751	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01009264.1	1	751	751	EXCLUDE	plnt:plants	43	Brassica napus
+UZAG01009272.1	1	750	750	EXCLUDE	anml:insects	72	Aedes aegypti
+UZAG01009274.1	1	750	750	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01009304.1	1	748	748	EXCLUDE	virs:prokaryotic viruses	100	Stenotrophomonas phage phiSHP3
+UZAG01009309.1	1	748	748	EXCLUDE	plnt:plants	69	Nymphaea colorata
+UZAG01009323.1	1	747	747	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01009324.1	1	747	747	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01009361.1	1	745	745	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01009394.1	1	742	742	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01009400.1	1	742	742	EXCLUDE	prok:b-proteobacteria	82	Variovorax ginsengisoli
+UZAG01009408.1	1	742	742	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01009427.1	1	741	741	EXCLUDE	prok:b-proteobacteria	100	Variovorax ginsengisoli
+UZAG01009436.1	1	740	740	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01009456.1	1	739	739	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01009464.1	1	738	738	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter parvus
+UZAG01009480.1	1	738	738	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01009501.1	1	737	737	EXCLUDE	prok:b-proteobacteria	93	Variovorax gossypii
+UZAG01009521.1	1	735	735	EXCLUDE	prok:b-proteobacteria	100	Pseudacidovorax intermedius
+UZAG01009524.1	1	735	735	EXCLUDE	prok:b-proteobacteria	55	Delftia tsuruhatensis
+UZAG01009527.1	1	734	734	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01009536.1	1	734	734	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01009538.1	1	734	734	EXCLUDE	prok:b-proteobacteria	97	Variovorax gossypii
+UZAG01009572.1	1	732	732	EXCLUDE	prok:b-proteobacteria	97	Variovorax gossypii
+UZAG01009581.1	1	731	731	EXCLUDE	prok:b-proteobacteria	98	Variovorax sp. 67-131
+UZAG01009585.1	1	731	731	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01009609.1	1	730	730	EXCLUDE	prok:b-proteobacteria	100	Variovorax ginsengisoli
+UZAG01009623.1	1	729	729	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01009628.1	1	728	728	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01009630.1	1	728	728	EXCLUDE	prok:b-proteobacteria	97	Pseudorhodoferax soli
+UZAG01009638.1	1	727	727	EXCLUDE	prok:b-proteobacteria	98	Variovorax sp. 67-131
+UZAG01009645.1	1	727	727	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter colistiniresistens
+UZAG01009647.1	1	727	727	EXCLUDE	prok:g-proteobacteria	100	Pseudomonas extremaustralis
+UZAG01009649.1	1	727	727	EXCLUDE	prok:high GC Gram+	38	Gardnerella swidsinskii
+UZAG01009660.1	1	726	726	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01009664.1	1	726	726	EXCLUDE	prok:b-proteobacteria	97	Variovorax soli
+UZAG01009667.1	1	726	726	EXCLUDE	prok:b-proteobacteria	97	Diaphorobacter ruginosibacter
+UZAG01009671.1	1	726	726	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01009673.1	1	726	726	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01009675.1	1	725	725	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01009679.1	1	725	725	EXCLUDE	anml:insects	100	Aedes albopictus
+UZAG01009683.1	1	725	725	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01009697.1	1	724	724	EXCLUDE	prok:b-proteobacteria	100	Comamonas sp. UBA7528
+UZAG01009725.1	1	723	723	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01009726.1	1	722	722	EXCLUDE	prok:g-proteobacteria	98	Luteimonas terricola
+UZAG01009731.1	1	722	722	EXCLUDE	prok:b-proteobacteria	32	Ramlibacter tataouinensis
+UZAG01009742.1	1	721	721	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01009744.1	1	721	721	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01009751.1	1	721	721	EXCLUDE	prok:b-proteobacteria	98	Variovorax guangxiensis
+UZAG01009753.1	1	721	721	EXCLUDE	prok:b-proteobacteria	100	Pseudorhodoferax aquiterrae
+UZAG01009763.1	1	720	720	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01009775.1	1	720	720	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01009792.1	1	718	718	EXCLUDE	plnt:plants	63	Ipomoea nil
+UZAG01009796.1	1	718	718	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01009809.1	1	718	718	EXCLUDE	prok:a-proteobacteria	97	Rhizorhabdus wittichii
+UZAG01009829.1	1	717	717	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01009835.1	1	716	716	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01009838.1	1	716	716	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01009840.1	1	716	716	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter towneri
+UZAG01009870.1	1	715	715	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01009876.1	1	714	714	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01009877.1	1	714	714	EXCLUDE	prok:b-proteobacteria	96	Xenophilus azovorans
+UZAG01009881.1	1	714	714	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01009883.1	1	714	714	EXCLUDE	prok:b-proteobacteria	97	Variovorax boronicumulans
+UZAG01009889.1	1	714	714	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01009905.1	1	713	713	EXCLUDE	prok:b-proteobacteria	100	Rhizobacter gummiphilus
+UZAG01009916.1	1	713	713	EXCLUDE	prok:b-proteobacteria	100	Candidimonas bauzanensis
+UZAG01009923.1	1	712	712	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01009925.1	1	712	712	EXCLUDE	prok:b-proteobacteria	78	Variovorax gossypii
+UZAG01009926.1	1	712	712	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01009929.1	1	711	711	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01009941.1	1	711	711	EXCLUDE	prok:b-proteobacteria	100	Comamonas sp. 7D-2
+UZAG01009976.1	1	709	709	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01009997.1	1	707	707	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01009998.1	1	707	707	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01010008.1	1	707	707	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01010032.1	1	706	706	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01010042.1	1	705	705	EXCLUDE	prok:high GC Gram+	96	Gardnerella swidsinskii
+UZAG01010047.1	1	705	705	EXCLUDE	prok:b-proteobacteria	90	Variovorax beijingensis
+UZAG01010050.1	1	705	705	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01010062.1	1	704	704	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01010073.1	1	704	704	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01010080.1	1	703	703	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01010084.1	1	703	703	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01010097.1	1	703	703	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01010098.1	1	703	703	EXCLUDE	anml:insects	94	Phenacoccus solenopsis
+UZAG01010099.1	1	702	702	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01010108.1	1	702	702	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01010113.1	1	702	702	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01010118.1	1	702	702	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01010121.1	1	701	701	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01010128.1	1	701	701	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01010170.1	1	698	698	EXCLUDE	prok:b-proteobacteria	98	Variovorax beijingensis
+UZAG01010187.1	1	697	697	EXCLUDE	prok:b-proteobacteria	36	Variovorax gossypii
+UZAG01010195.1	1	697	697	EXCLUDE	prok:g-proteobacteria	80	Acinetobacter sp. UBA1496
+UZAG01010199.1	1	696	696	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01010210.1	1	696	696	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01010230.1	1	695	695	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01010236.1	1	694	694	EXCLUDE	prok:b-proteobacteria	97	Variovorax boronicumulans
+UZAG01010246.1	1	694	694	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01010249.1	1	694	694	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01010261.1	1	693	693	EXCLUDE	prok:b-proteobacteria	96	Variovorax sp. 67-131
+UZAG01010272.1	1	692	692	EXCLUDE	prok:b-proteobacteria	81	Variovorax sp. 67-131
+UZAG01010277.1	1	692	692	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01010284.1	1	692	692	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01010297.1	1	691	691	EXCLUDE	prok:b-proteobacteria	100	Schlegelella koreensis
+UZAG01010301.1	1	691	691	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01010308.1	1	690	690	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01010312.1	1	690	690	EXCLUDE	plnt:plants	100	Telopea speciosissima
+UZAG01010321.1	1	689	689	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01010323.1	1	689	689	EXCLUDE	virs:prokaryotic viruses	95	Gardnerella phage vB_Gva_AB1
+UZAG01010329.1	1	689	689	EXCLUDE	prok:b-proteobacteria	96	Variovorax boronicumulans
+UZAG01010355.1	1	688	688	EXCLUDE	prok:b-proteobacteria	100	Caenimonas soli
+UZAG01010366.1	1	687	687	EXCLUDE	prok:b-proteobacteria	95	Variovorax sp. 67-131
+UZAG01010369.1	1	687	687	EXCLUDE	prok:g-proteobacteria	70	Pseudomonas petroselini
+UZAG01010371.1	1	687	687	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01010381.1	1	686	686	EXCLUDE	prok:b-proteobacteria	97	Achromobacter pestifer
+UZAG01010384.1	1	686	686	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01010410.1	1	685	685	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01010421.1	1	684	684	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01010451.1	1	682	682	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01010455.1	1	682	682	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01010461.1	1	682	682	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01010473.1	1	680	680	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01010474.1	1	680	680	EXCLUDE	plnt:plants	92	Pisum sativum
+UZAG01010486.1	1	680	680	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01010490.1	1	680	680	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01010492.1	1	680	680	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01010495.1	1	679	679	EXCLUDE	prok:b-proteobacteria	92	Variovorax boronicumulans
+UZAG01010497.1	1	679	679	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01010498.1	1	679	679	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter wuhouensis
+UZAG01010504.1	1	679	679	EXCLUDE	prok:g-proteobacteria	100	Stenotrophomonas pavanii
+UZAG01010519.1	1	678	678	EXCLUDE	prok:b-proteobacteria	96	Variovorax beijingensis
+UZAG01010529.1	1	678	678	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01010537.1	1	678	678	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01010545.1	1	678	678	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01010553.1	1	677	677	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01010575.1	1	676	676	EXCLUDE	prok:b-proteobacteria	100	Achromobacter xylosoxidans
+UZAG01010576.1	1	676	676	EXCLUDE	prok:a-proteobacteria	79	Thalassobium sp.
+UZAG01010578.1	1	676	676	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter sp. SH20PTE17
+UZAG01010582.1	1	676	676	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01010583.1	1	676	676	EXCLUDE	prok:b-proteobacteria	96	Variovorax sp. 67-131
+UZAG01010586.1	1	676	676	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01010599.1	1	675	675	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01010603.1	1	674	674	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01010604.1	1	674	674	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01010607.1	1	674	674	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01010609.1	1	674	674	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter guerrae
+UZAG01010610.1	1	674	674	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01010617.1	1	674	674	EXCLUDE	prok:b-proteobacteria	100	Acidovorax cattleyae
+UZAG01010638.1	1	673	673	EXCLUDE	virs:prokaryotic viruses	96	Gardnerella phage vB_Gva_AB1
+UZAG01010639.1	1	673	673	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01010640.1	1	673	673	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01010647.1	1	673	673	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01010648.1	1	673	673	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01010649.1	1	673	673	EXCLUDE	prok:b-proteobacteria	91	Variovorax ginsengisoli
+UZAG01010651.1	1	672	672	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01010671.1	1	672	672	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01010673.1	1	672	672	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01010676.1	1	672	672	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01010679.1	1	671	671	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01010688.1	1	671	671	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01010689.1	1	671	671	EXCLUDE	prok:a-proteobacteria	80	Ancylobacter defluvii
+UZAG01010694.1	1	671	671	EXCLUDE	prok:g-proteobacteria	97	Pseudomonas extremaustralis
+UZAG01010697.1	1	670	670	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01010698.1	1	670	670	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01010699.1	1	670	670	EXCLUDE	prok:b-proteobacteria	96	Ideonella sakaiensis
+UZAG01010705.1	1	670	670	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01010709.1	1	670	670	EXCLUDE	prok:b-proteobacteria	95	Pandoraea capi
+UZAG01010736.1	1	669	669	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01010744.1	1	669	669	EXCLUDE	prok:b-proteobacteria	100	Variovorax soli
+UZAG01010749.1	1	668	668	EXCLUDE	virs:prokaryotic viruses	100	Gardnerella phage vB_Gva_AB1
+UZAG01010754.1	1	668	668	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01010764.1	1	668	668	EXCLUDE	prok:b-proteobacteria	78	Variovorax gossypii
+UZAG01010765.1	1	667	667	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01010775.1	1	667	667	EXCLUDE	anml:insects	100	Culex quinquefasciatus
+UZAG01010781.1	1	666	666	EXCLUDE	prok:b-proteobacteria	35	Verminephrobacter eiseniae
+UZAG01010809.1	1	665	665	EXCLUDE	virs:prokaryotic viruses	95	Stenotrophomonas phage phiSHP3
+UZAG01010826.1	1	665	665	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01010828.1	1	664	664	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01010859.1	1	663	663	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01010867.1	1	663	663	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01010878.1	1	663	663	EXCLUDE	prok:b-proteobacteria	100	Massilia arenae
+UZAG01010880.1	1	663	663	EXCLUDE	prok:g-proteobacteria	85	Acinetobacter piscicola
+UZAG01010888.1	1	662	662	EXCLUDE	prok:b-proteobacteria	100	Hydrogenophaga crocea
+UZAG01010897.1	1	662	662	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01010925.1	1	660	660	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter nosocomialis
+UZAG01010937.1	1	660	660	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01010943.1	1	659	659	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01010946.1	1	659	659	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01010950.1	1	659	659	EXCLUDE	prok:b-proteobacteria	100	Pseudacidovorax intermedius
+UZAG01010958.1	1	658	658	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01010971.1	1	658	658	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01010980.1	1	657	657	EXCLUDE	prok:b-proteobacteria	95	Variovorax boronicumulans
+UZAG01010982.1	1	657	657	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01011004.1	1	656	656	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01011007.1	1	656	656	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01011017.1	1	656	656	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01011057.1	1	654	654	EXCLUDE	prok:high GC Gram+	100	Streptomyces viridosporus
+UZAG01011061.1	1	654	654	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01011084.1	1	653	653	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01011093.1	1	652	652	EXCLUDE	prok:b-proteobacteria	75	Variovorax beijingensis
+UZAG01011124.1	1	651	651	EXCLUDE	prok:b-proteobacteria	95	Variovorax gossypii
+UZAG01011128.1	1	650	650	EXCLUDE	prok:b-proteobacteria	86	Variovorax boronicumulans
+UZAG01011135.1	1	650	650	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01011136.1	1	650	650	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01011145.1	1	650	650	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01011162.1	1	649	649	EXCLUDE	prok:b-proteobacteria	33	Variovorax sp.
+UZAG01011163.1	1	649	649	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01011169.1	1	648	648	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01011170.1	1	648	648	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01011171.1	1	648	648	EXCLUDE	prok:b-proteobacteria	100	Pseudacidovorax sp.
+UZAG01011185.1	1	648	648	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01011187.1	1	647	647	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01011190.1	1	647	647	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01011192.1	1	647	647	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01011198.1	1	647	647	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01011200.1	1	647	647	EXCLUDE	prok:b-proteobacteria	85	Variovorax sp.
+UZAG01011221.1	1	646	646	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01011225.1	1	646	646	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01011235.1	1	645	645	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01011238.1	1	645	645	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01011243.1	1	645	645	EXCLUDE	prok:b-proteobacteria	100	Rhizobacter sp.
+UZAG01011301.1	1	642	642	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01011303.1	1	642	642	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01011304.1	1	642	642	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01011309.1	1	642	642	EXCLUDE	prok:b-proteobacteria	97	Variovorax guangxiensis
+UZAG01011329.1	1	641	641	EXCLUDE	prok:b-proteobacteria	98	Pseudorhodoferax soli
+UZAG01011336.1	1	640	640	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01011339.1	1	640	640	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01011341.1	1	640	640	EXCLUDE	prok:b-proteobacteria	81	Variovorax gossypii
+UZAG01011355.1	1	640	640	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01011356.1	1	640	640	EXCLUDE	prok:b-proteobacteria	97	Variovorax guangxiensis
+UZAG01011360.1	1	640	640	EXCLUDE	prok:b-proteobacteria	100	Variovorax soli
+UZAG01011397.1	1	638	638	EXCLUDE	prok:b-proteobacteria	100	Acidovorax anthurii
+UZAG01011427.1	1	637	637	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01011435.1	1	637	637	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01011438.1	1	636	636	EXCLUDE	prok:b-proteobacteria	50	Variovorax gossypii
+UZAG01011440.1	1	636	636	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01011459.1	1	636	636	EXCLUDE	prok:g-proteobacteria	100	Stenotrophomonas maltophilia
+UZAG01011493.1	1	635	635	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01011498.1	1	634	634	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter schindleri
+UZAG01011508.1	1	634	634	EXCLUDE	prok:b-proteobacteria	98	Variovorax beijingensis
+UZAG01011510.1	1	634	634	EXCLUDE	prok:b-proteobacteria	100	Pseudacidovorax sp.
+UZAG01011514.1	1	633	633	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01011515.1	1	633	633	EXCLUDE	prok:b-proteobacteria	56	Variovorax beijingensis
+UZAG01011518.1	1	633	633	EXCLUDE	prok:b-proteobacteria	38	Diaphorobacter caeni
+UZAG01011537.1	1	632	632	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01011542.1	1	632	632	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01011550.1	1	631	631	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01011551.1	1	631	631	EXCLUDE	prok:a-proteobacteria	64	Enhydrobacter sp. UBA4101
+UZAG01011555.1	1	631	631	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter sp. UBA7654
+UZAG01011562.1	1	631	631	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01011567.1	1	631	631	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01011581.1	1	630	630	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01011585.1	1	630	630	EXCLUDE	prok:b-proteobacteria	98	Variovorax gossypii
+UZAG01011630.1	1	628	628	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01011634.1	1	628	628	EXCLUDE	prok:high GC Gram+	100	Gardnerella piotii
+UZAG01011639.1	1	627	627	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01011645.1	1	627	627	EXCLUDE	prok:g-proteobacteria	100	Stenotrophomonas geniculata
+UZAG01011660.1	1	627	627	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01011665.1	1	626	626	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter harbinensis
+UZAG01011681.1	1	626	626	EXCLUDE	prok:b-proteobacteria	100	Malikia spinosa
+UZAG01011689.1	1	626	626	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01011690.1	1	626	626	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01011697.1	1	625	625	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01011704.1	1	625	625	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01011705.1	1	625	625	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01011706.1	1	625	625	EXCLUDE	prok:b-proteobacteria	100	Comamonas thiooxydans
+UZAG01011731.1	1	624	624	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01011734.1	1	624	624	EXCLUDE	prok:b-proteobacteria	95	Variovorax sp. 67-131
+UZAG01011735.1	1	624	624	EXCLUDE	prok:b-proteobacteria	100	Pseudacidovorax intermedius
+UZAG01011738.1	1	624	624	EXCLUDE	prok:b-proteobacteria	100	Pseudorhodoferax aquiterrae
+UZAG01011746.1	1	623	623	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01011769.1	1	622	622	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01011780.1	1	622	622	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01011791.1	1	622	622	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01011802.1	1	621	621	EXCLUDE	prok:a-proteobacteria	100	Enhydrobacter sp. UBA4563
+UZAG01011805.1	1	621	621	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01011806.1	1	621	621	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01011810.1	1	621	621	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01011821.1	1	621	621	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01011827.1	1	620	620	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01011839.1	1	619	619	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01011854.1	1	619	619	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01011857.1	1	619	619	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01011870.1	1	618	618	EXCLUDE	prok:b-proteobacteria	97	Ramlibacter agri
+UZAG01011872.1	1	618	618	EXCLUDE	prok:b-proteobacteria	100	Alcaligenes faecalis
+UZAG01011875.1	1	618	618	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01011885.1	1	618	618	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01011888.1	1	618	618	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01011897.1	1	617	617	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01011899.1	1	617	617	EXCLUDE	prok:b-proteobacteria	98	Variovorax gossypii
+UZAG01011909.1	1	616	616	EXCLUDE	prok:b-proteobacteria	96	Variovorax guangxiensis
+UZAG01011916.1	1	616	616	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01011933.1	1	615	615	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01011943.1	1	615	615	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01011949.1	1	615	615	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01011953.1	1	615	615	EXCLUDE	prok:b-proteobacteria	92	Ideonella sakaiensis
+UZAG01011954.1	1	614	614	EXCLUDE	prok:g-proteobacteria	100	Stenotrophomonas geniculata
+UZAG01011958.1	1	614	614	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01011982.1	1	614	614	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01011984.1	1	613	613	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01011996.1	1	613	613	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01012005.1	1	613	613	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01012007.1	1	612	612	EXCLUDE	prok:high GC Gram+	100	Gardnerella vaginalis
+UZAG01012016.1	1	612	612	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01012019.1	1	612	612	EXCLUDE	prok:high GC Gram+	98	Gardnerella swidsinskii
+UZAG01012021.1	1	612	612	EXCLUDE	prok:g-proteobacteria	100	Stenotrophomonas pavanii
+UZAG01012029.1	1	612	612	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01012033.1	1	611	611	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01012035.1	1	611	611	EXCLUDE	prok:b-proteobacteria	100	Aquincola sp.
+UZAG01012036.1	1	611	611	EXCLUDE	anml:insects	96	Ericerus pela
+UZAG01012040.1	1	611	611	EXCLUDE	prok:g-proteobacteria	100	Stenotrophomonas maltophilia
+UZAG01012055.1	1	610	610	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01012063.1	1	610	610	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01012081.1	1	609	609	EXCLUDE	prok:b-proteobacteria	98	Variovorax gossypii
+UZAG01012086.1	1	609	609	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01012104.1	1	608	608	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01012114.1	1	608	608	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01012116.1	1	608	608	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01012120.1	1	608	608	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01012131.1	1	607	607	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01012147.1	1	607	607	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01012158.1	1	606	606	EXCLUDE	anml:insects	100	Aedes aegypti
+UZAG01012160.1	1	606	606	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01012168.1	1	605	605	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01012194.1	1	604	604	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01012216.1	1	603	603	EXCLUDE	prok:b-proteobacteria	95	Variovorax sp. 67-131
+UZAG01012239.1	1	602	602	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01012243.1	1	602	602	EXCLUDE	prok:b-proteobacteria	98	Variovorax beijingensis
+UZAG01012248.1	1	602	602	EXCLUDE	prok:b-proteobacteria	100	Massilia oculi
+UZAG01012253.1	1	602	602	EXCLUDE	virs:prokaryotic viruses	98	Stenotrophomonas phage phiSHP3
+UZAG01012283.1	1	600	600	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01012301.1	1	600	600	EXCLUDE	prok:g-proteobacteria	25	Stenotrophomonas tumulicola
+UZAG01012307.1	1	600	600	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01012309.1	1	600	600	EXCLUDE	prok:g-proteobacteria	100	Stenotrophomonas tumulicola
+UZAG01012314.1	1	599	599	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01012318.1	1	599	599	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01012324.1	1	599	599	EXCLUDE	prok:firmicutes	71	Gemella sp.
+UZAG01012333.1	1	599	599	EXCLUDE	prok:b-proteobacteria	100	Bordetella sp. SCN 67-23
+UZAG01012385.1	1	597	597	EXCLUDE	anml:insects	100	Aedes aegypti
+UZAG01012386.1	1	597	597	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01012405.1	1	596	596	EXCLUDE	prok:b-proteobacteria	100	Variovorax ginsengisoli
+UZAG01012411.1	1	596	596	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01012423.1	1	595	595	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01012424.1	1	595	595	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01012436.1	1	595	595	EXCLUDE	prok:b-proteobacteria	58	Schlegelella koreensis
+UZAG01012448.1	1	595	595	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01012461.1	1	594	594	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01012489.1	1	593	593	EXCLUDE	prok:b-proteobacteria	96	Variovorax beijingensis
+UZAG01012497.1	1	593	593	EXCLUDE	prok:b-proteobacteria	98	Variovorax beijingensis
+UZAG01012503.1	1	593	593	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01012508.1	1	592	592	EXCLUDE	prok:b-proteobacteria	92	Variovorax guangxiensis
+UZAG01012519.1	1	592	592	EXCLUDE	prok:high GC Gram+	100	Varibaculum vaginae
+UZAG01012521.1	1	592	592	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01012529.1	1	592	592	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01012540.1	1	591	591	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01012541.1	1	591	591	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01012553.1	1	591	591	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01012565.1	1	591	591	EXCLUDE	prok:firmicutes	100	Streptococcus gwangjuense
+UZAG01012568.1	1	591	591	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01012573.1	1	590	590	EXCLUDE	prok:b-proteobacteria	100	Acidovorax antarcticus
+UZAG01012574.1	1	590	590	EXCLUDE	prok:b-proteobacteria	100	Alicycliphilus sp. UBA7619
+UZAG01012593.1	1	589	589	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01012620.1	1	589	589	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01012637.1	1	588	588	EXCLUDE	prok:b-proteobacteria	60	Variovorax sp. 67-131
+UZAG01012662.1	1	587	587	EXCLUDE	prok:b-proteobacteria	98	Pseudacidovorax sp.
+UZAG01012666.1	1	587	587	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01012670.1	1	587	587	EXCLUDE	prok:g-proteobacteria	100	Stenotrophomonas pavanii
+UZAG01012692.1	1	586	586	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01012694.1	1	586	586	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01012699.1	1	586	586	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01012703.1	1	586	586	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01012710.1	1	585	585	EXCLUDE	prok:b-proteobacteria	65	Variovorax sp. 67-131
+UZAG01012745.1	1	584	584	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01012750.1	1	584	584	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01012758.1	1	583	583	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01012759.1	1	583	583	EXCLUDE	anml:insects	100	Aedes aegypti
+UZAG01012767.1	1	583	583	EXCLUDE	prok:a-proteobacteria	100	Phyllobacterium myrsinacearum
+UZAG01012773.1	1	583	583	EXCLUDE	prok:b-proteobacteria	100	Curvibacter lanceolatus
+UZAG01012783.1	1	582	582	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01012784.1	1	582	582	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01012791.1	1	582	582	EXCLUDE	prok:high GC Gram+	95	Gardnerella swidsinskii
+UZAG01012797.1	1	582	582	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01012809.1	1	582	582	EXCLUDE	prok:g-proteobacteria	100	Moraxella osloensis
+UZAG01012812.1	1	582	582	EXCLUDE	prok:b-proteobacteria	98	Mitsuaria chitosanitabida
+UZAG01012826.1	1	581	581	EXCLUDE	prok:b-proteobacteria	100	Xylophilus rhododendri
+UZAG01012836.1	1	580	580	EXCLUDE	prok:g-proteobacteria	100	Psychrobacter nivimaris
+UZAG01012839.1	1	580	580	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01012841.1	1	580	580	EXCLUDE	prok:b-proteobacteria	96	Variovorax boronicumulans
+UZAG01012855.1	1	580	580	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter venetianus
+UZAG01012858.1	1	579	579	EXCLUDE	prok:b-proteobacteria	100	Verminephrobacter eiseniae
+UZAG01012859.1	1	579	579	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01012881.1	1	579	579	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01012882.1	1	579	579	EXCLUDE	anml:insects	100	Aedes albopictus
+UZAG01012887.1	1	578	578	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01012888.1	1	578	578	EXCLUDE	prok:high GC Gram+	100	Gardnerella vaginalis
+UZAG01012889.1	1	578	578	EXCLUDE	prok:b-proteobacteria	98	Diaphorobacter ruginosibacter
+UZAG01012890.1	1	578	578	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01012908.1	1	578	578	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01012914.1	1	577	577	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01012921.1	1	577	577	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01012924.1	1	577	577	EXCLUDE	prok:b-proteobacteria	100	Pseudoduganella umbonata
+UZAG01012926.1	1	577	577	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01012927.1	1	577	577	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01012931.1	1	577	577	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01012940.1	1	577	577	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01012942.1	1	576	576	EXCLUDE	prok:b-proteobacteria	96	Variovorax beijingensis
+UZAG01012944.1	1	576	576	EXCLUDE	virs:prokaryotic viruses	100	Gardnerella phage vB_Gva_AB1
+UZAG01012947.1	1	576	576	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01012952.1	1	576	576	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01012960.1	1	576	576	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01012966.1	1	576	576	EXCLUDE	prok:high GC Gram+	100	Gardnerella vaginalis
+UZAG01012970.1	1	575	575	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01012973.1	1	575	575	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01012995.1	1	575	575	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01013011.1	1	574	574	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01013015.1	1	574	574	EXCLUDE	prok:b-proteobacteria	94	Variovorax beijingensis
+UZAG01013018.1	1	574	574	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01013027.1	1	574	574	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter piscicola
+UZAG01013028.1	1	574	574	EXCLUDE	prok:b-proteobacteria	95	Variovorax sp. 67-131
+UZAG01013037.1	1	573	573	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01013040.1	1	573	573	EXCLUDE	prok:b-proteobacteria	100	Xylophilus rhododendri
+UZAG01013041.1	1	573	573	EXCLUDE	prok:CFB group bacteria	100	Elizabethkingia bruuniana
+UZAG01013050.1	1	573	573	EXCLUDE	prok:b-proteobacteria	100	Massilia timonae
+UZAG01013055.1	1	573	573	EXCLUDE	prok:b-proteobacteria	100	Ottowia massiliensis
+UZAG01013064.1	1	572	572	EXCLUDE	prok:a-proteobacteria	100	Enhydrobacter sp. UBA4563
+UZAG01013073.1	1	572	572	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01013082.1	1	572	572	EXCLUDE	anml:insects	100	Ericerus pela
+UZAG01013083.1	1	572	572	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01013087.1	1	572	572	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01013090.1	1	572	572	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01013091.1	1	572	572	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01013099.1	1	571	571	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01013112.1	1	571	571	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01013125.1	1	570	570	EXCLUDE	prok:b-proteobacteria	94	Xylophilus sp.
+UZAG01013146.1	1	569	569	EXCLUDE	prok:a-proteobacteria	100	Skermanella rosea
+UZAG01013179.1	1	568	568	EXCLUDE	prok:a-proteobacteria	100	Bradyrhizobium denitrificans
+UZAG01013184.1	1	568	568	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01013194.1	1	567	567	EXCLUDE	prok:b-proteobacteria	94	Variovorax gossypii
+UZAG01013203.1	1	567	567	EXCLUDE	prok:b-proteobacteria	88	Variovorax guangxiensis
+UZAG01013221.1	1	566	566	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01013225.1	1	566	566	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01013239.1	1	566	566	EXCLUDE	prok:high GC Gram+	52	Gardnerella swidsinskii
+UZAG01013243.1	1	566	566	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01013245.1	1	566	566	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01013246.1	1	566	566	EXCLUDE	prok:b-proteobacteria	96	Variovorax guangxiensis
+UZAG01013249.1	1	566	566	EXCLUDE	prok:b-proteobacteria	96	Xylophilus ampelinus
+UZAG01013253.1	1	565	565	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01013257.1	1	565	565	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01013281.1	1	564	564	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01013289.1	1	564	564	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01013291.1	1	564	564	EXCLUDE	prok:g-proteobacteria	96	Thalassolituus marinus
+UZAG01013303.1	1	564	564	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01013304.1	1	564	564	EXCLUDE	prok:a-proteobacteria	69	Wolbachia endosymbiont of Wuchereria bancrofti
+UZAG01013313.1	1	563	563	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01013316.1	1	563	563	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01013344.1	1	562	562	EXCLUDE	prok:b-proteobacteria	27	Variovorax gossypii
+UZAG01013351.1	1	562	562	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01013353.1	1	562	562	EXCLUDE	prok:b-proteobacteria	97	Variovorax boronicumulans
+UZAG01013366.1	1	562	562	EXCLUDE	plnt:plants	100	Citrus sinensis
+UZAG01013367.1	1	562	562	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01013375.1	1	561	561	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01013381.1	1	561	561	EXCLUDE	prok:high GC Gram+	97	Gardnerella swidsinskii
+UZAG01013392.1	1	561	561	EXCLUDE	prok:b-proteobacteria	97	Variovorax gossypii
+UZAG01013403.1	1	560	560	EXCLUDE	anml:insects	76	Aedes aegypti
+UZAG01013418.1	1	560	560	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01013419.1	1	560	560	EXCLUDE	prok:b-proteobacteria	98	Variovorax sp. 67-131
+UZAG01013435.1	1	560	560	EXCLUDE	prok:b-proteobacteria	100	Xylophilus rhododendri
+UZAG01013439.1	1	559	559	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01013441.1	1	559	559	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01013447.1	1	559	559	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01013454.1	1	559	559	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01013464.1	1	559	559	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01013488.1	1	558	558	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01013512.1	1	557	557	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01013521.1	1	556	556	EXCLUDE	prok:high GC Gram+	95	Gardnerella swidsinskii
+UZAG01013524.1	1	556	556	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01013533.1	1	556	556	EXCLUDE	prok:b-proteobacteria	97	Variovorax guangxiensis
+UZAG01013535.1	1	556	556	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01013536.1	1	556	556	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01013544.1	1	556	556	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01013547.1	1	556	556	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01013557.1	1	556	556	EXCLUDE	prok:b-proteobacteria	98	Variovorax boronicumulans
+UZAG01013561.1	1	555	555	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01013565.1	1	555	555	EXCLUDE	prok:b-proteobacteria	100	Azohydromonas caseinilytica
+UZAG01013593.1	1	555	555	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01013596.1	1	555	555	EXCLUDE	prok:b-proteobacteria	81	Variovorax soli
+UZAG01013603.1	1	554	554	EXCLUDE	prok:b-proteobacteria	92	Ottowia thiooxydans
+UZAG01013612.1	1	554	554	EXCLUDE	prok:b-proteobacteria	100	Variovorax ginsengisoli
+UZAG01013613.1	1	554	554	EXCLUDE	prok:b-proteobacteria	95	Variovorax beijingensis
+UZAG01013617.1	1	554	554	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01013618.1	1	554	554	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01013629.1	1	553	553	EXCLUDE	prok:a-proteobacteria	100	Methylobacterium brachythecii
+UZAG01013632.1	1	553	553	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01013637.1	1	553	553	EXCLUDE	prok:b-proteobacteria	100	Variovorax soli
+UZAG01013640.1	1	553	553	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01013644.1	1	553	553	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01013652.1	1	553	553	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01013655.1	1	552	552	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01013657.1	1	552	552	EXCLUDE	prok:g-proteobacteria	97	Pseudomonas grimontii
+UZAG01013668.1	1	552	552	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01013681.1	1	552	552	EXCLUDE	prok:b-proteobacteria	100	Ramlibacter sp.
+UZAG01013685.1	1	551	551	EXCLUDE	prok:b-proteobacteria	100	Roseateles aquatilis
+UZAG01013700.1	1	551	551	EXCLUDE	prok:b-proteobacteria	100	Pseudacidovorax intermedius
+UZAG01013709.1	1	551	551	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01013711.1	1	550	550	EXCLUDE	prok:b-proteobacteria	96	Variovorax ginsengisoli
+UZAG01013718.1	1	550	550	EXCLUDE	prok:b-proteobacteria	88	Variovorax beijingensis
+UZAG01013727.1	1	550	550	EXCLUDE	prok:g-proteobacteria	100	Stenotrophomonas geniculata
+UZAG01013728.1	1	550	550	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01013747.1	1	549	549	EXCLUDE	prok:b-proteobacteria	98	Variovorax sp. 67-131
+UZAG01013777.1	1	548	548	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter tjernbergiae
+UZAG01013786.1	1	548	548	EXCLUDE	prok:g-proteobacteria	96	Acinetobacter baretiae
+UZAG01013788.1	1	548	548	EXCLUDE	prok:b-proteobacteria	98	Variovorax guangxiensis
+UZAG01013791.1	1	548	548	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01013793.1	1	548	548	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01013797.1	1	548	548	EXCLUDE	prok:b-proteobacteria	75	Schlegelella koreensis
+UZAG01013804.1	1	547	547	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01013808.1	1	547	547	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01013809.1	1	547	547	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01013812.1	1	547	547	EXCLUDE	prok:b-proteobacteria	100	Sphaerotilus natans
+UZAG01013814.1	1	547	547	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01013815.1	1	547	547	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01013841.1	1	546	546	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01013845.1	1	546	546	EXCLUDE	virs:prokaryotic viruses	98	Gardnerella swidsinskii
+UZAG01013852.1	1	546	546	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01013866.1	1	546	546	EXCLUDE	prok:b-proteobacteria	100	Malikia granosa
+UZAG01013872.1	1	545	545	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01013875.1	1	545	545	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01013884.1	1	545	545	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01013889.1	1	545	545	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01013897.1	1	544	544	EXCLUDE	prok:b-proteobacteria	90	Pseudacidovorax sp.
+UZAG01013899.1	1	544	544	EXCLUDE	prok:b-proteobacteria	98	Variovorax boronicumulans
+UZAG01013935.1	1	543	543	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01013941.1	1	543	543	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01013949.1	1	543	543	EXCLUDE	prok:b-proteobacteria	98	Bordetella bronchiseptica
+UZAG01013952.1	1	543	543	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01013964.1	1	542	542	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01013976.1	1	542	542	EXCLUDE	prok:b-proteobacteria	100	Pseudacidovorax intermedius
+UZAG01013980.1	1	542	542	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01013996.1	1	541	541	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01014015.1	1	540	540	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01014016.1	1	540	540	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014020.1	1	540	540	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter sp.
+UZAG01014026.1	1	540	540	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01014030.1	1	540	540	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01014038.1	1	540	540	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01014043.1	1	539	539	EXCLUDE	prok:b-proteobacteria	96	Variovorax guangxiensis
+UZAG01014048.1	1	539	539	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01014067.1	1	539	539	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01014070.1	1	539	539	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014080.1	1	539	539	EXCLUDE	prok:g-proteobacteria	100	Stenotrophomonas pavanii
+UZAG01014090.1	1	538	538	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01014092.1	1	538	538	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014101.1	1	538	538	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014105.1	1	538	538	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01014106.1	1	538	538	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01014117.1	1	538	538	EXCLUDE	prok:b-proteobacteria	98	Variovorax boronicumulans
+UZAG01014119.1	1	537	537	EXCLUDE	prok:b-proteobacteria	98	Variovorax beijingensis
+UZAG01014129.1	1	537	537	EXCLUDE	prok:b-proteobacteria	79	Variovorax gossypii
+UZAG01014135.1	1	537	537	EXCLUDE	anml:insects	100	Ericerus pela
+UZAG01014136.1	1	537	537	EXCLUDE	prok:b-proteobacteria	58	Variovorax boronicumulans
+UZAG01014158.1	1	537	537	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01014164.1	1	537	537	EXCLUDE	prok:b-proteobacteria	95	Variovorax gossypii
+UZAG01014172.1	1	536	536	EXCLUDE	prok:b-proteobacteria	95	Methylibium sp.
+UZAG01014174.1	1	536	536	EXCLUDE	prok:b-proteobacteria	100	Xylophilus sp.
+UZAG01014175.1	1	536	536	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01014180.1	1	536	536	EXCLUDE	plnt:plants	100	Telopea speciosissima
+UZAG01014183.1	1	536	536	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01014184.1	1	536	536	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014186.1	1	536	536	EXCLUDE	prok:b-proteobacteria	100	Pseudacidovorax intermedius
+UZAG01014196.1	1	535	535	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01014199.1	1	535	535	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01014200.1	1	535	535	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014202.1	1	535	535	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01014206.1	1	535	535	EXCLUDE	prok:g-proteobacteria	56	Acinetobacter parvus
+UZAG01014212.1	1	535	535	EXCLUDE	prok:g-proteobacteria	100	Stenotrophomonas maltophilia
+UZAG01014218.1	1	534	534	EXCLUDE	prok:a-proteobacteria	100	Phyllobacterium myrsinacearum
+UZAG01014224.1	1	534	534	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01014225.1	1	534	534	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01014228.1	1	534	534	EXCLUDE	prok:b-proteobacteria	70	Variovorax boronicumulans
+UZAG01014231.1	1	534	534	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014237.1	1	534	534	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter lwoffii
+UZAG01014239.1	1	534	534	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014241.1	1	534	534	EXCLUDE	prok:b-proteobacteria	80	Variovorax gossypii
+UZAG01014256.1	1	533	533	EXCLUDE	prok:g-proteobacteria	100	Pseudomonas marginalis
+UZAG01014257.1	1	533	533	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01014264.1	1	533	533	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01014266.1	1	533	533	EXCLUDE	prok:b-proteobacteria	100	Hydrogenophaga intermedia
+UZAG01014274.1	1	533	533	EXCLUDE	prok:a-proteobacteria	92	Amaricoccus sp.
+UZAG01014291.1	1	532	532	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01014294.1	1	532	532	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01014296.1	1	532	532	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014302.1	1	532	532	EXCLUDE	prok:b-proteobacteria	100	Ideonella sakaiensis
+UZAG01014307.1	1	532	532	EXCLUDE	prok:b-proteobacteria	98	Variovorax ginsengisoli
+UZAG01014308.1	1	532	532	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01014313.1	1	532	532	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01014315.1	1	532	532	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014325.1	1	531	531	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014326.1	1	531	531	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01014330.1	1	531	531	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014333.1	1	531	531	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01014345.1	1	530	530	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01014348.1	1	530	530	EXCLUDE	prok:g-proteobacteria	100	Pseudomonas wadenswilerensis
+UZAG01014353.1	1	530	530	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01014360.1	1	530	530	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01014363.1	1	530	530	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014371.1	1	529	529	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014376.1	1	529	529	EXCLUDE	prok:b-proteobacteria	97	Variovorax boronicumulans
+UZAG01014385.1	1	529	529	EXCLUDE	prok:b-proteobacteria	100	Azohydromonas caseinilytica
+UZAG01014395.1	1	529	529	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01014399.1	1	528	528	EXCLUDE	prok:b-proteobacteria	94	Pseudacidovorax sp.
+UZAG01014400.1	1	528	528	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01014403.1	1	528	528	EXCLUDE	prok:b-proteobacteria	91	Pseudacidovorax intermedius
+UZAG01014407.1	1	528	528	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014443.1	1	527	527	EXCLUDE	prok:b-proteobacteria	94	Variovorax boronicumulans
+UZAG01014468.1	1	526	526	EXCLUDE	prok:g-proteobacteria	100	Arenimonas malthae
+UZAG01014471.1	1	526	526	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01014475.1	1	526	526	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01014479.1	1	526	526	EXCLUDE	prok:b-proteobacteria	97	Variovorax gossypii
+UZAG01014483.1	1	526	526	EXCLUDE	prok:b-proteobacteria	100	Variovorax ginsengisoli
+UZAG01014484.1	1	526	526	EXCLUDE	prok:b-proteobacteria	97	Variovorax soli
+UZAG01014490.1	1	526	526	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01014494.1	1	525	525	EXCLUDE	prok:b-proteobacteria	100	Achromobacter xylosoxidans
+UZAG01014504.1	1	525	525	EXCLUDE	prok:g-proteobacteria	100	Stenotrophomonas maltophilia
+UZAG01014507.1	1	525	525	EXCLUDE	prok:b-proteobacteria	100	Massilia timonae
+UZAG01014515.1	1	525	525	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014518.1	1	525	525	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01014522.1	1	525	525	EXCLUDE	prok:b-proteobacteria	93	Schlegelella koreensis
+UZAG01014527.1	1	525	525	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01014530.1	1	525	525	EXCLUDE	prok:g-proteobacteria	97	Xanthomonas pisi
+UZAG01014535.1	1	524	524	EXCLUDE	anml:insects	100	Aedes albopictus
+UZAG01014536.1	1	524	524	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01014545.1	1	524	524	EXCLUDE	prok:b-proteobacteria	93	Variovorax sp.
+UZAG01014553.1	1	524	524	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01014562.1	1	524	524	EXCLUDE	prok:b-proteobacteria	95	Variovorax boronicumulans
+UZAG01014563.1	1	524	524	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014566.1	1	524	524	EXCLUDE	prok:g-proteobacteria	56	Luteibacter pinisoli
+UZAG01014582.1	1	523	523	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01014583.1	1	523	523	EXCLUDE	anml:rodents	100	Mus musculus
+UZAG01014585.1	1	523	523	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01014587.1	1	523	523	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014591.1	1	523	523	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01014605.1	1	523	523	EXCLUDE	prok:b-proteobacteria	65	Variovorax boronicumulans
+UZAG01014615.1	1	522	522	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01014625.1	1	522	522	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014626.1	1	522	522	EXCLUDE	prok:b-proteobacteria	92	Curvibacter lanceolatus
+UZAG01014635.1	1	521	521	EXCLUDE	prok:b-proteobacteria	90	Diaphorobacter aerolatus
+UZAG01014646.1	1	521	521	EXCLUDE	prok:g-proteobacteria	100	Pseudomonas monteilii
+UZAG01014663.1	1	520	520	EXCLUDE	prok:b-proteobacteria	96	Ramlibacter agri
+UZAG01014681.1	1	520	520	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01014686.1	1	520	520	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter nosocomialis
+UZAG01014721.1	1	519	519	EXCLUDE	anml:insects	44	Ericerus pela
+UZAG01014723.1	1	519	519	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter venetianus
+UZAG01014747.1	1	518	518	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01014755.1	1	518	518	EXCLUDE	prok:b-proteobacteria	97	Variovorax gossypii
+UZAG01014775.1	1	517	517	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014781.1	1	517	517	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01014805.1	1	516	516	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01014807.1	1	516	516	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01014809.1	1	516	516	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01014815.1	1	516	516	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01014819.1	1	516	516	EXCLUDE	prok:a-proteobacteria	96	Ensifer adhaerens
+UZAG01014822.1	1	516	516	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01014823.1	1	516	516	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014838.1	1	515	515	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01014846.1	1	515	515	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014855.1	1	515	515	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01014861.1	1	514	514	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014865.1	1	514	514	EXCLUDE	prok:b-proteobacteria	100	Delftia tsuruhatensis
+UZAG01014866.1	1	514	514	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01014871.1	1	514	514	EXCLUDE	prok:g-proteobacteria	100	Stenotrophomonas sp. UBA1867
+UZAG01014873.1	1	514	514	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01014880.1	1	514	514	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter beijerinckii
+UZAG01014887.1	1	514	514	EXCLUDE	prok:b-proteobacteria	94	Variovorax sp. 67-131
+UZAG01014890.1	1	514	514	EXCLUDE	prok:b-proteobacteria	94	Variovorax boronicumulans
+UZAG01014899.1	1	513	513	EXCLUDE	prok:a-proteobacteria	75	Aureimonas mangrovi
+UZAG01014910.1	1	513	513	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014918.1	1	513	513	EXCLUDE	prok:b-proteobacteria	100	Variovorax soli
+UZAG01014922.1	1	513	513	EXCLUDE	prok:b-proteobacteria	100	Paraburkholderia polaris
+UZAG01014931.1	1	513	513	EXCLUDE	prok:g-proteobacteria	97	Stenotrophomonas geniculata
+UZAG01014935.1	1	513	513	EXCLUDE	prok:high GC Gram+	98	Gardnerella swidsinskii
+UZAG01014938.1	1	513	513	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01014940.1	1	513	513	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01014945.1	1	512	512	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01014947.1	1	512	512	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01014957.1	1	512	512	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01014961.1	1	512	512	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01014969.1	1	512	512	EXCLUDE	prok:b-proteobacteria	95	Variovorax beijingensis
+UZAG01014973.1	1	512	512	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014978.1	1	511	511	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014979.1	1	511	511	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter chengduensis
+UZAG01014986.1	1	511	511	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01014992.1	1	511	511	EXCLUDE	prok:b-proteobacteria	100	Schlegelella aquatica
+UZAG01014998.1	1	511	511	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01014999.1	1	511	511	EXCLUDE	prok:b-proteobacteria	53	Ramlibacter tataouinensis
+UZAG01015001.1	1	511	511	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01015007.1	1	511	511	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01015013.1	1	511	511	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01015014.1	1	511	511	EXCLUDE	prok:a-proteobacteria	97	Bradyrhizobium ivorense
+UZAG01015026.1	1	510	510	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01015033.1	1	510	510	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01015045.1	1	510	510	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01015046.1	1	510	510	EXCLUDE	prok:b-proteobacteria	94	Variovorax boronicumulans
+UZAG01015047.1	1	510	510	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01015048.1	1	510	510	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01015052.1	1	510	510	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01015053.1	1	510	510	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01015057.1	1	510	510	EXCLUDE	prok:b-proteobacteria	100	Acidovorax sp.
+UZAG01015064.1	1	509	509	EXCLUDE	prok:b-proteobacteria	100	Pseudacidovorax sp.
+UZAG01015069.1	1	509	509	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01015072.1	1	509	509	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01015074.1	1	509	509	EXCLUDE	prok:b-proteobacteria	98	Variovorax ginsengisoli
+UZAG01015091.1	1	509	509	EXCLUDE	prok:b-proteobacteria	97	Variovorax boronicumulans
+UZAG01015092.1	1	509	509	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01015100.1	1	509	509	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01015104.1	1	509	509	EXCLUDE	prok:b-proteobacteria	88	Variovorax boronicumulans
+UZAG01015109.1	1	508	508	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01015111.1	1	508	508	EXCLUDE	prok:b-proteobacteria	100	Variovorax soli
+UZAG01015117.1	1	508	508	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01015119.1	1	508	508	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01015121.1	1	508	508	EXCLUDE	prok:b-proteobacteria	100	Lampropedia cohaerens
+UZAG01015124.1	1	508	508	EXCLUDE	prok:b-proteobacteria	72	Variovorax boronicumulans
+UZAG01015127.1	1	508	508	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01015128.1	1	508	508	EXCLUDE	prok:b-proteobacteria	98	Variovorax gossypii
+UZAG01015130.1	1	508	508	EXCLUDE	anml:insects	100	Aedes albopictus
+UZAG01015140.1	1	507	507	EXCLUDE	prok:b-proteobacteria	100	Schlegelella koreensis
+UZAG01015161.1	1	507	507	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01015163.1	1	507	507	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01015167.1	1	506	506	EXCLUDE	prok:b-proteobacteria	44	Variovorax gossypii
+UZAG01015168.1	1	506	506	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01015169.1	1	506	506	EXCLUDE	prok:b-proteobacteria	98	Variovorax beijingensis
+UZAG01015178.1	1	506	506	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01015179.1	1	506	506	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01015181.1	1	506	506	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01015187.1	1	506	506	EXCLUDE	prok:b-proteobacteria	100	Achromobacter sp.
+UZAG01015191.1	1	506	506	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01015211.1	1	505	505	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01015221.1	1	505	505	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01015224.1	1	505	505	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01015230.1	1	505	505	EXCLUDE	prok:g-proteobacteria	100	Stenotrophomonas geniculata
+UZAG01015245.1	1	504	504	EXCLUDE	prok:b-proteobacteria	93	Variovorax boronicumulans
+UZAG01015247.1	1	504	504	EXCLUDE	prok:b-proteobacteria	60	Variovorax guangxiensis
+UZAG01015248.1	1	504	504	EXCLUDE	prok:high GC Gram+	82	Gardnerella swidsinskii
+UZAG01015254.1	1	504	504	EXCLUDE	prok:b-proteobacteria	100	Ramlibacter agri
+UZAG01015256.1	1	504	504	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01015257.1	1	504	504	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01015258.1	1	504	504	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01015281.1	1	504	504	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01015286.1	1	503	503	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01015292.1	1	503	503	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01015305.1	1	503	503	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01015307.1	1	503	503	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01015313.1	1	503	503	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01015316.1	1	503	503	EXCLUDE	prok:b-proteobacteria	100	Variovorax beijingensis
+UZAG01015325.1	1	502	502	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01015329.1	1	502	502	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01015334.1	1	502	502	EXCLUDE	prok:b-proteobacteria	100	Variovorax soli
+UZAG01015339.1	1	502	502	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01015341.1	1	502	502	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01015351.1	1	502	502	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp.
+UZAG01015359.1	1	501	501	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter proteolyticus
+UZAG01015360.1	1	501	501	EXCLUDE	prok:b-proteobacteria	100	Variovorax gossypii
+UZAG01015363.1	1	501	501	EXCLUDE	prok:g-proteobacteria	100	Stenotrophomonas pavanii
+UZAG01015378.1	1	501	501	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01015392.1	1	500	500	EXCLUDE	prok:b-proteobacteria	99	Variovorax guangxiensis
+UZAG01015396.1	1	500	500	EXCLUDE	prok:b-proteobacteria	100	Variovorax sp. 67-131
+UZAG01015397.1	1	500	500	EXCLUDE	prok:b-proteobacteria	95	Variovorax guangxiensis
+UZAG01015402.1	1	500	500	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01015409.1	1	500	500	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01015417.1	1	500	500	EXCLUDE	prok:b-proteobacteria	96	Variovorax gossypii
+UZAG01016018.1	1	12483	12483	EXCLUDE	prok:b-proteobacteria	81	Xenophilus azovorans
+UZAG01016216.1	1	11012	11012	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01016840.1	1	8335	8335	EXCLUDE	anml:insects	51	Phenacoccus solenopsis
+UZAG01017474.1	1	6736	6736	EXCLUDE	prok:g-proteobacteria	100	Pseudomonas palleroniana
+UZAG01017657.1	1	6404	6404	EXCLUDE	anml:insects	36	Ericerus pela
+UZAG01017894.1	1	5979	5979	EXCLUDE	anml:insects	100	Aedes aegypti
+UZAG01018468.1	1	5057	5057	EXCLUDE	anml:insects	39	Ericerus pela
+UZAG01019102.1	1331	4273	4273	TRIM	prok:firmicutes	60	Proteiniclasticum aestuarii
+UZAG01019180.1	1	4205	4205	EXCLUDE	anml:insects	59	Aedes albopictus
+UZAG01019367.1	1	4026	4026	EXCLUDE	anml:insects	100	Aedes aegypti
+UZAG01019407.1	1	3991	3991	EXCLUDE	prok:b-proteobacteria	32	Variovorax gossypii
+UZAG01019606.1	1	3822	3822	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01019735.1	1	3711	3711	EXCLUDE	anml:insects	72	Phenacoccus solenopsis
+UZAG01019923.1	1	3540	3540	EXCLUDE	prok:b-proteobacteria	99	Acidovorax sp. 35-64-16
+UZAG01020067.1	1	3422	3422	EXCLUDE	prok:g-proteobacteria	70	Pseudomonas brassicacearum
+UZAG01020090.1	1	3397	3397	EXCLUDE	prok:b-proteobacteria	32	Variovorax beijingensis
+UZAG01020490.1	1	3088	3088	EXCLUDE	prok:g-proteobacteria	100	Stenotrophomonas sp. UBA5023
+UZAG01020840.1	1	2860	2860	EXCLUDE	plnt:mosses	93	Ceratodon purpureus
+UZAG01020969.1	1	2777	2777	EXCLUDE	prok:b-proteobacteria	50	Methylibium petroleiphilum
+UZAG01021273.1	1	2571	2571	EXCLUDE	prok:g-proteobacteria	69	Acinetobacter stercoris
+UZAG01021298.1	1	2552	2552	EXCLUDE	prok:g-proteobacteria	100	Stenotrophomonas pavanii
+UZAG01021318.1	1	2542	2542	EXCLUDE	prok:g-proteobacteria	100	Stenotrophomonas indicatrix
+UZAG01021417.1	1	2478	2478	EXCLUDE	prok:b-proteobacteria	32	Herbaspirillum frisingense
+UZAG01021485.1	1	2438	2438	EXCLUDE	prok:b-proteobacteria	95	Ramlibacter tataouinensis
+UZAG01021695.1	1	2311	2311	EXCLUDE	prok:b-proteobacteria	100	Pseudorhodoferax soli
+UZAG01021743.1	1	2286	2286	EXCLUDE	prok:b-proteobacteria	93	Variovorax guangxiensis
+UZAG01021897.1	1	2203	2203	EXCLUDE	prok:b-proteobacteria	94	Variovorax sp.
+UZAG01022389.1	1	1942	1942	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01022447.1	1	1911	1911	EXCLUDE	prok:b-proteobacteria	87	Azohydromonas aeria
+UZAG01022493.1	1	1886	1886	EXCLUDE	prok:b-proteobacteria	96	Variovorax gossypii
+UZAG01022508.1	1	1879	1879	EXCLUDE	anml:insects	100	Culex quinquefasciatus
+UZAG01022604.1	1	1829	1829	EXCLUDE	prok:b-proteobacteria	100	Massilia timonae
+UZAG01022742.1	1	1748	1748	EXCLUDE	prok:b-proteobacteria	30	Variovorax beijingensis
+UZAG01023009.1	1	1604	1604	EXCLUDE	virs:prokaryotic viruses	100	Gardnerella phage vB_Gva_AB1
+UZAG01023131.1	1	1540	1540	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01023136.1	1	1539	1539	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01023176.1	1	1519	1519	EXCLUDE	prok:b-proteobacteria	100	Variovorax boronicumulans
+UZAG01023180.1	1	1517	1517	EXCLUDE	prok:b-proteobacteria	100	Xenophilus azovorans
+UZAG01023183.1	1	1514	1514	EXCLUDE	prok:b-proteobacteria	75	Variovorax beijingensis
+UZAG01023388.1	1	1412	1412	EXCLUDE	virs:prokaryotic viruses	100	Gardnerella phage vB_Gva_AB1
+UZAG01023480.1	1	1367	1367	EXCLUDE	prok:b-proteobacteria	58	Extensimonas perlucida
+UZAG01023513.1	1	1348	1348	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01023533.1	1	1342	1342	EXCLUDE	virs:prokaryotic viruses	100	Gardnerella phage vB_Gva_AB1
+UZAG01023539.1	1	1340	1340	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01023606.1	1	1303	1303	EXCLUDE	prok:g-proteobacteria	100	Acinetobacter wanghuae
+UZAG01023716.1	1	1249	1249	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis
+UZAG01023766.1	1	1227	1227	EXCLUDE	prok:b-proteobacteria	100	Massilia timonae
+UZAG01023774.1	1	1223	1223	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01023814.1	1	1199	1199	EXCLUDE	prok:high GC Gram+	100	Gardnerella swidsinskii
+UZAG01023831.1	1	1184	1184	EXCLUDE	prok:b-proteobacteria	44	Pigmentiphaga aceris
+UZAG01023958.1	1	1045	1045	EXCLUDE	prok:b-proteobacteria	100	Variovorax guangxiensis

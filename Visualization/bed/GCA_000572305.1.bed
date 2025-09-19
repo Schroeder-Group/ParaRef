@@ -1,0 +1,33 @@
+AUVC01093774.1	1	42218	42218	EXCLUDE	prok:CFB group bacteria	52	Cecembia lonarensis
+AUVC01100677.1	1	16460	16460	EXCLUDE	prok:CFB group bacteria	65	Flavobacterium azooxidireducens
+KK049598.1	1	10805	10805	EXCLUDE	prok:bacteria	43	Candidatus Brocadia sinica
+KK049662.1	1	8979	42176	TRIM	prok:CFB group bacteria	12	n/a
+KK049910.1	23726	24621	62449	FIX	fung:ascomycetes	80	Hypomyces perniciosus
+AUVC01103110.1	1	13062	13062	EXCLUDE	prok:CFB group bacteria	54	Hydrotalea sandarakina
+KK050078.1	1	21659	21659	EXCLUDE	fung:ascomycetes	14	Aspergillus fijiensis
+KK050630.1	48027	48684	290416	FIX	prok:CFB group bacteria	97	n/a
+KK050700.1	1	10425	10425	EXCLUDE	anml:crustaceans	25	Lepeophtheirus salmonis
+AUVC01109528.1	1	24282	24282	EXCLUDE	prok:CFB group bacteria	64	Hydrotalea sandarakina
+AUVC01114070.1	1	19812	19812	EXCLUDE	prok:CFB group bacteria	52	Flavobacterium indicum
+KK051942.1	1	13234	13234	EXCLUDE	anml:reptiles	21	Dermochelys coriacea
+AUVC01018781.1	1	80163	80163	EXCLUDE	prok:CFB group bacteria	62	Parafilimonas sp.
+AUVC01117267.1	1	23265	23265	EXCLUDE	prok:CFB group bacteria	59	Niastella caeni
+KK053000.1	791	1654	65703	FIX	plnt:plants	87	Brassica napus
+AUVC01020933.1	1	31399	31399	EXCLUDE	prok:CFB group bacteria	72	Pedobacter nanyangensis
+KK054469.1	1	262271	262271	EXCLUDE	prok:CFB group bacteria	53	Limnovirga soli
+KK055451.1	11541	12557	74315	FIX	prst:alveolates	80	Plasmodium reichenowi
+KK055550.1	1	249534	249534	EXCLUDE	prok:CFB group bacteria	54	Hanamia caeni
+AUVC01128103.1	1	12398	12398	EXCLUDE	prok:CFB group bacteria	62	Polaribacter porphyrae
+AUVC01029737.1	1	20521	20521	EXCLUDE	prok:CFB group bacteria	86	Ferruginibacter lapsinanis
+AUVC01030817.1	1	23182	23182	EXCLUDE	prok:CFB group bacteria	51	Segetibacter koreensis
+KK056643.1	1	278813	278813	EXCLUDE	prok:CFB group bacteria	56	Ginsengibacter hankyongi
+KK057632.1	39767	40374	78976	FIX	plnt:plants	83	n/a
+KK057697.1	1	17785	111548	TRIM	plnt:plants	14	n/a
+KK057896.1	1	134172	134172	EXCLUDE	prok:CFB group bacteria	55	Ginsengibacter hankyongi
+AUVC01049419.1	1	10026	10026	EXCLUDE	prok:CFB group bacteria	68	Segetibacter koreensis
+AUVC01051743.1	1	22967	22967	EXCLUDE	prok:CFB group bacteria	59	Panacibacter ginsenosidivorans
+KK059611.1	1	82868	82868	EXCLUDE	prok:CFB group bacteria	59	Hanamia caeni
+KK059886.1	74089	76703	76703	TRIM	prst:alveolates	37	Isotricha intestinalis
+KK061608.1	266075	267230	267230	TRIM	prst:alveolates	53	Isotricha intestinalis
+AUVC01084167.1	1	28323	28323	EXCLUDE	prok:CFB group bacteria	57	Ferruginibacter albus
+KK062318.1	1	33320	33320	EXCLUDE	prok:CFB group bacteria	70	Sediminibacterium sp. UBA657
