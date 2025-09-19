@@ -1,0 +1,56 @@
+
+##############################################
+## generate library info file for pathopipe ##
+##############################################
+
+
+## --------------------------------------------------------------------------------
+## libraries
+
+library(tidyverse)
+library(readr)
+library(igraph)
+library(foreach)
+library(doParallel)
+
+
+## --------------------------------------------------------------------------------
+## command line arguments
+
+args <- commandArgs(trailingOnly = TRUE)
+threads <- args[1] %>% as.integer()
+
+
+## --------------------------------------------------------------------------------
+## process library file info
+
+refs <- read_tsv("refs.tsv")
+colnames(refs)[2] <- "fa"
+
+## parse assembly and taxIds for fastas
+d2 <- read_tsv("library/viral.map", col_names = c("contigId", "taxId", "assemblyId"), col_types = "ccc")
+d2 <- d2 %>%
+    select(assemblyId, taxId) %>%
+    distinct()
+
+## parse tax info
+taxInfoGenus <- read_tsv("taxLists/genus.taxIds.tsv.gz", col_types = "cccc") %>%
+    filter(childIds %in% d2$taxId) %>%
+    select(childIds, taxId, taxName)
+colnames(taxInfoGenus) <- c("taxId", "taxIdGenus", "taxNameGenus")
+
+taxInfoSpecies <- read_tsv("taxLists/species.taxIds.tsv.gz", col_types = "cccc") %>%
+    filter(childIds %in% d2$taxId) %>%
+    select(childIds, taxId, taxName)
+colnames(taxInfoSpecies) <- c("taxId", "taxIdSpecies", "taxNameSpecies")
+
+seqInfo <- left_join(d2, refs, c("assemblyId" = "prefix")) %>%
+    left_join(taxInfoGenus) %>%
+    left_join(taxInfoSpecies) %>%
+    select(assemblyId, taxId, taxIdSpecies, taxNameSpecies, taxIdGenus, taxNameGenus, fa) %>%
+    left_join(refs) %>%
+    mutate(mmi = paste("bt2/", prefix, sep = "")) %>%
+    select(-prefix) %>%
+    mutate(taxNameSpecies = gsub(" ", "_", taxNameSpecies))
+
+write_tsv(seqInfo, path = "library.seqInfo.tsv")
