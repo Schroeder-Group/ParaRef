@@ -1,6 +1,6 @@
 <<<<<<< Updated upstream
 # ParaRef: A decontaminated reference database for parasite detection in ancient and modern metagenomic datasets 
-Shotgun metagenomics is a valuable tool for detecting parasite DNA, but contamination in reference genomes can lead to false positives. To address this, we curated a database by quantifying and removing contamination from 831 published endoparasite genomes. Testing this database on modern and ancient metagenomic datasets showed a significant reduction in false positive detections, providing a more reliable resource for parasite identification.
+Shotgun metagenomics is a valuable tool for detecting parasite DNA, but contamination in reference genomes can lead to false positives. To address this, we curated ParaRef, a cruated reference database by quantifying and removing contamination from 831 published endoparasite genomes. Testing this database on modern and ancient metagenomic datasets showed a significant reduction in false positive detections, providing a more reliable resource for parasite identification.
 
 ### Workflow to Create the Curated Parasite Genome Database
 
@@ -9,28 +9,31 @@ Shotgun metagenomics is a valuable tool for detecting parasite DNA, but contamin
    
 2. **Contamination Detection and Removal**:
    - Apply **[FCS-adaptor](https://github.com/ncbi/fcs/wiki/FCS-adaptor-quickstart)**, **[FCS-GX](https://github.com/ncbi/fcs/wiki/FCS-GX-quickstart)** and **[Contaminator](https://github.com/steineggerlab/conterminator)** to detect contamination within the collected genomes.
-   - Remove contaminated regions to clean the genome data using custom script.
+   - We provide a selection of decontaminated parasite reference genomes on zenodo that can be used for the workflow below.
 
-3. **Masking Low-Complexity Regions**:
-   - Use a custom script to mask low-complexity regions in both the original and decontaminated genomes.
+3. **Building KrakenUniq database**:
+We applied a Snakemake workflow (Scripts/Building) to set up KrakenUniq databases and bowtie2 reference index. Requires a folder called library with the genomes, and refs.tsv file with names and paths to the reference genomes. If the provided decontaminated parasite genomes are used, the Scripts/refs.tsv file can be used.
+   - Mask low-complexity regions in both the original and decontaminated genomes.
+   - Build Bowtie2 index for each masked orginal and decontaminated genomes.
    - Create separate **KrakenUniq** databases for the masked original genomes and the decontaminated genomes.
+   - Create library_infor
 
-4. **Preprocessing of Sequencing Data**:
+5. **Preprocessing of Sequencing Data**:
    - Preprocess sequencing data from datasets using the ancient DNA pipeline **[nf-core/eager 2.4.7](https://nf-co.re/eager/2.4.7)**.
    - Align non-host reads to the respective host organism to filter out host-derived sequences.
 
-5. **Processing of Non-Host Reads**:
-   - Use the **snakemake** workflow **[pathopipe](https://github.com/martinsikora/pathopipe)** for further processing of non-host reads.
-     - Perform metagenomic classification with **KrakenUniq**.
+6. **Processing of Non-Host Reads**:
+   - Use the **snakemake** workflow **[pathopipe](https://github.com/martinsikora/pathopipe)** for further processing of non-host reads. Requires targets.tsv file with list of all genera of the genomes within the database and targets_priority.tsv, which contains a curated list of parasitic genera.
+     - Perform metagenomic classification with **KrakenUniq** against ParaRef database.
      - Map reads at the genus level using **Bowtie2**.
      - Perform authentication steps for accurate species identification.
 
-6. **Species-Level Filtering**:
+7. **Species-Level Filtering**:
    - Include species that have over 300 unique kmers across assigned reads for further alignment and verification.
    - Extract all reads for each species from the genus-level assignment.
-   - Perform alignment using **Bowtie2** in "global very sensitive" mode, allowing for 1 mismatch between reads and the reference genome.
+   - Perform alignment using **Bowtie2** in "global very sensitive" mode, allowing for 1 mismatch in the seed between reads and the reference genome.
 
-7. **Authentication of Hits**:
+8. **Authentication of Hits**:
    - For each genus, select the species with the highest number of unique kmers.
    - Authenticate true positive hits using the following criteria:
      - Hits with more than 1,000 aligned reads.
@@ -38,7 +41,7 @@ Shotgun metagenomics is a valuable tool for detecting parasite DNA, but contamin
      - Detection of damage patterns on both ends of reads.
      - Evenness of coverage (with a score above 0.8).
    
-8. **Evaluation of Decontamination Efficiency**:
+9. **Evaluation of Decontamination Efficiency**:
    - Assess the number of positive hits, differences in read assignments, and coverage statistics between the original and decontaminated genomes.
    - Use these metrics to evaluate the efficiency of contamination-masking and confirm the reliability of the curated database for parasite detection.
 
