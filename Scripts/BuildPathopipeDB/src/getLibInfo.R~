@@ -53,4 +53,4 @@ seqInfo <- left_join(d2, refs, c("assemblyId" = "prefix")) %>%
     select(-prefix) %>%
     mutate(taxNameSpecies = gsub(" ", "_", taxNameSpecies))
 
-write_tsv(seqInfo, path = "library.seqInfo.tsv")
+write_tsv(seqInfo, path = "library.seqInfo_bt2.tsv")

@@ -68,4 +68,4 @@ seqInfo <- r %>%
     mutate(taxNameSpecies = gsub(" ", "_", taxNameSpecies)) %>%
     select(assemblyId, taxId, taxIdSpecies, taxNameSpecies, taxIdGenus, taxNameGenus, fa, mmi, seqLTot, seqLMasked)
 
-write_tsv(seqInfo, path = "library.seqInfo.tsv")
+write_tsv(seqInfo, path = "library.seqInfo_bt2.tsv")
