@@ -1,5 +1,0 @@
-HG738148.1	64088	66188	97191	FIX	plnt:plants	32	Cicer arietinum
-HG738252.1	7787	8313	10743	FIX	fung:basidiomycetes	78	Austropuccinia psidii
-HG738400.1	1090	3445	3445	TRIM	fung:ascomycetes	32	Hypoxylon sp. FL1150
-HG738773.1	1	829	829	EXCLUDE	prok:a-proteobacteria	81	Wolbachia endosymbiont of Onchocerca volvulus
-HG738811.1	1	648	648	EXCLUDE	prok:a-proteobacteria	95	Wolbachia endosymbiont of Onchocerca volvulus

@@ -1,7 +1,0 @@
-UZAK01015207.1	1	1362	1362	EXCLUDE	synt:synthetic	100	synthetic
-UZAK01020782.1	1	879	879	EXCLUDE	synt:synthetic	100	synthetic
-UZAK01054079.1	1	1623	1623	EXCLUDE	synt:synthetic	99	synthetic
-UZAK01054190.1	1	1595	1595	EXCLUDE	synt:synthetic	100	synthetic
-UZAK01056349.1	947	1075	1075	TRIM	virs:prokaryotic viruses	47	n/a
-UZAK01059202.1	594	659	659	TRIM	virs:prokaryotic viruses	87	n/a
-UZAK01059355.1	1	651	651	EXCLUDE	virs:prokaryotic viruses	17	n/a
