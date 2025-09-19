@@ -1,4 +1,4 @@
-# Parasites-project
+# ParaRef: A decontaminated reference database for parasite detection in ancient and modern metagenomic datasets 
 Shotgun metagenomics is a valuable tool for detecting parasite DNA, but contamination in reference genomes can lead to false positives. To address this, we curated a database by quantifying and removing contamination from 831 published endoparasite genomes. Testing this database on modern and ancient metagenomic datasets showed a significant reduction in false positive detections, providing a more reliable resource for parasite identification.
 
 ### Workflow to Create the Curated Parasite Genome Database
