@@ -1,0 +1,20 @@
+prefix:
+  PROJECTNAME_pathopipe
+units:
+  Input.tsv
+genera:
+  targets.tsv
+db:
+  /absolute/or/relative/path/to/PARAREF
+kmers:
+  300
+MQ:
+  20
+tmp_dir:
+  /PATH/TO/TMP
+bt2_param:
+  "-D 20 -R 3 -N 1 -L 20 -i S,1,0.50"
+targets_priority:
+  targets_priority.tsv
+metaDMG-cpp:
+  /absolute/or/relative/path/to/metaDMG-cpp
