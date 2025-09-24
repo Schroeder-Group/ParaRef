@@ -2,7 +2,7 @@
 A curated, **decontaminated** collection of parasite genomes intended for **species-level parasite detection** in ancient and modern metagenomic datasets. ParaRef removes pervasive reference contamination that otherwise inflates false positives, while preserving sensitivity.
 
 ### Quick start
-- **Download ParaRef** (masked & decontaminated genomes) from Zenodo and unpack into ParaRef_PathopipeDB/library/.
+- **Download ParaRef** (masked & decontaminated genomes) from Zenodo (https://doi.org/10.5281/zenodo.13744644) and unpack into ParaRef_PathopipeDB/library/.
 - **Build indices**: use Scripts/ParaRef_PathopipeDB (Snakemake) to create a **KrakenUniq** DB and **Bowtie2** indices from ParaRef_PathopipeDB/library/ using Scripts/ParaRef_PathopipeDB/refs.tsv.
 - **Preprocess reads** with **nf-core/eager** to trim/merge and **remove host reads**.
 - **Classify** non-host reads with **KrakenUniq** against **ParaRef**; map top candidate genera with **Bowtie2** (Pathopipe).
