@@ -63,7 +63,7 @@ We use a Snakemake-based workflow (Pathopipe) to orchestrate classification and 
 - Scripts/Pathopipe/targets_priority.tsv – curated parasitic genera
 - Scripts/Pathopipe/config.yml – configuration file
 - Scripts/Pathopipe/Input.tsv – non-host fastq files from nf-core/eager
-- Snakemake and src/ from https://github.com/martinsikora/pathopipe \
+- Snakemake and src/ from https://github.com/martinsikora/pathopipe  
   
 **Run Pathopipe**:
 
