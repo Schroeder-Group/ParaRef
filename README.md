@@ -1,56 +1,109 @@
-# ParaRef: A decontaminated reference database for parasite detection in ancient and modern metagenomic datasets 
-Shotgun metagenomics is a valuable tool for detecting parasite DNA, but contamination in reference genomes can lead to false positives. To address this, we curated ParaRef, a cruated reference database by quantifying and removing contamination from 831 published endoparasite genomes. Testing this database on modern and ancient metagenomic datasets showed a significant reduction in false positive detections, providing a more reliable resource for parasite identification.
+# ParaRef: Decontaminated Parasite Reference Database
+A curated, **decontaminated** collection of parasite genomes intended for **species-level parasite detection** in ancient and modern metagenomic datasets. ParaRef removes pervasive reference contamination that otherwise inflates false positives, while preserving sensitivity.
 
-### Workflow to Create the Curated Parasite Genome Database
+### Quick start
+- **Download ParaRef** (masked & decontaminated genomes) from Zenodo and unpack into library/.
+- **Build indices**: use Scripts/ParaRef_PathopipeDB (Snakemake) to create a **KrakenUniq** DB and **Bowtie2** indices from -ParaRef_PathopipeDB/library/ using Scripts/ParaRef_PathopipeDB/refs.tsv.
+- **Preprocess reads** with **nf-core/eager** to trim/merge and **remove host reads**.
+- **Classify** non-host reads with **KrakenUniq** against **ParaRef**; map top candidate genera with **Bowtie2** (Pathopipe).
+- **Validate** species hits (≥300 unique k-mers, ≥1,000 aligned reads, mode edit distance <2, even coverage entropy >0.8; add ancient DNA damage checks where relevant).
+### Contents
+   1. Scripts/env.yml – conda environment for building ParaRef pathopipe database and running Pathopipe
+   2. Scripts/ParaRef_PathopipeDB/BuildDB_Snakefile – Snakemake workflow to build KrakenUniq DB and Bowtie2 indices
+   3. Scripts/ParaRef_PathopipeDB/refs.tsv – example reference table (name, path) for ParaRef genomes
+   4. Scripts/Pathopipe/targets.tsv – list of all genera present in the database for Pathopipe
+   5. Scripts/Pathopipe/targets_priority.tsv – curated list of parasitic genera (prioritisation) for Pathopipe
+   6. Scripts/Pathopipe/config.yml – configuration file for Pathopipe
+   7. Scripts/Pathopipe/Input.tsv – example input file for Pathopipe
+### Requirements
+1. Conda environment build from Scripts/env.yml 
+2. Snakemake (≥7.x)
+3. KrakenUniq
+4. Bowtie2 
+5. nf-core/eager
+### 1)Compile / obtain reference genomes
+#### Option A (recommended): Use ParaRef from Zenodo
+1. Copy Scripts/ParaRef_PathopipeDB to your working directory 
+2. Download and extract genomes into ParaRef_PathopipeDB/library/
+#### Option B: Build user-defined decontaminated database
+If rebuilding, **hard-mask** contaminant intervals, and **exclude contigs <1 kb** wherever possible (these disproportionately carry contamination).
+##### Create a refs.tsv with two tab-separated columns:
+```
+assemblyId	fasta
+name    /absolute/or/relative/path/to/ParaRef_PathopipeDB/library/<name>.fasta
+```
+**Example:**
+```
+assemblyId	fasta
+FungiDB-61-Acandida2VRR	library/FungiDB-61-Acandida2VRR_Genome.decontaminated.fna.gz
+```
+### 2) Build databases (KrakenUniq + Bowtie2)
+Run the Snakemake workflow from the ParaRef_PathopipeDB directory to generate both the **KrakenUniq** database and **Bowtie2** indices from library/ using your ParaRef_PathopipeDB/refs.tsv.
+```
+snakemake -s BuildDB_Snakefile
+```
+Outputs include:
+   - ParaRef_PathopipeDB/database.* – KrakenUniq DB built from ParaRef
+   - ParaRef_PathopipeDB/bt2/ – Bowtie2 indices per genome
+   - ParaRef_PathopipeDB/library.seqInfo_bt2.tsv – per-reference index metadata
+### 3) Preprocess sequencing reads (nf-core/eager)
+Use nf-core/eager to trim/merge reads and **remove host sequences** by mapping against the relevant host reference (human, dog, pig, etc.). Keep **non-host** FASTQ for downstream taxonomic classification.
+**Minimal example**:
+```
+nextflow run nf-core/eager \
+  --input samplesheet.tsv \
+  --fasta /path/to/HOST_REFERENCE.fa \
+  --run_bam_filtering --bam_unmapped_type fastq
+```
+### 4) Classify and map non-host reads (Pathopipe)
+We use a Snakemake-based workflow (Pathopipe) to orchestrate classification and validation.
+**Inputs**
+- ParaRef_PathopipeDB built from ParaRef
+- Scripts/Pathopipe/targets.tsv – all genera represented in the DB
+- Scripts/Pathopipe//targets_priority.tsv – curated parasitic genera
+- Scripts/Pathopipe//config.yml – configuration file
+- Scripts/Pathopipe//Input.tsv – non-host fastq files from nf-core/eager
+- Snakemake and src/ from https://github.com/martinsikora/pathopipe\
+  
+**Run Pathopipe**:
 
-1. **Compilation of Reference Genomes**:
-   - Gather parasite genome sequences from public databases such as **NCBI** and **VEuPathDB** Release 61.
-   
-2. **Contamination Detection and Removal**:
-   - Apply **[FCS-adaptor](https://github.com/ncbi/fcs/wiki/FCS-adaptor-quickstart)**, **[FCS-GX](https://github.com/ncbi/fcs/wiki/FCS-GX-quickstart)** and **[Contaminator](https://github.com/steineggerlab/conterminator)** to detect contamination within the collected genomes.
-   - We provide a selection of decontaminated parasite reference genomes on zenodo that can be used for the workflow below.
+```
+snakemake -s Snakefile --configfile config.yml
+```
+**Steps**:
+- **KrakenUniq classification** against **ParaRef**.
+- **Genus-level mapping**: for each candidate genus, map reads with **Bowtie2** to **all** species references in that genus.
+- **Species-level filtering** (see thresholds below).
+- **Alignment-based validation** and summary metrics.
+### 5) Species-level filtering (pre-validation)
+Carry forward species that meet a minimal evidence threshold:
+   **≥300 unique k-mers** (KrakenUniq) across assigned reads
+For each retained species:
+- **Extract reads** from the genus-level set
+- **Bowtie2** alignment using **“–very-sensitive”** global settings
+(allow up to **1 seed mismatch** as in our study)
+### 6) Authentication & validation of hits
+For each genus, **keep the species with the highest unique k-mer count**, then validate using:
+- **Read count: ≥1,000 aligned reads**
+- **Alignment quality**: **low mode edit distance** (e.g., <2)
+- **Coverage evenness**: **coverage entropy** (e.g., covPosRelEntropy1000) **> 0.8**
+- **Ancient DNA** (when applicable): **deamination** patterns (C→T/G→A at read ends) and **short fragment lengths**
+These checks help separate **true positives** from residual contamination or misassignment.
+### Output overview
+- **KrakenUniq reports** (per sample)
+- **Genus- and species-level alignments** (BAM)
+- **Summary tables** (unique k-mers, aligned read counts, edit distance, coverage breadth, **coverage entropy**)
+- **QC plots** (optional; edit distance, damage patterns for aDNA)
+### Citation
+If you use **ParaRef** or the accompanying workflows, please cite:
+- Niemann et al.  Genome Biol. 2025 (ParaRef)
+- Breitwieser FP, Baker DN, Salzberg SL. Genome Biol. 2018 (KrakenUniq)
+- Fellows Yates JA et al. PeerJ 2021 (nf-core/eager)
+- Steinegger M, Salzberg SL. Genome Biol. 2020 (Conterminator)
+- Astashyn A et al. Genome Biol. 2024 (FCS-GX)
+- Sikora M et al. Nature. 2025 (Pathopipe)
 
-3. **Building KrakenUniq database**:
-We applied a Snakemake workflow (Scripts/BuildPathopipeDB) to set up KrakenUniq databases and bowtie2 reference index. Requires a folder called library with the genomes, and refs.tsv file with names and paths to the reference genomes. If the provided decontaminated parasite genomes are used, the Scripts/refs.tsv file can be used.
-   - Mask low-complexity regions in both the original and decontaminated genomes.
-   - Build Bowtie2 index for each masked orginal and decontaminated genomes.
-   - Create separate **KrakenUniq** databases for the masked original genomes and the decontaminated genomes.
-   - Create library_SeqInfo_bt2.tsv
 
-5. **Preprocessing of Sequencing Data**:
-   - Preprocess sequencing data from datasets using the ancient DNA pipeline **[nf-core/eager 2.4.7](https://nf-co.re/eager/2.4.7)**.
-   - Align non-host reads to the respective host organism to filter out host-derived sequences.
 
-6. **Processing of Non-Host Reads**:
-   - Use the **snakemake** workflow **[pathopipe](https://github.com/martinsikora/pathopipe)** for further processing of non-host reads. Requires Resources/targets.tsv file with list of all genera of the genomes within the database and Resources/targets_priority.tsv, which contains a curated list of parasitic genera.
-     - Perform metagenomic classification with **KrakenUniq** against ParaRef database.
-     - Map reads at the genus level using **Bowtie2**.
-     - Perform authentication steps for accurate species identification.
 
-7. **Species-Level Filtering**:
-   - Include species that have over 300 unique kmers across assigned reads for further alignment and verification.
-   - Extract all reads for each species from the genus-level assignment.
-   - Perform alignment using **Bowtie2** in "global very sensitive" mode, allowing for 1 mismatch in the seed between reads and the reference genome.
-
-8. **Authentication of Hits**:
-   - For each genus, select the species with the highest number of unique kmers.
-   - Authenticate true positive hits using the following criteria:
-     - Hits with more than 1,000 aligned reads.
-     - Average edit-distance between the read and reference genome.
-     - Detection of damage patterns on both ends of reads.
-     - Evenness of coverage (with a score above 0.8).
-   
-9. **Evaluation of Decontamination Efficiency**:
-   - Assess the number of positive hits, differences in read assignments, and coverage statistics between the original and decontaminated genomes.
-   - Use these metrics to evaluate the efficiency of contamination-masking and confirm the reliability of the curated database for parasite detection.
-
-This workflow ensures a rigorous process to decontaminate, evaluate, and authenticate parasite genomes, providing a robust database for accurate parasite detection in metagenomic studies.
-
-#### Reference
-1. O’Leary NA, Cox E, Holmes JB, Anderson WR, Falk R, Hem V, et al. Exploring and retrieving sequence and metadata for species across the tree of life with NCBI Datasets. Sci Data. 2024;11:732.
-2. Amos B, Aurrecoechea C, Barba M, Barreto A, Basenko EY, Bażant W, et al. VEuPathDB: the eukaryotic pathogen, vector and host bioinformatics resource center. Nucleic Acids Res. 2022;50:D898–911.
-3. Astashyn A, Tvedte ES, Sweeney D, Sapojnikov V, Bouk N, Joukov V, et al. Rapid and sensitive detection of genome contamination at scale with FCS-GX. bioRxiv. 2023. 
-4. Steinegger M, Salzberg SL. Terminating contamination: large-scale search identifies more than 2,000,000 contaminated entries in GenBank. Genome Biol. 2020;21:115.
-5. Fellows Yates JA, Lamnidis TC, Borry M, Andrades Valtueña A, Fagernäs Z, Clayton S, et al. Reproducible, portable, and efficient ancient genome reconstruction with nf-core/eager. PeerJ. 2021;9:e10947.
-6. Sikora M, Canteri E, Fernandez-Guerra A, Oskolkov N, Ågren R, Hansson L, et al. The spatiotemporal distribution of human pathogens in ancient Eurasia. Nature. 2025;643:1011–9.
 
