@@ -5,7 +5,7 @@ units:
 genera:
   targets.tsv
 db:
-  /absolute/or/relative/path/to/PARAREF
+  /absolute/or/relative/path/to/ParaRef_PathopipeDB
 kmers:
   300
 MQ:

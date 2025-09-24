@@ -119,7 +119,7 @@ ggsave(filename = "conta_data_withoutlegend.pdf",conta_data,height = 4, width = 
 
 ```{r}
 contig_len_contamination <- data.frame()
-all_acc <- read.table("genome_info.txt", header = FALSE)
+all_acc <- read.table("Input/genome_info.txt", header = FALSE)
 
 for (i in all_acc$V1) {
   bed_file <- paste0("bed/", i, ".bed")
@@ -153,7 +153,7 @@ for (i in all_acc$V1) {
   }
 }
 
-sum(contig_len_contamination$Contamination)
+# sum(contig_len_contamination$Contamination)
 
 ```
 ```{r}
