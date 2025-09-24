@@ -8,20 +8,20 @@ A curated, **decontaminated** collection of parasite genomes intended for **spec
 - **Classify** non-host reads with **KrakenUniq** against **ParaRef**; map top candidate genera with **Bowtie2** (Pathopipe).
 - **Validate** species hits (≥300 unique k-mers, ≥1,000 aligned reads, mode edit distance <2, even coverage entropy >0.8; add ancient DNA damage checks where relevant).
 ### Contents
-   1. Scripts/env.yml – conda environment for building ParaRef pathopipe database and running Pathopipe
-   2. Scripts/ParaRef_PathopipeDB/BuildDB_Snakefile – Snakemake workflow to build KrakenUniq DB and Bowtie2 indices
-   3. Scripts/ParaRef_PathopipeDB/refs.tsv – example reference table (name, path) for ParaRef genomes
-   4. Scripts/Pathopipe/targets.tsv – list of all genera present in the database for Pathopipe
-   5. Scripts/Pathopipe/targets_priority.tsv – curated list of parasitic genera (prioritisation) for Pathopipe
-   6. Scripts/Pathopipe/config.yml – configuration file for Pathopipe
-   7. Scripts/Pathopipe/Input.tsv – example input file for Pathopipe
+- Scripts/env.yml – conda environment for building ParaRef pathopipe database and running Pathopipe
+- Scripts/ParaRef_PathopipeDB/BuildDB_Snakefile – Snakemake workflow to build KrakenUniq DB and Bowtie2 indices
+- Scripts/ParaRef_PathopipeDB/refs.tsv – example reference table (name, path) for ParaRef genomes
+- Scripts/Pathopipe/targets.tsv – list of all genera present in the database for Pathopipe
+- Scripts/Pathopipe/targets_priority.tsv – curated list of parasitic genera (prioritisation) for Pathopipe
+- Scripts/Pathopipe/config.yml – configuration file for Pathopipe
+- Scripts/Pathopipe/Input.tsv – example input file for Pathopipe
 ### Requirements
-1. Conda environment build from Scripts/env.yml 
-2. Snakemake (≥7.x)
-3. KrakenUniq
-4. Bowtie2 
-5. nf-core/eager
-### 1)Compile / obtain reference genomes
+- Conda environment build from Scripts/env.yml 
+- Snakemake (≥7.x)
+- KrakenUniq
+- Bowtie2 
+- nf-core/eager
+### 1) Compile / obtain reference genomes
 #### Option A (recommended): Use ParaRef from Zenodo
 1. Copy Scripts/ParaRef_PathopipeDB to your working directory 
 2. Download and extract genomes into ParaRef_PathopipeDB/library/
@@ -60,10 +60,10 @@ We use a Snakemake-based workflow (Pathopipe) to orchestrate classification and 
 **Inputs**
 - ParaRef_PathopipeDB built from ParaRef
 - Scripts/Pathopipe/targets.tsv – all genera represented in the DB
-- Scripts/Pathopipe//targets_priority.tsv – curated parasitic genera
-- Scripts/Pathopipe//config.yml – configuration file
-- Scripts/Pathopipe//Input.tsv – non-host fastq files from nf-core/eager
-- Snakemake and src/ from https://github.com/martinsikora/pathopipe\
+- Scripts/Pathopipe/targets_priority.tsv – curated parasitic genera
+- Scripts/Pathopipe/config.yml – configuration file
+- Scripts/Pathopipe/Input.tsv – non-host fastq files from nf-core/eager
+- Snakemake and src/ from https://github.com/martinsikora/pathopipe \
   
 **Run Pathopipe**:
 
