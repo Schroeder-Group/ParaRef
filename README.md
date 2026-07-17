@@ -2,7 +2,7 @@
 A curated, **decontaminated** collection of parasite genomes intended for **species-level parasite detection** in ancient and modern metagenomic datasets. ParaRef removes pervasive reference contamination that otherwise inflates false positives, while preserving sensitivity.
 
 ### Quick start
-- **Download ParaRef** (masked & decontaminated genomes) from [Zenodo](https://doi.org/10.5281/zenodo.13744644) and unpack into ParaRef_PathopipeDB/library/.
+- **Download ParaRef** (masked & decontaminated genomes) from [Zenodo](https://doi.org/10.5281/zenodo.13744644) and unpack into ParaRef_PathopipeDB/fasta/.
 - **Build indices**: use Scripts/ParaRef_PathopipeDB (Snakemake) to create a **KrakenUniq** DB and **Bowtie2** indices from ParaRef_PathopipeDB/library/ using Scripts/ParaRef_PathopipeDB/refs.tsv.
 - **Preprocess reads** with **nf-core/eager** to trim/merge and **remove host reads**.
 - **Classify** non-host reads with **KrakenUniq** against **ParaRef**; map top candidate genera with **Bowtie2** (Pathopipe).
@@ -24,21 +24,22 @@ A curated, **decontaminated** collection of parasite genomes intended for **spec
 ### 1) Compile / obtain reference genomes
 #### Option A (recommended): Use ParaRef from Zenodo
 1. Copy Scripts/ParaRef_PathopipeDB to your working directory 
-2. Download and extract genomes into ParaRef_PathopipeDB/library/
+2. Download and extract genomes into ParaRef_PathopipeDB/fasta/
+3. Download and extract taxonomic map files into ParaRef_PathopipeDB/library/
 #### Option B: Build user-defined decontaminated database
 If rebuilding, **hard-mask** contaminant intervals, and **exclude contigs <1 kb** wherever possible (these disproportionately carry contamination).
 ##### Create a refs.tsv with two tab-separated columns:
 ```
 assemblyId	fasta
-name    /absolute/or/relative/path/to/ParaRef_PathopipeDB/library/<name>.fasta
+name    /absolute/or/relative/path/to/ParaRef_PathopipeDB/fasta/<name>.fasta
 ```
 **Example:**
 ```
 assemblyId	fasta
-FungiDB-61-Acandida2VRR	library/FungiDB-61-Acandida2VRR_Genome.decontaminated.fna.gz
+FungiDB-61-Acandida2VRR	fasta/FungiDB-61-Acandida2VRR_Genome.decontaminated.fna.gz
 ```
 ### 2) Build databases (KrakenUniq + Bowtie2)
-Run the Snakemake workflow from the ParaRef_PathopipeDB directory to generate both the **KrakenUniq** database and **Bowtie2** indices from library/ using your ParaRef_PathopipeDB/refs.tsv.
+Run the Snakemake workflow from the ParaRef_PathopipeDB directory to generate both the **KrakenUniq** database and **Bowtie2** indices from fasta/ using your ParaRef_PathopipeDB/refs.tsv.
 ```
 snakemake -s BuildDB_Snakefile
 ```
