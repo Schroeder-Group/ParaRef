@@ -2,7 +2,7 @@
 A curated, **decontaminated** collection of parasite genomes intended for **species-level parasite detection** in ancient and modern metagenomic datasets. ParaRef removes pervasive reference contamination that otherwise inflates false positives, while preserving sensitivity.
 
 ### Quick start
-- **Download ParaRef** (masked & decontaminated genomes) from [Zenodo](https://doi.org/10.5281/zenodo.13744644) and unpack into ParaRef_PathopipeDB/fasta/.
+- **Download ParaRef** (masked & decontaminated genomes and taxonomic mapping file) from [Zenodo](https://doi.org/10.5281/zenodo.13744644) and unpack into ParaRef_PathopipeDB/fasta/.
 - **Build indices**: use Scripts/ParaRef_PathopipeDB (Snakemake) to create a **KrakenUniq** DB and **Bowtie2** indices from ParaRef_PathopipeDB/library/ using Scripts/ParaRef_PathopipeDB/refs.tsv.
 - **Preprocess reads** with **nf-core/eager** to trim/merge and **remove host reads**.
 - **Classify** non-host reads with **KrakenUniq** against **ParaRef**; map top candidate genera with **Bowtie2** (Pathopipe).
@@ -25,7 +25,7 @@ A curated, **decontaminated** collection of parasite genomes intended for **spec
 #### Option A (recommended): Use ParaRef from Zenodo
 1. Copy Scripts/ParaRef_PathopipeDB to your working directory 
 2. Download and extract genomes into ParaRef_PathopipeDB/fasta/
-3. Download and extract taxonomic map files into ParaRef_PathopipeDB/library/
+3. Download and extract taxonomic mapping files into ParaRef_PathopipeDB/library/ (optional: add taxonomic id within the header of fasta file)
 #### Option B: Build user-defined decontaminated database
 If rebuilding, **hard-mask** contaminant intervals, and **exclude contigs <1 kb** wherever possible (these disproportionately carry contamination).
 ##### Create a refs.tsv with two tab-separated columns:
