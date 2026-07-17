@@ -39,6 +39,7 @@ assemblyId	fasta
 FungiDB-61-Acandida2VRR	fasta/FungiDB-61-Acandida2VRR_Genome.decontaminated.fna.gz
 ```
 ### 2) Build databases (KrakenUniq + Bowtie2)
+**Before running the pipeline, update the path to jellyfish in BuildDB_Snakefile.** 
 Run the Snakemake workflow from the ParaRef_PathopipeDB directory to generate both the **KrakenUniq** database and **Bowtie2** indices from fasta/ using your ParaRef_PathopipeDB/refs.tsv.
 ```
 snakemake -s BuildDB_Snakefile
