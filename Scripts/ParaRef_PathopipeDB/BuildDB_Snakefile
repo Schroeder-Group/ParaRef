@@ -31,7 +31,8 @@ def get_mask_bed(wildcards):
 ## file sets
 
 taxonomy_all = ["taxonomy/names.dmp", "taxonomy/nodes.dmp"]
-bt2_all = [f"bt2/{ref}.{suffix}.bt2" for ref in REFS for suffix in ["1","2","3","4","rev.1","rev.2"]]
+BT2_SUFFIXES = ["1", "2", "3", "4", "rev.1", "rev.2"]
+bt2_all = expand("bt2/{ref}.{suffix}.bt2", ref=REFS, suffix=BT2_SUFFIXES)
 tables_all = ["taxLists/genus.taxIds.tsv.gz", "taxLists/species.taxIds.tsv.gz", "library.seqInfo.tsv"]
 
 
@@ -40,7 +41,7 @@ tables_all = ["taxLists/genus.taxIds.tsv.gz", "taxLists/species.taxIds.tsv.gz", 
 
 rule all:
     input:
-        taxonomy_all + mmi_all + tables_all
+        taxonomy_all + bt2_all + tables_all
 
         
 ## --------------------------------------------------------------------------------
@@ -92,7 +93,7 @@ rule index_mmi:
     input:
         "library/{ref}.masked_sdust.fna"
     output:
-        lambda wildcards: [f"bt2/{wildcards.ref}.{i}.bt2" for i in ["1","2","3","4","rev.1","rev.2"]]
+        "bt2/{ref}.1.bt2","bt2/{ref}.2.bt2","bt2/{ref}.3.bt2","bt2/{ref}.4.bt2","bt2/{ref}.rev.1.bt2","bt2/{ref}.rev.2.bt2"
     log:
         "logs/{ref}.index_mmi.log"
     threads: 12
@@ -128,7 +129,7 @@ rule build_db:
         24
     shell:
         """
-        (krakenuniq-build --db `pwd` --taxids-for-genomes --taxids-for-sequences -kmer-len {KMER_LEN} --threads {threads} --jellyfish-bin /projects/mjolnir1/apps/conda/krakenuniq-1.0.3/bin/jellyfish) 2> {log}
+        (krakenuniq-build --db `pwd` --taxids-for-genomes --taxids-for-sequences -kmer-len {KMER_LEN} --threads {threads} --jellyfish-bin /opt/shared_software/shared_envmodules/conda/krakenuniq-1.0.4/bin/jellyfish) 2> {log}
         """
         
 rule get_taxinfo:
