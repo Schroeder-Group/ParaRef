@@ -13,6 +13,8 @@ REFS = unit_df.index.unique()
 
 KMER_LEN = 29 ## kmer-length for DB
 
+JELLYFISH_PATH = "/opt/shared_software/shared_envmodules/conda/krakenuniq-1.0.4/bin/jellyfish" ### Update the path
+
 
 ## --------------------------------------------------------------------------------
 ## functions
@@ -129,7 +131,7 @@ rule build_db:
         24
     shell:
         """
-        (krakenuniq-build --db `pwd` --taxids-for-genomes --taxids-for-sequences -kmer-len {KMER_LEN} --threads {threads} --jellyfish-bin /opt/shared_software/shared_envmodules/conda/krakenuniq-1.0.4/bin/jellyfish) 2> {log}
+        (krakenuniq-build --db `pwd` --taxids-for-genomes --taxids-for-sequences -kmer-len {KMER_LEN} --threads {threads} --jellyfish-bin {JELLYFISH_PATH}) 2> {log}
         """
         
 rule get_taxinfo:
